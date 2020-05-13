@@ -97,6 +97,9 @@ plugin://plugin.video.youtube/play/?video_id=Ctm-7JcJ5HM
 plugin://plugin.video.youtube/play/?video_id=g-0o--6bbpM
 
 
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Youtube.png?raw=true",★★★★★[COLOR grey]Youtube Live Cam[/COLOR]★★★★★
+plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
+
 # update link https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct
 plugin://plugin.video.youtube/play/?video_id=fnfwAKjhLeY
