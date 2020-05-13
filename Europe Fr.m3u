@@ -568,11 +568,11 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://static.iptv-epg.com/fr/TV5MondeAsia.fr.png" group-title="France",TV5Monde Maghreb-Orient
+#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/MDhXk7c.png" group-title="France",TV5Monde Maghreb-Orient
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://static.iptv-epg.com/fr/TV5MondeAsia.fr.png" group-title="France",TV5Monde Maghreb-Orient
+#EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.imgur.com/MDhXk7c.png" group-title="France",TV5Monde Maghreb-Orient
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
 
 # update link : #
