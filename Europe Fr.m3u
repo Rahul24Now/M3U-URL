@@ -86,7 +86,7 @@ https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.ibb.co/Dk0rx4M/grand-littoral.png" group-title="France",BFM Littoral
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w1683899868_b1464000.m3u8
 
-# update link : #
+# update link : # https://biptv.tv/live/ #
 #EXTINF:-1 tvg-id="France" tvg-name="BipTV" tvg-logo="https://i.imgur.com/YFEqBS7.png"group-title="France",BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 
@@ -94,7 +94,7 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/MN73rOu.png" group-title="Français",BOING Français
 http://51.15.3.161:8080/boing/index.m3u8?token=test
 
-# update link : #
+# update link : # https://www.dailymotion.com/video/x5gv5rr #
 #EXTINF:-1 tvg-id="France" tvg-name="C8" tvg-logo="https://i.imgur.com/C4ApWGr.jpg"group-title="France",C8 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv5rr
 
@@ -102,7 +102,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv5rr
 #EXTINF:-1 tvg-id="France" tvg-name="Canal J FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_J_Logo.png" group-title="France",Canal J (GEO) N.D
 http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
 
-# update link : #
+# update link : # https://www.dailymotion.com/video/x5gv6be #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal Plus (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv6be
 
@@ -114,7 +114,7 @@ plugin://plugin.video.youtube/play/?video_id=udCpddv88rw
 #EXTINF:-1 tvg-id="France"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Music",Clubbing TV
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654&checkedby:www.iptvcat.com
 
-# update link : #
+# update link : # https://www.dailymotion.com/video/x5gv5v0
 #EXTINF:-1 tvg-id="France" tvg-name="Cstar" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="France",CStar (DM) (GEO)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv5v0
 
@@ -319,7 +319,7 @@ https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 
 # update link : https://www.idf1.fr/live #
 #EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (update daily)
-https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1588983845~acl=%2fi%2fdclive_1%40103544*~data=hdntl~hmac=327f7ff4aadceb8a3bcc12d56c83b77cdd7429ca29569e44a44a5ebe8dea09be
+0.0.0.0
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="ILTV" tvg-logo="https://i.ibb.co/Sf6FDkV/ILTV.png" group-title="France",ILTV
@@ -500,7 +500,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5so98l
 http://51.15.3.161:8080/Teva/index.m3u8?token=test
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="TL7" tvg-logo="https://www.tl7.fr/images/interface/bannerLogo.png" group-title="France",TL7 (DM)
+#EXTINF:-1 tvg-id="France" tvg-name="TL7" tvg-logo="https://www.tl7.fr/images/interface/bannerLogo.png" group-title="France",TL7  Loire (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5ct4nu
 
 # update link : #
