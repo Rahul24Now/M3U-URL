@@ -597,7 +597,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x3wqv8b
 
 # update link : https://www.youtube.com/channel/UCwDb2_ymJ_tBLE1t3rrUurg #
 #EXTINF:-1 tvg-id="France" tvg-name="TV8 Moselle-Est" tvg-logo="https://www.tv8.fr/images/logo.png"group-title="France",TV8 Moselle-Est (YT)
-plugin://plugin.video.youtube/play/?video_id=zujQAm4i2As
+plugin://plugin.video.youtube/play/?video_id=vyDFY60eyKc
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TVR" tvg-logo="https://i.ibb.co/tMTstXT/TVR-Rennes35-Bretagne.png" group-title="France",TVR Rennes35 Bretagne
