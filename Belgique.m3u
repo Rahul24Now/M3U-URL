@@ -105,7 +105,7 @@ https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="BELGIUM",Qmusic
-https://dcs-live.apis.anvato.net/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-4&anvsid=i177602681-n07f44c7a-73a4-4e98-9a27-3d3b4af073ad&ts=1590014477&anvtrid=5da90e838423f7fa8db447776a66617d
+https://dcs-live.apis.anvato.net/server/play/GBy52sn59BJUpw223/manifest.m3u8?encp=8Xy9h6fICNvpJKgBNXrH8A:S1fsdp91chyy4wAfl3houH3fkhekjYJtk6XgsiHaF15ROy8-SCH2vtpwpUwUv8YHoCsep8l7rLVzXzQF4lPwcw7S398mHGB4ohbQqa27c35ClIDg-YUswjDpgSL0h-Ls30G-k2FsUgpfe-nrglRog7pOtq8m47eX4jEk8G9K0CL5iQxOIucZUpRcpP5SzvQGmFA0dR0wyRSW0SAWwX0rLeKIGL9JOL1Thnwxt5322GqAchMm6JG3ZjwkLKm2eAF6sXRfJqRaxod0R6bdXjsjshCfsB8rR19aZv_JlHQ7sqMsB5EV8T2pjL06l-S_DWDB6tXGnxjw88PucxhiYEvPAGpCOBTJgRUejV5qCm57z7ANdHTNM1fpgYw3inCAUcpeW_7o5d1Qwpf5ovxVaDcKlvYsGQf4m1GmAmz-3y20dBnx-KF-saeVQMaiMJTcqyPRmuw-_kp5aWwr2QQE9-hPVHT_l1vk6qQebM5Xajc1PatPPCOZy54j_xIvTouRGTCVx3yBJu2sc9cv4bdjuS4TXNNNMT_O1Azchj2O5LcLtQs8tttre5ctlFo4lt4y3W4j0wUb5Cbjdo7oiQZSR2gDd_jKcjbQZYvAeaLXehQ-OxueAjKQEYEZn78qJUGMDqbf8UoNrHQJ5VGn0Mul37k5-w&anvtrid=5da90e838423f7fa8db447776a66617d&anvauth=tb=0~te=1590014566~sgn=303aa9379372590bd1e64919477e2c68cbf5c288343caf3b663d27e9d0fd90b2&t=1590014476
 
 #EXTINF:-1 tvg-logo="https://radio1.be/s/i/UjyddXBwf_I51Bsj.png" group-title="BELGIUM",Radio1
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
