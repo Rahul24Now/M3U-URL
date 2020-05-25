@@ -7,4 +7,4 @@ iptv-free addon https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/
 
 might work whit other addon that use m3u list
 
-you will need youtube and dailymotion plugins in kodi to work for some link
+you will need youtube , dailymotion plugins and https://github.com/Sphinxroot/Kodi-Stuff-that-i-use/raw/master/script.module.tt-1.4.b.zip  in kodi to work for some link
