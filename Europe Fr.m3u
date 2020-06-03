@@ -40,7 +40,7 @@ http://str81.creacast.com/iltv/high/chunklist_w1782720917.m3u8
 
 # update link : https://mon.astrocenter.fr/tv/en-direct #
 #EXTINF:-1 tvg-id="France" tvg-name="AstrocenterTV" tvg-logo="https://mon.astrocenter.fr/static/img/third_parties/www.astrocenter.fr/astrocenter-logo.png" group-title="France",AstrocenterTV (YT)
-plugin://plugin.video.youtube/play/?video_id=A77zX5pG4GA
+plugin://plugin.video.youtube/play/?video_id=zycsZKltsxE
 
 # update link: https://www.youtube.com/channel/UCd9hPbPHI0XKWhxYLtmyvFA #
 #EXTINF:-1 tvg-id="France" tvg-name="ASTV" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="France",ASTV Grande-Synthe
