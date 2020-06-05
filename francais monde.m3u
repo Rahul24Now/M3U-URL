@@ -22,6 +22,9 @@ plugin://plugin.video.youtube/play/?video_id=XBuMcIbLLps
 #EXTINF:-1 tvg-id="Fr" tvg-name="africasports" tvg-logo="https://africasports.tv/assets/images/favicon192.png" group-title="France",AfricaSports
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="FR" tvg-logo="https://www.westafricatelevision.tv/wp-content/uploads/2019/09/images.png"group-title="FR",AFRICA TV
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6vbjdp
+
 #EXTINF:-1 tvg-country="DZ" tvg-logo="https://i.imgur.com/GxSZcYi.png" group-title="Undefined",Canal Algerie
 http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8
 
