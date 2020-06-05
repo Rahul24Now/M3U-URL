@@ -13,7 +13,6 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5dk3kj
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/BmqJmql.png" tvg-country="CM" tvg-url="" group-title="",Afrique Media TV
 https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://fr.africanews.com/apple-touch-icon-180x180.png" group-title="",Africanews (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6i37o5
 
@@ -27,9 +26,7 @@ https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasports
 http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/T6bEOQt.png" tvg-country="DZ" tvg-url="" group-title="",Chaine Nord-Africaine
-
 http://str81.creacast.com/cna/live.sdp/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://www.christlive.tv/img/logochristlive.png" group-title="",christlive (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7liq2i
@@ -42,7 +39,6 @@ plugin://plugin.video.youtube/play/?video_id=9sehzZ_Wfkg
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/qJ4ykc8.png" tvg-country="CM" tvg-url="" group-title="",GC TV
 https://5c4984c4d9146.streamlock.net:1937/live/ngrp:GCTV_all/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/fut4cx5.png" group-title="Bénin",GOLFE TV AFRICA (YT)
 plugin://plugin.video.youtube/play/?video_id=CpxyL1C31MU
@@ -59,14 +55,11 @@ plugin://plugin.video.youtube/play/?video_id=4McGk-3FwGc
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tzurFum.png" tvg-country="FR" tvg-url="" group-title="",Holygod TV Europe & Middle East
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RDokpwD.png" tvg-country="BF" tvg-url="" group-title="",Impac TV
 https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist_w973675047.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/fPJqdGy.png" tvg-country="HT" tvg-url="" group-title="",Impact TV
 https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/QyK7qc0.png" group-title="l'ile de la REUNION ",Kanal Austral TV (YT)
 plugin://plugin.video.youtube/play/?video_id=xMfEGf9C38o
@@ -74,10 +67,8 @@ plugin://plugin.video.youtube/play/?video_id=xMfEGf9C38o
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" tvg-country="SN" tvg-url="" group-title="Music",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="KTO FR" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" tvg-country="FR" tvg- group-title="",KTO
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/xqvPSPC.png" group-title="",Martinique La 1ere (YT)
 plugin://plugin.video.youtube/play/?video_id=5AGnm-m7dZE
@@ -85,26 +76,20 @@ plugin://plugin.video.youtube/play/?video_id=5AGnm-m7dZE
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://www.medi1tv.ma/ar/img/footer/logo_new.png" tvg-country="MA" tvg-url="" group-title="",Medi 1 TV
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/jV1IyRU.jpg" tvg-country="SN" tvg-url="" group-title="",Mouride TV
 http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/BuKv5Vj.png" tvg-country="CM" tvg-url="" group-title="",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" tvg-country="HT" tvg-url="" group-title="Music",Nago TV
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" tvg-country="HT" tvg-url="" group-title="Music",Nago TV
 http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" tvg-country="HT" tvg-url="" group-title="Music",Nago TV
 https://lakay.haitilive.net/hb/nagotv/web/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/qiGrf6k.png" tvg-country="CI" tvg-url="" group-title="French",NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -112,27 +97,20 @@ https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/8AWBgau.jpg" tvg-country="HT" tvg-url="" group-title="",Opa TV
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/X9U6AqK.png" tvg-country="FR" tvg-url="" group-title="",Persiana 1
 http://51.15.229.209/hls/stream.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" tvg-country="CM" tvg-url="" group-title="Music",Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/6EEHWNg.jpg" tvg-country="HT" tvg-url="" group-title="",Radio Tele Ginen | Chaine 18
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/HFyrVaS.png" tvg-country="HT" tvg-url="" group-title="",Radio TeleBoston (USA)
-
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.ibb.co/7kZw1Tf/RTI2.png" tvg-country="CI" tvg-url="" group-title="",RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/7IDfwAC.png" group-title="",Spice FM Nairobi (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7eo9oe
@@ -140,25 +118,20 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7eo9oe
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1206940189203062784/ldPsnLQU_400x400.jpg" group-title="Français",Stad'afric
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/Y72vR9R.png" group-title="",Telé 6 Univers Haïti (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7mcmuu
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yYoEk8m.png" tvg-country="HT" tvg-url="" group-title="",Tele Eclair | Chaine 4
 http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_eclair/as/live/hln_eclair_4.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/5nYeBNN.jpg" tvg-country="HT" tvg-url="" group-title="",Tele Haiti
 http://66.175.238.147:1935/live/myStream/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/vZmlq9N.jpg" tvg-country="HT" tvg-url="" group-title="",Tele Louange
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tgvN6s3.jpg" tvg-country="HT" tvg-url="" group-title="",Tele Soleil
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/dmRO6Ek.jpg" tvg-country="HT" tvg-url="" group-title="",Tele Univers | Chaine 6
 https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
@@ -172,17 +145,14 @@ http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Trace Ayiti" tvg-language="English;French" tvg-logo="https://trace.company/wp-content/uploads/2018/04/TRACE-AYITI-LOGO-png.png" tvg-country="HT" tvg-url="" group-title="Music",Trace Ayiti
 https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
 
-
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/KviG5NU.png" group-title="Music",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Music",Trace Kitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Trace Latina" tvg-language="French;Spanish" tvg-logo="https://trace.company/wp-content/uploads/2018/09/TRACE-LATINA-LOGO-WEB-1.png" group-title="Music",Trace Latina
 https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-
 
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/UOG2hKQ.png" group-title="Music",TRACE MZIKI
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/5/prog_index.m3u8
@@ -193,7 +163,6 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija_r1.png" group-title="Music",Trace Naija
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 
-
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://d537y3nbkeq75.cloudfront.net/traceplay/channel_logos/563.png" group-title="Music;Undefined",Trace Toca
 https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 
@@ -203,7 +172,6 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qMYXsMH.png" group-title="Français",Trace Urban Fr
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
 
-
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/qMYXsMH.png" group-title="Music",Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 
@@ -211,7 +179,6 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FekWmTu.jpg" tvg-country="CM" tvg-url="" group-title="",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/HKsOeuP.png" group-title="",Vybez Radio (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7eob6j
