@@ -142,6 +142,12 @@ https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/fQUzBsz.png" tvg-country="GP" tvg-url="" group-title="Music",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
 
+#EXTINF:-1 tvg-id="TNTV" tvg-name="" tvg-language="French" tvg-country="PF" tvg-logo="https://www.tntv.pf/tntv/wp-content/uploads/2018/11/Logo-TNTV-NewSite-Normal.png" group-title="",tntv.pf
+https://bcovlive-a.akamaihd.net/ad5353b808b34172b4e5bda6fae25776/us-west-2/5816339219001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNTV" tvg-name="" tvg-language="French" tvg-country="PF" tvg-logo="https://www.tntv.pf/tntv/wp-content/uploads/2018/11/Logo-TNTV-NewSite-Normal.png" group-title="",tntv.pf
+https://bcovlive-a.akamaihd.net/ad5353b808b34172b4e5bda6fae25776/us-west-2/5816339219001/profile_1/chunklist.m3u8
+
 
 ####TRACE####
 
