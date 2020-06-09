@@ -10,7 +10,10 @@ https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
 https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Canadian TV",Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Canadian TV",Tele-Quebec (OPT-2)
+https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleV.png?raw=true" group-title="Canadian TV",Tele-V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
