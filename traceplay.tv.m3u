@@ -3,9 +3,7 @@
 #### Made By Sphinxroot QC ####
 
 
-# link chart not all work but some do"/?/(1,2,3,4,5,6)/prog_index.m3u8
- (Video)" , " for some link /?/(7,8)/prog_index.m3u8
- (AUDIO ONLY)" - "/?/live.m3u8"  #
+# link chart not all work but some do"/?/(1,2,3,4,5,6)/prog_index.m3u8(Video)" , " for some link /?/(7,8)/prog_index.m3u8 (AUDIO ONLY)" - "/?/live.m3u8"  #
 
 # resolution 1=320x180 2=424x240 3=640x360 4=848x480 5=960x540 6=1280x720 live=1280x720 #
 
@@ -27,7 +25,6 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRcwp8L.png" group-title="Music",Trace Ayiti
 https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxrkrIj.png" group-title="Music",Trace Brazuka
 https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
 
@@ -46,10 +43,8 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BnghHCS.png" group-title="Music",Trace Kitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t4VOfs5.png" group-title="Music",Trace Latina
 https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cNAG4h.png" group-title="Music",Trace Muzika
 https://d2ktlibtvvj8vp.cloudfront.net/trace_muzika/6/prog_index.m3u8
@@ -76,17 +71,14 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanafr/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MnnYgHY.png" group-title="Music",Trace Urban DOM
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/my2YLxO.png" group-title="Music",Trace Urban Fr
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkoFitH.png" group-title="Music",Trace Urban Inter
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c67iThr.png" group-title="Music",Trace Urban South Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbansa/6/prog_index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE1qLAE.png" group-title="Music",Trace Vanilla
 https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/6/prog_index.m3u8
