@@ -741,8 +741,7 @@ https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist_w1425646824.m3u8
 https://tvl-live.fl.freecaster.net/live/telemb/telemb.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Telesambre
-" tvg-logo="https://www.telesambre.be/sites/telesambre.easydev.be/files/logotls.png" group-title="Belgique",Telesambre
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Telesambre" tvg-logo="https://www.telesambre.be/sites/telesambre.easydev.be/files/logotls.png" group-title="Belgique",Telesambre
 https://tvl-live.fl.freecaster.net/live/telesambre/telesambre.m3u8
 
 # update link : #
