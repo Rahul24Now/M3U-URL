@@ -46,9 +46,9 @@ plugin://plugin.video.youtube/play/?video_id=zycsZKltsxE
 #EXTINF:-1 tvg-id="France" tvg-name="ASTV" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="France",ASTV Grande-Synthe
 plugin://plugin.video.youtube/play/?video_id=EPfb2Adli6Y
 
-# update link : https://www.azur-tv.fr/live/ https://www.dailymotion.com/video/x630wrb #
+# update link : https://www.azur-tv.fr/live/  #
 #EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur TV (DM)
-plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x630wrb
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x13x1q2
 
 # update link : https://www.azur-tv.fr/live/ https://www.dailymotion.com/video/x630sku #
 #EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur Provence (DM)
