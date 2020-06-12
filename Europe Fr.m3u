@@ -717,6 +717,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x35m6bz
 #EXTINF:-1 tvg-id="France" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="France",W9
 http://51.15.3.161:8080/W9/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="France" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="France",W9 (TT)
+plugin://script.module.tt/play/503/play.pvr
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Wéo" tvg-logo="https://www.weo.fr/wp-content/themes/weo2017/build/img/logo_footer.png" group-title="France",Wéo (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x62islg
