@@ -110,8 +110,11 @@ plugin://script.module.tt/play/503/play.pvr
 http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
 
 # update link : # https://www.dailymotion.com/video/x5gv6be #
-#EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal Plus (DM)
+#EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal+ (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv6be
+
+#EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal+ (TT)
+plugin://script.module.tt/play/315/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="CGTN" tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="France",CGTN (YT)
@@ -326,6 +329,9 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli
 http://51.15.3.161:8080/Gulli/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli (TT)
+plugin://script.module.tt/play/326/play.pvr
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 News
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
@@ -382,8 +388,8 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 N.D
-0.0.0.0
+#EXTINF:-1 tvg-id="France" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (TT)
+plugin://script.module.tt/play/321/play.pvr
 
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (opt-2)
 http://51.15.3.161:8080/M6/index.m3u8?token=test
@@ -417,7 +423,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5ddv09
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ 12 (geo) N.D
+#EXTINF:-1 tvg-id="France" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ 12  N.D
 https://s1.tntendirect.com/nrj12/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/u0aZ4X1.png" group-title="France",Piwi
@@ -558,6 +564,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x38yjeb
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+
+#EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1 (TT)
+plugin://script.module.tt/play/504/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 Series" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="France;Movies",TF1 Series/films
