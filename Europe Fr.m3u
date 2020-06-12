@@ -116,13 +116,40 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv6be
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal+ (TT)
 plugin://script.module.tt/play/315/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-name="Canal+ Cinema " tvg-logo="https://i.imgur.com/gdsqydT.png" group-title="France",Canal+ Cinema (TT)
+plugin://script.module.tt/play/325/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Canal+ Family" tvg-logo="https://i.imgur.com/BfLKvEs.png" group-title="France",Canal+ Family (TT)
+plugin://script.module.tt/play/317/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Canal+ Series" tvg-logo="https://i.imgur.com/V0fEcNK.png" group-title="France",Canal+ Series (TT)
+plugin://script.module.tt/play/323/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/QszECTK.png" group-title="France",Canal+ Sport (TT)
+plugin://script.module.tt/play/316/play.pvr
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="CGTN" tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="France",CGTN (YT)
 plugin://plugin.video.youtube/play/?video_id=udCpddv88rw
 
+#EXTINF:-1 tvg-id="France" tvg-name="Cine+ Classic" tvg-logo="https://i.imgur.com/IydOa4v.png" group-title="France",Cine+ Classic (TT)
+plugin://script.module.tt/play/335/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Cine+ Emotion" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="France",Cine+ Emotion (TT)
+plugin://script.module.tt/play/333/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Cine+ Frisson" tvg-logo="https://i.imgur.com/5EdSoNp.png" group-title="France",Cine+ Frisson (TT)
+plugin://script.module.tt/play/320/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Cine+ Premier" tvg-logo="https://i.imgur.com/eLAtNpn.png" group-title="France",Cine+ Premier (TT)
+plugin://script.module.tt/play/334/play.pvr
+
 # update link : #
 #EXTINF:-1 tvg-id="France"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Music",Clubbing TV
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654&checkedby:www.iptvcat.com
+
+#EXTINF:-1 tvg-id="France" tvg-name="Comedie+" tvg-logo="https://i.imgur.com/eP7A7kL.png" group-title="France",Comedie+ (TT)
+plugin://script.module.tt/play/332/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/aMZ8d6z.png" group-title="France",CorsaireTV (DM)
@@ -340,6 +367,9 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 FR (GEO)
 https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="Infosport+" tvg-logo="https://i.imgur.com/0wA4IwG.png" group-title="France",Infosport+ (TT)
+plugin://script.module.tt/play/721/play.pvr
+
 # update link : https://www.idf1.fr/live #
 #EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (update daily)
 0.0.0.0
@@ -466,12 +496,24 @@ https://nextmediahdslive-lh.akamaihd.net/i/RMCDECOUVERTE_KB@300868/master.m3u8?_
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC (YT) (opt-2)
+#EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC (YT) (opt-2) (ND)
 plugin://plugin.video.youtube/play/?video_id=nfRJWSt8HG4
 
+#EXTINF:-1 tvg-id="France" tvg-name="RMC Sport 1" tvg-logo="https://i.imgur.com/cnTi1XC.png" group-title="France",RMC Sport 1 (TT)
+plugin://script.module.tt/play/598/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="RMC Sport 2" tvg-logo="https://i.imgur.com/kaEOqnG.png"group-title="France",RMC Sport 2 (TT)
+plugin://script.module.tt/play/599/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="RMC Sport 3" tvg-logo="https://i.imgur.com/WyARwhd.png" group-title="France",RMC Sport 3 (TT)
+plugin://script.module.tt/play/600/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="RMC Sport 4" tvg-logo="https://i.imgur.com/eIVSQdX.png" group-title="France",RMC Sport 4 (TT)
+plugin://script.module.tt/play/601/play.pvr
+
 # update link : #
-#EXTINF:-1  tvg-id="France" tvg-logo="https://i.imgur.com/IbLIEno.png" group-title="France",RMC SPORT 5 FHD
-http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/66.m3u8
+#EXTINF:-1  tvg-id="France" tvg-logo="https://i.imgur.com/IbLIEno.png" group-title="France",RMC SPORT 5 
+0.0.0.0
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="RMC Story" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="France",RMC Story
