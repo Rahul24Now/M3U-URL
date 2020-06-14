@@ -58,6 +58,27 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x630sku
 #EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur VAR (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x630wrb
 
+#EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR (TT)
+plugin://script.module.tt/play/49/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="France",BeIN Sports 2 FR (TT)
+plugin://script.module.tt/play/51/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 3 FR"  tvg-logo="https://i.imgur.com/VC0U187.png" group-title="France",BeIN Sports 3 FR (TT)
+plugin://script.module.tt/play/52/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Bein sports max 4 FR" tvg-logo="https://i.imgur.com/ZcNjnXA.png" group-title="France",Bein sports max 4 FR (TT)
+plugin://script.module.tt/play/451/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Bein sports max 5 FR" tvg-logo="https://i.imgur.com/qV8LtGr.png" group-title="France",Bein sports max 5 FR (TT)
+plugin://script.module.tt/play/452/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Bein sports max 6 FR" tvg-logo="https://i.imgur.com/M4sKkbM.png" group-title="France",Bein sports max 6 FR (TT)
+plugin://script.module.tt/play/453/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Bein sports max 7 FR" tvg-logo="https://i.imgur.com/akEEzcC.png" group-title="France",Bein sports max 7 FR (TT)
+plugin://script.module.tt/play/454/play.pvr
+
 # update link : #
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM Business FR" tvg-logo="http://db.radioline.fr/pictures/radio_48566ee80198edc8188a34286e41ee46/logo200.jpg?size=200" group-title="France",BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&rebase=on
@@ -188,6 +209,12 @@ http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="DBM TV" tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="France",DBM TV
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/chunklist_w611225817_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="France" tvg-name="Discovery FR" tvg-logo="https://i.imgur.com/xEXMMFF.png" group-title="France",Discovery FR (TT)
+plugin://script.module.tt/play/763/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Discovery Science FR" tvg-logo="https://i.imgur.com/MtHkNzW.png" group-title="France",Discovery Science FR (TT)
+plugin://script.module.tt/play/783/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="EMCI" tvg-logo="https://i.imgur.com/Yk0nq1P.jpg" group-title="France",EMCI TV
@@ -359,6 +386,9 @@ http://51.15.3.161:8080/Gulli/index.m3u8?token=test
 #EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli (TT)
 plugin://script.module.tt/play/326/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-name="HD1 FR"  tvg-logo="https://i.imgur.com/z0d1bD2.png" group-title="France",HD1 FR (TT)
+plugin://script.module.tt/play/324/play.pvr
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 News
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
@@ -456,12 +486,24 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928
 #EXTINF:-1 tvg-id="France" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ 12  N.D
 https://s1.tntendirect.com/nrj12/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/u0aZ4X1.png" group-title="France",Piwi
-http://51.15.3.161:8080/Piwi/index.m3u8?token=test
+#EXTINF:-1 tvg-id="France" tvg-name="Nat Geo FR"  tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",Nat Geo FR (TT)
+plugin://script.module.tt/play/764/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="OCS Geants FR"  tvg-logo="https://i.imgur.com/SaxR1Im.png" group-title="France",OCS Geants FR (TT)
+plugin://script.module.tt/play/319/play.pvr
 
 # update link : https://www.youtube.com/user/PearlDiffusion #
 #EXTINF:-1 tvg-id="France" tvg-name="PearlTV" tvg-logo="https://content.pearl.fr/bundles/pearlfront/images/general/logo_pearl_bleu.png"group-title="France",PearlTV (YT)
 plugin://plugin.video.youtube/play/?video_id=ZPSRtjPgtf8
+
+#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/u0aZ4X1.png" group-title="France",Piwi
+http://51.15.3.161:8080/Piwi/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="France" tvg-name="Planete+"  tvg-logo="https://i.imgur.com/ddS4cpG.png" group-title="France",Planete+ (TT)
+plugin://script.module.tt/play/318/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Planete+ CI"  tvg-logo="https://i.imgur.com/IxIhz6p.png" group-title="France",Planete+ CI (TT)
+plugin://script.module.tt/play/322/play.pvr
 
 # update link : https://www.dailymotion.com/video/xkxbzc #
 #EXTINF:-1 tvg-id="France" tvg-name="PUBLIC SENAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/1200px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="France",PUBLIC SENAT (DM)
@@ -686,15 +728,15 @@ https://streamer03.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="viàGrandParis" tvg-logo="https://viagrandparis.tv/fileadmin/via_main/img/viagrandparis-header.png" group-title="France",viaGrandParis (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6gk2x7
 
-#EXTINF:-1 tvg-id="France" tvg-logo="http://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="Français",via TVM Est parisien
+#EXTINF:-1 tvg-id="France" tvg-name=",via TVM Est parisien" tvg-logo="http://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="Français",via TVM Est parisien
 https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="MATÉLÉ" tvg-logo="https://viamatele.tv/fileadmin/via_main/img/logos/viaMATELE-header.png" group-title="France",ViaMATÉLÉ 
+#EXTINF:-1 tvg-id="France" tvg-name="ViaMATÉLÉ" tvg-logo="https://viamatele.tv/fileadmin/via_main/img/logos/viaMATELE-header.png" group-title="France",ViaMATÉLÉ 
 https://streamer03.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="Mirabelle TV" tvg-logo="https://www.mirabelle.tv/wp-content/uploads/2018/09/viamirabelle-header@1.png" group-title="France",ViaMirabelle TV
+#EXTINF:-1 tvg-id="France" tvg-name="ViaMirabelle TV" tvg-logo="https://www.mirabelle.tv/wp-content/uploads/2018/09/viamirabelle-header@1.png" group-title="France",ViaMirabelle TV
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist_w1318271703_b1496000.m3u8
 
 # update link : https://viaoccitanie.tv/direct-tv/ #
@@ -712,6 +754,12 @@ https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="vl-media" tvg-logo="https://vl-media.fr/wp-content/uploads/2019/05/Logo_clair_alpha.png" group-title="France",vl-media (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x35m6bz
+
+#EXTINF:-1 tvg-id="France" tvg-name="Voyage tv FR"  tvg-logo="https://i.imgur.com/NNqInil.png" group-title="France",Voyage tv FR (TT)
+plugin://script.module.tt/play/765/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Ushuaia tv FR"  tvg-logo="https://i.imgur.com/nOzZS8a.png" group-title="France",Ushuaia tv FR (TT)
+plugin://script.module.tt/play/766/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="France",W9
