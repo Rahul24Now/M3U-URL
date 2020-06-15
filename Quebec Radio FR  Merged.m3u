@@ -245,6 +245,9 @@ https://cogecomedia.leanstream.co/cogecomedia/CJLAFM.stream/playlist.m3u8
 
 ###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lNrOvY.png",★★★★★★★★★★★★★★★★★★★★[COLOR gold]Radio-Canada[/COLOR]★★★★★★★★★★★★★★★★★★★★
+0.0.0.0
+
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/ICIMusic.png?raw=true" group-title="ICI Music",★★★★★★★★★★[COLOR orchid]ICI Musique[/COLOR]★★★★★★★★★★
 0.0.0.0
 
