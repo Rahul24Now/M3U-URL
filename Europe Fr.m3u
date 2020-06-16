@@ -731,7 +731,7 @@ https://streamer03.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="viàGrandParis" tvg-logo="https://viagrandparis.tv/fileadmin/via_main/img/viagrandparis-header.png" group-title="France",viaGrandParis (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6gk2x7
 
-#EXTINF:-1 tvg-id="France" tvg-name=",via TVM Est parisien" tvg-logo="http://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="Français",via TVM Est parisien
+#EXTINF:-1 tvg-id="France" tvg-name="via TVM Est parisien" tvg-logo="http://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="Français",via TVM Est parisien
 https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
 
 # update link : #
