@@ -8,6 +8,9 @@ http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
  
 ####CBC TV####
 
+#EXTINF:-1 tvg-id="CBC" tvg-logo="https://i.imgur.com/Sa9l7Mf.png" tvg-name="CBC"  group-title="ENG",CBC Live Sport
+https://cbcsportshd1-f.akamaihd.net/i/cbcsports_1@31211/index_2500_av-p.m3u8
+
 #EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/SGbZKbJ.png",CBC New Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 
