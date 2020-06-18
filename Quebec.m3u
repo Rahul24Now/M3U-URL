@@ -107,13 +107,13 @@ plugin://plugin.video.youtube/play/?video_id=dbP54E0z1Rs
 plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (OFF Line)
 plugin://plugin.video.youtube/play/?video_id=fnfwAKjhLeY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct (OFF Line)
 plugin://plugin.video.youtube/play/?video_id=qREIVTpU0Bg
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct 2 (OFF Line)
 plugin://plugin.video.youtube/play/?video_id=Qb1aECRYuFE
 
 
