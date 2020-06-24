@@ -103,18 +103,18 @@ plugin://plugin.video.youtube/play/?video_id=g-0o--6bbpM
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec",TV Témis (YT)
 plugin://plugin.video.youtube/play/?video_id=dbP54E0z1Rs
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Youtube.png?raw=true",★★★★★[COLOR grey]Youtube Live Cam[/COLOR]★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",★★★★★[COLOR grey]Live Cam[/COLOR]★★★★★
 plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (OFF Line)
-plugin://plugin.video.youtube/play/?video_id=fnfwAKjhLeY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
+plugin://plugin.video.youtube/play/?video_id=MLqoZwpcpHk
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct (OFF Line)
-plugin://plugin.video.youtube/play/?video_id=qREIVTpU0Bg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct (YT)
+plugin://plugin.video.youtube/play/?video_id=zQGyTHYSvuo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct 2 (OFF Line)
-plugin://plugin.video.youtube/play/?video_id=Qb1aECRYuFE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=Pu9wKSqV3eI
 
 
 ##############
