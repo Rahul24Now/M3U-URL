@@ -88,7 +88,7 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 plugin://plugin.video.youtube/play/?video_id=NgbSzch9-C4
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ#
-#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Canadian TV",TQ5(YT)
+#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Canadian TV",TQ5(YT) (OFF Line)
 plugin://plugin.video.youtube/play/?video_id=tZMF2XCZwek
 
 # update link https://www.youtube.com/user/ctmq #
