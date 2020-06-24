@@ -155,10 +155,11 @@ https://wowzaprod124-i.akamaihd.net/hls/live/508629/d094e21b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Pont Jacques Cartier vers Rive-sud
 https://wowzaprod124-i.akamaihd.net/hls/live/508629/4e912ed0/playlist.m3u8
 
+# update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Grande Rivière
 https://mia.rtsp.me/25QfHpcX5qhqHkr9l-2Wzw/1593115068/hls/3yB3SNsr.m3u8
 
-# update link https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
+# update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
 plugin://plugin.video.youtube/play/?video_id=MLqoZwpcpHk
 
