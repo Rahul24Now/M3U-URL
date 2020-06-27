@@ -78,6 +78,10 @@ https://fl001.elpcinc.com/CTB-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/emcitv.png?raw=true" group-title="Canadian TV",EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 
+# Update link : https://www.generationplus.tv/ :
+#EXTINF:-1 tvg-id="QC" tvg-name="Générationplus" tvg-logo="https://images.dacast.com/103086/sc-458213-5.png" group-title="CANADA TV",Générationplus.tv (UPD)
+https://dcunilive1-lh.akamaihd.net/i/dclive_1@311536/master.m3u8?hdnea=st=1593226997~exp=1593227397~acl=/i/dclive_1@311536*~hmac=5d2feadc437752e0016b27804d8d1bc86ac376b508d951f7d9dfaa9a8695fc81
+
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="Canadian TV",TCM-TV
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist_w893346968.m3u8
 
