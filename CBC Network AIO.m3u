@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-name="Title" tvg-id="CBC" tvg-logo="https://i.imgur.com/Cxexxwa.png" tvg-name="CBC"  group-title="ENG", ★★★★★★★★★★[COLOR red]CBC TV Network[/COLOR]★★★★★★★★★★
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+0.0.0.0
  
 ####CBC TV####
 
@@ -59,7 +59,7 @@ https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 ####CBC news####
 
 #EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",★★★★★★★★★★[COLOR red]Morning Show[/COLOR]★★★★★★★★★★
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+0.0.0.0
 
 #EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",New Brunswick Morning Show 5:00am EDT
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/294869/cbchlsregion5/master5.m3u8
@@ -103,7 +103,7 @@ https://cbchd1dynamicads-i.akamaihd.net/hls/live/294869/cbchlsregion1/master5.m3
 ###
 
 #EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/Cxexxwa.png",★★★★★★★★★★[COLOR red]Local CBC news[/COLOR]★★★★★★★★★★
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+0.0.0.0
 
 #EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Here And Now 4:30pm EDT
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/294869/cbchlsregion1/master5.m3u8
@@ -159,7 +159,7 @@ https://cbcnewshd-f.akamaihd.net/i/cbcregional_1@141286/index_2500_av-p.m3u8
 ####CBC MUSIC####
 
 #EXTINF:-1 tvg-id="CBC" tvg-logo="https://i.imgur.com/yEkSR6W.png" tvg-name="CBC"  group-title="ENG",★★★★★★★★★★[COLOR red]CBC Music[/COLOR]★★★★★★★★★★
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+0.0.0.0
 
 #EXTINF:-1 tvg-id="CBC" tvg-logo="https://i.imgur.com/3AJuQpO.png" tvg-name="CBC"  group-title="ENG",CBC Music (Atlantic)
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8
@@ -179,12 +179,18 @@ https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8
 ####CBC Radio One####
 
 #EXTINF:-1 tvg-id="CBC" tvg-logo="https://i.imgur.com/BS6QOL5.png" tvg-name="CBC"  group-title="ENG",★★★★★★★★★★[COLOR red]CBC Radio One[/COLOR]★★★★★★★★★★
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+0.0.0.0
 
-#EXTINF:-1 tvg-id="CBC" tvg-logo="https://thesheaf.com/wp-content/uploads/2016/09/CBCpodcast.png" tvg-name="CBC"  group-title="ENG",CBC News Podcast: Hourly Edition (at 20:00 EDT)
+#EXTINF:-1 tvg-id="CBC" tvg-logo="https://thesheaf.com/wp-content/uploads/2016/09/CBCpodcast.png" tvg-name="CBC"  group-title="ENG",CBC News Podcast: Hourly Edition 
 http://podcast.cbc.ca/mp3/hourlynews.mp3
 
-#EXTINF:-1 tvg-id="CBC" tvg-logo="https://thesheaf.com/wp-content/uploads/2016/09/CBCpodcast.png" tvg-name="CBC"  group-title="ENG",CBC News Podcast: World at Six (at 19:30 EDT) 
+#EXTINF:-1 tvg-id="CBC" tvg-logo="https://thesheaf.com/wp-content/uploads/2016/09/CBCpodcast.png" tvg-name="CBC"  group-title="ENG",CBC News Podcast: hourly News
+https://podcast-a.akamaihd.net/mp3/hourlynews.mp3
+
+#EXTINF:-1 tvg-id="CBC" tvg-logo="https://thesheaf.com/wp-content/uploads/2016/09/CBCpodcast.png" tvg-name="CBC"  group-title="ENG",CBC News Podcast: The World This Hour
+https://podcast-a.akamaihd.net/twth/worldthishour.mp3
+
+#EXTINF:-1 tvg-id="CBC" tvg-logo="https://thesheaf.com/wp-content/uploads/2016/09/CBCpodcast.png" tvg-name="CBC"  group-title="ENG",CBC News Podcast: World at Six 
 https://podcast-a.akamaihd.net/w6/worldatsix.mp3
 
 #EXTINF:-1 tvg-id="CBC" tvg-logo="https://i.imgur.com/nXae9ub.png" tvg-name="CBC"  group-title="ENG",CBC Radio 1 (AB/Calgary)
