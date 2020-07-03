@@ -186,6 +186,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv5v0
 #EXTINF:-1 tvg-id="France" tvg-name="Cstar" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="France",CStar (TT)
 plugin://script.module.tt/play/670/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-name="Cstar" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="France",CStar
+http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
+
 # update link : https://www.cnews.fr/le-direct #
 #EXTINF:-1 tvg-id="France" tvg-name="CNEWS" tvg-logo="https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png" group-title="France",CNEWS (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x3b68jn
