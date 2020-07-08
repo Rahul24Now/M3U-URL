@@ -130,7 +130,7 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 plugin://plugin.video.youtube/play/?video_id=LxLcsAt2NyE
 
 # update link  https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="",CILE Havre-Saint-Pierre (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="",CILE Havre-Saint-Pierre (YT) (OffLine) (UPD)
 plugin://plugin.video.youtube/play/?video_id=qerB-ihXO9U
 
 # update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
@@ -151,7 +151,7 @@ plugin://plugin.video.youtube/play/?video_id=1UbvZgFbDSs
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec",TV Témis (YT)
-plugin://plugin.video.youtube/play/?video_id=EihJv30Y65Q
+plugin://plugin.video.youtube/play/?video_id=dJWuysYO6KU
 
 ####
 
