@@ -3,27 +3,32 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true"  group-title="Canadian TV",TVA 720
 https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true" group-title="Canadian TV",TVA 1080
 https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Canadian TV",Tele-Quebec
 https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Canadian TV",Tele-Quebec (OPT-2)
 https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleV.png?raw=true" group-title="Canadian TV",Tele-V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-RDI.png?raw=true" group-title="Canadian TV",ICI RDI 
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Canadian TV",LCN (Off Line)
 https://assimilator.tv/lcn/67dd9aef9d42c49c10db2aa92a236fab886e781d/index_750_av-p.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Canadian TV",ICI Tele Montreal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 
@@ -63,21 +68,27 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ici-television.png?raw=true" group-title="Canadian TV",ICI TV
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/59f8cf257de98a7e0db5ea592e9e081b/1.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/assnat.png?raw=true" group-title="Canadian TV",Assnat
 http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist_w592829221.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Canal_Savoir.png?raw=true" group-title="Canadian TV",Canal Savoir 
 https://hls.savoir.media/live/stream.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/cpac.png?raw=true" group-title="Canadian TV",Cpac
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title="",ctbtv.ca
 https://fl001.elpcinc.com/CTB-TV/index.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/emcitv.png?raw=true" group-title="Canadian TV",EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 
@@ -85,6 +96,7 @@ https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 #EXTINF:-1 tvg-id="QC" tvg-name="Générationplus" tvg-logo="https://images.dacast.com/103086/sc-458213-5.png" group-title="CANADA TV",Générationplus.tv (UPD)
 https://dcunilive1-lh.akamaihd.net/i/dclive_1@311536/master.m3u8?hdnea=st=1593226997~exp=1593227397~acl=/i/dclive_1@311536*~hmac=5d2feadc437752e0016b27804d8d1bc86ac376b508d951f7d9dfaa9a8695fc81
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="Canadian TV",TCM-TV
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist_w893346968.m3u8
 
@@ -146,30 +158,39 @@ plugin://plugin.video.youtube/play/?video_id=EihJv30Y65Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",★★★★★[COLOR grey]Live Cam[/COLOR]★★★★★
 plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
+# update link:  #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Port de Quebec (YT)
 plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Hôtel du Parlement du Québec (YT)
 plugin://plugin.video.youtube/play/?video_id=vrkvCVPzzXQ
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Place D’Youville (YT)
 plugin://plugin.video.youtube/play/?video_id=yOuBc2GNz6U
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Centre Vidéotron (YT)
 plugin://plugin.video.youtube/play/?video_id=bAi6RS2_XCI
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Promotion Saguenay (YT)
 plugin://plugin.video.youtube/play/?video_id=VvZFRbo2KIg
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Sommet du mont Tremblant (YT)
 plugin://plugin.video.youtube/play/?video_id=z6AF-4OZ0cw
 
+# Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Parc de la Chute-Montmorency (YT)
 plugin://plugin.video.youtube/play/?video_id=lGEI3Cxbdj4
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Pont Jacques Cartier vers Montreal
 https://wowzaprod124-i.akamaihd.net/hls/live/508629/d094e21b/playlist.m3u8
 
+# update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Pont Jacques Cartier vers Rive-sud
 https://wowzaprod124-i.akamaihd.net/hls/live/508629/4e912ed0/playlist.m3u8
 
