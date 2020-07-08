@@ -21,7 +21,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-RDI.png?raw=true" group-title="Canadian TV",ICI RDI 
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Canadian TV",LCN
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Canadian TV",LCN (Off Line)
 https://assimilator.tv/lcn/67dd9aef9d42c49c10db2aa92a236fab886e781d/index_750_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Canadian TV",ICI Tele Montreal
@@ -174,8 +174,8 @@ https://wowzaprod124-i.akamaihd.net/hls/live/508629/d094e21b/playlist.m3u8
 https://wowzaprod124-i.akamaihd.net/hls/live/508629/4e912ed0/playlist.m3u8
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Grande Rivière
-https://mia.rtsp.me/25QfHpcX5qhqHkr9l-2Wzw/1593115068/hls/3yB3SNsr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Grande Rivière (UDP)
+https://mia.rtsp.me/t38auovmeVREiqfkgQFmZQ/1594303121/hls/3yB3SNsr.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
