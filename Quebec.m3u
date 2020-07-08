@@ -70,7 +70,7 @@ https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ici-television.png?raw=true" group-title="Canadian TV",ICI TV
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/59f8cf257de98a7e0db5ea592e9e081b/1.m3u8
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 # update link: #
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/assnat.png?raw=true" group-title="Canadian TV",Assnat
