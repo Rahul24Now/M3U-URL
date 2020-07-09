@@ -498,6 +498,9 @@ plugin://script.module.tt/play/764/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="OCS Geants FR"  tvg-logo="https://i.imgur.com/SaxR1Im.png" group-title="France",OCS Geants FR (TT)
 plugin://script.module.tt/play/319/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-logo="http://pancrace.tv/uploads/images/logo_site_1485347386.jpg" tvg-name="pancrace"  group-title="France",pancrace.tv
+http://51.15.4.237:1935/PancraceTV/smil:PancraceTV.smil/playlist.m3u8
+
 # update link : https://www.youtube.com/user/PearlDiffusion #
 #EXTINF:-1 tvg-id="France" tvg-name="PearlTV" tvg-logo="https://content.pearl.fr/bundles/pearlfront/images/general/logo_pearl_bleu.png"group-title="France",PearlTV (YT)
 plugin://plugin.video.youtube/play/?video_id=ZPSRtjPgtf8
