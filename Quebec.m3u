@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★
-plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
+https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec%20Radio%20FR%20%20Merged.m3u
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true"  group-title="Canadian TV",TVA 720
