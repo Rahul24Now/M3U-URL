@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★
-https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec%20Radio%20FR%20%20Merged.m3u
+plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true"  group-title="Canadian TV",TVA 720
@@ -102,23 +102,8 @@ https://5790d294af2dc.streamlock.net/8150/8150/chunklist_w893346968.m3u8
 
 ####
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Debrouillage.PNG?raw=true",★★★★★[COLOR red]Debrouillage Terminer[/COLOR]★★★★★
-plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
-
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Canadian TV",LCN HD (off line)
-https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/high_1080p/high_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Canadian TV",LCN 720 (off line)
-https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/low_720p/low_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p Low (off line)
-https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/low_720p/low_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p Med (off line)
-https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/med_720p/med_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa HD (off line)
-https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/high_1080p/high_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",[COLOR mediumblue]Radio Du Quebec[/COLOR]
+https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec%20Radio%20FR%20%20Merged.m3u
 
 ####
 
@@ -207,5 +192,24 @@ plugin://plugin.video.youtube/play/?video_id=zQGyTHYSvuo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=Pu9wKSqV3eI
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Debrouillage.PNG?raw=true",★★★★★[COLOR red]Debrouillage Terminer[/COLOR]★★★★★
+plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Canadian TV",LCN HD (off line)
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/high_1080p/high_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Canadian TV",LCN 720 (off line)
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/low_720p/low_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p Low (off line)
+https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/low_720p/low_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p Med (off line)
+https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/med_720p/med_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa HD (off line)
+https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/high_1080p/high_1080p.m3u8
 
 ##end##
