@@ -117,6 +117,9 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/MN73rOu.png" group-title="Français",BOING Francais
 http://51.15.3.161:8080/boing/index.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://www.bsmart.fr/bsmart192.png" group-title="France",bsmart (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7tn4fp
+
 # update link : # https://www.dailymotion.com/video/x5gv5rr #
 #EXTINF:-1 tvg-id="France" tvg-name="C8" tvg-logo="https://i.imgur.com/C4ApWGr.jpg"group-title="France",C8 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv5rr
@@ -723,6 +726,9 @@ https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TeleToonPlus FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="France;Kids",TéléToon+
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3LqiNFL.jpg" group-title="France",tzik
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w100208697.m3u8
 
 # update link : https://viaatv.tv/direct-tv/ #
 #EXTINF:-1 tvg-id="France" tvg-name="viaatv" tvg-logo="https://viaatv.tv/fileadmin/via_main/img/logos/LOGO_ATV_Web.png" group-title="France",viaatv
