@@ -46,6 +46,9 @@ https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasports
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://www.westafricatelevision.tv/wp-content/uploads/2019/09/images.png"group-title="",AFRICA TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6vbjdp
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2d1r9zw.png" group-title="",AFROBIT
+http://41.223.30.250:8080/afrobit/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://www.afroculturetv.com/wp-content/uploads/2020/01/AFRO-CULTURE-LOGO-4.png" group-title="",Afroculture TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7t09ft
 
@@ -58,6 +61,9 @@ http://51.91.247.187/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FR" tvg-logo="http://www.benie.tv/images/LOGO-NOUVO-BENIE-TV-PROPRE2.png" tvg-name=""  group-title="Fr", benie.tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/benie_tv/hls_video/benie_tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZI1Gx6.png" group-title="",BIKUTSI TV
+http://connectiktv.ddns.net:5000/bikutsitv/bikutsi_360p/chunklist_w614574595.m3u8
+
 #EXTINF:-1tvg-id="Fr" tvg-logo="https://i.imgur.com/GxSZcYi.png" group-title="Undefined",Canal Algerie
 https://edge-07.playmedia-cdn.net/origin02/amlst:canal-algerie/chunklist_w822937016_b800000.m3u8?dar=sd&t=18ddf1b11ff0fbb27659a265b39d112652bcd721a60013dba602ff86884b4c70b6ea09ab3c58a004fb3301613711a7ff2d81262dc047fd0eba3a64d30c5c8c15c1f639a23c907db0d67445dacf521a75f257e28fe15b3f40e9a16b52a5a1459d4ce4d7b3660c6d09dbeedee0fa7ca47c61173436884e3c142f09994896f1fb8c3b5049b34734231ae408b496b1e0639499ce4237a5a16a9bd6775a5603826538c9bd4a44bd5b506f570078e36be5b9bcf3ebd0e8538255a9
 
@@ -69,6 +75,9 @@ https://edge2.vedge.infomaniak.com/livecast/ik:canaldevie/chunklist_w1709455163.
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="",Chaine Nord-Africaine
 http://str81.creacast.com/cna/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2dEXHu.png" group-title="",cdirect.tv
+http://cms-streamaniak.top/Cdirect/CDIRECT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://www.christlive.tv/img/logochristlive.png" group-title="",christlive (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7liq2i
@@ -101,11 +110,23 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7q03jj
 #EXTINF:-1 tvg-id="Africa" tvg-logo="http://dtv.sn/assets/images/logo.png" tvg-name="DTV"  group-title="Fr",DTV
 https://live1.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8?nimblesessionid=12539412&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjAgOTozMjo1NyBQTSZoYXNoX3ZhbHVlPUVXSGg4L2F1WUhpYzNHc01oUEZqVHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozQGpL2.png" group-title="",Ecclesia TV
+https://gamako.livebox.co.in/Ecclesiatvhls/etvci.m3u8
+
+#EXTINF:-1 tvg-logo="https://emcitv.com/app/common/assets/img/logo/white-emcitv-logo@2x.png" group-title="",emcitv kinshasa
+https://emci-af-hls.akamaized.net/hls/live/2012336/emciafhls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDKEKQS.png" group-title="",EMERGENCE TV
+http://connectiktv.ddns.net:5000/emergencetv/emergencetv/chunklist_w1291195954.m3u8
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="http://espacetvguinee.info/wp-content/uploads/2019/10/TV-5-ANS@4x-3-2-1.png" group-title="",ESPACE TV GUINEE
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/index.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="http://espacetvguinee.info/wp-content/uploads/2019/10/TV-5-ANS@4x-3-2-1.png" group-title="",ESPACE TV GUINEE (OPT-2)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espace_tv-avc1_1800000=5-mp4a_65200_fra=1.m3u8
+
+#EXTINF:-1 tvg-logo="http://esperancetv.org/wp-content/uploads/2020/01/cropped-logo-hope-site2.png" group-title="",EsperanceTV
+http://bcliveuniv-lh.akamaihd.net/i/IADFrench_1@414083/master.m3u8
 
 # https://www.youtube.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/mEFqt8Y.png" group-title="",GABON 24 (YT) (UPD)
@@ -117,6 +138,9 @@ https://5c4984c4d9146.streamlock.net:1937/live/ngrp:GCTV_all/chunklist.m3u8
 # https://www.youtube.com/channel/UC98EZ3PHQNrqV-B-CtwAHMA #
 #EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/fut4cx5.png" group-title="Benin",GOLFE TV AFRICA (YT)
 plugin://plugin.video.youtube/play/?video_id=O7eabaW07KE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FoX8mlC.png" group-title="",GRACE TV
+http://connectiktv.ddns.net:5000/gracetv/gracetv/chunklist_w940348901.m3u8
 
 # https://www.youtube.com/channel/UCGp0ZbEM4j6RA4jufMgG3FA #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/Ijzt9EG.png" group-title="",Guadeloupe la 1ere (YT) (UPD)
@@ -145,9 +169,6 @@ plugin://plugin.video.youtube/play/?video_id=CBV83RRfGFQ
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/ikVXLgc.png" group-title="",Ivoire Channel
 http://gamako.livebox.co.in/ivoirechannelhls/ivoirechannel.m3u8
 
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" group-title="Music",Leeeko TV
-http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/r0VPXd1.png" group-title="",Kalac TV
 https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
 
@@ -156,6 +177,15 @@ https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w2000759628.m3u
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+
+#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" group-title="Music",Leeeko TV
+http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lumieredumonde.tv/wp-content/uploads/2020/06/LOGO_WHITE-2048x808.png" group-title="",LM TV
+https://edge8.vedge.infomaniak.com/livecast/ik:lmtvfr/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ImyfhN8.png" group-title="",LOGOS CHANNEL
+http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist_w1831753144.m3u8
 
 # https://www.youtube.com/channel/UCgA9V57lQlZFXkDfhVGTWSg #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/xqvPSPC.png" group-title="",Martinique La 1ere (YT) (UPD)
@@ -173,8 +203,11 @@ https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/jV1IyRU.jpg" tvg-url="" group-title="",Mouride TV
 http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/BuKv5Vj.png" group-title="",My TV Channel
+#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/BuKv5Vj.png" group-title="",MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yZm9KoK.png" group-title="",MyTV CHANNEL (OPT-2)
+http://connectiktv.ddns.me:5000/mytvchannel/@mytvchannel/chunklist_w1436812819.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Music",Nago TV
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
@@ -187,6 +220,9 @@ https://lakay.haitilive.net/hb/nagotv/web/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Nci-logo-1.jpg" tvg-name="NCI"  group-title="Fr",nci
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/NCI_PIXPLAY/1500K/chunks.m3u8?nimblesessionid=34213
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z79qZ9P.png" group-title="",NCI (OPT-2)
+https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/GhFuvIU.png" group-title="",NTV cote d'Ivoire
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -203,8 +239,17 @@ https://edge2.vedge.infomaniak.com/livecast/ik:obossotv_6/chunklist_w464069638.m
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/8AWBgau.jpg" group-title="",Opa TV
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
 
+#EXTINF:-1 tvg-logo="http://ortb.bj/wp-content/uploads/2020/03/logo2.png" group-title="",ortb
+https://edge2.vedge.infomaniak.com/livecast/ik:ortb/manifest.m3u8?spark=66488c14-93a1-4efe-9346-06251308b8b0&token=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjHVedV.png" group-title="",OTHER CHANNEL
+http://connectiktv.ddns.net:5000/otherchannel/otherchannel@/chunklist_w576014028.m3u8
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" group-title="Music",Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PARADIS TV
+http://connectiktv.ddns.net:5000/paradistv/paradistv/index.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/LdBDXGq.png" group-title="",Plex TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
@@ -220,6 +265,12 @@ https://play.acwstream.com:2002/live/acw_01/index.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="",Radio TeleBoston (USA)
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GsUWzTS.png" group-title="",REGARD’AFRIK TV
+http://connectiktv.ddns.net:5000/regardafrique/regardafrique/chunklist_w1545989343.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EHKg87r.png" group-title="",REPENTANCE TV
+http://connectiktv.ddns.net:5000/repantence/repantence/chunklist_w2129736577.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://www.rtb.bf/wp-content/uploads/2020/04/LOgo-RTB-272-90-3.png" group-title="",rtb.bf
 https://edge6.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
@@ -246,6 +297,9 @@ https://www.enovativecdn.com:4433/radio/radiorci.stream/playlist.m3u8
 #https://www.rti.ci/ #
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rti.ci/radio/frequence2/images/logo_frequence2.png" tvg-name=""  group-title="Fr",FRQ2
 https://www.enovativecdn.com:4433/rticdn/smil:rtif2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://savanemedias.net/wp-content/uploads/2019/11/cropped-logo_header_1.png" group-title="",Savane TV
+https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/7IDfwAC.png" group-title="",Spice FM Nairobi (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7eo9oe
@@ -283,11 +337,20 @@ https://bcovlive-a.akamaihd.net/ad5353b808b34172b4e5bda6fae25776/us-west-2/58163
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://www.tntv.pf/tntv/wp-content/uploads/2018/11/Logo-TNTV-NewSite-Normal.png" group-title="",tntv.pf (OPT-2)
 https://bcovlive-a.akamaihd.net/ad5353b808b34172b4e5bda6fae25776/us-west-2/5816339219001/profile_1/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/top_tv_movies.png" group-title="",TOP TV
+http://connectiktv.ddns.net:5000/toptv/toptv/chunklist_w1827303256.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GqFQe6.png" group-title="",VIBE TV
+http://connectiktv.ddns.net:5000/vibetv/vibetv/chunklist_w2053354618.m3u8
+
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FekWmTu.jpg" tvg-country="CM" tvg-url="" group-title="",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://www.voaafrique.com/Content/responsive/VOA/fr/img/logo.png" group-title="",VoxAfrica
 https://1927901613.rsc.cdn77.org/1927901613/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HKnJOC9.png" group-title="",VST
+http://connectiktv.ddns.net:5000/vstv/vstv/chunklist_w1854648008.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/HKsOeuP.png" group-title="",Vybez Radio (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7eob6j
