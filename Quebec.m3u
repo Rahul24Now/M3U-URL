@@ -196,6 +196,19 @@ plugin://plugin.video.youtube/play/?video_id=zQGyTHYSvuo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=Pu9wKSqV3eI
 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="Cam",Golf MTL-1
+http://24.37.234.6:8080/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="nologo.png" group-title="Cam",Golf MTL-2
+http://24.37.234.6:8081/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="nologo.png" group-title="Cam",Golf MTL-3
+http://24.37.234.6:8082/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="nologo.png" group-title="Cam",Golf MTL-4
+http://24.37.234.6:8083/mjpg/video.mjpg
+
+
+
+#########
+
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Debrouillage.PNG?raw=true",★★★★★[COLOR red]Debrouillage Terminer[/COLOR]★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
