@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/x7O7K4N.png" group-title="",A12 TV
 http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5dfbnH.png" group-title="",ACRO TV
+https://5d4a00b8a0738.streamlock.net/8072/8072/chunklist_w1056974286.m3u8
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/GkKACXq.png" group-title="",Afri4 TV
 https://edge3.vedge.infomaniak.com/livecast/ik:afri4/manifest.m3u8
 
@@ -64,6 +67,9 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/benie_tv/hls_video/benie_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZI1Gx6.png" group-title="",BIKUTSI TV
 http://connectiktv.ddns.net:5000/bikutsitv/bikutsi_360p/chunklist_w614574595.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WwHhb0k.png" group-title="",CAM 10 TV
+http://connectiktv.ddns.net:5000/cam10tv/cam10tv/chunklist_w1470349587.m3u8
+
 #EXTINF:-1tvg-id="Fr" tvg-logo="https://i.imgur.com/GxSZcYi.png" group-title="Undefined",Canal Algerie
 https://edge-07.playmedia-cdn.net/origin02/amlst:canal-algerie/chunklist_w822937016_b800000.m3u8?dar=sd&t=18ddf1b11ff0fbb27659a265b39d112652bcd721a60013dba602ff86884b4c70b6ea09ab3c58a004fb3301613711a7ff2d81262dc047fd0eba3a64d30c5c8c15c1f639a23c907db0d67445dacf521a75f257e28fe15b3f40e9a16b52a5a1459d4ce4d7b3660c6d09dbeedee0fa7ca47c61173436884e3c142f09994896f1fb8c3b5049b34734231ae408b496b1e0639499ce4237a5a16a9bd6775a5603826538c9bd4a44bd5b506f570078e36be5b9bcf3ebd0e8538255a9
 
@@ -73,11 +79,14 @@ https://edge2.vedge.infomaniak.com/livecast/ik:canaldevie/manifest.m3u8
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/wKV2nkg.png" group-title="",Canal de vie télévision (OPT-2)
 https://edge2.vedge.infomaniak.com/livecast/ik:canaldevie/chunklist_w1709455163.m3u8
 
-#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="",Chaine Nord-Africaine
-http://str81.creacast.com/cna/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bp97yld.png" group-title="",CANAL HAUSA
+http://41.223.30.250:5000/canalhausa/canalhausa/chunklist_w1964872369.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H2dEXHu.png" group-title="",cdirect.tv
 http://cms-streamaniak.top/Cdirect/CDIRECT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="",Chaine Nord-Africaine
+http://str81.creacast.com/cna/live.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://www.christlive.tv/img/logochristlive.png" group-title="",christlive (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7liq2i
@@ -105,6 +114,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7o9p4a
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/hz0Zlqy.png" group-title="",CRTVNEWS (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7q03jj
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXUnDc3.png" group-title="",CTV AFRIQUE
+http://connectiktv.ddns.net:5000/consotv/consotv/chunklist_w1380101729.m3u8
 
 # http://dtv.sn/home/dtvlive #
 #EXTINF:-1 tvg-id="Africa" tvg-logo="http://dtv.sn/assets/images/logo.png" tvg-name="DTV"  group-title="Fr",DTV
@@ -180,6 +192,21 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" group-title="Music",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2020/05/mygospel-300x140.png" group-title="",My GOSPEL Music
+http://connectiktv.ddns.me:8080/mygospel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2020/05/myprime15-300x140.png" group-title="",MY MEDIA PRIME Music
+http://connectiktv.ddns.me:8080/media-prime/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2020/05/myfresh-300x140.png" group-title="",MY MOVIE FR Music
+http://connectiktv.ddns.me:8080/mymovie-fr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2020/05/myenglish-300x140.png" group-title="",MY MOVIE EN Music
+http://connectiktv.ddns.me:8080/mymovie-en/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2020/05/mymusic1.png" group-title="",MY MUSIC
+http://connectiktv.ddns.me:8080/mymusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lumieredumonde.tv/wp-content/uploads/2020/06/LOGO_WHITE-2048x808.png" group-title="",LM TV
 https://edge8.vedge.infomaniak.com/livecast/ik:lmtvfr/manifest.m3u8
@@ -266,6 +293,9 @@ https://play.acwstream.com:2002/live/acw_01/index.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="",Radio TeleBoston (USA)
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2020/05/realblack1-300x140.png" group-title="",REAL BLACK Music
+http://connectiktv.ddns.me:8080/realblack/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GsUWzTS.png" group-title="",REGARD’AFRIK TV
 http://connectiktv.ddns.net:5000/regardafrique/regardafrique/chunklist_w1545989343.m3u8
 
@@ -346,6 +376,9 @@ http://connectiktv.ddns.net:5000/vibetv/vibetv/chunklist_w2053354618.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FekWmTu.jpg" tvg-country="CM" tvg-url="" group-title="",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4HRIgWk.png" group-title="",VOICE MUSIC
+http://connectiktv.ddns.net:5000/voicetv/voicetv/chunklist_w124571855.m3u8
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://www.voaafrique.com/Content/responsive/VOA/fr/img/logo.png" group-title="",VoxAfrica
 https://1927901613.rsc.cdn77.org/1927901613/index.m3u8
 
@@ -357,3 +390,6 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7eob6j
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/4eY0Gjt.png" group-title="",WalfTV Live (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5s5vw3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9gJ1fkC.png" group-title="",WINTER CHANNEL
+http://connectiktv.ddns.me:5000/winterchannel/winterchannel/chunklist_w226229972.m3u8
