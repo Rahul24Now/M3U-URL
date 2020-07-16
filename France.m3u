@@ -210,6 +210,9 @@ https://live.creacast.com/d5music/smil:d5music.smil/chunklist_w1720615818_b19280
 #EXTINF:-1 tvg-id="France" tvg-name="dici TV" tvg-logo="https://www.dici.fr/sites/dici.fr/themes/dici2017/assets/img/dici-tv.png" group-title="France",Dici TV
 http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="dici TV" tvg-logo="https://www.dici.fr/sites/dici.fr/files/logo2.png" group-title="France",Dici TV
+https://edge8.vedge.infomaniak.com/livecast/ik:dciwebcam/manifest.m3u8?spark=6f95bc41-0d66-49dc-bd11-d2d4c0d82893&token=
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="DBM TV" tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="France",DBM TV
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/chunklist_w611225817_b1800000.m3u8
