@@ -607,6 +607,10 @@ https://edge-live-ger1.ovstream.com/hls/10/source.m3u8?token=live_10_8e81e157ea3
 #EXTINF:-1 tvg-id="France" tvg-name="tebeo" tvg-logo="https://www.tebeo.bzh/images/header_logo.png" group-title="France",Tebeo
 https://edge-live-ger1.ovstream.com/hls/11/720p.m3u8?token=live_11_b86506eef74c5a62d92fd3e9acdcc39b
 
+# update link : https://www.dailymotion.com/video/x5aarnv #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ur57Bwk.png" group-title="",Télévision Locale du Choletais
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5aarnv
+
 # update link : https://www.dailymotion.com/video/x128fjo #
 #EXTINF:-1 tvg-id="France" tvg-name="TéléGrenoble" tvg-logo="http://www.telegrenoble.net/images/interface/bannerLogo.png" group-title="France",TéléGrenoble (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x128fjo
