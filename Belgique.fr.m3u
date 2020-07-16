@@ -12,6 +12,9 @@ https://tvl-live.fl.freecaster.net/live/actv/actv.m3u8
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Bel RTL" tvg-logo="https://s3.eu-central-1.amazonaws.com/radioportals/radioviainternet-be/images/stations/bel-rtl-radio-cover.png" group-title="Belgique",Bel RTL
 http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Bel RTL" tvg-logo="https://s3.eu-central-1.amazonaws.com/radioportals/radioviainternet-be/images/stations/bel-rtl-radio-cover.png" group-title="Belgique",Bel RTL (TT)
+plugin://script.module.tt/play/690/play.pvr
+
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="BX1" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Belgique",BX1
 https://59959724487e3.streamlock.net/stream/live/chunklist_w1820098040.m3u8
@@ -48,17 +51,27 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTC Liege" tvg-logo="https://i.ibb.co/p3zw6tG/RTC-Liege.png" group-title="Belgique",RTC Liege
 https://media01.webtvlive.eu/rtc-edge/_definst_/smil:live.smil/chunklist_w1270237425_b8256000_DVR_tkdG9rZW5lbmR0aW1lPTE1ODc5NTQxMzAmdG9rZW5zdGFydHRpbWU9MTU4Nzk0MzMzMCZ0b2tlbmhhc2g9UkM2bXlYM1lRV1M4cUN5YzZ4YThVekFxZXNSR2hrbkl0ZjZKYU9lLUZwUT0=.m3u8
 
+
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une
 https://rtbf.l3.freecaster.net/live/rtbf/geo/open/f252363574bc3708f9d58a351066da362d739a84/laune-audio_1=128000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une (TT)
+plugin://script.module.tt/play/693/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Deux" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Deux
 https://rtbf.l3.freecaster.net/live/rtbf/geo/open/012547ec984802a41c6cc2b2e4c81efdf8eff450/ladeux-audio_1=128000-video=2000000.m3u8
 
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Deux" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Deux (TT)
+plugin://script.module.tt/play/694/play.pvr
+
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois
 https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois (TT)
+plugin://script.module.tt/play/695/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi
