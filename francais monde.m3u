@@ -3,7 +3,7 @@
 
 #### Made By Sphinxroot QC ####
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/kk0dl66.png" group-title="",2stv (DM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kk0dl66.png" group-title="",2stv (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7tw89g
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/x7O7K4N.png" group-title="",A12 TV
