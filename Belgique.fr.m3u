@@ -49,8 +49,7 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1
 
 # update link : https://www.rtc.be/live #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTC Liege" tvg-logo="https://i.ibb.co/p3zw6tG/RTC-Liege.png" group-title="Belgique",RTC Liege
-https://media01.webtvlive.eu/rtc-edge/_definst_/smil:live.smil/chunklist_w1270237425_b8256000_DVR_tkdG9rZW5lbmR0aW1lPTE1ODc5NTQxMzAmdG9rZW5zdGFydHRpbWU9MTU4Nzk0MzMzMCZ0b2tlbmhhc2g9UkM2bXlYM1lRV1M4cUN5YzZ4YThVekFxZXNSR2hrbkl0ZjZKYU9lLUZwUT0=.m3u8
-
+https://tvl-live-prp.fl.freecaster.net/live/rtc/rtc-audio_fre=128000-video=5200000.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une
