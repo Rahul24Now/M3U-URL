@@ -88,18 +88,18 @@ https://5a0b00d270652.streamlock.net/live/tvcom-live/chunklist_w396605632.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="TV Lux" tvg-logo="https://www.tvlux.be/images/logo-TVLux-Naturellement-Proche-2017.png" group-title="Belgique",TV Lux
-https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist_w1425646824.m3u8
+https://tvl-live-prp.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=5200000.m3u8
 
 # update link :  #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Télé MB" tvg-logo="https://www.telemb.be/sites/telemb.easydev.be/files/telemb_logo.png" group-title="Belgique",Télé MB
-https://tvl-live.fl.freecaster.net/live/telemb/telemb.m3u8
+https://tvl-live-prp.fl.freecaster.net/live/telemb/telemb-audio_fre=128000-video=2500000.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Telesambre" tvg-logo="https://www.telesambre.be/sites/telesambre.easydev.be/files/logotls.png" group-title="Belgique",Telesambre
-https://tvl-live.fl.freecaster.net/live/telesambre/telesambre.m3u8
+https://tvl-live-prp.fl.freecaster.net/live/telesambre/telesambre-audio_fre=128000-video=2600000.m3u8
 
-# update link : #
+# update link : https://www.vedia.be/www/live# #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Vedia" tvg-logo="https://www.vedia.be/www/files/images/logoVedia.png" group-title="Belgique",Vedia
-https://5a0b00d270652.streamlock.net/live/vedia-live/chunklist_w426448595.m3u8
+https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=5200000.m3u8
 
 
