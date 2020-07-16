@@ -355,7 +355,7 @@ https://www.enovativecdn.com:4433/radio/radiorci.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rti.ci/radio/frequence2/images/logo_frequence2.png" tvg-name=""  group-title="Fr",FRQ2
 https://www.enovativecdn.com:4433/rticdn/smil:rtif2.smil/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/AJ21s63.png" group-title="",Rwanda Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJ21s63.png" group-title="",Rwanda Tv
 https://1600706787.rsc.cdn77.org/1600706787/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://savanemedias.net/wp-content/uploads/2019/11/cropped-logo_header_1.png" group-title="",Savane TV
