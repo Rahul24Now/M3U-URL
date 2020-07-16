@@ -730,6 +730,12 @@ plugin://plugin.video.youtube/play/?video_id=vyDFY60eyKc
 #EXTINF:-1 tvg-id="France" tvg-name="TVR" tvg-logo="https://i.ibb.co/tMTstXT/TVR-Rennes35-Bretagne.png" group-title="France",TVR Rennes35 Bretagne
 https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://tv-vannes.fr/wp-content/uploads/2016/07/logo-header.png" group-title="",TV Vannes 1 (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7u5so8
+
+#EXTINF:-1 tvg-logo="http://tv-vannes.fr/wp-content/uploads/2016/07/logo-header.png" group-title="",TV Vannes 2 (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7ugcxl
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TeleToonPlus FR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png" group-title="France;Kids",TéléToon+
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
