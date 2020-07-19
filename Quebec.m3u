@@ -123,8 +123,8 @@ plugin://plugin.video.youtube/play/?video_id=qerB-ihXO9U
 plugin://plugin.video.youtube/play/?video_id=oWViRaTztTc
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
-#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Canadian TV",TQ5(YT) (OFF Line) (UPD)
-plugin://plugin.video.youtube/play/?video_id=tZMF2XCZwek
+#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Canadian TV",TQ5(YT)(UPD)
+plugin://plugin.video.youtube/play/?video_id=rvN-xCuT6hA
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Canadian TV",Télé-Mag Québec (YT)
@@ -135,8 +135,8 @@ plugin://plugin.video.youtube/play/?video_id=Ctm-7JcJ5HM
 plugin://plugin.video.youtube/play/?video_id=E9-jxaAjAZo
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
-#EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec",TV Témis (YT) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=dJWuysYO6KU
+#EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec",TV Témis (YT)
+plugin://plugin.video.youtube/play/?video_id=FubKgXNlzFs
 
 ####
 
