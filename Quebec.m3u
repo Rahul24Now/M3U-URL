@@ -153,11 +153,11 @@ plugin://plugin.video.youtube/play/?video_id=vrkvCVPzzXQ
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Place D’Youville (YT)
-plugin://plugin.video.youtube/play/?video_id=yOuBc2GNz6U
+plugin://plugin.video.youtube/play/?video_id=3WPxvuUsoOs
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Centre Vidéotron (YT)
-plugin://plugin.video.youtube/play/?video_id=bAi6RS2_XCI
+plugin://plugin.video.youtube/play/?video_id=KjHmloLY6go
 
 #EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-1
 http://24.122.251.104:8082/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
@@ -203,7 +203,7 @@ plugin://plugin.video.youtube/play/?video_id=jrBmarIQcwo
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Grande Rivière (UDP)
-https://mia.rtsp.me/N42FdZXRMXhd5VDelBgF5Q/1595219643/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/uECXQQGgRP5Ze8Bh_CPJ-A/1595367483/hls/3yB3SNsr.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
