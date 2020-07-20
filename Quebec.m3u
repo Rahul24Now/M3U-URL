@@ -84,7 +84,7 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/cpac.png?raw=true" group-title="Canadian TV",Cpac
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 
-# update link: #
+# update link: https://ctbtv.ca/ #
 #EXTINF:-1 tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title="",ctbtv.ca
 https://fl001.elpcinc.com/CTB-TV/index.m3u8
 
@@ -92,7 +92,7 @@ https://fl001.elpcinc.com/CTB-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/emcitv.png?raw=true" group-title="Canadian TV",EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 
-# update link: #
+# update link: http://egarizim.com/  #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="Canadian TV",TCM-TV (OFF Line)
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist_w893346968.m3u8
 
