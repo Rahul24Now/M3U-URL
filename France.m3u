@@ -174,7 +174,7 @@ https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5
 plugin://script.module.tt/play/332/play.pvr
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/aMZ8d6z.png" group-title="France",CorsaireTV (DM)
+#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/aMZ8d6z.png" group-title="France",CorsaireTV (DM) (Off Line)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x69bhnf
 
 # update link : # https://www.dailymotion.com/video/x5gv5v0
@@ -195,7 +195,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x3b68jn
 plugin://script.module.tt/play/751/play.pvr
 
 # update link : https://www.dailymotion.com/video/x7qp7mo #
-#EXTINF:-1 tvg-id="France" tvg-name="Cokaïn.fr" tvg-logo="https://d1qq3upiyp649r.cloudfront.net/cokain/design/Logo.png" group-title="France",Cokain (DM)
+#EXTINF:-1 tvg-id="France" tvg-name="Cokaïn.fr" tvg-logo="https://d1qq3upiyp649r.cloudfront.net/cokain/design/Logo.png" group-title="France",Cokain (DM) (Off Line)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7qp7mo
 
 # update link : #
@@ -210,12 +210,12 @@ https://live.creacast.com/d5music/smil:d5music.smil/chunklist_w1720615818_b19280
 #EXTINF:-1 tvg-id="France" tvg-name="dici TV" tvg-logo="https://www.dici.fr/sites/dici.fr/themes/dici2017/assets/img/dici-tv.png" group-title="France",Dici TV
 http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="dici TV" tvg-logo="https://www.dici.fr/sites/dici.fr/files/logo2.png" group-title="France",Dici TV
+#EXTINF:-1 tvg-id="France" tvg-name="dici TV" tvg-logo="https://www.dici.fr/sites/dici.fr/files/logo2.png" group-title="France",Dici TV (OPT-2)
 https://edge8.vedge.infomaniak.com/livecast/ik:dciwebcam/manifest.m3u8?spark=6f95bc41-0d66-49dc-bd11-d2d4c0d82893&token=
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="DBM TV" tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="France",DBM TV
-https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/chunklist_w611225817_b1800000.m3u8
+https://edge4.vedge.infomaniak.com/livecast/ik:dbmtv/chunklist_w978878932_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="Discovery FR" tvg-logo="https://i.imgur.com/xEXMMFF.png" group-title="France",Discovery FR (TT)
 plugin://script.module.tt/play/763/play.pvr
