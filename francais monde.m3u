@@ -124,6 +124,9 @@ http://51.81.109.113:1935/CDNLIVE/CISTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i0.wp.com/www.cismedias.com/wp-content/uploads/2019/08/IMG_0624-200x50.png" group-title="",CISTV (OPT-2)
 http://51.81.109.113:1935/CDNLIVE/CISTV/chunklist_w1043548916.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQGv9Sq.png" group-title="",Congo 10
+http://51.254.199.122:8080/BB_tous_congo/index.m3u8
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/L2e6Qky.png" group-title="",Congo Planete TV 720
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_720.m3u8
 
