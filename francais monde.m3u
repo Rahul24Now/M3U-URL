@@ -106,6 +106,9 @@ https://strhls.streamakaci.tv/str_cashchronotv_cashchronotv/str_cashchronotv_mul
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H2dEXHu.png" group-title="",cdirect.tv
 http://cms-streamaniak.top/Cdirect/CDIRECT/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="",Cgtm
+http://livefr.cgtn.com/cctv-f.m3u8
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="",Chaine Nord-Africaine
 http://str81.creacast.com/cna/live.sdp/playlist.m3u8
 
