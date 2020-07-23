@@ -391,6 +391,9 @@ https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/Y72vR9R.png" group-title="",Telé 6 Univers Haïti (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7mcmuu
 
+#EXTINF:-1 tvg-logo="https://tvfamille.org/favicon-192.png" group-title="",TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/chunklist_w1659412580.m3u8
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/yYoEk8m.png" group-title="",Tele Eclair | Chaine 4
 http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_eclair/as/live/hln_eclair_4.m3u8
 
