@@ -1,4 +1,4 @@
-﻿#extm3u
+﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="Suisse" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
