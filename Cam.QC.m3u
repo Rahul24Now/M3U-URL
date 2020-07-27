@@ -92,3 +92,7 @@ http://24.37.234.6:8083/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-logo="https://montcastor.com/wp-content/uploads/2019/10/cropped-Logo-Mont-Castor-PStransparent.png" group-title="Cam",Mont-Castor Matane
 http://montcastor.axiscam.net:9000/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmRYFaC.png" group-title="Cam",Faucons de l'UdeM
+plugin://plugin.video.youtube/play/?video_id=MuUcCjk494A
+
