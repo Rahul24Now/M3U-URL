@@ -8,7 +8,7 @@ plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
 
 # update link:https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg  #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Hôtel du Parlement du Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=FdI1BHsizn8
+plugin://plugin.video.youtube/play/?video_id=OC0OhriByVc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Château Frontenac (YT)
 plugin://plugin.video.youtube/play/?video_id=BJc3M7T0rJo
@@ -20,13 +20,6 @@ plugin://plugin.video.youtube/play/?video_id=nSSYP5QN3Rk
 # update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Centre Vidéotron (YT)
 plugin://plugin.video.youtube/play/?video_id=SG2bK2L_v2s
-
-#EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-1
-http://24.122.251.104:8082/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
-#EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-2
-http://24.122.251.104:8083/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
-#EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-3
-http://24.122.251.104:8084/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Promotion Saguenay (YT)
@@ -80,6 +73,13 @@ plugin://plugin.video.youtube/play/?video_id=zQGyTHYSvuo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=Pu9wKSqV3eI
+
+#EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-1
+http://24.122.251.104:8082/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
+#EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-2
+http://24.122.251.104:8083/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
+#EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-3
+http://24.122.251.104:8084/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="Cam",Golf MTL-1
 http://24.37.234.6:8080/mjpg/video.mjpg
