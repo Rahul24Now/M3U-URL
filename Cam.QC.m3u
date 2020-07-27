@@ -10,7 +10,7 @@ plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Hôtel du Parlement du Québec (YT)
 plugin://plugin.video.youtube/play/?video_id=FdI1BHsizn8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Château Frontenac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Château Frontenac (YT)
 plugin://plugin.video.youtube/play/?video_id=BJc3M7T0rJo
 
 # update link: #
