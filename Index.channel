@@ -1,9 +1,21 @@
 [
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec.m3u", 
-	"logos": "", 
+	"logos": "https://github.com/Sphinxroot/M3U-URL/raw/master/Logo%20Pays%20Anime/3Quebec.gif", 
 	"image": "", 
-	"name": "Quebec"
+	"name": "Quebec TV"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec%20Radio%20FR%20%20Merged.m3u", 
+	"logos": "https://github.com/Sphinxroot/M3U-URL/raw/master/Logo%20Pays%20Anime/3Quebec.gif", 
+	"image": "", 
+	"name": "Quebec Radio"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Cam.QC.m3u", 
+	"logos": "https://github.com/Sphinxroot/M3U-URL/raw/master/Logo%20Pays%20Anime/3Quebec.gif", 
+	"image": "", 
+	"name": "Quebec WebCamera"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Index.m3u", 
