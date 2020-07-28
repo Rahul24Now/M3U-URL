@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kk0dl66.png" group-title="",2stv (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7tw89g
 
-#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/x7O7K4N.png" group-title="",A12 TV
+#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/x7O7K4N.png" group-title="",A12 TV (Off Line)
 http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5dfbnH.png" group-title="",ACRO TV
@@ -326,7 +326,7 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist_w640810700.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/6EEHWNg.jpg" group-title="",Radio Tele Ginen | Chaine 18
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
 
-#EXTINF:-1 tvg-id="FR" tvg-logo="http://hirondellecayes.com/wp-content/uploads/2019/01/cropped-HIRONDELLE-2-fin-1-180x180.png" group-title="",Radio Television Hirondelle
+#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/CeHWFJu.png" group-title="",Radio Television Hirondelle (Off Line)
 https://play.acwstream.com:2002/live/acw_01/index.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="",Radio TeleBoston (USA)
