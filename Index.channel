@@ -42,9 +42,9 @@
 	"name": "Francais Du Monde"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/PlutoTV/PlutoTV.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/allsprk.tv.m3u, 
 	"logos": "", 
-	"image": "https://github.com/Sphinxroot/M3U-URL/raw/master/PlutoTV/logo.png", 
-	"name": "Pluto TV"
+	"image": "https://allsprk.tv/img/poster.png", 
+	"name": "allsprk.tv"
 }
 ]
