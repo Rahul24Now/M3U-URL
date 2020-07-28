@@ -32,6 +32,9 @@ plugin://script.module.tt/play/327/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (opt-2)
 https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (opt-3)
+http://teledunet.com:25461/live/tdn/393636887872/51440.m3u8
+
 # update link : http://www.freeintertv.com/view/id-1156/ #
 #EXTINF:-1 tvg-id="France" tvg-name="ArtPla TV" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/138_medium.png" group-title="France",ArtPla TV
 http://str81.creacast.com/iltv/high/chunklist_w1782720917.m3u8
