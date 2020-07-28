@@ -1,9 +1,9 @@
 [
 {
-	"url": "https://raw.githubusercontent.com/iptv-org/iptv/master/index.m3u", 
-	"logos": "https://i.imgur.com/NCFmdjj.png", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec.m3u", 
+	"logos": "", 
 	"image": "", 
-	"name": "iptv.org"
+	"name": "Quebec"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Index.m3u", 
