@@ -264,10 +264,10 @@ plugin://plugin.video.youtube/play/?video_id=_tp8hj7dw8M
 #EXTINF:-1 tvg-id="France" tvg-name="europe1" tvg-logo="https://cdn-europe1.lanmedia.fr/europe1/apple-touch-icon.png" group-title="France",europe1 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xqjkfz
 
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/vNuqdwU.png" group-title="France",EuroSport 1
+#EXTINF:-1 tvg-id="France" tvg-name="EuroSport 1" tvg-logo="https://i.imgur.com/vNuqdwU.png" group-title="France",EuroSport 1
 http://teledunet.com:25461/live/tdn/393636846796/10364.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/3xQRIoq.png" group-title="France",EuroSport 2
+#EXTINF:-1 tvg-id="France" tvg-name="EuroSport 2" tvg-logo="https://i.imgur.com/3xQRIoq.png" group-title="France",EuroSport 2
 http://teledunet.com:25461/live/tdn/354056872715/10365.m3u8
 
 # update link : https://www.dailymotion.com/video/x4rdeu6 #
@@ -458,7 +458,7 @@ http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 plugin://script.module.tt/play/753/play.pvr
 
 # update link : https://www.dailymotion.com/video/xgepjr #
-#EXTINF:-1 tvg-id="France" tvg-name="LCP TV" tvg-logo="http://www.lcp.fr/sites/default/themes/lcp/favicons/apple-touch-icon-152x152.png" group-title="France",LCP TV (DM)
+#EXTINF:-1 tvg-id="France" tvg-name="LCP TV" tvg-logo="https://www.lcp.fr/sites/lcp.fr/themes/eclydre_zen/img/logo-presse.png" group-title="France",LCP TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xgepjr
 
 # update link : https://www.dailymotion.com/lachainelequipe #
