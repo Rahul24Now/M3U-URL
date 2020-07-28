@@ -8,13 +8,13 @@
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec%20Radio%20FR%20%20Merged.m3u", 
 	"logos": "", 
-	"image": "https://github.com/Sphinxroot/M3U-URL/raw/master/Logo%20Pays%20Anime/3Quebec.gif", 
+	"image": "https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/Images/Logo%20Pays/QC.png", 
 	"name": "Quebec Radio"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Cam.QC.m3u", 
 	"logos": "", 
-	"image": "https://github.com/Sphinxroot/M3U-URL/raw/master/Logo%20Pays%20Anime/3Quebec.gif", 
+	"image": "https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/Images/Logo%20Pays/QC.png", 
 	"name": "Quebec WebCamera"
 },
 {
