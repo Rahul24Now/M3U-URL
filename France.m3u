@@ -523,6 +523,9 @@ https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w582372
 #EXTINF:-1 tvg-id="France" tvg-name="Nat Geo FR"  tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",Nat Geo FR (TT)
 plugin://script.module.tt/play/764/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/1cW8kNs.png" group-title="France",OCS City
+http://teledunet.com:25461/live/tdn/354056913824/51474.m3u8
+
 #EXTINF:-1 tvg-id="France" tvg-name="OCS Geants FR"  tvg-logo="https://i.imgur.com/SaxR1Im.png" group-title="France",OCS Geants FR (TT)
 plugin://script.module.tt/play/319/play.pvr
 
