@@ -24,7 +24,7 @@ http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Alpe d’Huez" tvg-logo="https://www.alpedhuez.com/templates/2017/assets/images/logo-alpe-d-huez.png" group-title="France",Alpe d’Huez
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist_w2129501913.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="France",Animaux
+#EXTINF:-1 tvg-id="France" tvg-name="Animaux" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="France",Animaux
 http://play.teledunet.com:25461/live/tdn/368219147229/10385.m3u8
 
 # update link : #
