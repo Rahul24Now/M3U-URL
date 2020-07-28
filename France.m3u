@@ -24,6 +24,9 @@ http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Alpe d’Huez" tvg-logo="https://www.alpedhuez.com/templates/2017/assets/images/logo-alpe-d-huez.png" group-title="France",Alpe d’Huez
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist_w2129501913.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://www.animauxtv.fr/images/logo.png" group-title="France",Animaux
+http://play.teledunet.com:25461/live/tdn/368219147229/10385.m3u8
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (TT) 
 plugin://script.module.tt/play/327/play.pvr
@@ -135,7 +138,7 @@ plugin://script.module.tt/play/503/play.pvr
 http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
 
 # Update Link : https://www.youtube.com/channel/UCjbvuMcOCvyYFZKKPvU6QHw #
-#EXTINF:-1 tvg-id="France" tvg-name="1net" tvg-logo="http://www.canallocalgrosblie.tv/images/clg2.png" group-title="France",Canal Local Grosbliederstroff (YT)
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="http://www.canallocalgrosblie.tv/images/clg2.png" group-title="France",Canal Local Grosbliederstroff (YT)
 plugin://plugin.video.youtube/play/?video_id=qIl0ykeeK-E
 
 # update link : # https://www.dailymotion.com/video/x5gv6be #
