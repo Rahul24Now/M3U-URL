@@ -41,7 +41,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6i37o5
 
 # https://www.youtube.com/channel/UC25EuGAePOPvPrUA5cmu3dQ #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://fr.africanews.com/apple-touch-icon-180x180.png" group-title="",Africanews (YT) (Opt-2) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Cscy53WaHKE
+plugin://plugin.video.youtube/play/?video_id=4D9L2wlS_hE
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://africasports.tv/assets/images/favicon192.png" group-title="AfricaSports TV",AfricaSports
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
@@ -172,21 +172,21 @@ http://bcliveuniv-lh.akamaihd.net/i/IADFrench_1@414083/master.m3u8
 
 # https://www.youtube.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/mEFqt8Y.png" group-title="",GABON 24 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=KIC8rvQScbA
+plugin://plugin.video.youtube/play/?video_id=SNPvEME_vKI
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/qJ4ykc8.png" group-title="",GC TV
 https://5c4984c4d9146.streamlock.net:1937/live/ngrp:GCTV_all/chunklist.m3u8
 
 # https://www.youtube.com/channel/UC98EZ3PHQNrqV-B-CtwAHMA #
 #EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/fut4cx5.png" group-title="Benin",GOLFE TV AFRICA (YT)
-plugin://plugin.video.youtube/play/?video_id=O7eabaW07KE
+plugin://plugin.video.youtube/play/?video_id=ljAy6qUTGps
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FoX8mlC.png" group-title="",GRACE TV
 http://connectiktv.ddns.net:5000/gracetv/gracetv/chunklist_w940348901.m3u8
 
 # https://www.youtube.com/channel/UCGp0ZbEM4j6RA4jufMgG3FA #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/Ijzt9EG.png" group-title="",Guadeloupe la 1ere (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=RybAaavB7Vo
+plugin://plugin.video.youtube/play/?video_id=Xz_AazRtohQ
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="http://guineetv1.com/images/logos/guineetv1-logo.png" group-title="",Guinée TV1
 http://208.167.242.100:5080/LiveApp/streams/678183951296171960442515.m3u8
@@ -196,7 +196,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x655zsl
 
 # https://www.youtube.com/channel/UCdijnb4OugCB6KUl2aN3qJQ #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/SDI9cSj.png" group-title="",Guyane la 1ere (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=jV_6HJFlZu8
+plugin://plugin.video.youtube/play/?video_id=OBNJRApnrA0
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/RDokpwD.png" group-title="",Impac TV
 https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist_w973675047.m3u8
@@ -205,7 +205,7 @@ https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist_w973675047.m3u
 https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
 
 # https://www.youtube.com/channel/UCgzADnln0QPAwUUQB0-wDQw #
-#EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/QyK7qc0.png" group-title="l'ile de la REUNION ",Kanal Austral TV (YT) (UPD)
+#EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/QyK7qc0.png" group-title="l'ile de la REUNION ",Kanal Austral TV (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=CBV83RRfGFQ
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/ikVXLgc.png" group-title="",Ivoire Channel
@@ -252,7 +252,7 @@ http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist_w1831753144
 
 # https://www.youtube.com/channel/UCgA9V57lQlZFXkDfhVGTWSg #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/xqvPSPC.png" group-title="",Martinique La 1ere (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=5AGnm-m7dZE
+plugin://plugin.video.youtube/play/?video_id=5Av1msXXqt4
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/rrCTaZo.png" group-title="",MBM TV
 http://secure.2mstream.com:8081/mbm/mbm/chunks.m3u8
