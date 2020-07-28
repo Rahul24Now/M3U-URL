@@ -6,7 +6,7 @@
 	"name": "iptv.org"
 },
 {
-	"url": "https://github.com/Sphinxroot/M3U-URL/blob/master/Fluxus.tv/Index.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Index.m3u", 
 	"logos": "", 
 	"image": "", 
 	"name": "Fluxus.tv"
