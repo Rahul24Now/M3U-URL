@@ -73,7 +73,7 @@ https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59e
 plugin://script.module.tt/play/695/play.pvr
 
 # update link : #
-#EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi (OFF LIne)
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi
 http://teledunet.com:25461/live/tdn/393646983867/10147435.m3u8
 
 #http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
