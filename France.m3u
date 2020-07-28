@@ -188,6 +188,9 @@ plugin://script.module.tt/play/334/play.pvr
 #EXTINF:-1 tvg-id="France"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Music",Clubbing TV
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654&checkedby:www.iptvcat.com
 
+#EXTINF:-1 tvg-id="France" tvg-name="Comedie+" tvg-logo="https://i.imgur.com/eP7A7kL.png" group-title="France",Comedie+
+http://teledunet.com:25461/live/tdn/393636887851/51419.m3u8
+
 #EXTINF:-1 tvg-id="France" tvg-name="Comedie+" tvg-logo="https://i.imgur.com/eP7A7kL.png" group-title="France",Comedie+ (TT)
 plugin://script.module.tt/play/332/play.pvr
 
@@ -260,6 +263,12 @@ plugin://plugin.video.youtube/play/?video_id=_tp8hj7dw8M
 # update link : https://www.europe1.fr/direct-video  https://www.youtube.com/watch?v=sRFZbWmhbIY #
 #EXTINF:-1 tvg-id="France" tvg-name="europe1" tvg-logo="https://cdn-europe1.lanmedia.fr/europe1/apple-touch-icon.png" group-title="France",europe1 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xqjkfz
+
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/vNuqdwU.png" group-title="France",EuroSport 1
+http://teledunet.com:25461/live/tdn/393636846796/10364.m3u8
+
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/3xQRIoq.png" group-title="France",EuroSport 2
+http://teledunet.com:25461/live/tdn/354056872715/10365.m3u8
 
 # update link : https://www.dailymotion.com/video/x4rdeu6 #
 #EXTINF:-1 tvg-id="France" tvg-name="France info" tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png" group-title="France",France info (DM)
