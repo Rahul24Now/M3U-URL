@@ -44,11 +44,11 @@ http://str81.creacast.com/iltv/high/chunklist_w1782720917.m3u8
 
 # update link : https://mon.astrocenter.fr/tv/en-direct https://www.youtube.com/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg #
 #EXTINF:-1 tvg-id="France" tvg-name="AstrocenterTV" tvg-logo="https://mon.astrocenter.fr/static/img/third_parties/www.astrocenter.fr/astrocenter-logo.png" group-title="France",AstrocenterTV (YT)
-plugin://plugin.video.youtube/play/?video_id=khtPJVET8os
+plugin://plugin.video.youtube/play/?video_id=227WAkiYOlA
 
 # update link: https://www.youtube.com/channel/UCd9hPbPHI0XKWhxYLtmyvFA #
-#EXTINF:-1 tvg-id="France" tvg-name="ASTV" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="France",ASTV Grande-Synthe
-plugin://plugin.video.youtube/play/?video_id=XcndM99ksEo
+#EXTINF:-1 tvg-id="France" tvg-name="ASTV" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="France",ASTV Grande-Synthe (YT)
+plugin://plugin.video.youtube/play/?video_id=MAFiNiKcxQY
 
 # update link : https://www.azur-tv.fr/live/  #
 #EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur TV (DM)
