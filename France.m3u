@@ -166,7 +166,7 @@ plugin://script.module.tt/play/323/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/QszECTK.png" group-title="France",Canal+ Sport (TT)
 plugin://script.module.tt/play/316/play.pvr
 
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25
+#EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25
 http://teledunet.com:25461/live/tdn/393636887863/51431.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="CGTN" tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="France",CGTN (YT)
