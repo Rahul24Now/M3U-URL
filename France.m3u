@@ -62,8 +62,14 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x630sku
 #EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur VAR (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x630wrb
 
+#EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR
+http://teledunet.com:25461/live/tdn/393636887877/51445.m3u8
+
 #EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR (TT)
 plugin://script.module.tt/play/49/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="France",BeIN Sports 2 FR
+http://teledunet.com:25461/live/tdn/393636887878/51446.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="France",BeIN Sports 2 FR (TT)
 plugin://script.module.tt/play/51/play.pvr
@@ -160,7 +166,9 @@ plugin://script.module.tt/play/323/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/QszECTK.png" group-title="France",Canal+ Sport (TT)
 plugin://script.module.tt/play/316/play.pvr
 
-# update link : #
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25
+http://teledunet.com:25461/live/tdn/393636887863/51431.m3u8
+
 #EXTINF:-1 tvg-id="France" tvg-name="CGTN" tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="France",CGTN (YT)
 plugin://plugin.video.youtube/play/?video_id=udCpddv88rw
 
