@@ -2,61 +2,57 @@
 
 # Cam QC #
 
-# update link:  #
+# update link: https://www.youtube.com/channel/UCZdjU2sWPeLjmh75zOxekUg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Port de Quebec (YT)
 plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
 
-# update link:https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg  #
+# update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Hôtel du Parlement du Québec (YT)
 plugin://plugin.video.youtube/play/?video_id=OC0OhriByVc
 
+# update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Château Frontenac (YT)
-plugin://plugin.video.youtube/play/?video_id=BJc3M7T0rJo
+plugin://plugin.video.youtube/play/?video_id=A3dEEeSlFrA
 
-# update link: #
+# update link: https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Place D’Youville (YT)
-plugin://plugin.video.youtube/play/?video_id=nSSYP5QN3Rk
+plugin://plugin.video.youtube/play/?video_id=SAxwPnENLQI
 
-# update link: #
+# update link: https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Centre Vidéotron (YT)
 plugin://plugin.video.youtube/play/?video_id=SG2bK2L_v2s
 
-# update link: #
+# update link: https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Promotion Saguenay (YT)
 plugin://plugin.video.youtube/play/?video_id=VvZFRbo2KIg
 
-# update link: #
+# update link: https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Sommet du mont Tremblant (YT)
 plugin://plugin.video.youtube/play/?video_id=z6AF-4OZ0cw
 
 # Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Parc de la Chute-Montmorency (YT)
-plugin://plugin.video.youtube/play/?video_id=spsUr6-9yXs
+plugin://plugin.video.youtube/play/?video_id=vi4tPlNOQwg
 
 # Update Link: https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT)
 plugin://plugin.video.youtube/play/?video_id=s4f3uumRWFs
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu b (YT)
 plugin://plugin.video.youtube/play/?video_id=qqLwNpI8ok8
 
-# update link: #
+# update link: https://jacquescartierchamplain.ca/circulation-travaux/reseau-en-direct/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Pont Jacques Cartier vers Montreal
 https://wowzaprod124-i.akamaihd.net/hls/live/508629/d094e21b/playlist.m3u8
-
-# update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Pont Jacques Cartier vers Rive-sud
 https://wowzaprod124-i.akamaihd.net/hls/live/508629/4e912ed0/playlist.m3u8
 
+# update link: https://www.youtube.com/channel/UCt9lhgKwKl4GHGpgQdGy1AA #
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",ILE-DES-SOEURS - Camera en direction de Brossard et de A-10 (YT)
 plugin://plugin.video.youtube/play/?video_id=XQR6q5rBb9A
-
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",ILE-DES-SOEURS - Camera en direction de Montréal (YT)
 plugin://plugin.video.youtube/play/?video_id=S_S3dDMbMpc
-
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",BROSSARD - Camera en direction de Brossard et de A-10 (YT)
 plugin://plugin.video.youtube/play/?video_id=9SsLhqSOYVI
-
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",BROSSARD - Camera en direction de Montréal (YT)
 plugin://plugin.video.youtube/play/?video_id=jrBmarIQcwo
 
@@ -67,13 +63,12 @@ https://mia.rtsp.me/IY9yNMFU-edkmXkmSPxvuw/1595923610/hls/3yB3SNsr.m3u8
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
 plugin://plugin.video.youtube/play/?video_id=MLqoZwpcpHk
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct (YT)
 plugin://plugin.video.youtube/play/?video_id=zQGyTHYSvuo
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=Pu9wKSqV3eI
 
+# update link: https://www.shmp.qc.ca/ #
 #EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-1
 http://24.122.251.104:8082/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
 #EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-2
@@ -90,9 +85,11 @@ http://24.37.234.6:8082/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="nologo.png" group-title="Cam",Golf MTL-4
 http://24.37.234.6:8083/mjpg/video.mjpg
 
+# update link: https://montcastor.com/ #
 #EXTINF:-1 tvg-logo="https://montcastor.com/wp-content/uploads/2019/10/cropped-Logo-Mont-Castor-PStransparent.png" group-title="Cam",Mont-Castor Matane
 http://montcastor.axiscam.net:9000/mjpg/video.mjpg
 
+# update link: https://www.youtube.com/channel/UCpV6Dn5hiout62phgZk9oEw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmRYFaC.png" group-title="Cam",Faucons de l'UdeM
-plugin://plugin.video.youtube/play/?video_id=MuUcCjk494A
+plugin://plugin.video.youtube/play/?video_id=jbodCUGwPzo
 
