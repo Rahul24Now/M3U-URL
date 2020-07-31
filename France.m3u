@@ -169,6 +169,9 @@ plugin://script.module.tt/play/316/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25
 http://teledunet.com:25461/live/tdn/421753804751/51431.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/cn.png" group-title="CHINA",CGTN Francais
+http://live.cgtn.com/1000f/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="France" tvg-name="CGTN" tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="France",CGTN (YT)
 plugin://plugin.video.youtube/play/?video_id=udCpddv88rw
 
