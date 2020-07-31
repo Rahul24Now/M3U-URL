@@ -610,6 +610,9 @@ https://rmcstory-lh.akamaihd.net/i/RMCSTORY_KB@694745/master.m3u8?__nn__=5773103
 #EXTINF:-1 tvg-id="France" tvg-name="RT France" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="France;News",RT France
 http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 
+#EXTINF:-1 tvg-id="France" tvg-name="RTL9 HD" tvg-logo="https://i.imgur.com/A9hcKyc.png"group-title="France",RTL9 HD
+http://stream-e30453a4b.nmbs.top/m3u/France/49a6412ef4.m3u8|User-Agent=VLC
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="RV1" tvg-logo="https://i.ibb.co/kS2Pdf2/RV1.png" group-title="France",RV1 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6mw7oz
