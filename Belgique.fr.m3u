@@ -53,29 +53,32 @@ https://tvl-live-prp.fl.freecaster.net/live/rtc/rtc-audio_fre=128000-video=52000
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une
-https://rtbf.l3.freecaster.net/live/rtbf/geo/open/f252363574bc3708f9d58a351066da362d739a84/laune-audio_1=128000-video=2000000.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Belgium/de21430b75.m3u8|User-Agent=VLC
+#https://rtbf.l3.freecaster.net/live/rtbf/geo/open/f252363574bc3708f9d58a351066da362d739a84/laune-audio_1=128000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une (TT)
 plugin://script.module.tt/play/693/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Deux" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Deux
-https://rtbf.l3.freecaster.net/live/rtbf/geo/open/012547ec984802a41c6cc2b2e4c81efdf8eff450/ladeux-audio_1=128000-video=2000000.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Belgium/104214a08a.m3u8|User-Agent=VLC
+#https://rtbf.l3.freecaster.net/live/rtbf/geo/open/012547ec984802a41c6cc2b2e4c81efdf8eff450/ladeux-audio_1=128000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Deux" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Deux (TT)
 plugin://script.module.tt/play/694/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois
-https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Belgium/4b70c9647d.m3u8|User-Agent=VLC
+#https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois (TT)
 plugin://script.module.tt/play/695/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi
-http://teledunet.com:25461/live/tdn/393646983867/10147435.m3u8
-
+http://stream-e30453a4b.nmbs.top/m3u/Belgium/51362dab62.m3u8|User-Agent=VLC
+#http://teledunet.com:25461/live/tdn/393646983867/10147435.m3u8
 #http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL info 1 (TT)
