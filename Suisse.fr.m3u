@@ -24,10 +24,6 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w809983253_b1052136.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPTRza2VzYnVsNzA2bjA3ZWk4cWZjM292c2hoJnVJRD0wJnVOYW1lPUd1ZXN0ZDAwMzQ%3D&id=-sXAW6PuInSIukeZAMyn
 
 # update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur
-https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_1200_av-b.m3u8
-
-# update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="latele" tvg-logo="https://latele.ch/img/favicon/apple-touch-icon.png" group-title="Suisse",latele
 https://edge8.vedge.infomaniak.com/livecast/latele2/chunklist_w1798460365.m3u8
 
@@ -63,5 +59,10 @@ https://edge7.vedge.infomaniak.com/livecast/ik:tvm3/chunklist_w191085829.m3u8
 #EXTINF:-1 tvg-id="Suisse" tvg-name="rouge tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="Suisse",rouge tv
 https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w94148732.m3u8
 
+#EXTINF:-1 tvg-id="Suisse" tvg-name="RTS 1" tvg-logo="https://i.imgur.com/G1kQAmQ.png" group-title="Suisse",RTS 1 (TT)
+plugin://script.module.tt/play/689/play.pvr
 
+# update link : #
+#EXTINF:-1 tvg-id="Suisse" tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_1200_av-b.m3u8
 
