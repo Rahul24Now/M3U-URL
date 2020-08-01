@@ -154,14 +154,26 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv6be
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal+ (TT)
 plugin://script.module.tt/play/315/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-name="Canal+ Cinema " tvg-logo="https://i.imgur.com/gdsqydT.png" group-title="France",Canal+ Cinema
+http://stream-e30453a4b.nmbs.top/m3u/France/f743b08300.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-id="France" tvg-name="Canal+ Cinema " tvg-logo="https://i.imgur.com/gdsqydT.png" group-title="France",Canal+ Cinema (TT)
 plugin://script.module.tt/play/325/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Canal+ Family" tvg-logo="https://i.imgur.com/BfLKvEs.png" group-title="France",Canal+ Family
+http://stream-e30453a4b.nmbs.top/m3u/France/3f73faf3ce.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-name="Canal+ Family" tvg-logo="https://i.imgur.com/BfLKvEs.png" group-title="France",Canal+ Family (TT)
 plugin://script.module.tt/play/317/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-name="Canal+ Series" tvg-logo="https://i.imgur.com/V0fEcNK.png" group-title="France",Canal+ Series 
+http://stream-e30453a4b.nmbs.top/m3u/France/cc1609bfcf.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-id="France" tvg-name="Canal+ Series" tvg-logo="https://i.imgur.com/V0fEcNK.png" group-title="France",Canal+ Series (TT)
 plugin://script.module.tt/play/323/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/QszECTK.png" group-title="France",Canal+ Sport 
+http://stream-e30453a4b.nmbs.top/m3u/France/b946a256d9.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/QszECTK.png" group-title="France",Canal+ Sport (TT)
 plugin://script.module.tt/play/316/play.pvr
