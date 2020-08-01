@@ -166,9 +166,6 @@ plugin://script.module.tt/play/323/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/QszECTK.png" group-title="France",Canal+ Sport (TT)
 plugin://script.module.tt/play/316/play.pvr
 
-#EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25
-http://teledunet.com:25461/live/tdn/14058509875/51431.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://flagpedia.net/data/flags/w580/cn.png" group-title="CHINA",CGTN Francais
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
@@ -177,14 +174,32 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="CGTN" tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="France",CGTN (YT)
 plugin://plugin.video.youtube/play/?video_id=c7QHJNd1TkM
 
+#EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25 (UPD)
+http://teledunet.com:25461/live/tdn/14058509875/51431.m3u8
+
+#EXTINF:-1 tvg-id="France" tvg-name="CINE CLASSIC" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="France",CINE+ CLASSIC
+http://stream-e30453a4b.nmbs.top/m3u/France/f15a49d5e5.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-id="France" tvg-name="Cine+ Classic" tvg-logo="https://i.imgur.com/IydOa4v.png" group-title="France",Cine+ Classic (TT)
 plugin://script.module.tt/play/335/play.pvr
 
 #EXTINF:-1 tvg-id="France" tvg-name="Cine+ Emotion" tvg-logo="https://i.imgur.com/c1JN3yZ.png" group-title="France",Cine+ Emotion (TT)
 plugin://script.module.tt/play/333/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-name="CINE FAMIZ" tvg-logo="https://i.imgur.com/wkW8XnH.png" group-title="France",CINE+ FAMIZ
+http://stream-e30453a4b.nmbs.top/m3u/France/456002b289.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-id="France" tvg-name="Cine+ Frisson" tvg-logo="https://i.imgur.com/5EdSoNp.png" group-title="France",Cine+ Frisson (TT)
 plugin://script.module.tt/play/320/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="CINE FX" tvg-logo="https://i.imgur.com/1ddzjTh.png" group-title="France",CINE+ FX
+http://stream-e30453a4b.nmbs.top/m3u/France/4bd3b5736d.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-id="France" tvg-name="CINE POLAR" tvg-logo="https://i.imgur.com/h9At2gv.png" group-title="France",CINE+ POLAR
+http://stream-e30453a4b.nmbs.top/m3u/France/dc6e666eab.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-id="France" tvg-name="CINE PREMIER" tvg-logo="https://i.imgur.com/2gcQu0I.png" group-title="France",CINE+ PREMIER
+http://stream-e30453a4b.nmbs.top/m3u/France/e611049352.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-name="Cine+ Premier" tvg-logo="https://i.imgur.com/eLAtNpn.png" group-title="France",Cine+ Premier (TT)
 plugin://script.module.tt/play/334/play.pvr
