@@ -555,11 +555,17 @@ https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w582372
 #EXTINF:-1 tvg-id="France" tvg-name="Nat Geo FR"  tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",Nat Geo FR (TT)
 plugin://script.module.tt/play/764/play.pvr
 
-#EXTINF:-1 tvg-id="France" tvg-name="OCS City" tvg-logo="https://i.imgur.com/1cW8kNs.png" group-title="France",OCS City
-http://teledunet.com:25461/live/tdn/421753804794/51474.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="OCS CHOC" tvg-logo="https://i.imgur.com/XMB5vEu.png" group-title="France",OCS CHOC
+http://stream-e30453a4b.nmbs.top/m3u/France/7734ed75d3.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-id="France" tvg-name="OCS CITY" tvg-logo="https://i.imgur.com/DkdRt2X.png" group-title="France",OCS CITY
+http://stream-e30453a4b.nmbs.top/m3u/France/15795b9e9c.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-name="OCS Geants FR"  tvg-logo="https://i.imgur.com/SaxR1Im.png" group-title="France",OCS Geants FR (TT)
 plugin://script.module.tt/play/319/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="OCS MAX" tvg-logo="https://i.imgur.com/3HpnH6G.png" group-title="France",OCS MAX
+http://stream-e30453a4b.nmbs.top/m3u/France/68b5dc76a0.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-logo="http://pancrace.tv/uploads/images/logo_site_1485347386.jpg" tvg-name="pancrace"  group-title="France",pancrace.tv
 http://51.15.4.237:1935/PancraceTV/smil:PancraceTV.smil/playlist.m3u8
