@@ -221,7 +221,7 @@ plugin://script.module.tt/play/334/play.pvr
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654&checkedby:www.iptvcat.com
 
 #EXTINF:-1 tvg-id="France" tvg-name="Comedie+" tvg-logo="https://i.imgur.com/eP7A7kL.png" group-title="France",Comedie+
-http://teledunet.com:25461/live/tdn/393636887851/51419.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/France/93b2671094.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-name="Comedie+" tvg-logo="https://i.imgur.com/eP7A7kL.png" group-title="France",Comedie+ (TT)
 plugin://script.module.tt/play/332/play.pvr
@@ -449,6 +449,9 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli
 http://51.15.3.161:8080/Gulli/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli (OPT-2)
+http://stream-e30453a4b.nmbs.top/m3u/France/7f805bd94d.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli (TT)
 plugin://script.module.tt/play/326/play.pvr
 
@@ -566,6 +569,9 @@ plugin://script.module.tt/play/319/play.pvr
 
 #EXTINF:-1 tvg-id="France" tvg-name="OCS MAX" tvg-logo="https://i.imgur.com/3HpnH6G.png" group-title="France",OCS MAX
 http://stream-e30453a4b.nmbs.top/m3u/France/68b5dc76a0.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-id="France" tvg-name="OLTV HD" tvg-logo="https://i.imgur.com/fc19kCV.png" group-title="France",OLTV HD
+http://stream-e30453a4b.nmbs.top/m3u/France/1aada22045.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-logo="http://pancrace.tv/uploads/images/logo_site_1485347386.jpg" tvg-name="pancrace"  group-title="France",pancrace.tv
 http://51.15.4.237:1935/PancraceTV/smil:PancraceTV.smil/playlist.m3u8
