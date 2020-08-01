@@ -883,4 +883,5 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x62islg
 #EXTINF:-1 tvg-id="France" tvg-name="Wéo" tvg-logo="https://www.weo.fr/wp-content/themes/weo2017/build/img/logo_footer.png" group-title="France", WéoPicardie (DM) 
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x63085w
 
-
+#EXTINF:-1 tvg-id="France" tvg-name="ZEE MAGIC " tvg-logo="https://i.imgur.com/BYlkE13.png" group-title="France",ZEE MAGIC 
+http://stream-e30453a4b.nmbs.top/m3u/France/965818a853.m3u8|User-Agent=VLC
