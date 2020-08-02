@@ -8,19 +8,19 @@ plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
 
 # update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Hôtel du Parlement du Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=Kv_8wxPz0Ac
+plugin://plugin.video.youtube/play/?video_id=crGSuUU6dEU
 
 # update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Château Frontenac (YT)
-plugin://plugin.video.youtube/play/?video_id=A3dEEeSlFrA
+plugin://plugin.video.youtube/play/?video_id=AXGX9VelsdM
 
 # update link: https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Place D’Youville (YT)
-plugin://plugin.video.youtube/play/?video_id=SAxwPnENLQI
+plugin://plugin.video.youtube/play/?video_id=LFBnLk9F6BY
 
 # update link: https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Centre Vidéotron (YT)
-plugin://plugin.video.youtube/play/?video_id=SG2bK2L_v2s
+plugin://plugin.video.youtube/play/?video_id=LpndKlALMOo
 
 # update link: https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Promotion Saguenay (YT)
@@ -32,11 +32,11 @@ plugin://plugin.video.youtube/play/?video_id=z6AF-4OZ0cw
 
 # Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Parc de la Chute-Montmorency (YT)
-plugin://plugin.video.youtube/play/?video_id=vi4tPlNOQwg
+plugin://plugin.video.youtube/play/?video_id=Nz_IptpqS0c
 
 # Update Link: https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT)
-plugin://plugin.video.youtube/play/?video_id=s4f3uumRWFs
+plugin://plugin.video.youtube/play/?video_id=cCwD-X9bt4g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu b (YT)
 plugin://plugin.video.youtube/play/?video_id=qqLwNpI8ok8
 
@@ -58,7 +58,7 @@ plugin://plugin.video.youtube/play/?video_id=jrBmarIQcwo
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Grande Rivière (UDP)
-https://mia.rtsp.me/IY9yNMFU-edkmXkmSPxvuw/1595923610/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/3O-ozRc4Al8D-oLx3eK-3A/1596464654/hls/3yB3SNsr.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
@@ -91,5 +91,5 @@ http://montcastor.axiscam.net:9000/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCpV6Dn5hiout62phgZk9oEw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmRYFaC.png" group-title="Cam",Faucons de l'UdeM
-plugin://plugin.video.youtube/play/?video_id=jbodCUGwPzo
+plugin://plugin.video.youtube/play/?video_id=d9Z_YMlpaiA
 
