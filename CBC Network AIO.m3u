@@ -59,7 +59,11 @@ https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 #EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC The National 9:00pm EDT
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/577198/the_national/master5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCh3ODY.png" group-title="Canadian TV",CBC Olympic Channel  HD
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCh3ODY.png" group-title="Canadian TV",CBC Olympic Channel  SD
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
 
 ####CBC MUSIC####
 
