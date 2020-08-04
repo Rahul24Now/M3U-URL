@@ -82,6 +82,9 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/benie_tv/hls_video/benie_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZI1Gx6.png" group-title="",BIKUTSI TV
 http://connectiktv.ddns.net:5000/bikutsitv/bikutsi_360p/chunklist_w614574595.m3u8
 
+#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/CNnyD4S.png" group-title="",BossBrothers TV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WwHhb0k.png" group-title="",CAM 10 TV
 http://connectiktv.ddns.net:5000/cam10tv/cam10tv/chunklist_w1470349587.m3u8
 
