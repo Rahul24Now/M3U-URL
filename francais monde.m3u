@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kk0dl66.png" group-title="",2stv (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7tw89g
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAFKBsu.png" group-title="",3ABN Français
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/SQs/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/x7O7K4N.png" group-title="",A12 TV (Off Line)
 http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 
