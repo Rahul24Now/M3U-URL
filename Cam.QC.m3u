@@ -93,3 +93,8 @@ http://montcastor.axiscam.net:9000/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmRYFaC.png" group-title="Cam",Faucons de l'UdeM
 plugin://plugin.video.youtube/play/?video_id=d9Z_YMlpaiA
 
+# update link: https://www.youtube.com/channel/UCP75K5I7jvpakDxSYthM8TQ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Les Abeilles de Longueuil (YT)
+plugin://plugin.video.youtube/play/?video_id=ws-VacdWtsU
+
+
