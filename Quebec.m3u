@@ -130,11 +130,11 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT)
-plugin://plugin.video.youtube/play/?video_id=6-DJ1dRx7Ns
+plugin://plugin.video.youtube/play/?video_id=gDHPhIMFhnE
 
 # update link  https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="",CILE Havre-Saint-Pierre (YT)
-plugin://plugin.video.youtube/play/?video_id=Y5W4LKNt9P8
+plugin://plugin.video.youtube/play/?video_id=Yae8JUj7l3I
 
 # update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT)
@@ -142,15 +142,15 @@ plugin://plugin.video.youtube/play/?video_id=oWViRaTztTc
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT)
-plugin://plugin.video.youtube/play/?video_id=_T1Ne0BC3fI
+plugin://plugin.video.youtube/play/?video_id=_YVNFYtACYxk
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT)
 plugin://plugin.video.youtube/play/?video_id=Ctm-7JcJ5HM
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=E9-jxaAjAZo
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT)
+plugin://plugin.video.youtube/play/?video_id=Wu4UVdYoOWQ
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT)
