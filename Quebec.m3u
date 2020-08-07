@@ -142,7 +142,7 @@ plugin://plugin.video.youtube/play/?video_id=oWViRaTztTc
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT)
-plugin://plugin.video.youtube/play/?video_id=_YVNFYtACYxk
+plugin://plugin.video.youtube/play/?video_id=YVNFYtACYxk
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT)
