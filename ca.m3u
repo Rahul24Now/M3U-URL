@@ -93,11 +93,8 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuKdd24.png" group-title="",► CHCH
 http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8|User-Agent=VLC
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH 
-https://flowcaster1-ch.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/playlist.m3u8?iimae0UC2aendtime=1596745950&iimae0UC2ahash=-nFS7ng-K-NISzUrtdSmh27Iv1Pn1Livte_C4t_75ns=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (OPT-2)
-https://flowcaster1-ch.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w1155708112_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU5Njc0NTk1MCZpaW1hZTBVQzJhaGFzaD0tbkZTN25nLUstTklTelVydGRTbWgyN0l2MVBuMUxpdnRlX0M0dF83NW5zPQ==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD)
+https://flowcaster1-sh.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/playlist.m3u8?iimae0UC2aendtime=1596866923&iimae0UC2ahash=ANQnS9T3nt0zSTpQ0x-p6qmkOgDS-50tjrrhu2CN3ZE=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/playlist.m3u8
