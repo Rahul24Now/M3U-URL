@@ -487,6 +487,9 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV SD
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0wocTq8.png" group-title="",TET
+http://206.47.41.166:8080/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="Canada",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 
