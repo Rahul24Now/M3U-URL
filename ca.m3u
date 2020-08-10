@@ -457,7 +457,7 @@ rtmp://pivotalelements.com:1935/live/NACTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/venPneF.png" group-title="Canada",Nac TV (XSPF)
 https://s3.amazonaws.com/cdn.pivotalelements.com/NACTV.xspf
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/jfiZplk.png" group-title="Canada",Nandan TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfiZplk.png" group-title="Canada",Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yhqILus.png" group-title="Canada",NRB TV
