@@ -418,6 +418,12 @@ https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w995406417.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/al6RSFp.png" group-title="Canada",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T17cGne.png" group-title="",ektatv
+https://unirtmp.tulix.tv/ektatv/ektatv/chunklist_w505927771.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T17cGne.png" group-title="",ektatv (OPT-2)
+https://unirtmp.tulix.tv/ektatv/ektatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKlVKdp.png" group-title="Canada",GH Canada TV
 http://churchchannelstream.tulix.tv/liveticker/720p/playlist.m3u8
 	
