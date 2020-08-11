@@ -445,8 +445,9 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV (OPT-2)
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu
-https://edge2.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD1lZnVwYW84OHRydXYyampnM203NGNpbDY2dCZ1SUQ9MCZ1TmFtZT1HdWVzdDY2ZTMz&id=y0eCFM-N9VFyRgcvC8pB
+# Update Link : http://www.iipccanada.com/2017/12/26/iipc-tv-urdu/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD)
+https://edge2.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w1613852199_b1981512.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD0xdGg2OGM0ODlpbzJwZGxhZTJlbzZkOWhoYyZ1SUQ9MCZ1TmFtZT1HdWVzdDZiODE3&id=T_FmuoMQxNYjk1BzDPuR
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfXOgXT.png" group-title="",Lord TV
 https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/playlist.m3u8
