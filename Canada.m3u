@@ -143,6 +143,12 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/4f95f02e05.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",► CTV VANCOUVER
 http://stream-e30453a4b.nmbs.top/m3u/Canada/aeff428891.m3u8|User-Agent=VLC
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="News",CTV video only
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="News",CTV sound only
+https://pe-fa-lp01a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0dmRJRn.png" group-title="",► DAYSTAR
 http://stream-e30453a4b.nmbs.top/m3u/Canada/a23ca44226.m3u8|User-Agent=VLC
 
