@@ -623,10 +623,10 @@ plugin://script.module.tt/play/322/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="PUBLIC SENAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/1200px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="France",PUBLIC SENAT (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xkxbzc
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV Arabia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV Arabia
 http://51.15.193.127/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV France
 http://51.15.254.60/hls/stream.m3u8
 
 # update link https://www.youtube.com/channel/UCxSUslP_JMH3Bb50oXd1Nnw #
