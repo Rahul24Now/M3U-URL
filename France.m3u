@@ -193,7 +193,7 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 plugin://plugin.video.youtube/play/?video_id=c7QHJNd1TkM
 
 #EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25 (UPD)
-http://teledunet.com:25461/live/tdn/14058509875/51431.m3u8
+http://teledunet.com:25461/live/tdn/182760034499/51431.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="CINE CLASSIC" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="France",CINE+ CLASSIC
 http://stream-e30453a4b.nmbs.top/m3u/France/f15a49d5e5.m3u8|User-Agent=VLC
