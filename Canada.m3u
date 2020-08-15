@@ -102,7 +102,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8|User-Agent=VLC
 
 # Update Link https://www.chch.com/live/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD)
-https://flowcaster1-sh.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w36446987_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU5NzE4MzUyOSZpaW1hZTBVQzJhaGFzaD1nQXBadjJWdUk5WjdWLUFZSVc1U3QtTU5ENThoUGJaRGdxYWY0cHU3cU1NPQ==.m3u8
+https://flowcaster1-sh.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w320789608_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU5NzUyMjk3NiZpaW1hZTBVQzJhaGFzaD1xbEs5dkJieTBDaU9sYnA2cmdydmx1S0h4Y1o3R3JuQTdWTm15QWVDOXIwPQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/playlist.m3u8
@@ -459,7 +459,7 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 
 # Update Link : http://www.iipccanada.com/2017/12/26/iipc-tv-urdu/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD)
-https://edge2.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w1613852199_b1981512.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD0xdGg2OGM0ODlpbzJwZGxhZTJlbzZkOWhoYyZ1SUQ9MCZ1TmFtZT1HdWVzdDZiODE3&id=T_FmuoMQxNYjk1BzDPuR
+https://edge1.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w1876921457_b2147420.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD1tN3VwYXJhNzBjaDllNDlqa3BmMWhmOW1idSZ1SUQ9MCZ1TmFtZT1HdWVzdGM1ODA3&id=kzAaGHoNhF-ZKxUoAL35
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfXOgXT.png" group-title="",Lord TV
 https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/playlist.m3u8
