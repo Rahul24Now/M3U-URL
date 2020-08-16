@@ -25,8 +25,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-RDI.png?raw=true" group-title="Quebec TV",ICI RDI 
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN ( Off Line )
-https://assimilator.tv/lcn/08bca3ef8d1277c2d139c2f6bae465ffb0f0cb5f/index_750_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN
+https://assimilator.tv/lcn/7f164448fa998ee627de53e5495c26da21bbbe3a/index_750_av-p.m3u8
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Canadian TV",ICI Tele Montreal
@@ -142,7 +142,7 @@ plugin://plugin.video.youtube/play/?video_id=oWViRaTztTc
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT)
-plugin://plugin.video.youtube/play/?video_id=NzGm2DGst_k
+plugin://plugin.video.youtube/play/?video_id=-NCA9zvFxxk
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT)
