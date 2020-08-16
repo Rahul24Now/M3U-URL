@@ -102,7 +102,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8|User-Agent=VLC
 
 # Update Link https://www.chch.com/live/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD)
-https://flowcaster1-sh.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w320789608_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU5NzUyMjk3NiZpaW1hZTBVQzJhaGFzaD1xbEs5dkJieTBDaU9sYnA2cmdydmx1S0h4Y1o3R3JuQTdWTm15QWVDOXIwPQ==.m3u8
+https://flowcaster1-uo.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w7163310_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU5NzYzNjU4MiZpaW1hZTBVQzJhaGFzaD1TR1RsT1RUV1V2RWVOSWFhTzNoUmozVVJOWVpubmQzSzhCNlJWaXR0NndRPQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/playlist.m3u8
@@ -143,10 +143,10 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/4f95f02e05.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",► CTV VANCOUVER
 http://stream-e30453a4b.nmbs.top/m3u/Canada/aeff428891.m3u8|User-Agent=VLC
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="News",CTV video only
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV video only
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="News",CTV sound only
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV sound only
 https://pe-fa-lp01a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0dmRJRn.png" group-title="",► DAYSTAR
