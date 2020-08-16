@@ -12,8 +12,8 @@ https://tvl-live-prp.fl.freecaster.net/live/actv/actv.m3u8
 https://tvl-live-prp.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=2600000.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Bel RTL" tvg-logo="https://s3.eu-central-1.amazonaws.com/radioportals/radioviainternet-be/images/stations/bel-rtl-radio-cover.png" group-title="Belgique",Bel RTL
-http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Bel RTL" tvg-logo="https://i.imgur.com/Yg7vRos.jpg" group-title="Belgique",Bel RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="BX1" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Belgique",BX1
@@ -78,7 +78,7 @@ plugin://script.module.tt/play/695/play.pvr
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi
 http://stream-e30453a4b.nmbs.top/m3u/Belgium/51362dab62.m3u8|User-Agent=VLC
-#http://teledunet.com:25461/live/tdn/393646983867/10147435.m3u8
+
 #http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL info 1 (TT)
