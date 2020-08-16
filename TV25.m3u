@@ -1,4 +1,6 @@
-﻿#EXTINF:-1 tvg-logo="https://i.imgur.com/xwUZyxO.png" group-title="TV25" ,★★★★★★★★★★[COLOR red]TV25[/COLOR]★★★★★★★★★★
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xwUZyxO.png" group-title="TV25" ,★★★★★★★★★★[COLOR red]TV25[/COLOR]★★★★★★★★★★
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VF1r0Yf.png" group-title="TV25" ,TV25.1 Buzzr
