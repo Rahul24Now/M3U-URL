@@ -469,6 +469,10 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD)
 https://edge1.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w1876921457_b2147420.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD1tN3VwYXJhNzBjaDllNDlqa3BmMWhmOW1idSZ1SUQ9MCZ1TmFtZT1HdWVzdGM1ODA3&id=kzAaGHoNhF-ZKxUoAL35
 
+# Update Link : http://itctv.ca/live/ #
+#EXTINF:-1 tvg-logo="http://itctv.ca/wp-content/uploads/2018/10/LOGO.png" group-title="",itctv (UPD)
+https://dcunilive89-lh.akamaihd.net/i/dclive_1@827634/master.m3u8?hdnea=st=1597633356~exp=1597633756~acl=/i/dclive_1@827634*~hmac=88a502fec8326268c3b56b49f95015a8e14eeffb58a9d5d5eb5fee8c3ed1b5a4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfXOgXT.png" group-title="",Lord TV
 https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/playlist.m3u8
 
