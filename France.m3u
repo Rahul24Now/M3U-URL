@@ -612,8 +612,14 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928
 #EXTINF:-1 tvg-id="France" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ HITS
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w582372968_b981072.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="NAT GEO FRANCE" tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",NAT GEO FRANCE
+http://stream-e30453a4b.nmbs.top/m3u/France/e4e541e51d.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-id="France" tvg-name="Nat Geo FR"  tvg-logo="https://i.imgur.com/URabrDV.png" group-title="France",Nat Geo FR (TT)
 plugin://script.module.tt/play/764/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="NAT GEO WILD FRANCE" tvg-logo="https://i.imgur.com/K7Q0TcM.png" group-title="France",NAT GEO WILD FRANCE
+http://stream-e30453a4b.nmbs.top/m3u/France/2aa1d84e04.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-name="OCS CHOC" tvg-logo="https://i.imgur.com/XMB5vEu.png" group-title="France",OCS CHOC
 http://stream-e30453a4b.nmbs.top/m3u/France/7734ed75d3.m3u8|User-Agent=VLC
