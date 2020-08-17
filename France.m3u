@@ -279,8 +279,17 @@ https://edge8.vedge.infomaniak.com/livecast/ik:dciwebcam/manifest.m3u8?spark=6f9
 #EXTINF:-1 tvg-id="France" tvg-name="DBM TV" tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="France",DBM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:dbmtv/chunklist_w978878932_b1800000.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="Disney Cinemagic" tvg-logo="https://i.imgur.com/GgT4F0w.png" group-title="France",Disney Cinemagic
+http://stream-e30453a4b.nmbs.top/m3u/France/42d0f7ee60.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-id="France" tvg-name="Discovery France" tvg-logo="https://i.imgur.com/xEXMMFF.png" group-title="France",Discovery France
+http://stream-e30453a4b.nmbs.top/m3u/France/77dc72360d.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-id="France" tvg-name="Discovery FR" tvg-logo="https://i.imgur.com/xEXMMFF.png" group-title="France",Discovery FR (TT)
 plugin://script.module.tt/play/763/play.pvr
+
+#EXTINF:-1 tvg-id="France" tvg-name="DISCOVERY SCI FRANCE" tvg-logo="https://i.imgur.com/MtHkNzW.png" group-title="France",DISCOVERY SCI FRANCE
+http://stream-e30453a4b.nmbs.top/m3u/France/c108157cea.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-name="Discovery Science FR" tvg-logo="https://i.imgur.com/MtHkNzW.png" group-title="France",Discovery Science FR (TT)
 plugin://script.module.tt/play/783/play.pvr
