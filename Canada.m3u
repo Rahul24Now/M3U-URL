@@ -149,6 +149,14 @@ https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV sound only
 https://pe-fa-lp01a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/manifest.m3u8
 
+#https://www.cvtv.org/livefeed/21
+#EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="",cvtv Channel 21
+https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/2917038973_cvtv21_247/chunklist.m3u8
+
+#https://www.cvtv.org/livefeed/23
+#EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="",cvtv Channel 23
+https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/2917038973_cvtv22_247/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0dmRJRn.png" group-title="",► DAYSTAR
 http://stream-e30453a4b.nmbs.top/m3u/Canada/a23ca44226.m3u8|User-Agent=VLC
 
