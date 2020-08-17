@@ -310,8 +310,8 @@ http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
 https://euronews-fr-p13-cdn.hexaglobe.net/5a877c5c427b1cda17c248d4ead4e0f2/5e7d5058/euronews/euronews-euronews-website-web-responsive-2/ewnsabrfr_fre.smil/ewnsabrfr_fre_720p20.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews (YT)(GEO)
-plugin://plugin.video.youtube/play/?video_id=_tp8hj7dw8M
+#EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews (YT)
+plugin://plugin.video.youtube/play/?video_id=g-SsXzf3U40
 
 # update link : https://www.europe1.fr/direct-video  https://www.youtube.com/watch?v=sRFZbWmhbIY #
 #EXTINF:-1 tvg-id="France" tvg-name="europe1" tvg-logo="https://cdn-europe1.lanmedia.fr/europe1/apple-touch-icon.png" group-title="France",europe1 (DM)
