@@ -104,6 +104,9 @@ https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV
 https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFMTV
+http://stream-e30453a4b.nmbs.top/m3u/France/3e065705fe.m3u8|User-Agent=VLC
+
 # update link : https://www.dailymotion.com/BFMTV #
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV (DM) (opt-2)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xgz4t1
@@ -326,6 +329,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x17qw0a
 #EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2
 http://51.15.3.161:8080/france2/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2
+http://stream-e30453a4b.nmbs.top/m3u/France/d0a6097754.m3u8|User-Agent=VLC
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2 (opt 2)
 https://edge-823-ch-gv.filmon.com/live/1717.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3d64afa26654e4935d006594f848b834856b57c76320bd888bc5fd4a91413c8d84b863090e59d0ef1eedb762677bc40d6af150606517b6321d516d377ceed091d43a44d34ecadfede61d3b824213b9e8fd5c9f029ef5cefaf5ed33531c4f8b691082448724a1b282a9ad6a18b446391fe8aaab4f6b45a5ba8f2d5788f9a40e42d73ae40c76f25399db9ec66c18450095
@@ -343,8 +349,8 @@ https://edge-1192-ch-gv.filmon.com/live/3890.low.stream/playlist.m3u8?id=0ad5aac
 https://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3 ND
-http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/4.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3
+http://stream-e30453a4b.nmbs.top/m3u/France/a435517422.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Français",France 3 (opt-2)
 http://51.15.3.161:8080/france3/index.m3u8?token=test
@@ -353,13 +359,22 @@ http://51.15.3.161:8080/france3/index.m3u8?token=test
 #EXTINF:-1 tvg-id="France" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="France",France 4
 http://51.15.3.161:8080/france4/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="France" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="France",France 4
+http://stream-e30453a4b.nmbs.top/m3u/France/95227cb0c2.m3u8|User-Agent=VLC
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="France",France 5
 http://51.15.3.161:8080/france5/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="France" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="France",France 5
+http://stream-e30453a4b.nmbs.top/m3u/France/3587c5fdd9.m3u8|User-Agent=VLC
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O
 http://51.15.3.161:8080/france0/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O
+http://stream-e30453a4b.nmbs.top/m3u/France/4c77c3f40d.m3u8|User-Agent=VLC
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France O (opt-2)
@@ -368,6 +383,9 @@ https://edge-1192-ch-gv.filmon.com/live/3884.low.stream/playlist.m3u8
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="France 24" tvg-logo="https://i.ibb.co/vcbzpgt/France24.png" group-title="France",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-id="France" tvg-name="France 24" tvg-logo="https://i.ibb.co/vcbzpgt/France24.png" group-title="France",France 24
+http://stream-e30453a4b.nmbs.top/m3u/France/c005e5def2.m3u8|User-Agent=VLC
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Francophonie" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/tv-francophonie.png" group-title="France",Francophonie
@@ -787,6 +805,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x38yjeb
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+
+#EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1
+http://stream-e30453a4b.nmbs.top/m3u/France/40336c9df8.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1 (TT)
 plugin://script.module.tt/play/504/play.pvr
