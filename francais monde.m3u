@@ -163,6 +163,9 @@ http://connectiktv.ddns.net:5000/consotv/consotv/chunklist_w1380101729.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oqAGbfQ.png" group-title="",CTV AFRIQUE (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x78mz0x
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hEgbGbY.png" group-title="",D24TV (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6cq41k
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7VTtSC.png" group-title="",Def Tv (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7uw6jc
 
@@ -281,6 +284,12 @@ plugin://plugin.video.youtube/play/?video_id=5Av1msXXqt4
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/rrCTaZo.png" group-title="",MBM TV
 http://secure.2mstream.com:8081/mbm/mbm/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/28d1dxx.png" group-title="",MDP TV (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7v0c1s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EQVSLmP.png" group-title="",MTV (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7uzvn9
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://www.medi1tv.ma/ar/img/footer/logo_new.png" group-title="",Medi 1 TV
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
@@ -310,6 +319,9 @@ https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/NCI_PIXPLAY/1500K/chunks.m3u8?ni
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z79qZ9P.png" group-title="",NCI (OPT-2)
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SWhULoc.png" group-title="",Netalkole TV (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x72rpek
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/GhFuvIU.png" group-title="",NTV cote d'Ivoire
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -412,6 +424,9 @@ http://stream4.swecom.cm/star21/playlist.m3u8
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/M3jg04e.png" group-title="",Surnaturel TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7t0ln7
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/55cpBp6.png" group-title="",Sun Plus Tv
+https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAezGlK.png" group-title="",Tele24 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7um00d
 
@@ -468,6 +483,9 @@ http://connectiktv.ddns.net:5000/vibetv/vibetv/chunklist_w2053354618.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FekWmTu.jpg" tvg-country="CM" tvg-url="" group-title="",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85JR2pc.png" group-title="",Vision 4 (OPT-2)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/vision4-avc1_1500000=5-mp4a_65200_qad=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4HRIgWk.png" group-title="",VOICE MUSIC
 http://connectiktv.ddns.net:5000/voicetv/voicetv/chunklist_w124571855.m3u8
