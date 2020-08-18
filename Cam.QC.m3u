@@ -86,7 +86,7 @@ http://24.37.234.6:8082/mjpg/video.mjpg
 http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://montcastor.com/ #
-#EXTINF:-1 tvg-logo="https://montcastor.com/wp-content/uploads/2019/10/cropped-Logo-Mont-Castor-PStransparent.png" group-title="Cam",Mont-Castor Matane
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BGndFto.png" group-title="Cam",Mont-Castor Matane
 http://montcastor.axiscam.net:9000/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCpV6Dn5hiout62phgZk9oEw #
@@ -94,7 +94,7 @@ http://montcastor.axiscam.net:9000/mjpg/video.mjpg
 plugin://plugin.video.youtube/play/?video_id=d9Z_YMlpaiA
 
 # update link: https://www.youtube.com/channel/UCP75K5I7jvpakDxSYthM8TQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Les Abeilles de Longueuil (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cKQq5p6.png" group-title="Cam",Les Abeilles de Longueuil (YT)
 plugin://plugin.video.youtube/play/?video_id=ws-VacdWtsU
 
 
