@@ -8,19 +8,19 @@ plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
 
 # update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Hôtel du Parlement du Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=swhEAyv_H0M
+plugin://plugin.video.youtube/play/?video_id=qlpmBGGZVWI
 
 # update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Château Frontenac (YT)
-plugin://plugin.video.youtube/play/?video_id=J5cb1Y4HaYA
+plugin://plugin.video.youtube/play/?video_id=3MZpcy3gWqA
 
 # update link: https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Place D’Youville (YT)
-plugin://plugin.video.youtube/play/?video_id=RHXmANiPUSw
+plugin://plugin.video.youtube/play/?video_id=BcteAaOxBX8
 
 # update link: https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Centre Vidéotron (YT)
-plugin://plugin.video.youtube/play/?video_id=lNZBhwfhX04
+plugin://plugin.video.youtube/play/?video_id=eiM5TqOpRAs
 
 # update link: https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Promotion Saguenay (YT)
@@ -32,7 +32,7 @@ plugin://plugin.video.youtube/play/?video_id=z6AF-4OZ0cw
 
 # Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Parc de la Chute-Montmorency (YT)
-plugin://plugin.video.youtube/play/?video_id=xd5ixye9J9g
+plugin://plugin.video.youtube/play/?video_id=jxQRq7kThVY
 
 # Update Link: https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT)
@@ -58,7 +58,7 @@ plugin://plugin.video.youtube/play/?video_id=jrBmarIQcwo
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",Grande Rivière (UDP)
-https://mia.rtsp.me/xM57tTFopuYJuNLIafxMNQ/1597602232/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/gmNDfeJuFR9B0i_wvyde1Q/1597855165/hls/3yB3SNsr.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
