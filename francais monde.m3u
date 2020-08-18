@@ -70,11 +70,17 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7v022j
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://an-news.com/wp-content/uploads/2019/05/aan.png" group-title="",ANN TV
 http://vod.acangroup.org:1935/output/anntv.stream/chunklist_w1788779994.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDQAFEW.png" group-title="",ANETV (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7v0243
+
 #EXTINF:-1 tvg-logo="https://www.antennereunion.fr/squelettes/assets/img/logo-ar2.png" group-title="",Antenne Réunion
 http://41.213.134.36/agkpum4i5aaaaaaaaiyjptdaaaaaaaaaaaaadymiujnid2yi/0000139/01.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/8c45FW7.png" group-title="",APTV Martinique
 http://51.91.247.187/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kVvvGKy.png" group-title="",AraBel (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7teocz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfPMLEH.png" group-title="",Bel Tv
 https://hbiptv.live/player/sakchotv/tracks-v1a1/mono.m3u8
@@ -150,6 +156,12 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7q03jj
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OXUnDc3.png" group-title="",CTV AFRIQUE
 http://connectiktv.ddns.net:5000/consotv/consotv/chunklist_w1380101729.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oqAGbfQ.png" group-title="",CTV AFRIQUE (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x78mz0x
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7VTtSC.png" group-title="",Def Tv (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7uw6jc
 
 # http://dtv.sn/home/dtvlive #
 #EXTINF:-1 tvg-id="Africa" tvg-logo="http://dtv.sn/assets/images/logo.png" tvg-name="DTV"  group-title="Fr",DTV
@@ -382,6 +394,9 @@ https://1600706787.rsc.cdn77.org/1600706787/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://savanemedias.net/wp-content/uploads/2019/11/cropped-logo_header_1.png" group-title="",Savane TV
 https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bS4gfto.png" group-title="",Scbc Tv 
+https://cdn-origin1.streamspot.com/ingest1/5b70d4ab87/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzAa5AL.png" group-title="",Smtv (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7mfhwo
 
@@ -393,6 +408,9 @@ http://stream4.swecom.cm/star21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/M3jg04e.png" group-title="",Surnaturel TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7t0ln7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAezGlK.png" group-title="",Tele24 (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7um00d
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/dmRO6Ek.jpg" group-title="",Tele Univers | Chaine 6
 https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
@@ -421,6 +439,9 @@ http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaFsc6Z.png" group-title="",Tele Tchad
 https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_480p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7LkPmL.png" group-title="",TELESUD (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7tvz4w
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/fQUzBsz.png" group-title="Music",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
 
@@ -432,6 +453,9 @@ https://bcovlive-a.akamaihd.net/ad5353b808b34172b4e5bda6fae25776/us-west-2/58163
 
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/top_tv_movies.png" group-title="",TOP TV
 http://connectiktv.ddns.net:5000/toptv/toptv/chunklist_w1827303256.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kiIQnj4.png" group-title="",UBIZOM5 TV (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x74ucfd
 
 #EXTINF:-1 tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/vatican-news-header-white.png" group-title="",Vatican News - Français (YT)
 plugin://plugin.video.youtube/play/?video_id=trCqdowIzxw
@@ -459,3 +483,8 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5s5vw3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9gJ1fkC.png" group-title="",WINTER CHANNEL
 http://connectiktv.ddns.me:5000/winterchannel/winterchannel/chunklist_w226229972.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlAU0ym.png" group-title="",Zig Tv (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7v1eux
+
+
