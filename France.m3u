@@ -1010,5 +1010,8 @@ http://163.172.174.60/hls/stream.m3u8
 http://163.172.147.113/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/ABKVZ3B.png" group-title="",Salamat Tube TV
 http://51.158.116.146/hls/stream.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.lyngsat-stream.com/logo/tv/vv/varzesh-tv-farsi-fr.png" group-title="",Varzesh TV Farsi
+http://51.158.66.44/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-stream.com/logo/tv/vv/varzesh-tv-farsi-2-fr.png" group-title="",Varzesh TV Farsi 2
+http://51.158.176.190/hls/stream.m3u8
 
