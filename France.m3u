@@ -893,6 +893,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x3wqv8b
 #EXTINF:-1 tvg-id="France" tvg-name="TV8 Montblanc FR" tvg-logo="https://i.ibb.co/SJg4GwX/TV8-Montblanc.png" group-title="France",TV8 MontBlanc (Live 2)(DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x71o73v
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5tUh0q.png" group-title="",Radio Mont Blanc (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x52iluh
+
 # update link : https://www.youtube.com/channel/UCwDb2_ymJ_tBLE1t3rrUurg #
 #EXTINF:-1 tvg-id="France" tvg-name="TV8 Moselle-Est" tvg-logo="https://www.tv8.fr/images/logo.png"group-title="France",TV8 Moselle-Est (YT)
 plugin://plugin.video.youtube/play/?video_id=vyDFY60eyKc
