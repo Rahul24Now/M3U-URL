@@ -332,18 +332,15 @@ https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lHASJZW.png" group-title="",Ntv Kenya (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6shkab
 
+# Update Link : https://www.newworldtv.com/live/   # live_256x144.m3u8 live_640x360.m3u8 live_1024x576.m3u8  live.m3u8 #
 #EXTINF:-1 tvg-logo="https://files.newworldtv.com/uploads/2017/05/cropped-square-180x180.png" group-title="",NW Info
 https://hls.newworldtv.com/nw-info/video/live_1024x576.m3u8
-
 #EXTINF:-1 tvg-logo="https://files.newworldtv.com/uploads/2017/05/cropped-square-180x180.png" group-title="",NW Info 2
 https://hls.newworldtv.com/nw-info-2/video/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://files.newworldtv.com/uploads/2020/01/LOGO-NEW-WORLD-TV.png" group-title="",NW Magazine
 https://hls.newworldtv.com/nw-magazine/video/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://files.newworldtv.com/uploads/2020/01/LOGO-NEW-WORLD-TV.png" group-title="",NW Musique
 https://hls.newworldtv.com/nw-muzik/video/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://files.newworldtv.com/uploads/2020/01/LOGO-NEW-WORLD-TV.png" group-title=""NW Transat
 https://hls.newworldtv.com/nw-transnat/video/live.m3u8
 
