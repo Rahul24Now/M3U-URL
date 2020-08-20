@@ -484,6 +484,9 @@ https://bcovlive-a.akamaihd.net/ad5353b808b34172b4e5bda6fae25776/us-west-2/58163
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/top_tv_movies.png" group-title="",TOP TV
 http://connectiktv.ddns.net:5000/toptv/toptv/chunklist_w1827303256.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="",Tunisie Immobilier TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kiIQnj4.png" group-title="",UBIZOM5 TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x74ucfd
 
