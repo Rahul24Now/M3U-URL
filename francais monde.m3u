@@ -427,6 +427,9 @@ https://cdn-origin1.streamspot.com/ingest1/5b70d4ab87/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzAa5AL.png" group-title="",Smtv (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7mfhwo
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ADjUOLe.png" group-title="",Sophia TV
+https://www.onairport.live/sophiatv-fr-live/smil:sophia-tv-fr.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/7IDfwAC.png" group-title="",Spice FM Nairobi (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7eo9oe
 
