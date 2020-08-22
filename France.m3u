@@ -38,9 +38,6 @@ plugin://script.module.tt/play/327/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (opt-2)
 https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="France",Arte (opt-3)
-http://teledunet.com:25461/live/tdn/393636887872/51440.m3u8
-
 # update link : http://www.freeintertv.com/view/id-1156/ #
 #EXTINF:-1 tvg-id="France" tvg-name="ArtPla TV" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/138_medium.png" group-title="France",ArtPla TV
 http://str81.creacast.com/iltv/high/chunklist_w1782720917.m3u8
@@ -65,14 +62,8 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x630sku
 #EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur VAR (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x630wrb
 
-#EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR
-http://teledunet.com:25461/live/tdn/393636887877/51445.m3u8
-
 #EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR (TT)
 plugin://script.module.tt/play/49/play.pvr
-
-#EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="France",BeIN Sports 2 FR
-http://teledunet.com:25461/live/tdn/393636887878/51446.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="BeIN Sports 2 FR"  tvg-logo="https://i.imgur.com/QAsvdAe.png" group-title="France",BeIN Sports 2 FR (TT)
 plugin://script.module.tt/play/51/play.pvr
@@ -196,7 +187,7 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 plugin://plugin.video.youtube/play/?video_id=c7QHJNd1TkM
 
 #EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25 (UPD)
-http://teledunet.com:25461/live/tdn/182760034499/51431.m3u8
+http://teledunet.com:25461/live/tdn/309286176623/51431.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="CINE CLASSIC" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="France",CINE+ CLASSIC
 http://stream-e30453a4b.nmbs.top/m3u/France/f15a49d5e5.m3u8|User-Agent=VLC
@@ -318,10 +309,10 @@ plugin://plugin.video.youtube/play/?video_id=g-SsXzf3U40
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xqjkfz
 
 #EXTINF:-1 tvg-id="France" tvg-name="EuroSport 1" tvg-logo="https://i.imgur.com/vNuqdwU.png" group-title="France",EuroSport 1 (UPD)
-http://teledunet.com:25461/live/tdn/393636846796/10364.m3u8
+http://teledunet.com:25461/live/tdn/309286135556/10364.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="EuroSport 2" tvg-logo="https://i.imgur.com/3xQRIoq.png" group-title="France",EuroSport 2 (UPD)
-http://teledunet.com:25461/live/tdn/354056872715/10365.m3u8
+http://teledunet.com:25461/live/tdn/309286135557/10365.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVOFZs.png" group-title="",evandis
 https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
@@ -525,7 +516,7 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 # update link : https://www.melody.tv/en-direct .. need update everyday #
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY (update everyday)
-https://str81.creacast.com/telemelody/aab9bfaf4a53f268e8b9eb2df1aac517/chunklist_w824336496_b1028000_t64SGlnaA==.m3u8
+https://str81.creacast.com/telemelody/18273ad5c6625ff731fb1d0180cf8105/chunklist_w544870215_b1028000_t64SGlnaA==.m3u8
 
 # update link :  #
 #EXTINF:-1 tvg-id="France" tvg-name="LCI" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="France",LCI
