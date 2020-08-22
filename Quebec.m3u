@@ -156,9 +156,12 @@ plugin://plugin.video.youtube/play/?video_id=GB68wg8_ZYs
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT)
 plugin://plugin.video.youtube/play/?video_id=CMSlqy46INI
 
-#EXTINF:-1 tvg-logo="https://centrenationalbromont.com/wp-content/uploads/2020/01/Badge-BMX-pour-fond-rouge-e1580415345120.png" group-title="",COUPE DU QUÉBEC BMX
+#EXTINF:-1 tvg-logo="https://centrenationalbromont.com/wp-content/uploads/2020/01/Badge-BMX-pour-fond-rouge-e1580415345120.png" group-title="",COUPE DU QUÉBEC BMX (YT)
 plugin://plugin.video.youtube/play/?video_id=M69w4DqTkoA
 
+# https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="",Reseau sismique du Quebec (YT)
+plugin://plugin.video.youtube/play/?video_id=pYECyagMvo8
 
 ####
 
