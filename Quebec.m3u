@@ -159,6 +159,10 @@ plugin://plugin.video.youtube/play/?video_id=CMSlqy46INI
 #EXTINF:-1 tvg-logo="https://centrenationalbromont.com/wp-content/uploads/2020/01/Badge-BMX-pour-fond-rouge-e1580415345120.png" group-title="",COUPE DU QUÉBEC BMX (YT)
 plugin://plugin.video.youtube/play/?video_id=M69w4DqTkoA
 
+# https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="",Intermède QC (YT)
+plugin://plugin.video.youtube/play/?video_id=psqTrmRwz3g
+
 # https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="",Reseau sismique du Quebec (YT)
 plugin://plugin.video.youtube/play/?video_id=pYECyagMvo8
