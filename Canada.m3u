@@ -102,7 +102,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8|User-Agent=VLC
 
 # Update Link https://www.chch.com/live/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD)
-https://flowcaster1-uo.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w7163310_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU5NzYzNjU4MiZpaW1hZTBVQzJhaGFzaD1TR1RsT1RUV1V2RWVOSWFhTzNoUmozVVJOWVpubmQzSzhCNlJWaXR0NndRPQ==.m3u8
+https://flowcaster1-sh.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w1318156418_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU5ODExODkyNSZpaW1hZTBVQzJhaGFzaD1HQ0VQLUx2dUlnMGVRSmdjdEI5bFoweGZ0MVQzZWpRZEp2LTRROE9IT25rPQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/playlist.m3u8
@@ -467,11 +467,11 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 
 # Update Link : http://www.iipccanada.com/2017/12/26/iipc-tv-urdu/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD)
-https://edge1.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w1876921457_b2147420.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD1tN3VwYXJhNzBjaDllNDlqa3BmMWhmOW1idSZ1SUQ9MCZ1TmFtZT1HdWVzdGM1ODA3&id=kzAaGHoNhF-ZKxUoAL35
+https://edge2.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w881367165_b2142304.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD1qaTdubjk5N2d0bHM4N2ltMHJudnNuajU3aiZ1SUQ9MCZ1TmFtZT1HdWVzdDExNDBl&id=eJQ6JmiRJ2wfF0Y8AX8q
 
 # Update Link : http://itctv.ca/live/ #
 #EXTINF:-1 tvg-logo="http://itctv.ca/wp-content/uploads/2018/10/LOGO.png" group-title="",itctv (UPD)
-https://dcunilive89-lh.akamaihd.net/i/dclive_1@827634/master.m3u8?hdnea=st=1597633796~exp=1597634196~acl=/i/dclive_1@827634*~hmac=154da8d0734d9872fdabd4555eab899510ba6f1b2f6a369be0f12159e66a41be
+https://dcunilive89-lh.akamaihd.net/i/dclive_1@827634/master.m3u8?hdnea=st=1598104648~exp=1598105048~acl=/i/dclive_1@827634*~hmac=ba1688dc0062b5a18a953c85c7d151073793697fc59cf6d036c3176a2ed3b101
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfXOgXT.png" group-title="",Lord TV
 https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/playlist.m3u8
