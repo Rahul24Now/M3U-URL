@@ -142,11 +142,11 @@ plugin://plugin.video.youtube/play/?video_id=oWViRaTztTc
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT)
-plugin://plugin.video.youtube/play/?video_id=A23XZsaRAaA
+plugin://plugin.video.youtube/play/?video_id=Op-BawByzUQ
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=Ctm-7JcJ5HM
+plugin://plugin.video.youtube/play/?video_id=xYGw9IXKYgg
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT)
@@ -155,6 +155,10 @@ plugin://plugin.video.youtube/play/?video_id=GB68wg8_ZYs
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT)
 plugin://plugin.video.youtube/play/?video_id=CMSlqy46INI
+
+#EXTINF:-1 tvg-logo="https://centrenationalbromont.com/wp-content/uploads/2020/01/Badge-BMX-pour-fond-rouge-e1580415345120.png" group-title="",COUPE DU QUÉBEC BMX
+plugin://plugin.video.youtube/play/?video_id=M69w4DqTkoA
+
 
 ####
 
