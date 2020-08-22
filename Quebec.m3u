@@ -167,6 +167,10 @@ plugin://plugin.video.youtube/play/?video_id=psqTrmRwz3g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="",Reseau sismique du Quebec (YT)
 plugin://plugin.video.youtube/play/?video_id=pYECyagMvo8
 
+# https://www.youtube.com/channel/UCNS2COrDIXNopzZmCoo5-QQ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6IuDvy0.png" group-title="",Giuliana La fée de l'Ouest (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=rytgB_WrXcA
+
 ####
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★[COLOR mediumblue]Radio Du Quebec[/COLOR]★★★★★
