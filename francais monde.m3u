@@ -100,6 +100,9 @@ http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WwHhb0k.png" group-title="",CAM 10 TV
 http://connectiktv.ddns.net:5000/cam10tv/cam10tv/chunklist_w1470349587.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.canal2international.net/images/logo.png" group-title="",Canal 2 International (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7v9nky
+
 #EXTINF:-1tvg-id="Fr" tvg-logo="https://i.imgur.com/GxSZcYi.png" group-title="Undefined",Canal Algerie
 https://edge-07.playmedia-cdn.net/origin02/amlst:canal-algerie/chunklist_w822937016_b800000.m3u8?dar=sd&t=18ddf1b11ff0fbb27659a265b39d112652bcd721a60013dba602ff86884b4c70b6ea09ab3c58a004fb3301613711a7ff2d81262dc047fd0eba3a64d30c5c8c15c1f639a23c907db0d67445dacf521a75f257e28fe15b3f40e9a16b52a5a1459d4ce4d7b3660c6d09dbeedee0fa7ca47c61173436884e3c142f09994896f1fb8c3b5049b34734231ae408b496b1e0639499ce4237a5a16a9bd6775a5603826538c9bd4a44bd5b506f570078e36be5b9bcf3ebd0e8538255a9
 
