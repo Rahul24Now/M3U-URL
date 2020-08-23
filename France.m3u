@@ -947,6 +947,10 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x35m6bz
 #EXTINF:-1 tvg-id="France" tvg-name="Voyage tv FR"  tvg-logo="https://i.imgur.com/NNqInil.png" group-title="France",Voyage tv FR (TT)
 plugin://script.module.tt/play/765/play.pvr
 
+# update link : https://www.dailymotion.com/video/x7mxymy #
+#EXTINF:-1 tvg-logo="https://operator-front-static-cdn.winamax.fr/img/style/v2/common/logo-highlight.png" group-title="",Winamax TV (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7mxymy
+
 #EXTINF:-1 tvg-id="France" tvg-name="Ushuaia tv FR"  tvg-logo="https://i.imgur.com/nOzZS8a.png" group-title="France",Ushuaia tv FR (TT)
 plugin://script.module.tt/play/766/play.pvr
 
