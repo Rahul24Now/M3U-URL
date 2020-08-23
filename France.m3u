@@ -806,6 +806,11 @@ https://origin2.dvmr.fr/hls/tvfil78/tvfil78-500k/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="TV LOURDES" tvg-logo="https://i.ibb.co/JxdPW6P/TV-Lourdes.png" group-title="France",TV LOURDES (YT)
 plugin://plugin.video.youtube/play/?video_id=EBSyUYeU80Q
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUBFzHx.png" group-title="",tv-pitchoun (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5zaibr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUBFzHx.png" group-title="",tv-pitchoun Musique (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7ti51o
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TVPI Bayonne" tvg-logo="http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg" group-title="France",TVPI Bayonne
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w678893900.m3u8
