@@ -321,6 +321,9 @@ https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist
 #EXTINF:-1 tvg-id="France" tvg-name="France info" tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png" group-title="France",France info (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x4rdeu6
 
+#EXTINF:-1 tvg-id="France" tvg-name="France info" tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png" group-title="France",franceinfo (direct radio) (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x26eox4
+
 # update link : https://www.franceinter.fr/direct #
 #EXTINF:-1 tvg-id="France" tvg-name="France Inter" tvg-logo="https://www.franceinter.fr/img/apple-touch-icon-180x180-precomposed.png" group-title="France",France Inter (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x17qw0a
