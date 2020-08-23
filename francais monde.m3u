@@ -44,7 +44,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6i37o5
 
 # https://www.youtube.com/channel/UC25EuGAePOPvPrUA5cmu3dQ #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://fr.africanews.com/apple-touch-icon-180x180.png" group-title="",Africanews (YT) (Opt-2) (UPD)
-plugin://plugin.video.youtube/play/?video_id=4D9L2wlS_hE
+plugin://plugin.video.youtube/play/?video_id=VClldaoPuF4
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://africasports.tv/assets/images/favicon192.png" group-title="AfricaSports TV",AfricaSports
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
