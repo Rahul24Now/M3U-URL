@@ -383,6 +383,9 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/LdBDXGq.png" group-title="",Plex TV (OPT-2)
 http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist_w640810700.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UJKO70.png" group-title="",Radio Gabon (YT)
+plugin://plugin.video.youtube/play/?video_id=ju7z3lW3xR0
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/6EEHWNg.jpg" group-title="",Radio Tele Ginen | Chaine 18
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
 
