@@ -448,6 +448,7 @@ https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAezGlK.png" group-title="",Tele24 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7um00d
 
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/dmRO6Ek.jpg" group-title="",Tele Univers | Chaine 6
 https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
 
@@ -468,6 +469,9 @@ http://41.213.129.46:8080/2.ts
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/vZmlq9N.jpg" group-title="",Tele Louange
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuDd4hY.png" group-title="",Tele Shalom(DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7u4q05
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tgvN6s3.jpg" tvg-country="HT" tvg-url="" group-title="",Tele Soleil
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
