@@ -359,6 +359,9 @@ http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
 #EXTINF:-1 tvg-logo="http://ortb.bj/wp-content/uploads/2020/03/logo2.png" group-title="",ortb
 https://edge2.vedge.infomaniak.com/livecast/ik:ortb/manifest.m3u8?spark=66488c14-93a1-4efe-9346-06251308b8b0&token=
 
+#EXTINF:-1 tvg-logo="https://maliactu.net/wp-content/uploads/2018/03/MALIACTU5.png" group-title="",ORTM Mali TV (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7ta54o
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjHVedV.png" group-title="",OTHER CHANNEL
 http://connectiktv.ddns.net:5000/otherchannel/otherchannel@/chunklist_w576014028.m3u8
 
