@@ -130,7 +130,7 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT)
-plugin://plugin.video.youtube/play/?video_id=pcnq6RCG69w
+plugin://plugin.video.youtube/play/?video_id=LYic-tq6nPY
 
 # update link  https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Quebec TV",CILE Havre-Saint-Pierre (YT)
