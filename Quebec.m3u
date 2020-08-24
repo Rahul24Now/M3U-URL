@@ -169,11 +169,8 @@ plugin://plugin.video.youtube/play/?video_id=rytgB_WrXcA
 
 ####
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Films[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rozA2zY.png",★★★★★★★★★★[COLOR red]Films[/COLOR]★★★★★★★★★★
 0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/540.jpg" group-title="",Le rire
-https://fr13.seedr.cc/media/video/lq_hls/ab664ddc2f0185e5a28043b5b464936fa4fa449d/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/557.jpg" group-title="",Le trésor des Walton
 https://fr2.seedr.cc/media/video/lq_hls/acebdc53246d0f71cd0d7ffb3d31fe5371126905/vid.m3u8
@@ -220,7 +217,26 @@ https://nl28.seedr.cc/media/video/hd_hls/be9328a19e84a1872d1de0c7f3cf6870db6e41e
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/541.jpg" group-title="",Les Mondes parallèles
 https://nl24.seedr.cc/media/video/hd_hls/e8c46733fc07a83eedaacb0643ddfe992deb0432/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/176.jpg" group-title="",Ip Man 
+https://fr7.seedr.cc/media/video/hd_hls/efb51b2dfea82ba1cbfaad86377cdf04eb2736c8/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/177.jpg" group-title="",Ip Man 2
+https://fr7.seedr.cc/media/video/hd_hls/daebde502c0ae86cb104c844d5270e41590ddc9a/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/178.jpg" group-title="",Ip Man 3
+https://fr7.seedr.cc/media/video/hd_hls/f3586f72f0e6821e5a565f8caf0edeabc2467944/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/149.jpg" group-title="",Ip Man 4
+https://nl38.seedr.cc/media/video/lq_hls/ca368980468dfbe9d5752703141958349efdc294/vid.m3u8
+
+
 #####
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Films Quebec[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/540.jpg" group-title="",Le rire 2020
+https://fr13.seedr.cc/media/video/lq_hls/ab664ddc2f0185e5a28043b5b464936fa4fa449d/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://img3.cdn.cinoche.com/images/c66d13308e4bce2f28ab5b99913a97d8.jpg" group-title="",DE PERE EN FLIC 1 2009 (YT)
 plugin://plugin.video.youtube/play/?video_id=
