@@ -265,7 +265,7 @@ plugin://plugin.video.youtube/play/?video_id=goVs9eTkm38
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R20T5tC.jpg" group-title="",EGO TRIP (YT)
 plugin://plugin.video.youtube/play/?video_id=0xJ3i4U6BPc
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xMYWv7J.jpg" group-title="",15 février 1839
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xMYWv7J.jpg" group-title="",15 février 1839 (YT)
 plugin://plugin.video.youtube/play/?video_id=mY3Iqd3J5g4
 
 ######
