@@ -265,6 +265,9 @@ plugin://plugin.video.youtube/play/?video_id=0xJ3i4U6BPc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xMYWv7J.jpg" group-title="",15 février 1839 (YT)
 plugin://plugin.video.youtube/play/?video_id=mY3Iqd3J5g4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jW4aM84.jpg" group-title="",Menteur (YT)
+plugin://plugin.video.youtube/play/?video_id=iC42-sdLrQ4
+
 ######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
