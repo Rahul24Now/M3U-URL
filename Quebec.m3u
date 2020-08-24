@@ -226,6 +226,18 @@ plugin://plugin.video.youtube/play/?video_id=UQM1_PMMwHA
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgwYWYwYTktYjNjMi00ZmRhLTg0MzYtMTJhOWU0ZjFiNjc2XkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_.jpg" group-title="",les voisins 1987 (YT)
 plugin://plugin.video.youtube/play/?video_id=-RpYi_Vuviw
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1MjQxNzcyMF5BMl5BanBnXkFtZTcwNDA5NDIyMQ@@._V1_UY268_CR7,0,182,268_AL_.jpg" group-title="",Elvis Gratton : Le king des kings (YT)
+plugin://plugin.video.youtube/play/?video_id=wCk04lh3r3Q
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2NzEzNTIxNjJeQTJeQWpwZ15BbWU4MDM0NzAwMTIx._V1_.jpg" group-title="",Elvis Gratton 2 - Miracle à Memphis (YT)
+plugin://plugin.video.youtube/play/?video_id=NkdZ5tTwu-0
+
+#EXTINF:-1 tvg-logo="https://img5.cdn.cinoche.com/images/0e031b2304614e8f74177f9cd18359f8.jpg" group-title="",Elvis Gratton XXX (YT)
+plugin://plugin.video.youtube/play/?video_id=EevP9ZmXfhs
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODI5YTAzYWQtZWI3Yi00MGUwLWIyMDUtZGIwNWVhM2I5MjM1XkEyXkFqcGdeQXVyNDI0NjM3MDE@._V1_.jpg" group-title="",Matroni Et Moi (YT)
+plugin://plugin.video.youtube/play/?video_id=ruTvFVtv6zI
+
 
 ######
 
