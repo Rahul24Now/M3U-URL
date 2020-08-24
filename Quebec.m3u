@@ -282,6 +282,9 @@ plugin://plugin.video.youtube/play/?video_id=i-g6w7MaaII
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zur3XWe.jpg" group-title="",l’Homme le plus fort du Monde - Louis Cyr (YT)
 plugin://plugin.video.youtube/play/?video_id=R6JOn_fKurQ
 
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2010/11/appat.jpg" group-title="",L'Appât
+plugin://plugin.video.youtube/play/?video_id=DkXrLruqLsI
+
 ######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
