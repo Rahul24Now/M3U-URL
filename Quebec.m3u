@@ -250,6 +250,8 @@ plugin://plugin.video.youtube/play/?video_id=i2PEStfCnWQ
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/02/laura-cadieux-suite_VHS.jpg" group-title="",Laura Cadieux - la suite (YT)
 plugin://plugin.video.youtube/play/?video_id=FWcASsriE08
 
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/05/sans-dessein.jpg" group-title="",Sans Dessein (YT)
+plugin://plugin.video.youtube/play/?video_id=K1PvB_Bsm4k
 
 ######
 
