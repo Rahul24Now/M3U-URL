@@ -253,11 +253,14 @@ plugin://plugin.video.youtube/play/?video_id=FWcASsriE08
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/05/sans-dessein.jpg" group-title="",Sans Dessein (YT)
 plugin://plugin.video.youtube/play/?video_id=K1PvB_Bsm4k
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oLKmMSz.jpg" group-title="",Les Dangereux
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLKmMSz.jpg" group-title="",Les Dangereux (YT)
 plugin://plugin.video.youtube/play/?video_id=8wHjZTkFTqY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb8wMOW.jpg" group-title="",La guerre des tuques
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb8wMOW.jpg" group-title="",La guerre des tuques (YT)
 plugin://plugin.video.youtube/play/?video_id=goVs9eTkm38
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R20T5tC.jpg" group-title="",EGO TRIP (YT)
+plugin://plugin.video.youtube/play/?video_id=0xJ3i4U6BPc
 
 ######
 
