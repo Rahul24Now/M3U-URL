@@ -217,7 +217,11 @@ https://fr8.seedr.cc/media/video/lq_hls/732cb123095fc5dad290e0e8249f68e3e0d9c415
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/499.jpg" group-title="",Dreamkatcher
 https://nl20.seedr.cc/media/video/hd_hls/52b75b572a3c27deec1f0836a9859905a9168930/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://img3.cdn.cinoche.com/images/c66d13308e4bce2f28ab5b99913a97d8.jpg" group-title="",DE PERE EN FLIC 1 (YT)
+plugin://plugin.video.youtube/play/?video_id=
 
+#EXTINF:-1 tvg-logo="https://img4.cdn.cinoche.com/images/5bcc9006866d1bfd40254b1f0a88d746.jpg" group-title="",De Pere en Flic 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=UQM1_PMMwHA
 
 ######
 
