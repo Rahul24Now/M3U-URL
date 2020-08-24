@@ -244,6 +244,13 @@ plugin://plugin.video.youtube/play/?video_id=nEZ-tPDEHIo
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/redemption_finale.jpg" group-title="",Rédemption (2013) (YT)
 plugin://plugin.video.youtube/play/?video_id=GNS43XBCMoI
 
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/cta-ton-tour-laura-cadieux.jpg" group-title="",Laura Cadieux - Cta ton tour (YT)
+plugin://plugin.video.youtube/play/?video_id=i2PEStfCnWQ
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/02/laura-cadieux-suite_VHS.jpg" group-title="",Laura Cadieux - la suite (YT)
+plugin://plugin.video.youtube/play/?video_id=FWcASsriE08
+
+
 ######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
