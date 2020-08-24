@@ -276,6 +276,12 @@ plugin://plugin.video.youtube/play/?video_id=iC42-sdLrQ4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VMdLPAw.jpg" group-title="",Les Lavigueur déménagent (YT)
 plugin://plugin.video.youtube/play/?video_id=1xAb8YbKtoc
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mCbK3nM.jpg" group-title="",Les Lavigueur redéménagent (YT)
+plugin://plugin.video.youtube/play/?video_id=thuIkPTdm3I
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGle3yM.jpg" group-title="",Les Lavigueur  Le Retour (YT)
+plugin://plugin.video.youtube/play/?video_id=jljSbjDfuxE
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/beA2rfq.jpg" group-title="",Le Grand Départ (YT)
 plugin://plugin.video.youtube/play/?video_id=i-g6w7MaaII
 
