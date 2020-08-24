@@ -124,6 +124,20 @@ https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 
 ####
 
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Youtube.png?raw=true",★★★★★★★★★★[COLOR red]Film[/COLOR]★★★★★★★★★★
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/540.jpg" group-title="",Le rire
+https://fr13.seedr.cc/media/video/lq_hls/ab664ddc2f0185e5a28043b5b464936fa4fa449d/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/557.jpg" group-title="",Le trésor des Walton
+https://fr2.seedr.cc/media/video/lq_hls/acebdc53246d0f71cd0d7ffb3d31fe5371126905/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/305.jpg" group-title="",L'appel de la forêt
+https://nl24.seedr.cc/media/video/hd_hls/b667fe13f8ed128be60841db8b35b28e81190a75/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/558.jpg" group-title="",Les Ours Boonie : L'aventure préhistorique 
+https://fr2.seedr.cc/media/video/lq_hls/5011b9a1feb8e6826b43a3a2c8a2f40b2a392555/vid.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Youtube.png?raw=true",★★★★★★★★★★[COLOR red]Youtube QC Live[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
