@@ -253,6 +253,9 @@ plugin://plugin.video.youtube/play/?video_id=FWcASsriE08
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/05/sans-dessein.jpg" group-title="",Sans Dessein (YT)
 plugin://plugin.video.youtube/play/?video_id=K1PvB_Bsm4k
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLKmMSz.jpg" group-title="",Les Dangereux
+plugin://plugin.video.youtube/play/?video_id=8wHjZTkFTqY
+
 ######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
