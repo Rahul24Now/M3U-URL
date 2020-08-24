@@ -256,6 +256,9 @@ plugin://plugin.video.youtube/play/?video_id=K1PvB_Bsm4k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oLKmMSz.jpg" group-title="",Les Dangereux
 plugin://plugin.video.youtube/play/?video_id=8wHjZTkFTqY
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFhMTBmYTItNjM4Ni00OTIxLTk5MDYtYjA3NGI0ZDkxMmYwXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_UY1200_CR66,0,630,1200_AL_.jpg" group-title="",La guerre des tuques
+plugin://plugin.video.youtube/play/?video_id=goVs9eTkm38
+
 ######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
