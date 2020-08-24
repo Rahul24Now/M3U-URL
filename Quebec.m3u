@@ -214,6 +214,11 @@ https://fr8.seedr.cc/media/video/lq_hls/732cb123095fc5dad290e0e8249f68e3e0d9c415
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/499.jpg" group-title="",Dreamkatcher
 https://nl20.seedr.cc/media/video/hd_hls/52b75b572a3c27deec1f0836a9859905a9168930/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/448.jpg" group-title="",USS Greyhound - La bataille de l'Atlantique
+https://nl28.seedr.cc/media/video/hd_hls/be9328a19e84a1872d1de0c7f3cf6870db6e41e6/vid.m3u8
+
+#####
+
 #EXTINF:-1 tvg-logo="https://img3.cdn.cinoche.com/images/c66d13308e4bce2f28ab5b99913a97d8.jpg" group-title="",DE PERE EN FLIC 1 2009 (YT)
 plugin://plugin.video.youtube/play/?video_id=
 
@@ -267,6 +272,10 @@ plugin://plugin.video.youtube/play/?video_id=mY3Iqd3J5g4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jW4aM84.jpg" group-title="",Menteur (YT)
 plugin://plugin.video.youtube/play/?video_id=iC42-sdLrQ4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VMdLPAw.jpg" group-title="",Les Lavigueur déménagent (YT)
+plugin://plugin.video.youtube/play/?video_id=1xAb8YbKtoc
+
 
 ######
 
