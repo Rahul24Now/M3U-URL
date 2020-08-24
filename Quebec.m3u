@@ -291,6 +291,9 @@ plugin://plugin.video.youtube/play/?video_id=kNSIQNRZ4BI
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2017/07/karmina_filmsquebecdotcom.jpg" group-title="",karmina (YT)
 plugin://plugin.video.youtube/play/?video_id=xLscFI5qZAg
 
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/jen-suis_fournier.jpg" group-title="",jen suis (YT)
+plugin://plugin.video.youtube/play/?video_id=7qwm0pAQ4xw
+
 
 ######
 
