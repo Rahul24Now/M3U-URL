@@ -241,6 +241,9 @@ plugin://plugin.video.youtube/play/?video_id=ruTvFVtv6zI
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/bon_cop_bad_cop.jpg" group-title="",Bon Cop, Bad Cop 2006 (YT)
 plugin://plugin.video.youtube/play/?video_id=nEZ-tPDEHIo
 
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/redemption_finale.jpg" group-title="",Rédemption (2013) (YT)
+plugin://plugin.video.youtube/play/?video_id=GNS43XBCMoI
+
 ######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
