@@ -306,6 +306,12 @@ plugin://plugin.video.youtube/play/?video_id=h6oKNrOhvIQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NqpBqe.jpg" group-title="",Aurore, l'enfant martyre 2005 (YT)
 plugin://plugin.video.youtube/play/?video_id=KgVGzbPaUgQ
 
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/02/matusalem.jpg" group-title="",Matusalem (1993) (YT)
+plugin://plugin.video.youtube/play/?video_id=WmVqnSNgifo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPcDAhp.jpg" group-title="",Matusalem 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=12hD4IndDSA
+
 ######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
