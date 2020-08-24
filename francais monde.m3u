@@ -241,6 +241,9 @@ https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
 #EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/QyK7qc0.png" group-title="l'ile de la REUNION ",Kanal Austral TV (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=CBV83RRfGFQ
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNHwGp9.png" group-title="",KOLOTV (TWITCH)
+plugin://plugin.video.twitch/?channel_id=231145235&amp;mode=play
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/ikVXLgc.png" group-title="",Ivoire Channel
 http://gamako.livebox.co.in/ivoirechannelhls/ivoirechannel.m3u8
 
