@@ -279,6 +279,9 @@ plugin://plugin.video.youtube/play/?video_id=1xAb8YbKtoc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/beA2rfq.jpg" group-title="",Le Grand Départ (YT)
 plugin://plugin.video.youtube/play/?video_id=i-g6w7MaaII
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zur3XWe.jpg" group-title="",l’Homme le plus fort du Monde - Louis Cyr (YT)
+plugin://plugin.video.youtube/play/?video_id=R6JOn_fKurQ
+
 ######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
