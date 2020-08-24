@@ -125,19 +125,19 @@ https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/bellahdjel #
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT)
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=LYic-tq6nPY
 
 # update link  https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Quebec TV",CILE Havre-Saint-Pierre (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Quebec TV",CILE Havre-Saint-Pierre (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=AUISenV3ocg
 
 # update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT) 
 plugin://plugin.video.youtube/play/?video_id=oWViRaTztTc
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
-#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT)
+#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=Op-BawByzUQ
 
 # update link https://www.youtube.com/user/ctmq #
@@ -145,22 +145,19 @@ plugin://plugin.video.youtube/play/?video_id=Op-BawByzUQ
 plugin://plugin.video.youtube/play/?video_id=xYGw9IXKYgg
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT)
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=GB68wg8_ZYs
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
-#EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT)
+#EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=K0wLN-Ufe0A
 
-#EXTINF:-1 tvg-logo="https://centrenationalbromont.com/wp-content/uploads/2020/01/Badge-BMX-pour-fond-rouge-e1580415345120.png" group-title="",COUPE DU QUÉBEC BMX (YT)
-plugin://plugin.video.youtube/play/?video_id=RY7F-g4rMzo
-
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="",Intermède QC (YT)
-plugin://plugin.video.youtube/play/?video_id=xQErjZ8F39M
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="",Intermède QC (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=EFqWgrYlK4Y
 
 # https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="",Reseau sismique du Quebec (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="",Reseau sismique du Quebec (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=pYECyagMvo8
 
 # https://www.youtube.com/channel/UCNS2COrDIXNopzZmCoo5-QQ #
