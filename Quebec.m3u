@@ -300,6 +300,11 @@ plugin://plugin.video.youtube/play/?video_id=xLscFI5qZAg
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/jen-suis_fournier.jpg" group-title="",jen suis (YT)
 plugin://plugin.video.youtube/play/?video_id=7qwm0pAQ4xw
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEAYOoT.jpg" group-title="",LA PETITE AURORE, L'ENFANT MARTYRE 1952 (YT)
+plugin://plugin.video.youtube/play/?video_id=h6oKNrOhvIQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NqpBqe.jpg" group-title="",Aurore, l'enfant martyre 2005 (YT)
+plugin://plugin.video.youtube/play/?video_id=KgVGzbPaUgQ
 
 ######
 
