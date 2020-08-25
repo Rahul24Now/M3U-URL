@@ -156,6 +156,9 @@ plugin://plugin.video.youtube/play/?video_id=K0wLN-Ufe0A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="",Intermède QC (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=p3JnxC-p6PM
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="",Intermède QC (OPT-2) (TWITCH)
+plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
+
 # https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="",Reseau sismique du Quebec (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=Soxb4mKbVUo
