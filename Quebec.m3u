@@ -4,7 +4,7 @@
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
 # update link: #
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true"  group-title="<Quebec TV,TVA 720
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true"  group-title="Quebec TV",TVA 720
 https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true" group-title="Quebec TV",TVA 1080
@@ -29,7 +29,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 https://assimilator.tv/lcn/7f164448fa998ee627de53e5495c26da21bbbe3a/index_750_av-p.m3u8?title=lcn&sd=10&rebase=on
 
 # update link: #
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Canadian TV",ICI Tele Montreal
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Quebec TV",ICI Tele Montreal
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Acadie
@@ -44,13 +44,13 @@ https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Est-Quebec
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Estrie
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Quebec TV",ICI Tele Estrie
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Manitoba
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Mauricie
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Quebec TV",ICI Tele Mauricie
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Ontario
@@ -59,17 +59,17 @@ https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Ottawa-Gatineau
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Quebec
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Quebec TV",ICI Tele Quebec
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Saguenay
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Quebec TV",ICI Tele Saguenay
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 
 # update link: #
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ici-television.png?raw=true" group-title="Canadian TV",ICI TV
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ici-television.png?raw=true" group-title="Quebec TV",ICI TV
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 # update link: #
@@ -85,7 +85,7 @@ https://hls.savoir.media/live/stream.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 
 # update link: https://ctbtv.ca/ #
-#EXTINF:-1 tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Quebec TV,CTB-TV
+#EXTINF:-1 tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Quebec TV",CTB-TV
 https://fl001.elpcinc.com/CTB-TV/index.m3u8
 
 # update link: #
@@ -109,10 +109,10 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tcmontrealnetwork.com/wp-content/uploads/2016/02/logo-tcmn.png" group-title="Canadian TV",TCM-TV
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p (KODI)
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Quebec TV",Yoppa 720p (KODI)
 http://stream-e30453a4b.nmbs.top/m3u/Canada/d0dfa22a3f.m3u8|User-Agent=VLC
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Quebec TV",Yoppa 720p
 http://stream-e30453a4b.nmbs.top/m3u/Canada/d0dfa22a3f.m3u8
 
 #EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal
@@ -156,18 +156,18 @@ plugin://plugin.video.youtube/play/?video_id=GB68wg8_ZYs
 plugin://plugin.video.youtube/play/?video_id=K0wLN-Ufe0A
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="",Intermède QC (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=p3JnxC-p6PM
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="",Intermède QC (OPT-2) (TWITCH)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
 # update link: https://kracradio.com/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="",kracradio(TWITCH)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio(TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
 # https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="",Reseau sismique du Quebec (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=Soxb4mKbVUo
 
 # https://www.youtube.com/channel/UCNS2COrDIXNopzZmCoo5-QQ #
@@ -277,100 +277,100 @@ https://sf1.seedr.cc/media/video/hd_hls/fr9/03f947386580a92bdc30bd7ee378f737bd00
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Films Quebec[/COLOR]★★★★★★★★★★
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/540.jpg" group-title="",Le rire 2020
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/540.jpg" group-title="Quebec Film",Le rire 2020
 https://fr13.seedr.cc/media/video/lq_hls/ab664ddc2f0185e5a28043b5b464936fa4fa449d/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://img3.cdn.cinoche.com/images/c66d13308e4bce2f28ab5b99913a97d8.jpg" group-title="",DE PERE EN FLIC 1 2009 (YT)
+#EXTINF:-1 tvg-logo="https://img3.cdn.cinoche.com/images/c66d13308e4bce2f28ab5b99913a97d8.jpg" group-title="Quebec Film",DE PERE EN FLIC 1 2009 (YT)
 plugin://plugin.video.youtube/play/?video_id=
 
-#EXTINF:-1 tvg-logo="https://img4.cdn.cinoche.com/images/5bcc9006866d1bfd40254b1f0a88d746.jpg" group-title="",De Pere en Flic 2 2017 (YT)
+#EXTINF:-1 tvg-logo="https://img4.cdn.cinoche.com/images/5bcc9006866d1bfd40254b1f0a88d746.jpg" group-title="Quebec Film",De Pere en Flic 2 2017 (YT)
 plugin://plugin.video.youtube/play/?video_id=UQM1_PMMwHA
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgwYWYwYTktYjNjMi00ZmRhLTg0MzYtMTJhOWU0ZjFiNjc2XkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_.jpg" group-title="",les voisins 1987 (YT)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgwYWYwYTktYjNjMi00ZmRhLTg0MzYtMTJhOWU0ZjFiNjc2XkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_.jpg" group-title="Quebec Film",les voisins 1987 (YT)
 plugin://plugin.video.youtube/play/?video_id=-RpYi_Vuviw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k8kOOpL.jpg" group-title="",Elvis Gratton - Le king des kings (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8kOOpL.jpg" group-title="Quebec Film",Elvis Gratton - Le king des kings (YT)
 plugin://plugin.video.youtube/play/?video_id=wCk04lh3r3Q
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2NzEzNTIxNjJeQTJeQWpwZ15BbWU4MDM0NzAwMTIx._V1_.jpg" group-title="",Elvis Gratton 2 - Miracle à Memphis (YT)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2NzEzNTIxNjJeQTJeQWpwZ15BbWU4MDM0NzAwMTIx._V1_.jpg" group-title="Quebec Film",Elvis Gratton 2 - Miracle à Memphis (YT)
 plugin://plugin.video.youtube/play/?video_id=NkdZ5tTwu-0
 
-#EXTINF:-1 tvg-logo="https://img5.cdn.cinoche.com/images/0e031b2304614e8f74177f9cd18359f8.jpg" group-title="",Elvis Gratton XXX (YT)
+#EXTINF:-1 tvg-logo="https://img5.cdn.cinoche.com/images/0e031b2304614e8f74177f9cd18359f8.jpg" group-title="Quebec Film",Elvis Gratton XXX (YT)
 plugin://plugin.video.youtube/play/?video_id=EevP9ZmXfhs
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODI5YTAzYWQtZWI3Yi00MGUwLWIyMDUtZGIwNWVhM2I5MjM1XkEyXkFqcGdeQXVyNDI0NjM3MDE@._V1_.jpg" group-title="",Matroni Et Moi (YT)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODI5YTAzYWQtZWI3Yi00MGUwLWIyMDUtZGIwNWVhM2I5MjM1XkEyXkFqcGdeQXVyNDI0NjM3MDE@._V1_.jpg" group-title="Quebec Film",Matroni Et Moi (YT)
 plugin://plugin.video.youtube/play/?video_id=ruTvFVtv6zI
 
-#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/bon_cop_bad_cop.jpg" group-title="",Bon Cop Bad Cop  (YT)
+#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/bon_cop_bad_cop.jpg" group-title="Quebec Film",Bon Cop Bad Cop  (YT)
 plugin://plugin.video.youtube/play/?video_id=nEZ-tPDEHIo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MQHwXTN.jpg" group-title="",Bon Cop Bad Cop 2 (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQHwXTN.jpg" group-title="Quebec Film",Bon Cop Bad Cop 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=EY1cIDjXhXY
 
-#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/redemption_finale.jpg" group-title="",Rédemption (2013) (YT)
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/redemption_finale.jpg" group-title="Quebec Film",Rédemption (2013) (YT)
 plugin://plugin.video.youtube/play/?video_id=GNS43XBCMoI
 
-#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/cta-ton-tour-laura-cadieux.jpg" group-title="",Laura Cadieux - Cta ton tour (YT)
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/cta-ton-tour-laura-cadieux.jpg" group-title="Quebec Film",Laura Cadieux - Cta ton tour (YT)
 plugin://plugin.video.youtube/play/?video_id=i2PEStfCnWQ
 
-#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/02/laura-cadieux-suite_VHS.jpg" group-title="",Laura Cadieux - la suite (YT)
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/02/laura-cadieux-suite_VHS.jpg" group-title="Quebec Film",Laura Cadieux - la suite (YT)
 plugin://plugin.video.youtube/play/?video_id=FWcASsriE08
 
-#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/05/sans-dessein.jpg" group-title="",Sans Dessein (YT)
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/05/sans-dessein.jpg" group-title="Quebec Film",Sans Dessein (YT)
 plugin://plugin.video.youtube/play/?video_id=K1PvB_Bsm4k
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oLKmMSz.jpg" group-title="",Les Dangereux (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLKmMSz.jpg" group-title="Quebec Film",Les Dangereux (YT)
 plugin://plugin.video.youtube/play/?video_id=8wHjZTkFTqY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb8wMOW.jpg" group-title="",La guerre des tuques (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb8wMOW.jpg" group-title="Quebec Film",La guerre des tuques (YT)
 plugin://plugin.video.youtube/play/?video_id=goVs9eTkm38
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R20T5tC.jpg" group-title="",EGO TRIP (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R20T5tC.jpg" group-title="Quebec Film",EGO TRIP (YT)
 plugin://plugin.video.youtube/play/?video_id=0xJ3i4U6BPc
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xMYWv7J.jpg" group-title="",15 février 1839 (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xMYWv7J.jpg" group-title="Quebec Film",15 février 1839 (YT)
 plugin://plugin.video.youtube/play/?video_id=mY3Iqd3J5g4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jW4aM84.jpg" group-title="",Menteur (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jW4aM84.jpg" group-title="Quebec Film",Menteur (YT)
 plugin://plugin.video.youtube/play/?video_id=iC42-sdLrQ4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VMdLPAw.jpg" group-title="",Les Lavigueur déménagent (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VMdLPAw.jpg" group-title="Quebec Film",Les Lavigueur déménagent (YT)
 plugin://plugin.video.youtube/play/?video_id=1xAb8YbKtoc
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mCbK3nM.jpg" group-title="",Les Lavigueur redéménagent (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mCbK3nM.jpg" group-title="Quebec Film",Les Lavigueur redéménagent (YT)
 plugin://plugin.video.youtube/play/?video_id=thuIkPTdm3I
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QGle3yM.jpg" group-title="",Les Lavigueur  Le Retour (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGle3yM.jpg" group-title="Quebec Film",Les Lavigueur  Le Retour (YT)
 plugin://plugin.video.youtube/play/?video_id=jljSbjDfuxE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/beA2rfq.jpg" group-title="",Le Grand Départ (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/beA2rfq.jpg" group-title="Quebec Film",Le Grand Départ (YT)
 plugin://plugin.video.youtube/play/?video_id=i-g6w7MaaII
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zur3XWe.jpg" group-title="",l’Homme le plus fort du Monde - Louis Cyr (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zur3XWe.jpg" group-title="Quebec Film",l’Homme le plus fort du Monde - Louis Cyr (YT)
 plugin://plugin.video.youtube/play/?video_id=R6JOn_fKurQ
 
-#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2010/11/appat.jpg" group-title="",L'Appât (YT)
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2010/11/appat.jpg" group-title="Quebec Film",L'Appât (YT)
 plugin://plugin.video.youtube/play/?video_id=DkXrLruqLsI
 
-#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/02/maurice-richard_rocket_CAN.jpg" group-title="",Maurice Rocket Richard (YT)
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/02/maurice-richard_rocket_CAN.jpg" group-title="Quebec Film",Maurice Rocket Richard (YT)
 plugin://plugin.video.youtube/play/?video_id=kNSIQNRZ4BI
 
-#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2017/07/karmina_filmsquebecdotcom.jpg" group-title="",karmina (YT)
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2017/07/karmina_filmsquebecdotcom.jpg" group-title="Quebec Film",karmina (YT)
 plugin://plugin.video.youtube/play/?video_id=xLscFI5qZAg
 
-#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/jen-suis_fournier.jpg" group-title="",jen suis (YT)
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/jen-suis_fournier.jpg" group-title="Quebec Film",jen suis (YT)
 plugin://plugin.video.youtube/play/?video_id=7qwm0pAQ4xw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HEAYOoT.jpg" group-title="",LA PETITE AURORE, L'ENFANT MARTYRE 1952 (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEAYOoT.jpg" group-title="Quebec Film",LA PETITE AURORE, L'ENFANT MARTYRE 1952 (YT)
 plugin://plugin.video.youtube/play/?video_id=h6oKNrOhvIQ
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9NqpBqe.jpg" group-title="",Aurore, l'enfant martyre 2005 (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NqpBqe.jpg" group-title="Quebec Film",Aurore, l'enfant martyre 2005 (YT)
 plugin://plugin.video.youtube/play/?video_id=KgVGzbPaUgQ
 
-#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/02/matusalem.jpg" group-title="",Matusalem (1993) (YT)
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/02/matusalem.jpg" group-title="Quebec Film",Matusalem (1993) (YT)
 plugin://plugin.video.youtube/play/?video_id=WmVqnSNgifo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPcDAhp.jpg" group-title="",Matusalem 2 (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPcDAhp.jpg" group-title="Quebec Film",Matusalem 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=12hD4IndDSA
 
 ######
@@ -378,29 +378,29 @@ plugin://plugin.video.youtube/play/?video_id=12hD4IndDSA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",---Léo---À 40 ans, célibataire et sans expérience de travail, Léo souhaite prendre sa vie en mains. 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",---Léo---À 40 ans, célibataire et sans expérience de travail, Léo souhaite prendre sa vie en mains. 
 0.0.0.0
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E1
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E1
 https://fr10.seedr.cc/media/video/lq_hls/112df306474625a8e22ed4ed2f17002780086fee/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E2
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E2
 https://fr10.seedr.cc/media/video/lq_hls/1ff5c09cfb51bc8404af437ceeb2431a8c000612/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E3
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E3
 https://fr10.seedr.cc/media/video/lq_hls/8929414cdda04e9dc760374ce9a2824865bd3dff/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E4
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E4
 https://fr10.seedr.cc/media/video/lq_hls/2503878fb7f2546d3cc51d58a55496d2e70c50d6/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E5
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E5
 https://fr10.seedr.cc/media/video/lq_hls/b316f72bff0796db6e750f6ac5e07e3498ef404e/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E6
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E6
 https://fr10.seedr.cc/media/video/lq_hls/58a26f0ecea2097635e0cbd7bfd3e5ae46beeece/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E7
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E7
 https://fr10.seedr.cc/media/video/lq_hls/2e0b178215c8ed45cb94ad1f13c25ad8d4fc1f7f/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E8
 https://fr10.seedr.cc/media/video/lq_hls/0d0838a11ca1315b100304a8e916c3733fd4147a/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E9
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E9
 https://fr10.seedr.cc/media/video/lq_hls/5a5b92ed4d442ddc0ea7f5ba7ac3e4af57358461/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E10
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E10
 https://fr10.seedr.cc/media/video/lq_hls/07342c792bd868ca59ca09354eef7388d282b0b1/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="",Léo S1-E11
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E11
 https://fr10.seedr.cc/media/video/lq_hls/33eb89bdba00248e40d49803c0ac49f2b191db5a/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/479.jpg" group-title="",---Legion---Un homme diagnostiqué schizophrène rencontre une patiente qui va changer sa vie : et si derrière ses troubles se cachaient des puissants pouvoirs ?
