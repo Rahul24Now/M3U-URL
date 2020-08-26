@@ -109,8 +109,11 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tcmontrealnetwork.com/wp-content/uploads/2016/02/logo-tcmn.png" group-title="Canadian TV",TCM-TV
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p (KODI)
 http://stream-e30453a4b.nmbs.top/m3u/Canada/d0dfa22a3f.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p
+http://stream-e30453a4b.nmbs.top/m3u/Canada/d0dfa22a3f.m3u8
 
 #EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
