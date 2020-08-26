@@ -302,7 +302,11 @@ https://euronews-fr-p13-cdn.hexaglobe.net/5a877c5c427b1cda17c248d4ead4e0f2/5e7d5
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews (YT)
-plugin://plugin.video.youtube/play/?video_id=g-SsXzf3U40
+plugin://plugin.video.youtube/play/?video_id=yXgge2BSqvE
+
+# update link : #
+#EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews (YTD)
+https://www.youtube.com/watch?v=yXgge2BSqvE
 
 # update link : https://www.europe1.fr/direct-video  https://www.youtube.com/watch?v=sRFZbWmhbIY #
 #EXTINF:-1 tvg-id="France" tvg-name="europe1" tvg-logo="https://cdn-europe1.lanmedia.fr/europe1/apple-touch-icon.png" group-title="France",europe1 (DM)
