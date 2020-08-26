@@ -47,6 +47,9 @@ https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Notélé" tvg-logo="https://www.notele.be/webfiles/layout/logo.png" group-title="Belgique",Notélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1567084165.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ramdammusique.be/wp-content/uploads/2019/07/Logo_-long_400_web.png" group-title="",RamdamMusique (TWITCH)
+plugin://plugin.video.twitch/?channel_id=470473334&amp;mode=play
+
 # update link : https://www.rtc.be/live #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTC Liege" tvg-logo="https://i.ibb.co/p3zw6tG/RTC-Liege.png" group-title="Belgique",RTC Liege
 https://tvl-live-prp.fl.freecaster.net/live/rtc/rtc-audio_fre=128000-video=5200000.m3u8
