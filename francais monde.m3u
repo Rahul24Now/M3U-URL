@@ -185,6 +185,10 @@ https://live1.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/ch
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozQGpL2.png" group-title="",Ecclesia TV
 https://gamako.livebox.co.in/Ecclesiatvhls/etvci.m3u8
 
+# https://www.youtube.com/channel/UCJlRaYPQ8kxY_fjIx14g7EA #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/src9zp1.png" group-title="",Economie News tv (YT)
+plugin://plugin.video.youtube/play/?video_id=O7yRZbu4P3Y
+
 #EXTINF:-1 tvg-logo="https://emcitv.com/app/common/assets/img/logo/white-emcitv-logo@2x.png" group-title="",emcitv kinshasa
 https://emci-af-hls.akamaized.net/hls/live/2012336/emciafhls/index.m3u8
 
