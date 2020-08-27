@@ -401,6 +401,9 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="France 24" tvg-logo="https://i.ibb.co/vcbzpgt/France24.png" group-title="France",France 24
 http://stream-e30453a4b.nmbs.top/m3u/France/c005e5def2.m3u8|User-Agent=VLC
 
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/08/7b/11089/c175.png" group-title="",France Bleu Elsass (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x72b0ey
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Francophonie" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/tv-francophonie.png" group-title="France",Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
