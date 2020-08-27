@@ -702,9 +702,9 @@ https://edge10.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u
 #EXTINF:-1 tvg-id="France" tvg-name="Radio Contact Feel Good" tvg-logo="https://i.ibb.co/4VJ8bjv/SHAR-792-488-2.png" group-title="France",Radio Contact Feel Good
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
 
-# update link :  #
+# update link : https://www.youtube.com/channel/UCszBccoIWK0-0uBMv5eKiHg  #
 #EXTINF:-1 tvg-id="France" tvg-name="radio inter s'cool" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kgQfPT5D6J.png"group-title="France",radio inter s'cool (YT)
-plugin://plugin.video.youtube/play/?video_id=80Lck7qpBtg
+plugin://plugin.video.youtube/play/?video_id=b5nKSchB01w
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="",Reveil TV
 http://scaz.streamingchurch.tv:1935/7256/7256/playlist.m3u8
