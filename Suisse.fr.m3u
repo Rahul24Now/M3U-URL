@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-id="Suisse" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
 
+# update link : https://www.youtube.com/channel/UCREx8vJx1YosnkGo3fRTG7A #
+#EXTINF:-1 tvg-id="Suisse" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT)
+plugin://plugin.video.youtube/play/?video_id=FIwtVL6H2HU
+
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Beatz TV" tvg-logo="https://ch.az-cdn.ch/static/1.131.0/radiopilatus/device-icons/512x512.png" group-title="Suisse",Beatz TV
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
