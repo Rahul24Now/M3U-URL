@@ -174,7 +174,7 @@ plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 plugin://plugin.video.youtube/play/?video_id=KSSJYSEdhrw
 
 # https://www.youtube.com/channel/UCNS2COrDIXNopzZmCoo5-QQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6IuDvy0.png" group-title="",Giuliana La fée de l'Ouest (YT) (UPD)
+EXTINF:-1 tvg-logo="https://i.imgur.com/6IuDvy0.png" group-title="",Giuliana La fée de l'Ouest (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=ni-yEH02eGk
 
 ####
