@@ -295,9 +295,6 @@ https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/civVGxa.png" group-title="Religious",Quo Vadis TV (OPT-2)
 https://qvmstream.tulix.tv/720p/720p/chunklist_w518252905.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="",QVTV
-https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
 https://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
 
