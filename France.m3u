@@ -198,7 +198,7 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 plugin://plugin.video.youtube/play/?video_id=c7QHJNd1TkM
 
 #EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25 (UPD)
-http://teledunet.com:25461/live/tdn/309286176623/51431.m3u8
+http://144.76.186.9:25461/live/tdn/393636938039/51431.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="CINE CLASSIC" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="France",CINE+ CLASSIC
 http://stream-e30453a4b.nmbs.top/m3u/France/f15a49d5e5.m3u8|User-Agent=VLC
@@ -313,21 +313,17 @@ https://euronews-fr-p13-cdn.hexaglobe.net/5a877c5c427b1cda17c248d4ead4e0f2/5e7d5
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews (YT)
-plugin://plugin.video.youtube/play/?video_id=yXgge2BSqvE
-
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews (YTD)
-https://www.youtube.com/watch?v=yXgge2BSqvE
+plugin://plugin.video.youtube/play/?video_id=ENMlzJayYAY
 
 # update link : https://www.europe1.fr/direct-video  https://www.youtube.com/watch?v=sRFZbWmhbIY #
 #EXTINF:-1 tvg-id="France" tvg-name="europe1" tvg-logo="https://cdn-europe1.lanmedia.fr/europe1/apple-touch-icon.png" group-title="France",europe1 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xqjkfz
 
 #EXTINF:-1 tvg-id="France" tvg-name="EuroSport 1" tvg-logo="https://i.imgur.com/vNuqdwU.png" group-title="France",EuroSport 1 (UPD)
-http://teledunet.com:25461/live/tdn/309286135556/10364.m3u8
+http://144.76.186.9:25461/live/tdn/393636896972/10364.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="EuroSport 2" tvg-logo="https://i.imgur.com/3xQRIoq.png" group-title="France",EuroSport 2 (UPD)
-http://teledunet.com:25461/live/tdn/309286135557/10365.m3u8
+http://144.76.186.9:25461/live/tdn/393636896973/10365.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVOFZs.png" group-title="",evandis
 https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
