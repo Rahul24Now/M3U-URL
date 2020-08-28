@@ -937,7 +937,7 @@ https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 
 # https://www.youtube.com/channel/UCQwwi5nkwfwWPCqGt1oItOQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS0ClQU.png" group-title="",Valloire TV(YT)
-plugin://plugin.video.youtube/play/?video_id=Ikg9SDGpDdE
+plugin://plugin.video.youtube/play/?video_id=V73FIU0zO6s
 
 #EXTINF:-1 tvg-logo="http://tv-vannes.fr/wp-content/uploads/2016/07/logo-header.png" group-title="",TV Vannes 1 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7u5so8
