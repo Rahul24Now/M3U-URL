@@ -43,6 +43,11 @@ https://de13.seedr.cc/media/video/lq_hls/e45b9c2e941c9df4202cfcdee448d11e8869adb
 
 ###C###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/277.jpg" group-title="",Ça - Chapitre 1
+https://de4.seedr.cc/media/video/hd_hls/4d3038e1610994aa6bae334dc2e8b13173799450/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/278.jpg" group-title="",Ça - Chapitre 2
+https://fr1.seedr.cc/media/video/hd_hls/9137e4e9a14e68f0e0d88931e995bf8d12481790/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/527.jpg" group-title="",COMA - Esprits prisonniers
 https://fr10.seedr.cc/media/video/hd_hls/c213695ae2bdb5b8747b9190ea7308515cb6f605/vid.m3u8
 
