@@ -171,14 +171,7 @@ plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
 # https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=KSSJYSEdhrw
-
-# https://www.youtube.com/channel/UCNS2COrDIXNopzZmCoo5-QQ #
-EXTINF:-1 tvg-logo="https://i.imgur.com/6IuDvy0.png" group-title="",Giuliana La fée de l'Ouest (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=ni-yEH02eGk
-
-####
-
+plugin://plugin.video.youtube/play/?video_id=dm9Q0Yw5Iew
 
 ####
 
