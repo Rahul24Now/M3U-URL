@@ -222,6 +222,16 @@ https://fr8.seedr.cc/media/video/lq_hls/732cb123095fc5dad290e0e8249f68e3e0d9c415
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/548.jpg" group-title="",The Outpost
 https://nl21.seedr.cc/media/video/hd_hls/013d73a3d9c8d3e8bff9512431e033c3faf2b775/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/235.jpg" group-title="",Transformers
+https://de13.seedr.cc/media/video/lq_hls/3ab1e1a16c93c6b49b71b057e23e98f2a1f11516/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/236.jpg" group-title="",Transformers 2 - La revanche
+https://nl34.seedr.cc/media/video/lq_hls/77f6f3d57078469d69173509840362d6bb2ed49c/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/237.jpg" group-title="",Transformers 3 - La Face cachée de la Lune
+https://fr11.seedr.cc/media/video/lq_hls/08b9e1c40554f4b3aa161ad1edc9440a06e2461c/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/242.jpg" group-title="",Transformers 4 - L'âge de l'extinction
+https://nl24.seedr.cc/media/video/lq_hls/19d486111fb7d17f36132830ae82dee6a60c28f2/vid.m3u8?dvr
+
+
 ###U###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/566.jpg" group-title="",Un prince à New York
