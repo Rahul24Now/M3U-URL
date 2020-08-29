@@ -95,6 +95,13 @@ https://fr7.seedr.cc/media/video/hd_hls/f3586f72f0e6821e5a565f8caf0edeabc2467944
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/149.jpg" group-title="",Ip Man 4
 https://nl38.seedr.cc/media/video/lq_hls/ca368980468dfbe9d5752703141958349efdc294/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/132.jpg" group-title="",Iron Man
+https://nl35.seedr.cc/media/video/lq_hls/3ba97e2f868215659998b8ab5799a98e60db6f9b/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/133.jpg" group-title="",Iron Man 2
+https://nl37.seedr.cc/media/video/lq_hls/92ff22a094a4015f89fce7ab0da2330c581dc2cb/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/134.jpg" group-title="",Iron Man 3
+https://fr7.seedr.cc/media/video/lq_hls/914692c7ec035770470598b22a6ec7f07e3f9649/vid.m3u8?dvr
+
 ###J###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/314.jpg" group-title="",Jumanji - Next Level
@@ -251,6 +258,9 @@ https://nl38.seedr.cc/media/video/hd_hls/eff65a111a858fd40c96a62ddcc98c7d6133c6f
 https://fr13.seedr.cc/media/video/hd_hls/b9493ff3b26e62c5efd5234f7da430e8b8d71e6d/vid.m3u8
 
 ###W###
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/140.jpg" group-title="",White House Down
+https://fr5.seedr.cc/media/video/hd_hls/a9d403baa7a8689d0f6a420790b8ec864d780bda/vid.m3u8
 
 ###X###
 
