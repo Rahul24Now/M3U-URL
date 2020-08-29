@@ -86,6 +86,13 @@ https://fr13.seedr.cc/media/video/hd_hls/913812ed75f2b5c6e88b659ffadb6be54923d57
 
 ###K###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/630.jpg" group-title="",Kung Fu Panda 
+https://nl26.seedr.cc/media/video/lq_hls/d96360a990fe27a7ec3ff9ef16c24c6d1ec7d747/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/633.jpg" group-title="",Kung Fu Panda 2 
+https://nl24.seedr.cc/media/video/hd_hls/e41cebe4437fa64923043e5d8fd8169f7a1c58db/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/631.jpg" group-title="",Kung Fu Panda 3
+https://de9.seedr.cc/media/video/hd_hls/3fc0867e563219cae55b6884e71e8c35e4955d6e/vid.m3u8
+
 ###L###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/305.jpg" group-title="",L'appel de la forêt
