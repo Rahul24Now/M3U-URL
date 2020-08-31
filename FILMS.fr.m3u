@@ -39,6 +39,9 @@ https://nl37.seedr.cc/media/video/hd_hls/8a9709fd151f4d30ba5f0f00386825a684f74aa
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/628.jpg" group-title="",Black Panther
 https://de9.seedr.cc/media/video/hd_hls/a45b534e99844d64b65976ac20ad9ff61071cea8/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/147.jpg" group-title="",Bloodshot
+https://nl25.seedr.cc/media/video/hd_hls/abbc2b0690db7d8df00801ea8bb4f375668222b7/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/625.jpg" group-title="",Bumblebee
 https://de13.seedr.cc/media/video/lq_hls/e45b9c2e941c9df4202cfcdee448d11e8869adb2/vid.m3u8
 
@@ -91,7 +94,13 @@ https://nl33.seedr.cc/media/video/hd_hls/5f109e25757cd9d3e4c62168d8e5652522a79aa
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/382.jpg" group-title="",Fast & Furious 8
 https://de9.seedr.cc/media/video/hd_hls/c347e070f3c687c6f3fb2691f40ba67309da2522/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/43.jpg" group-title="",Forrest Gump
+https://sf1.seedr.cc/media/video/hd_hls/fr7/d1a998f76cfb6476c81e97989c5d8dc7f0e86ff6/vid.m3u8
+
 ###G###
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/81.jpg" group-title="",Gemini Man
+https://sf1.seedr.cc/media/video/hd_hls/fr8/d310c767e22c2f98af1c5a0540d7ac4dec71d76a/vid.m3u8
 
 ###H###
 
@@ -202,6 +211,9 @@ https://nl24.seedr.cc/media/video/hd_hls/b667fe13f8ed128be60841db8b35b28e81190a7
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/448.jpg" group-title="",La bataille de l'Atlantique - USS Greyhound
 https://nl28.seedr.cc/media/video/hd_hls/be9328a19e84a1872d1de0c7f3cf6870db6e41e6/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/39.jpg" group-title="",La Chute du Président
+https://sf1.seedr.cc/media/video/hd_hls/nl21/64fdf91be8b859b58b1d19f96b398bdda7ee3042/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/260.jpg" group-title="",La Ligne verte
 https://nl37.seedr.cc/media/video/lq_hls/73e2287826f1e4ec221d1e9e80df8898b8b4a761/vid.m3u8?dvr
 
@@ -308,10 +320,21 @@ https://nl31.seedr.cc/media/video/lq_hls/dbb55c3a96d69e9650288a799f9256dfd1c8aea
 
 ###S###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/79.jpg" group-title="",Scarface
+https://sf1.seedr.cc/media/video/hd_hls/fr11/f7cc3b38656a6a877196cea4fe38371d734df830/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/592.jpg" group-title="",Seul au monde
 https://nl24.seedr.cc/media/video/hd_hls/0e88231c4e0baf3fe254a841529e9b38365217d3/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/130.jpg" group-title="",Sherlock Holmes
+https://nl28.seedr.cc/media/video/lq_hls/a17140027731340be1c03edd8dfcdafe5781b1e9/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/131.jpg" group-title="",Sherlock Holmes - Jeu d'ombres
+https://nl32.seedr.cc/media/video/lq_hls/7a866dad584848a9ea4371deea880394883d1ab1/vid.m3u8?dvr
+
 ###T###
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/90.jpg" group-title="",T-34
+https://sf1.seedr.cc/media/video/hd_hls/nl23/3f3f8b30a4217ec1f2aa546b3d9d4fb304aec6a4/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/598.jpg" group-title="",Terminator 1
 https://nl22.seedr.cc/media/video/hd_hls/83fa1233ba813881a53cba9c3bdb76b9d9a0b09e/vid.m3u8
