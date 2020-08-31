@@ -75,6 +75,9 @@ https://nl20.seedr.cc/media/video/hd_hls/52b75b572a3c27deec1f0836a9859905a916893
 
 ###E###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/69.jpg" group-title="",El Camino - Un film "Breaking Bad"
+https://sf1.seedr.cc/media/video/hd_hls/nl31/fa4e4e33f1e51f92418ed4c805021a04f17a8988/vid.m3u8
+
 ###F###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/135.jpg" group-title="",Fast and Furious
@@ -285,9 +288,23 @@ https://fr7.seedr.cc/media/video/lq_hls/430a467e25e14d096ae3ab083cbddfe221d142e2
 
 ###O###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/414.jpg" group-title="",One Piece Stampede
+https://fr9.seedr.cc/media/video/hd_hls/b1297b54af9662975359f5f9ec8c62e94f114e83/vid.m3u8
+
 ###P###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/451.jpg" group-title="",Plus rien à f***
+https://nl38.seedr.cc/media/video/hd_hls/c54795476e41ed1809e5ab7a815494f40874c8bb/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1.jpg" group-title="",Prince of Persia : Les Sables du temps Partie 1
+https://fr2.seedr.cc/media/video/lq_hls/6fe3a03abd7b7768873c78907f35563359a36022/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1.jpg" group-title="",Prince of Persia : Les Sables du temps Partie 2
+https://fr2.seedr.cc/media/video/lq_hls/128370ce2d13090a6fe00ff78a36a997b117f43d/vid.m3u8?dvr
+
 ###Q###
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/390.jpg" group-title="",Qu'un sang impur...
+https://nl38.seedr.cc/media/video/hd_hls/dcdcc265f206fda9f2ef301de38dfdcb2b5f4a49/vid.m3u8
 
 ###R###
 
