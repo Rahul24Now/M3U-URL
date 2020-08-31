@@ -262,6 +262,25 @@ https://fr2.seedr.cc/media/video/lq_hls/1d6ffe0f251c14f860781fdef32f33ea1905727e
 
 ###T###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/462.jpg" group-title="",---The Eddy---Le danger rôde autour d'un club de jazz niché au cœur de Paris dans cette série dramatique musicale proposée par le réalisateur de "La La Land", Damien Chazelle.
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/462.jpg" group-title="",The Eddy S1-E1
+https://fr3.seedr.cc/media/video/lq_hls/dbd8c5f0033717257b40bfb054acbdf7a1d6c7cd/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/462.jpg" group-title="",The Eddy S1-E2
+https://fr3.seedr.cc/media/video/lq_hls/020ea3cac4612f32d371605f8422bd4eca670832/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/462.jpg" group-title="",The Eddy S1-E3
+https://fr3.seedr.cc/media/video/lq_hls/1737714b1fea21c9340e3ab2012a2a047b946e6c/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/462.jpg" group-title="",The Eddy S1-E4
+https://fr3.seedr.cc/media/video/lq_hls/870e793a7cec43f01d91eac3079242e433016555/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/462.jpg" group-title="",The Eddy S1-E5
+https://fr3.seedr.cc/media/video/lq_hls/b8200936f68be2103bb220ffdfdae035bd94301f/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/462.jpg" group-title="",The Eddy S1-E6
+https://fr3.seedr.cc/media/video/lq_hls/58e1d663f64215b6d3b8a21bbfb966185e761ce8/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/462.jpg" group-title="",The Eddy S1-E7
+https://fr3.seedr.cc/media/video/lq_hls/218bd52d27a5d44610030452aadc8f498c49d258/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/462.jpg" group-title="",The Eddy S1-E8
+https://fr3.seedr.cc/media/video/lq_hls/6650cd414ad5f4ad56a5e02a31ab80cefb31f146/vid.m3u8?dvr
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/570.jpg" group-title="",---Trinkets---Une ado endeuillée tisse des liens inattendus avec deux filles de son nouveau lycée après les avoir retrouvées dans son groupe de Cleptomanes anonymes.
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/570.jpg" group-title="",Trinkets S1-E1
