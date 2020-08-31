@@ -61,6 +61,9 @@ https://fr2.seedr.cc/media/video/hd_hls/04614220456e885a51ee14a506432e1d6791870c
 
 ###D###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/559.jpg" group-title="",De Gaulle
+https://nl31.seedr.cc/media/video/hd_hls/084a8f8c6c9b16424df8cb7453461b9ddfb52c0e/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/231.jpg" group-title="",Dirty Dancing
 https://fr11.seedr.cc/media/video/lq_hls/ee868e2a09f765d2130b42abbe87a6a892b905bb/vid.m3u8?dvr
 
@@ -162,6 +165,9 @@ https://sf1.seedr.cc/media/video/hd_hls/fr1/2a061fd7c04b17e04e931ac82335d8b7d512
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/314.jpg" group-title="",Jumanji - Next Level
 https://fr13.seedr.cc/media/video/hd_hls/913812ed75f2b5c6e88b659ffadb6be54923d57c/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/426.jpg" group-title="",Jusqu'à l'aube
+https://nl19.seedr.cc/media/video/hd_hls/1c92ebabc8e822f040504f83c3471df5ddc734c3/vid.m3u8
+
 ###K###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/630.jpg" group-title="",Kung Fu Panda 
@@ -228,6 +234,9 @@ https://nl27.seedr.cc/media/video/hd_hls/5b3a4efc5489c5e9f133b30fbf8f1abcead5502
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/597.jpg" group-title="",Matrix Reloaded
 https://nl26.seedr.cc/media/video/lq_hls/59c85538a566c5daa444daa522f357c919fbda8b/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/447.jpg" group-title="",Mission to Mars
+https://fr15.seedr.cc/media/video/hd_hls/aa00d82df824bf681b789a928c0a307b3ea9c594/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/584.jpg" group-title="",Moi, moche et méchant
 https://nl37.seedr.cc/media/video/lq_hls/3483c293e73607d264ab72d44e9052a2d60f2a5e/vid.m3u8?dvr
 
@@ -266,6 +275,9 @@ https://nl24.seedr.cc/media/video/hd_hls/42a049f2bb024a1c124f21d1b598c6bb8c0ca36
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/8.jpg" group-title="",Rambo - Last Blood
 https://sf1.seedr.cc/media/video/hd_hls/fr9/03f947386580a92bdc30bd7ee378f737bd005c32/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/560.jpg" group-title="",Red Storm
+https://fr9.seedr.cc/media/video/hd_hls/3ac90033a476306361f5ce940ffd03f7ecb71fe5/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/618.jpg" group-title="",Rocky
 https://nl31.seedr.cc/media/video/lq_hls/06f75009dff2629d94988f0d006e9fba6c775b14/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/619.jpg" group-title="",Rocky II - La Revanche 
@@ -280,6 +292,9 @@ https://nl31.seedr.cc/media/video/lq_hls/0989c9e2b44ad15876b12af85a8f88a2affd9fb
 https://nl31.seedr.cc/media/video/lq_hls/dbb55c3a96d69e9650288a799f9256dfd1c8aea9/vid.m3u8?dvr
 
 ###S###
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/592.jpg" group-title="",Seul au monde
+https://nl24.seedr.cc/media/video/hd_hls/0e88231c4e0baf3fe254a841529e9b38365217d3/vid.m3u8
 
 ###T###
 
@@ -309,6 +324,9 @@ https://nl38.seedr.cc/media/video/lq_hls/8dee591c41d9022538d00a93fe5a867ece329ad
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/548.jpg" group-title="",The Outpost
 https://nl21.seedr.cc/media/video/hd_hls/013d73a3d9c8d3e8bff9512431e033c3faf2b775/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/590.jpg" group-title="",The Town
+https://nl24.seedr.cc/media/video/lq_hls/a1005f9531565b1078f038511662dc3702b1cbfc/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/235.jpg" group-title="",Transformers
 https://de13.seedr.cc/media/video/lq_hls/3ab1e1a16c93c6b49b71b057e23e98f2a1f11516/vid.m3u8?dvr
