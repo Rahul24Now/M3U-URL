@@ -283,6 +283,19 @@ https://nl31.seedr.cc/media/video/lq_hls/dbb55c3a96d69e9650288a799f9256dfd1c8aea
 
 ###T###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/598.jpg" group-title="",Terminator 1
+https://nl22.seedr.cc/media/video/hd_hls/83fa1233ba813881a53cba9c3bdb76b9d9a0b09e/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/601.jpg" group-title="",Terminator 2 - Le jugement dernier
+https://fr2.seedr.cc/media/video/lq_hls/43be4c2014ee604393cfd126bb31668b498fc97d/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="no logo.png" group-title="",Terminator 3 - La Guerre des machines (N.A) (A Venir)
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/602.jpg" group-title="",Terminator Renaissance
+https://fr13.seedr.cc/media/video/hd_hls/85f11d22a8734815812148ad30aff672dfb95006/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/599.jpg" group-title="",Terminator Genisys
+https://nl35.seedr.cc/media/video/hd_hls/8fe22b92ac3f4b3ee71cfda6cd52aa39f4313d4e/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/600.jpg" group-title="",Terminator - Dark Fate
+https://fr7.seedr.cc/media/video/hd_hls/19a283b93f2eea0c92e165c528481bdfd4e9eabf/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/531.jpg" group-title="",The Bird Catcher
 https://fr8.seedr.cc/media/video/lq_hls/732cb123095fc5dad290e0e8249f68e3e0d9c415/vid.m3u8
 
