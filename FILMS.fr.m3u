@@ -81,6 +81,9 @@ https://nl20.seedr.cc/media/video/hd_hls/52b75b572a3c27deec1f0836a9859905a916893
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/69.jpg" group-title="",El Camino - Un film "Breaking Bad"
 https://sf1.seedr.cc/media/video/hd_hls/nl31/fa4e4e33f1e51f92418ed4c805021a04f17a8988/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/375.jpg" group-title="",Eli
+https://fr5.seedr.cc/media/video/hd_hls/bb1417102c9d5271530a8f910c7ad1dbe3660907/vid.m3u8
+
 ###F###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/135.jpg" group-title="",Fast and Furious
@@ -134,6 +137,9 @@ https://de13.seedr.cc/media/video/lq_hls/d4b42ce750207f8fdbba0be29dca79f6b5f048d
 https://nl33.seedr.cc/media/video/hd_hls/8ed13c637c1eee7d2ec2a6e6314e9ffb8fed0628/vid.m3u8
 
 ###I###
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/372.jpg" group-title="",Interstellar
+https://nl36.seedr.cc/media/video/hd_hls/07b5d4c410c19a62accf1b205c3bde13a922f6c7/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/626.jpg" group-title="",In the air
 https://nl24.seedr.cc/media/video/lq_hls/682829318495d0ded970ca9fed53ab9e4eb164c2/vid.m3u8
@@ -229,6 +235,12 @@ https://nl23.seedr.cc/media/video/hd_hls/c5e5d4e106c6c76a96249df39209c84536261e4
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/593.jpg" group-title="",La Plateforme
 https://nl24.seedr.cc/media/video/hd_hls/923f3d38395dd3063633534ba90e3584ef6dd613/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/663.jpg" group-title="",Le jour viendra où...
+https://nl24.seedr.cc/media/video/lq_hls/786985a3b9e56bc1dd9200fea26024985af908fd/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/322.jpg" group-title="",Le Livre d'Eli
+https://nl17.seedr.cc/media/video/hd_hls/819506f9e242a49f07929b1699370e7b2e988894/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/232.jpg" group-title="",Le Monde de Narnia, chapitre 1 - Le Lion, la Sorcière blanche et l'Armoire magique
 https://fr7.seedr.cc/media/video/hd_hls/6f0753e658859cb9a3cf2850c622da02d38ec6b8/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/233.jpg" group-title="",Le Monde de Narnia, chapitre 2 - Le Prince Caspian
@@ -269,6 +281,19 @@ https://nl27.seedr.cc/media/video/hd_hls/5b3a4efc5489c5e9f133b30fbf8f1abcead5502
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/597.jpg" group-title="",Matrix Reloaded
 https://nl26.seedr.cc/media/video/lq_hls/59c85538a566c5daa444daa522f357c919fbda8b/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/319.jpg" group-title="",Mission  Impossible
+https://nl31.seedr.cc/media/video/lq_hls/58951987d436b027f292fdb0152c3f4ac02adc0a/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/320.jpg" group-title="",Mission  Impossible 2
+https://nl31.seedr.cc/media/video/hd_hls/e3d033d9a9347d7ca6ac377cdabdc41a5f20ed3b/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/321.jpg" group-title="",Mission  Impossible 3
+https://nl31.seedr.cc/media/video/hd_hls/3bba424f54ed6e159d97dbf187a7f05cede29726/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/317.jpg" group-title="",Mission  Impossible - Protocole Fantôme Partie 1
+https://fr9.seedr.cc/media/video/lq_hls/092b0a71bda53a5e04182776a4688ef01e944c8e/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/317.jpg" group-title="",Mission  Impossible - Protocole Fantôme Partie 2
+https://fr9.seedr.cc/media/video/lq_hls/5e24c9e14e86aadfd17eccdde66eb928fb1866d4/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/323.jpg" group-title="",Mission  Impossible - Rogue Nation
+https://nl38.seedr.cc/media/video/hd_hls/5fc20fe2eb0a159887fa0d65cc139fbea6a96124/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/447.jpg" group-title="",Mission to Mars
 https://fr15.seedr.cc/media/video/hd_hls/aa00d82df824bf681b789a928c0a307b3ea9c594/vid.m3u8
 
@@ -280,6 +305,9 @@ https://de11.seedr.cc/media/video/lq_hls/37c41937707239a78c06ffb59bf05ed5c29bc7b
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/586.jpg" group-title="",Moi, moche et méchant 3
 https://de11.seedr.cc/media/video/hd_hls/2f4827a2f91e86928bad302302006505a72a9b1b/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/639.jpg" group-title="",Mortal
+https://nl38.seedr.cc/media/video/hd_hls/56853f9bc2c0e5685b6c11f04ee27b4780fa0b85/vid.m3u8
 
 ###N###
 
@@ -295,6 +323,12 @@ https://fr7.seedr.cc/media/video/lq_hls/430a467e25e14d096ae3ab083cbddfe221d142e2
 https://fr9.seedr.cc/media/video/hd_hls/b1297b54af9662975359f5f9ec8c62e94f114e83/vid.m3u8
 
 ###P###
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/664.jpg" group-title="",Papicha
+https://nl28.seedr.cc/media/video/hd_hls/8979fb85fa0ee741f4762158ceed34fb2f214b3d/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/666.jpg" group-title="",Peninsula
+https://nl22.seedr.cc/media/video/hd_hls/f4505f89d140dc593b41c3fa5870c51d4a9cf8ff/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/451.jpg" group-title="",Plus rien à f***
 https://nl38.seedr.cc/media/video/hd_hls/c54795476e41ed1809e5ab7a815494f40874c8bb/vid.m3u8
@@ -371,6 +405,9 @@ https://fr7.seedr.cc/media/video/hd_hls/19a283b93f2eea0c92e165c528481bdfd4e9eabf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/531.jpg" group-title="",The Bird Catcher
 https://fr8.seedr.cc/media/video/lq_hls/732cb123095fc5dad290e0e8249f68e3e0d9c415/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/420.jpg" group-title="",The Hero
+https://fr7.seedr.cc/media/video/hd_hls/f55f1a0a4da14468b44b7e27309b786cdec68b3c/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/608.jpg" group-title="",The Irishman
 https://de14.seedr.cc/media/video/hd_hls/140f1f1ceb77fcd43c33eab33d0c1f410366b9af/vid.m3u8
