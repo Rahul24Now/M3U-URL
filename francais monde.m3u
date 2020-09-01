@@ -473,6 +473,10 @@ https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/Y72vR9R.png" group-title="",Telé 6 Univers Haïti (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7mcmuu
 
+# https://hbiptv.com/telemix/ #
+#EXTINF:-1 tvg-logo="https://www.telemix.tv/newstuff/wp-content/uploads/2019/10/logo-mix-2.png" group-title="",telemix.tv
+https://watch.haitilive.net/gethb/telemix/index.m3u8?token=c0a33491c4ad78fc769279baec0f166dbf00e9cc-4d173e1b0f32493de935cb6f692f3649-1598989913-1598979113
+
 #EXTINF:-1 tvg-logo="https://tvfamille.org/favicon-192.png" group-title="",TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/chunklist_w1659412580.m3u8
 
