@@ -275,6 +275,21 @@ plugin://plugin.video.youtube/play/?video_id=WmVqnSNgifo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPcDAhp.jpg" group-title="Quebec Film",Matusalem 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=12hD4IndDSA
 
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/04/une-histoire-du-nord_boss.jpg" group-title="",Une histoire du nord (YT)
+plugin://plugin.video.youtube/play/?video_id=s1Yckpp6llc
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/01/ok-laliberte_visuel.jpg" group-title="",OK... Laliberté (YT)
+plugin://plugin.video.youtube/play/?video_id=IEmhw748ji0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sp8VWc2.jpg" group-title="",Offenbach - Tabarnac (YT)
+plugin://plugin.video.youtube/play/?video_id=gUazKcupiAo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZyUVU7.jpg" group-title="",Gerry Boulet (YT)
+plugin://plugin.video.youtube/play/?video_id=AvD-aSaWEPk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkZvEUb.jpg" group-title="",Dédé - à travers les brumes (YT)
+plugin://plugin.video.youtube/play/?video_id=cztKbX4nnvI
+
 ######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
