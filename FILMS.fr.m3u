@@ -9,6 +9,18 @@
 
 ###0###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/34.jpg" group-title="",42
+https://sf1.seedr.cc/media/video/hd_hls/fr8/b7e6841dac5f0bdf2794cc30e4fd3a9b39274faa/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/36.jpg" group-title="",6 Underground
+https://sf1.seedr.cc/media/video/hd_hls/nl24/eacefc8510bb505e9339023980ec1993c4ddb444/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/358.jpg" group-title="",365 jours
+https://fr13.seedr.cc/media/video/hd_hls/a57541119e8be6f5f52b2ae7b3f00e8a9e18f53c/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/403.jpg" group-title="",7500
+https://nl20.seedr.cc/media/video/hd_hls/e6a5dc4dcaceb8e8ec25338f6732708dfd5fc837/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/442.jpg" group-title="",10 jours sans maman
 https://fr15.seedr.cc/media/video/hd_hls/ea22e0c92eab9e63eeee108c88f411441806c426/vid.m3u8
 
@@ -34,7 +46,9 @@ https://de9.seedr.cc/media/video/hd_hls/bd58b24a18900e5b7c896cee173d247f0340c334
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/279.jpg" group-title="",Annabelle
 https://fr12.seedr.cc/media/video/lq_hls/f118904577263376820231834c8df53222cf2d2d/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/280.jpg" group-title="",Annabelle - La maison du Mal
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/281.jpg" group-title="",annabelle 2 - la création du mal
+https://ns1.skmovies.live/piki2/1/4/regarder-396422.avi.mp4
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/280.jpg" group-title="",Annabelle 3 - La maison du Mal
 https://de13.seedr.cc/media/video/lq_hls/5651ce3ea13523eb0873ce4d5f931235c520f61a/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/561.jpg" group-title="",Ava
