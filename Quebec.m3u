@@ -322,17 +322,6 @@ https://fr10.seedr.cc/media/video/lq_hls/33eb89bdba00248e40d49803c0ac49f2b191db5
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★[COLOR mediumblue]Radio Du Quebec[/COLOR]★★★★★
-https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec%20Radio%20FR%20%20Merged.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hq6i0I1.png" group-title="Cam",★★★★★[COLOR grey]Camera Web QC[/COLOR]★★★★★
-https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Cam.QC.m3u
-
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada English[/COLOR]★★★★★★★★★★
-https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Canada.m3u
-
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Debrouillage.PNG?raw=true",★★★★★[COLOR black]Debrouillage Terminer[/COLOR]★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
