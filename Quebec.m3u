@@ -182,6 +182,21 @@ plugin://plugin.video.youtube/play/?video_id=IkJJSjszUB0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Films Quebec[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mWcd1h1.jpg" group-title="",Omertà
+https://tlharuzkir.mstreamcdn.com/h/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTkxODU0ODEsImRhdGEiOlsiNzAuMjkuMjMwLjExOCIsInJwZHE0NXU3bnRoeCIsIm4iLDJdfQ.Z67bO6RzOHG5o42EW8z1fD3b5n0a3vwlOviTAxNqxCc.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rSDnHV.jpg" group-title="",Le Trip à trois
+https://2dc7u8lhru.mstreamcdn.com/a/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjcwLjI5LjIzMC4xMTgiLCJvYzM5c3FrZ3ducnoiLCJuIiwyXSwiZXhwIjoxNTk5MTg1NjkwfQ.Ox6zHHBxhbhVTV1k3NgpVLXH5C2Peonfj9s-Zzqmn58.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OADBDW.jpg" group-title="",La Run
+https://s0.vudeo.net/2vp3tpdwzavjdohilmkbryegz43dsvzdfflo6k4svrpcz5bo5ovlemidrfnq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xbvLwK.jpg" group-title="",King Dave
+https://mega01.uqload.com/3rfkydocezw2q4drdjqphkpzl3sw5cw55lgmgtf7qpikq3c6urjs37krlccq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuurcN6.jpg" group-title="",Mafia Inc.
+https://m0.vudeo.net/2vp3xdbjyyvjdohilmxbroueyapeiwopryzroer42qssgpw4hxqckuyqzl2q/v.mp4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/540.jpg" group-title="Quebec Film",Le rire 2020
 https://fr13.seedr.cc/media/video/lq_hls/ab664ddc2f0185e5a28043b5b464936fa4fa449d/vid.m3u8
 
