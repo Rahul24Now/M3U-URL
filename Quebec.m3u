@@ -203,6 +203,12 @@ https://mega01.uqload.com/3rfkydocezw2q4drdjqphkpzl3sw5cw55lgmgtf7qpikq3c6urjs37
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VuurcN6.jpg" group-title="",Mafia Inc.
 https://m0.vudeo.net/2vp3xdbjyyvjdohilmxbroueyapeiwopryzroer42qssgpw4hxqckuyqzl2q/v.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yr4QE1P.jpg" group-title="",Le journal d'Aurélie Laflamme (YT)
+plugin://plugin.video.youtube/play/?video_id=KkHTi1HxM3A
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7Nwx41.png" group-title="",Tais-Toi, Je Gère (YT)
+plugin://plugin.video.youtube/play/?video_id=MRFL8gIpMgk
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZQy1zP.jpg" group-title="",Bonzaïon (YT)
 plugin://plugin.video.youtube/play/?video_id=AY5QHziYhKA
 
