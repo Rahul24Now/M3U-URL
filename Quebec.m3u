@@ -121,7 +121,10 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SP1fJrj.png" group-title="News",Global News Montreal 
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="Canadian TV",Weather Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",► THE WEATHER NETWORK
+http://stream-e30453a4b.nmbs.top/m3u/Canada/7fd4395ece.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="Canadian TV",Weather Network (event Only)
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Youtube/Twitch QC Live[/COLOR]★★★★★★★★★★
@@ -129,7 +132,7 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=KDb4a3Ix1Xc
+plugin://plugin.video.youtube/play/?video_id=pUBTwjhYa10
 
 # update link  https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Quebec TV",CILE Havre-Saint-Pierre (YT) (UPD) (Off Line)
@@ -148,7 +151,7 @@ plugin://plugin.video.youtube/play/?video_id=66ijPAFeRsM
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=xYGw9IXKYgg
+plugin://plugin.video.youtube/play/?video_id=ioYhLhL0o7Q
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
