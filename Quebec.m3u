@@ -203,6 +203,27 @@ https://mega01.uqload.com/3rfkydocezw2q4drdjqphkpzl3sw5cw55lgmgtf7qpikq3c6urjs37
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VuurcN6.jpg" group-title="",Mafia Inc.
 https://m0.vudeo.net/2vp3xdbjyyvjdohilmxbroueyapeiwopryzroer42qssgpw4hxqckuyqzl2q/v.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZQy1zP.jpg" group-title="",Bonzaïon (YT)
+plugin://plugin.video.youtube/play/?video_id=AY5QHziYhKA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PIPlvkM.jpg" group-title="",Camping sauvage (YT)
+plugin://plugin.video.youtube/play/?video_id=d2joQnZnvZ8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7QipPw.jpg" group-title="",Valérie (YT)
+plugin://plugin.video.youtube/play/?video_id=4pVaYVM5DqY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKq7LDU.jpg" group-title="",5150, Rue des Ormes (YT)
+plugin://plugin.video.youtube/play/?video_id=OJnkkSzOeuU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eAjfqh4.jpg" group-title="",Octobre (YT)
+plugin://plugin.video.youtube/play/?video_id=GWsQZnstuoE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HU7dVR.jpg" group-title="",Requiem Pour Un Beau Sans Coeur (YT)
+plugin://plugin.video.youtube/play/?video_id=5TaCeHVYIg4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNXXQ0t.jpg" group-title="",Les jumelles Dionne (YT)
+plugin://plugin.video.youtube/play/?video_id=GC7r9XGnXfo
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/540.jpg" group-title="Quebec Film",Le rire 2020
 https://fr13.seedr.cc/media/video/lq_hls/ab664ddc2f0185e5a28043b5b464936fa4fa449d/vid.m3u8
 
