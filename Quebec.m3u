@@ -203,6 +203,9 @@ https://mega01.uqload.com/3rfkydocezw2q4drdjqphkpzl3sw5cw55lgmgtf7qpikq3c6urjs37
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VuurcN6.jpg" group-title="",Mafia Inc.
 https://m0.vudeo.net/2vp3xdbjyyvjdohilmxbroueyapeiwopryzroer42qssgpw4hxqckuyqzl2q/v.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k5Ozjb.jpg" group-title="",FEUILLES MORTES (YT)
+plugin://plugin.video.youtube/play/?video_id=mw6twymYlfA
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yr4QE1P.jpg" group-title="",Le journal d'Aurélie Laflamme (YT)
 plugin://plugin.video.youtube/play/?video_id=KkHTi1HxM3A
 
