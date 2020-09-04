@@ -178,36 +178,6 @@ plugin://plugin.video.youtube/play/?video_id=Mzs3KTrBSOo
 
 ####
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/csKem9r.png",★★★★★★★★★★[COLOR red]Series[/COLOR]★★★★★★★★★★
-0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",---Léo---À 40 ans, célibataire et sans expérience de travail, Léo souhaite prendre sa vie en mains. 
-0.0.0.0
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E1
-https://fr10.seedr.cc/media/video/lq_hls/112df306474625a8e22ed4ed2f17002780086fee/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E2
-https://fr10.seedr.cc/media/video/lq_hls/1ff5c09cfb51bc8404af437ceeb2431a8c000612/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E3
-https://fr10.seedr.cc/media/video/lq_hls/8929414cdda04e9dc760374ce9a2824865bd3dff/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E4
-https://fr10.seedr.cc/media/video/lq_hls/2503878fb7f2546d3cc51d58a55496d2e70c50d6/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E5
-https://fr10.seedr.cc/media/video/lq_hls/b316f72bff0796db6e750f6ac5e07e3498ef404e/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E6
-https://fr10.seedr.cc/media/video/lq_hls/58a26f0ecea2097635e0cbd7bfd3e5ae46beeece/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E7
-https://fr10.seedr.cc/media/video/lq_hls/2e0b178215c8ed45cb94ad1f13c25ad8d4fc1f7f/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E8
-https://fr10.seedr.cc/media/video/lq_hls/0d0838a11ca1315b100304a8e916c3733fd4147a/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E9
-https://fr10.seedr.cc/media/video/lq_hls/5a5b92ed4d442ddc0ea7f5ba7ac3e4af57358461/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E10
-https://fr10.seedr.cc/media/video/lq_hls/07342c792bd868ca59ca09354eef7388d282b0b1/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/471.jpg" group-title="Quebec Serie",Léo S1-E11
-https://fr10.seedr.cc/media/video/lq_hls/33eb89bdba00248e40d49803c0ac49f2b191db5a/vid.m3u8?dvr
-
-
-
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Debrouillage.PNG?raw=true",★★★★★[COLOR black]Debrouillage Terminer[/COLOR]★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
