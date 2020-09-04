@@ -144,6 +144,9 @@ https://a.jsrdn.com/broadcast/nfbajk34e/c.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22785/peopletv/logo_20191212_175415.png" group-title="DistroTV",People TV HD
 https://a.jsrdn.com/broadcast/b5d2k0x/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22888/plymouth-rock-tv/logo_20200901_195006_70.png" group-title="DistroTV",Plymouth Rock TV
+https://na-us-ne5.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22783/popstar-tv/logo_20200424_154734.png" group-title="DistroTV",Pop Star
 https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
 
