@@ -226,6 +226,9 @@ plugin://plugin.video.youtube/play/?video_id=5TaCeHVYIg4
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/05/sans-dessein.jpg" group-title="Quebec Film",Sans Dessein (YT)
 plugin://plugin.video.youtube/play/?video_id=K1PvB_Bsm4k
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7aUoZ8M.jpg" group-title="",Slap shot
+https://m10.uqload.com/3rfk3s5zhrw2q4drdi67hif2d5othevfsp6o3fco6yowcbrbyyr5sbrtwmrq/v.mp4
+
 ###T###
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7Nwx41.png" group-title="",Tais-Toi, Je Gère (YT)
