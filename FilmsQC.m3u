@@ -9,6 +9,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C47RzB1.jpg" group-title="",1:54
 https://s0.vudeo.net/2vp33wqbzyvjdohilndrriwht2jfilcwlbaj6j5pjoruft7b3wxkpchp7x2a/v.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nQE9pWh.jpg" group-title="",2 secondes (YT)
+plugin://plugin.video.youtube/play/?video_id=Cuzc2RxhAwk
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xMYWv7J.jpg" group-title="Quebec Film",15 février 1839 (YT)
 plugin://plugin.video.youtube/play/?video_id=mY3Iqd3J5g4
 
@@ -32,6 +35,9 @@ https://stream99.uqload.com/3rfk5bmggfw2q4drdkjph47wbklduocpxx43ckhjpiyxift4pfaa
 
 ###B###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ueOUeld.jpg" group-title="",Bingo (1974) (YT)
+plugin://plugin.video.youtube/play/?video_id=KVDLWSYuC9g
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZQy1zP.jpg" group-title="",Bonzaïon (YT)
 plugin://plugin.video.youtube/play/?video_id=AY5QHziYhKA
 
@@ -47,6 +53,9 @@ plugin://plugin.video.youtube/play/?video_id=d2joQnZnvZ8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UE7Zc0.jpg" group-title="",Chien de garde
 https://s0.vudeo.net/2vp3tzadzyvjdohilncrrkmxqmvmgq7venc23eu3rfkrzxsdceqlmzifzjbq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hgtCWtZ.jpg" group-title="",Cordélia (YT)
+plugin://plugin.video.youtube/play/?video_id=xYTRkPJCiBA
 
 ###D###
 
@@ -79,6 +88,9 @@ plugin://plugin.video.youtube/play/?video_id=mw6twymYlfA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZyUVU7.jpg" group-title="",Gerry Boulet (YT)
 plugin://plugin.video.youtube/play/?video_id=AvD-aSaWEPk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k754ppD.jpg" group-title="",Gina (1975) (YT)
+plugin://plugin.video.youtube/play/?video_id=jNNI-ChPm58
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yfRFs8I.jpg" group-title="",Guibord s'en va-t-en guerre
 https://mega01.uqload.com/3rfklznqerw2q4drdiqph75jlroymptx227i3pll2nievk67wgtvkdo6ypwa/v.mp4
@@ -158,6 +170,9 @@ plugin://plugin.video.youtube/play/?video_id=thuIkPTdm3I
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QGle3yM.jpg" group-title="Quebec Film",Les Lavigueur  Le Retour (YT)
 plugin://plugin.video.youtube/play/?video_id=jljSbjDfuxE
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQ2sgsl.jpg" group-title="",Les ordres (1974) (YT)
+plugin://plugin.video.youtube/play/?video_id=4dlGOb366EY
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qlqNXrt.jpg" group-title="",Les Pee-Wee 3D
 https://mega99.uqload.com/3rfktvwvezw2q4drdi5ph5xtchm7gxtsaizk5f4rk3oxa23kc7ok5nam3eeq/v.mp4
 
@@ -183,6 +198,12 @@ plugin://plugin.video.youtube/play/?video_id=kNSIQNRZ4BI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jW4aM84.jpg" group-title="Quebec Film",Menteur (YT)
 plugin://plugin.video.youtube/play/?video_id=iC42-sdLrQ4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nZnStvq.jpg" group-title="",Moïse : L'Affaire Roch Thériault (YT)
+plugin://plugin.video.youtube/play/?video_id=X-d35BU8hiU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGIKGeP.jpg" group-title="",Montréal en ville (YT)
+plugin://plugin.video.youtube/play/?video_id=wUeuu_bwp5k
+
 ###N###
 
 
@@ -204,11 +225,13 @@ https://tlharuzkir.mstreamcdn.com/h/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTkxODU0ODE
 
 ###P###
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vA7SCAB.jpg" group-title="",Partis pour la gloire (YT)
+plugin://plugin.video.youtube/play/?video_id=acvLG_IzeX0
 
 ###Q###
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZdpaEj.jpg" group-title="",Quiconque meurt, meurt à douleur (YT)
+plugin://plugin.video.youtube/play/?video_id=vNtMMnCW3Hk
 
 ###R###
 
@@ -229,12 +252,21 @@ plugin://plugin.video.youtube/play/?video_id=K1PvB_Bsm4k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7aUoZ8M.jpg" group-title="",Slap shot
 https://m10.uqload.com/3rfk3s5zhrw2q4drdi67hif2d5othevfsp6o3fco6yowcbrbyyr5sbrtwmrq/v.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JbElsee.jpg" group-title="",Sur la trace d'Igor Rizzi (YT)
+plugin://plugin.video.youtube/play/?video_id=RQ9SJNixljA
+
 ###T###
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7Nwx41.png" group-title="",Tais-Toi, Je Gère (YT)
 plugin://plugin.video.youtube/play/?video_id=MRFL8gIpMgk
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vilSQfg.jpg" group-title="",TI-COQ 1953 GRATIEN GELINAS (YT)
+plugin://plugin.video.youtube/play/?video_id=_-ywldXImLM
+
 ###U###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKX4Emx.jpg" group-title="",UN HOMME ET SON PÉCHÉ (1949) (YT)
+plugin://plugin.video.youtube/play/?video_id=uw_ThdE1Hu0
 
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/04/une-histoire-du-nord_boss.jpg" group-title="",Une histoire du nord (YT)
 plugin://plugin.video.youtube/play/?video_id=s1Yckpp6llc
