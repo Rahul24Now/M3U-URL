@@ -1,0 +1,249 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Films Quebec[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+
+###0###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C47RzB1.jpg" group-title="",1:54
+https://s0.vudeo.net/2vp33wqbzyvjdohilndrriwht2jfilcwlbaj6j5pjoruft7b3wxkpchp7x2a/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xMYWv7J.jpg" group-title="Quebec Film",15 février 1839 (YT)
+plugin://plugin.video.youtube/play/?video_id=mY3Iqd3J5g4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0B1qmwD.jpg" group-title="",1991
+https://m30.uqload.com/3rfkowfaezw2q4drdi77hlfsb2km4sm7tkdnhrviuo5ansgrpo4fytlwdm6a/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKq7LDU.jpg" group-title="",5150, Rue des Ormes (YT)
+plugin://plugin.video.youtube/play/?video_id=OJnkkSzOeuU
+
+
+###A###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NqpBqe.jpg" group-title="Quebec Film",Aurore, l'enfant martyre 2005 (YT)
+plugin://plugin.video.youtube/play/?video_id=KgVGzbPaUgQ
+
+
+###B###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZQy1zP.jpg" group-title="",Bonzaïon (YT)
+plugin://plugin.video.youtube/play/?video_id=AY5QHziYhKA
+
+#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/bon_cop_bad_cop.jpg" group-title="Quebec Film",Bon Cop Bad Cop  (YT)
+plugin://plugin.video.youtube/play/?video_id=nEZ-tPDEHIo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQHwXTN.jpg" group-title="Quebec Film",Bon Cop Bad Cop 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=EY1cIDjXhXY
+
+###C###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PIPlvkM.jpg" group-title="",Camping sauvage (YT)
+plugin://plugin.video.youtube/play/?video_id=d2joQnZnvZ8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4UE7Zc0.jpg" group-title="",Chien de garde
+https://s0.vudeo.net/2vp3tzadzyvjdohilncrrkmxqmvmgq7venc23eu3rfkrzxsdceqlmzifzjbq/v.mp4
+
+###D###
+
+#EXTINF:-1 tvg-logo="https://img3.cdn.cinoche.com/images/c66d13308e4bce2f28ab5b99913a97d8.jpg" group-title="Quebec Film",DE PERE EN FLIC 1 2009 (YT)
+plugin://plugin.video.youtube/play/?video_id=
+#EXTINF:-1 tvg-logo="https://img4.cdn.cinoche.com/images/5bcc9006866d1bfd40254b1f0a88d746.jpg" group-title="Quebec Film",De Pere en Flic 2 2017 (YT)
+plugin://plugin.video.youtube/play/?video_id=UQM1_PMMwHA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkZvEUb.jpg" group-title="",Dédé - à travers les brumes (YT)
+plugin://plugin.video.youtube/play/?video_id=cztKbX4nnvI
+
+###E###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R20T5tC.jpg" group-title="Quebec Film",EGO TRIP (YT)
+plugin://plugin.video.youtube/play/?video_id=0xJ3i4U6BPc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8kOOpL.jpg" group-title="Quebec Film",Elvis Gratton - Le king des kings (YT)
+plugin://plugin.video.youtube/play/?video_id=wCk04lh3r3Q
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2NzEzNTIxNjJeQTJeQWpwZ15BbWU4MDM0NzAwMTIx._V1_.jpg" group-title="Quebec Film",Elvis Gratton 2 - Miracle à Memphis (YT)
+plugin://plugin.video.youtube/play/?video_id=NkdZ5tTwu-0
+#EXTINF:-1 tvg-logo="https://img5.cdn.cinoche.com/images/0e031b2304614e8f74177f9cd18359f8.jpg" group-title="Quebec Film",Elvis Gratton XXX (YT)
+plugin://plugin.video.youtube/play/?video_id=EevP9ZmXfhs
+
+###F###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k5Ozjb.jpg" group-title="",FEUILLES MORTES (YT)
+plugin://plugin.video.youtube/play/?video_id=mw6twymYlfA
+
+###G###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZyUVU7.jpg" group-title="",Gerry Boulet (YT)
+plugin://plugin.video.youtube/play/?video_id=AvD-aSaWEPk
+
+###H###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1BwheJz.jpg" group-title="",Hochelaga, Terre des Âmes
+https://m30.uqload.com/3rfki7u7ezw2q4drdi77h5fxcizkzvjhetxww562tiwmg4eeox5tcjlzmrha/v.mp4
+
+###I###
+
+
+
+###J###
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/jen-suis_fournier.jpg" group-title="Quebec Film",jen suis (YT)
+plugin://plugin.video.youtube/play/?video_id=7qwm0pAQ4xw
+
+###K###
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2017/07/karmina_filmsquebecdotcom.jpg" group-title="Quebec Film",karmina (YT)
+plugin://plugin.video.youtube/play/?video_id=xLscFI5qZAg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xbvLwK.jpg" group-title="",King Dave
+https://mega01.uqload.com/3rfkydocezw2q4drdjqphkpzl3sw5cw55lgmgtf7qpikq3c6urjs37krlccq/v.mp4
+
+###L###
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2010/11/appat.jpg" group-title="Quebec Film",L'Appât (YT)
+plugin://plugin.video.youtube/play/?video_id=DkXrLruqLsI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zur3XWe.jpg" group-title="Quebec Film",l’Homme le plus fort du Monde - Louis Cyr (YT)
+plugin://plugin.video.youtube/play/?video_id=R6JOn_fKurQ
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/cta-ton-tour-laura-cadieux.jpg" group-title="Quebec Film",Laura Cadieux - Cta ton tour (YT)
+plugin://plugin.video.youtube/play/?video_id=i2PEStfCnWQ
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/02/laura-cadieux-suite_VHS.jpg" group-title="Quebec Film",Laura Cadieux - la suite (YT)
+plugin://plugin.video.youtube/play/?video_id=FWcASsriE08
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb8wMOW.jpg" group-title="Quebec Film",La guerre des tuques (YT)
+plugin://plugin.video.youtube/play/?video_id=goVs9eTkm38
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEAYOoT.jpg" group-title="Quebec Film",LA PETITE AURORE, L'ENFANT MARTYRE 1952 (YT)
+plugin://plugin.video.youtube/play/?video_id=h6oKNrOhvIQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OADBDW.jpg" group-title="",La Run
+https://s0.vudeo.net/2vp3tpdwzavjdohilmkbryegz43dsvzdfflo6k4svrpcz5bo5ovlemidrfnq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/beA2rfq.jpg" group-title="Quebec Film",Le Grand Départ (YT)
+plugin://plugin.video.youtube/play/?video_id=i-g6w7MaaII
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yr4QE1P.jpg" group-title="",Le journal d'Aurélie Laflamme (YT)
+plugin://plugin.video.youtube/play/?video_id=KkHTi1HxM3A
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndgktPA.jpg" group-title="",Le Vrai du Faux
+https://m10.uqload.com/3rfktrhverw2q4drdir7hpvjkkb65n5wdacn5j6onj5jseva7fu26gs33cca/v.mp4
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/540.jpg" group-title="Quebec Film",Le rire 2020
+https://fr13.seedr.cc/media/video/lq_hls/ab664ddc2f0185e5a28043b5b464936fa4fa449d/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rSDnHV.jpg" group-title="",Le Trip à trois
+https://2dc7u8lhru.mstreamcdn.com/a/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjcwLjI5LjIzMC4xMTgiLCJvYzM5c3FrZ3ducnoiLCJuIiwyXSwiZXhwIjoxNTk5MTg1NjkwfQ.Ox6zHHBxhbhVTV1k3NgpVLXH5C2Peonfj9s-Zzqmn58.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLKmMSz.jpg" group-title="Quebec Film",Les Dangereux (YT)
+plugin://plugin.video.youtube/play/?video_id=8wHjZTkFTqY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNXXQ0t.jpg" group-title="",Les jumelles Dionne (YT)
+plugin://plugin.video.youtube/play/?video_id=GC7r9XGnXfo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VMdLPAw.jpg" group-title="Quebec Film",Les Lavigueur déménagent (YT)
+plugin://plugin.video.youtube/play/?video_id=1xAb8YbKtoc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mCbK3nM.jpg" group-title="Quebec Film",Les Lavigueur redéménagent (YT)
+plugin://plugin.video.youtube/play/?video_id=thuIkPTdm3I
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGle3yM.jpg" group-title="Quebec Film",Les Lavigueur  Le Retour (YT)
+plugin://plugin.video.youtube/play/?video_id=jljSbjDfuxE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qlqNXrt.jpg" group-title="",Les Pee-Wee 3D
+https://mega99.uqload.com/3rfktvwvezw2q4drdi5ph5xtchm7gxtsaizk5f4rk3oxa23kc7ok5nam3eeq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgwYWYwYTktYjNjMi00ZmRhLTg0MzYtMTJhOWU0ZjFiNjc2XkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_.jpg" group-title="Quebec Film",les voisins 1987 (YT)
+plugin://plugin.video.youtube/play/?video_id=-RpYi_Vuviw
+
+###M###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuurcN6.jpg" group-title="",Mafia Inc.
+https://m0.vudeo.net/2vp3xdbjyyvjdohilmxbroueyapeiwopryzroer42qssgpw4hxqckuyqzl2q/v.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODI5YTAzYWQtZWI3Yi00MGUwLWIyMDUtZGIwNWVhM2I5MjM1XkEyXkFqcGdeQXVyNDI0NjM3MDE@._V1_.jpg" group-title="Quebec Film",Matroni Et Moi (YT)
+plugin://plugin.video.youtube/play/?video_id=ruTvFVtv6zI
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/02/matusalem.jpg" group-title="Quebec Film",Matusalem (1993) (YT)
+plugin://plugin.video.youtube/play/?video_id=WmVqnSNgifo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPcDAhp.jpg" group-title="Quebec Film",Matusalem 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=12hD4IndDSA
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/02/maurice-richard_rocket_CAN.jpg" group-title="Quebec Film",Maurice Rocket Richard (YT)
+plugin://plugin.video.youtube/play/?video_id=kNSIQNRZ4BI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jW4aM84.jpg" group-title="Quebec Film",Menteur (YT)
+plugin://plugin.video.youtube/play/?video_id=iC42-sdLrQ4
+
+###N###
+
+
+
+###O###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eAjfqh4.jpg" group-title="",Octobre (YT)
+plugin://plugin.video.youtube/play/?video_id=GWsQZnstuoE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sp8VWc2.jpg" group-title="",Offenbach - Tabarnac (YT)
+plugin://plugin.video.youtube/play/?video_id=gUazKcupiAo
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/01/ok-laliberte_visuel.jpg" group-title="",OK... Laliberté (YT)
+plugin://plugin.video.youtube/play/?video_id=IEmhw748ji0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mWcd1h1.jpg" group-title="",Omertà
+https://tlharuzkir.mstreamcdn.com/h/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTkxODU0ODEsImRhdGEiOlsiNzAuMjkuMjMwLjExOCIsInJwZHE0NXU3bnRoeCIsIm4iLDJdfQ.Z67bO6RzOHG5o42EW8z1fD3b5n0a3vwlOviTAxNqxCc.mp4
+
+
+###P###
+
+
+
+###Q###
+
+
+
+###R###
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/redemption_finale.jpg" group-title="Quebec Film",Rédemption (2013) (YT)
+plugin://plugin.video.youtube/play/?video_id=GNS43XBCMoI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GsVvlIs.jpg" group-title="",Répertoire des villes disparues
+https://m30.uqload.com/3rfkq7tvcvw2q4drdkzpdmnlacss7tkjbdc7cfe6oow2hrsl3vkghk5agejq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HU7dVR.jpg" group-title="",Requiem Pour Un Beau Sans Coeur (YT)
+plugin://plugin.video.youtube/play/?video_id=5TaCeHVYIg4
+
+###S###
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/05/sans-dessein.jpg" group-title="Quebec Film",Sans Dessein (YT)
+plugin://plugin.video.youtube/play/?video_id=K1PvB_Bsm4k
+
+###T###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7Nwx41.png" group-title="",Tais-Toi, Je Gère (YT)
+plugin://plugin.video.youtube/play/?video_id=MRFL8gIpMgk
+
+###U###
+
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/04/une-histoire-du-nord_boss.jpg" group-title="",Une histoire du nord (YT)
+plugin://plugin.video.youtube/play/?video_id=s1Yckpp6llc
+
+###V###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7QipPw.jpg" group-title="",Valérie (YT)
+plugin://plugin.video.youtube/play/?video_id=4pVaYVM5DqY
+
+###W###
+
+
+
+###X###
+
+
+
+###Y###
+
+
+
+###Z###
+
+
+
+################
