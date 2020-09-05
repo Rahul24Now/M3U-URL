@@ -251,3 +251,72 @@ http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1901
 #EXTINF:-1 tvg-logo="https://i.imgur.com/esIVk4V.png" group-title="",VTM TV
 http://stream-e30453a4b.nmbs.top/m3u/Belgium/effeed9da5.m3u8|User-Agent=VLC
 
+###########
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/Images/Logo%20Pays/belge.png?raw=true",★★★★★★★★★★[COLOR orange]Update needed[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png" group-title="",AB3
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNnVizU.png" group-title="",ABXPLORE
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="",Bruzz
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KcI03X.png" group-title="",Bruzz (OPT-2)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b450000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KcI03X.png" group-title="",Bruzz (OPT-3)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b850000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="",Bruzz (OPT-4)
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
+http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXEq8tx.png" group-title="",CAZ 0
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60PHcN1.png" group-title="",CAZ 2 0
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | Focus
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMtwdKk.png" group-title="BELGIUM",Focus
+https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/AK4e8O.smil/chunklist_b3000000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.focus-wtv.be/sites/all/themes/focus/logo.png" group-title="Belgium",Focus TV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist_b850000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.focus-wtv.be/sites/all/themes/focus/logo.png" group-title="Belgium",Focus WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist_b3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://mnm.be/favicons/favicon-196x196.png" group-title="BELGIUM",MNM
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/live-audio_track_0_dut=128000-video=3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="BELGIUM",Qmusic
+https://dcs-live.apis.anvato.net/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-4&anvsid=i177602774-n5f09440d-dfa0-4976-8fe0-48042c24dd98&ts=1589733883&anvtrid=e177190134b20665753756072701d241
+
+#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru
+https://live-radio-cf.lwc.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/dash/live-video_track=365000.m3u8
+#https://live-radio-cf.lwc.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/dash/live-audio_track_0_0_dut=64000.m3u8
+#https://live-radio-cf.lwc.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/dash/live-audio_track_0_0_dut=64000-video=3000000.m3u8
+#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru
+#https://live-radio-cf.lwc.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/live-audio_track_0_dut=128000-video=3000000.m3u8
+#https://live-radio-cf.lwc.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/dash/live-audio_track_0_0_dut=64000.dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMtwdKk.png" group-title="BELGIUM",WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" group-title="",Sporza
+0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Music",XITE
+https://5904f330f0587.streamlock.net/vleugels_hd4/livestream/chunklist_w2128418475_tkdG9rZW5fZW5kdGltZT0xNTg5NzUwNDQ1JnRva2VuX3N0YXJ0dGltZT0wJnRva2VuX2hhc2g9d25CVUV1dnFkaVZnZzFSZE1vOE16Wkg5bWtEeDVUaTdCYjRjcXM2VGp0ND0=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Belgique",XITE
+https://xite2065.cloudycdn.services/tlive/_definst_/xite_xite_1_tbc_42077_default_45_hls.smil/chunklist_b2472608_t64NzIwcA==.m3u8
+
