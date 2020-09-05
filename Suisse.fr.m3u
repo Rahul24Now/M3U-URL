@@ -55,6 +55,10 @@ https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w862344050_b300
 #EXTINF:-1 tvg-id="Suisse" tvg-name="One TV" tvg-logo="https://www.onetv.ch/wp-content/uploads/2017/02/logo_v04.png" group-title="Suisse",One TV (OTP-2)
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
 
+# http://www.nettv.live/tv/view.php?aid=3943 #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rPlPFiy.png" group-title="",Swiss Rock
+https://edge1.tikilive.com:8443/html5_tikilive/36206/amlst:mainstream/chunklist_w1355776405_b692790.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MjA2JmNOYW1lPVN3aXNzUm9jayUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3QyZDk1ZQ%3D%3D&id=WQHMY2vnYoS8r2xuAnWj
+
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Telebasel" tvg-logo="https://telebasel.ch/wp-content/uploads/2015/12/cropped-tb_fav_icon-180x180.png" group-title="Suisse",Telebasel
 https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/chunklist.m3u8
