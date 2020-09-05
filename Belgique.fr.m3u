@@ -57,8 +57,14 @@ https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Notélé" tvg-logo="https://www.notele.be/webfiles/layout/logo.png" group-title="Belgique",Notélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1567084165.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",PLUG RTL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NjxtF5D.png" group-title="",PLUG RTL
 http://stream-e30453a4b.nmbs.top/m3u/Belgium/52b150f9c3.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="",Radio Contact 102.2 FM Brussels
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="",Radio Contact (opt-2)
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ramdammusique.be/wp-content/uploads/2019/07/Logo_-long_400_web.png" group-title="",RamdamMusique (TWITCH)
 plugin://plugin.video.twitch/?channel_id=470473334&amp;mode=play
