@@ -414,6 +414,9 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
 http://142.112.39.133:8080/catv.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM3YBqY.png" group-title="",CMETV
+http://69.57.222.151:8082/45/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="Canada",CNTV
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 
