@@ -36,6 +36,9 @@ https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w1160503303
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETsDhb8.png" group-title="",Canal C (Opt-2)
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",CINE HD
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1864
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRYkNLF.png" group-title="",CLUB RTL
 http://stream-e30453a4b.nmbs.top/m3u/Belgium/8fa58b91d3.m3u8|User-Agent=VLC
 
