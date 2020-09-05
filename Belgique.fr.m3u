@@ -104,8 +104,11 @@ plugin://script.module.tt/play/690/play.pvr
 plugin://script.module.tt/play/692/play.pvr
 
 # update link : #
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Tv Com" tvg-logo="https://www.tvcom.be/files/images/logotvcom.png"group-title="Belgique",Tv Com
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Tv Com" tvg-logo="https://www.tvcom.be/files/images/logotvcom.png"group-title="Belgique",TvCom
 https://5a0b00d270652.streamlock.net/live/tvcom-live/chunklist_w396605632.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W0NWUzv.png" group-title="",TVCom
+https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="TV Lux" tvg-logo="https://www.tvlux.be/images/logo-TVLux-Naturellement-Proche-2017.png" group-title="Belgique",TV Lux
