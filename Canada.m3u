@@ -422,6 +422,12 @@ http://142.112.39.133:8080/catv.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM3YBqY.png" group-title="",CMETV
 http://69.57.222.151:8082/45/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0yBe3pw.jpg" group-title="",CCTV
+https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0yBe3pw.jpg" group-title="",CCTV
+https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_849920_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="Canada",CNTV
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 
