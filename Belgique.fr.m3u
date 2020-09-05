@@ -30,11 +30,20 @@ http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist_w85
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Canal C" tvg-logo="https://www.canalc.be/wp-content/uploads/CanalC_Blanc_Transparent_pour-fond-sombre-3.png" group-title="Belgique",Canal C
 https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w1160503303.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ETsDhb8.png" group-title="",Canal C (Opt-2)
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRYkNLF.png" group-title="",CLUB RTL
+http://stream-e30453a4b.nmbs.top/m3u/Belgium/8fa58b91d3.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtaumgE.png" group-title="",Eleven Sports 1 HD
 http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5ziimv.png" group-title="",Eleven Sports 2 HD
 http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1875
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Belgique",LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="MA Télé" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="Belgique",MA Télé
@@ -45,12 +54,11 @@ https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1148376481.m3u8
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Belgique" tvg-name="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Belgique",LN24
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-
-# update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Notélé" tvg-logo="https://www.notele.be/webfiles/layout/logo.png" group-title="Belgique",Notélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1567084165.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",PLUG RTL
+http://stream-e30453a4b.nmbs.top/m3u/Belgium/52b150f9c3.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://www.ramdammusique.be/wp-content/uploads/2019/07/Logo_-long_400_web.png" group-title="",RamdamMusique (TWITCH)
 plugin://plugin.video.twitch/?channel_id=470473334&amp;mode=play
