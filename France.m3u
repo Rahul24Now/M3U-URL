@@ -778,7 +778,9 @@ plugin://plugin.video.youtube/play/?video_id=jQjSaISJjSg
 # update link : https://www.youtube.com/channel/UCESTwDXpoMgiYBHipMdKTkQ #
 #EXTINF:-1 tvg-id="France" tvg-name="Sud Radio" tvg-logo="https://i.imgur.com/C6ckk6V.png" group-title="France",Sud Radio (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x75yzts
-#plugin://plugin.video.youtube/play/?video_id=MTgaWW5i1k8
+
+#EXTINF:-1 tvg-id="France" tvg-name="Sud Radio" tvg-logo="https://i.imgur.com/C6ckk6V.png" group-title="France",Sud Radio (TWITCH)
+plugin://plugin.video.twitch/?channel_id=523696365&amp;mode=play
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
