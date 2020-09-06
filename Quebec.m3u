@@ -98,10 +98,6 @@ https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d7
 #EXTINF:-1 tvg-logo="https://seletlumieretv.org/images/logo/sl-french-logo.png" group-title="",SLMedia (OPT-2)
 https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/chunks.m3u8
 
-# update link: http://egarizim.com/  #
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="Canadian TV",GARIZIM RIVE-SUD (OFF Line)
-0.0.0.0
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Canadian TV", Montreal Greek TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
 
@@ -154,6 +150,10 @@ plugin://plugin.video.youtube/play/?video_id=tVL8kYK9w0Q
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=mhaIzNhoRTg
 
+# update link: http://egarizim.com/  #
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="Canadian TV",GARIZIM RIVE-SUD Stream le Dimanche (YT)
+plugin://plugin.video.youtube/play/?video_id=Gn4gqkT6kik
+
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=UpOUzaunkr8
@@ -171,16 +171,18 @@ plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fUB6On4.png" group-title="",DJ SHOO Québec COORS ATTACK!!!! (TWITCH)
 plugin://plugin.video.twitch/?channel_id=477666625&amp;mode=play
 
-# update link: https://kracradio.com/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio(TWITCH)
-plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
-
 # update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT) 
 plugin://plugin.video.youtube/play/?video_id=oWViRaTztTc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (TWITCH)
 plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
+
+# update link: https://kracradio.com/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio(TWITCH)
+plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
+
+
 
 ####
 
