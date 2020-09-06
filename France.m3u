@@ -597,6 +597,9 @@ http://stream-e30453a4b.nmbs.top/m3u/France/001f2f04bd.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-id="France" tvg-name="MANGAS" tvg-logo="https://i.imgur.com/EKNeIxQ.png" group-title="France",MANGAS
 http://stream-e30453a4b.nmbs.top/m3u/France/a66202d234.m3u8|User-Agent=VLC
 
+#EXTINF:-1 tvg-logo="https://www.masterfm.fr/img/upload/favicon.png" group-title="",MasterHipHouse (TWITCH)
+plugin://plugin.video.twitch/?channel_id=438032606&amp;mode=play
+
 # update link : https://www.dailymotion.com/video/x6142rr #
 #EXTINF:-1 tvg-id="France" tvg-name="MB Live TV" tvg-logo="https://www.pixagility.com/wp-content/uploads/2017/11/mb-live-tv_logo01.png" group-title="France",MB Live TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6142rr
