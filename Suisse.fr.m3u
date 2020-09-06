@@ -104,6 +104,8 @@ https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/playlist.m
 #EXTINF:-1 tvg-logo="https://www.rocklabel.tv/uploads/custom-logo.png" group-title="",Rock-Label TV 
 https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/chunklist_w1309246474_b962290.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3RjOWZmYg%3D%3D&id=iccEpNJPlt5pWLukAnVT
 
+#EXTINF:-1 tvg-logo="https://mysports.ch/portal/assets/images/logos/mysports-logo-inverse.png" group-title="",MySports 1
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="",QS24
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
