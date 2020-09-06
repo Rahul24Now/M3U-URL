@@ -70,11 +70,6 @@ https://edge7.vedge.infomaniak.com/livecast/ik:tvm3/chunklist_w191085829.m3u8
 #EXTINF:-1 tvg-id="Suisse" tvg-name="TVM3" tvg-logo="http://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="Suisse",TVM3 (OPT-2)
 http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 
-# http://www.nettv.live/European/Switzerland/3942.html #
-#EXTINF:-1 tvg-logo="https://www.rocklabel.tv/uploads/custom-logo.png" group-title="",Rock-Label TV (UPD)
-https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/chunklist_w1309246474_b962290.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3RjOWZmYg%3D%3D&id=iccEpNJPlt5pWLukAnVT
-
-
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="rouge tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="Suisse",rouge tv
 https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w94148732.m3u8
@@ -104,6 +99,11 @@ https://edge2.tikilive.com:8443/html5_tikilive/34778/amlst:mainstream/playlist.m
 
 #EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",Rock-Label TV
 https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3Q3MDAzMg==&id=Ol-YcLxPRf0lcKWxAnsj
+
+# http://www.nettv.live/European/Switzerland/3942.html #
+#EXTINF:-1 tvg-logo="https://www.rocklabel.tv/uploads/custom-logo.png" group-title="",Rock-Label TV 
+https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/chunklist_w1309246474_b962290.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3RjOWZmYg%3D%3D&id=iccEpNJPlt5pWLukAnVT
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="",QS24
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
