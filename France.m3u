@@ -841,6 +841,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7ti51o
 #EXTINF:-1 tvg-id="France" tvg-name="TVPI Bayonne" tvg-logo="http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg" group-title="France",TVPI Bayonne
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w678893900.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="TVPI Bayonne" tvg-logo="http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg" group-title="France",TVPI Bayonne (TWITCH)
+plugin://plugin.video.twitch/?channel_id=419804805&amp;mode=play
+
 # update link : http://www.tvtours.fr/ https://www.dailymotion.com/video/x7srbgw #
 #EXTINF:-1 tvg-id="France" tvg-name="TV Tours Val de Loire" tvg-logo="http://www.tvtours.fr/assets/images/template/logo-tvtours-hd.png" group-title="France",TV Tours Val de Loire (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7srbgw
