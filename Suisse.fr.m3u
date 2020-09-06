@@ -184,9 +184,8 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24
 https://tna5.bozztv.com/musig/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",TeleZURI
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/6000/t/6vPKXaRL4jBE2JyNgY7omQ/index-s32.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://ch.az-cdn.ch/static/1.152.0/telezueri/device-icons/512x512.png" group-title="",TeleZURI
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq7avs/format/applehttp/protocol/https/a.m3u8
+#https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/6000/t/6vPKXaRL4jBE2JyNgY7omQ/index-s32.m3u8
 #########
 
