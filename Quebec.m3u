@@ -168,6 +168,9 @@ plugin://plugin.video.youtube/play/?video_id=UpOUzaunkr8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="",AfterPT Jonquière (TWITCH)
+plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
+
 # update link: https://kracradio.com/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio(TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
