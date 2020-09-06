@@ -138,13 +138,6 @@ plugin://plugin.video.youtube/play/?video_id=pUBTwjhYa10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Quebec TV",CILE Havre-Saint-Pierre (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=AUISenV3ocg
 
-# update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT) 
-plugin://plugin.video.youtube/play/?video_id=oWViRaTztTc
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (TWITCH)
-plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
-
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=66ijPAFeRsM
@@ -168,16 +161,26 @@ plugin://plugin.video.youtube/play/?video_id=UpOUzaunkr8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
+# https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=Mzs3KTrBSOo
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="",AfterPT Jonquière (TWITCH)
 plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUB6On4.png" group-title="",DJ SHOO Québec COORS ATTACK!!!! (TWITCH)
+plugin://plugin.video.twitch/?channel_id=477666625&amp;mode=play
 
 # update link: https://kracradio.com/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio(TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
-# https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Mzs3KTrBSOo
+# update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT) 
+plugin://plugin.video.youtube/play/?video_id=oWViRaTztTc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (TWITCH)
+plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 
 ####
 
