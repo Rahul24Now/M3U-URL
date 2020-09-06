@@ -675,6 +675,9 @@ plugin://script.module.tt/play/318/play.pvr
 #EXTINF:-1 tvg-id="France" tvg-name="Planete+ CI"  tvg-logo="https://i.imgur.com/IxIhz6p.png" group-title="France",Planete+ CI (TT)
 plugin://script.module.tt/play/322/play.pvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JX04RpS.png" group-title="",Playloud Live radio DAB+ Lille, France.(TWITCH)
+plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
+
 # update link : https://www.dailymotion.com/video/xkxbzc #
 #EXTINF:-1 tvg-id="France" tvg-name="PUBLIC SENAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/1200px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="France",PUBLIC SENAT (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xkxbzc
