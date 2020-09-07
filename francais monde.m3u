@@ -269,8 +269,13 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" group-title="Music",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n6obHoy.png" group-title="",MANA TV FR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6obHoy.png" group-title="",MANA TV FR 1
+http://c2.manasat.com:1935/eglise-online/frances1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6obHoy.png" group-title="",MANA TV FR 2
 http://c2.manasat.com:1935/eglise-online/frances2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6obHoy.png" group-title="",MANA TV FR 3
+http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2020/05/mygospel-300x140.png" group-title="",My GOSPEL Music
 http://connectiktv.ddns.me:8080/mygospel/tracks-v1a1/mono.m3u8
