@@ -71,3 +71,15 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9HBW7B.jpg" group-title="adultswim.com",Your Pretty Face Is Going to Hell
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="adultswim.com",test1
+https://adultswim-vodlive.cdn.turner.com/live/test-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="adultswim.com",test2
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="adultswim.com",test3
+https://adultswim-vodlive.cdn.turner.com/live/test-3/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="adultswim.com",test4
+https://adultswim-vodlive.cdn.turner.com/live/test-4/stream.m3u8
+
+
