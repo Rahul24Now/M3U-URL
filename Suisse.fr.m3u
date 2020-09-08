@@ -4,8 +4,8 @@
 plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
 
 # update link : https://www.youtube.com/channel/UCREx8vJx1YosnkGo3fRTG7A #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT)
-plugin://plugin.video.youtube/play/?video_id=FIwtVL6H2HU
+#EXTINF:-1 tvg-id="Suisse" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=1zuuFry4cSE
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Beatz TV" tvg-logo="https://ch.az-cdn.ch/static/1.131.0/radiopilatus/device-icons/512x512.png" group-title="Suisse",Beatz TV
@@ -21,8 +21,8 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 
 # update link :https://www.tikilive.com/channel/ch-music-tv #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music (UPD)
+https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1687245770_b1115112.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPWoyZW5kZXB1dHEyYWZ1MGh0dThzdWh0MGVzJnVJRD0wJnVOYW1lPUd1ZXN0N2UyNGI%3D&id=X9Cpe-Ig5H2MNUhiAqDF
 
-https://edge1.tikilive.com:8443/html5_tikilive/36200/amlst:mainstream/chunklist_w1489234018_b2052088.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MjAwJmNOYW1lPU5ld2NvbWVyJTIwSVBUViUyMGZlYXR1cmVzJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3RlZDg0MQ%3D%3D&id=Tk23VfJGidGgi9laAnVk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="",Dieu TV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
@@ -54,9 +54,13 @@ https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://cosmic-delights.ch/images/logo.png" group-title="",RadioCosmicDelights (TWITCH)
 plugin://plugin.video.twitch/?channel_id=84868969&amp;mode=play
 
-# http://www.nettv.live/tv/view.php?aid=3943 #
+# update link : https://www.rtn.ch/rtn/Plus/Radio/Direct-video/Suivez-en-direct-video-RTN.html #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VPoIYDG.png" group-title="",RTN (UPD)
+https://edge9.vedge.infomaniak.com/livecast/ik:rtn/manifest.m3u8?spark=d158eeeb-754a-4ae0-b458-b73a0b54a53c&token=
+
+# update link : http://www.nettv.live/tv/view.php?aid=3943 #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rPlPFiy.png" group-title="",Swiss Rock
-https://edge1.tikilive.com:8443/html5_tikilive/36206/amlst:mainstream/chunklist_w1355776405_b692790.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MjA2JmNOYW1lPVN3aXNzUm9jayUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3QyZDk1ZQ%3D%3D&id=WQHMY2vnYoS8r2xuAnWj
+https://edge1.tikilive.com:8443/html5_tikilive/36206/amlst:mainstream/chunklist_w1184035176_b819678.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MjA2JmNOYW1lPVN3aXNzUm9jayUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9ajJlbmRlcHV0cTJhZnUwaHR1OHN1aHQwZXMmdUlEPTAmdU5hbWU9R3Vlc3Q0NDkxNQ%3D%3D&id=5fgjM3MRxl_hsHCcAqDK
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Telebasel" tvg-logo="https://telebasel.ch/wp-content/uploads/2015/12/cropped-tb_fav_icon-180x180.png" group-title="Suisse",Telebasel
@@ -105,7 +109,7 @@ https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/playlist.m
 
 # http://www.nettv.live/European/Switzerland/3942.html #
 #EXTINF:-1 tvg-logo="https://www.rocklabel.tv/uploads/custom-logo.png" group-title="",Rock-Label TV 
-https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/chunklist_w1309246474_b962290.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3RjOWZmYg%3D%3D&id=iccEpNJPlt5pWLukAnVT
+https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/chunklist_w966065155_b756038.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9ajJlbmRlcHV0cTJhZnUwaHR1OHN1aHQwZXMmdUlEPTAmdU5hbWU9R3Vlc3Q0M2NjYQ%3D%3D&id=-YSCb9ULshH47ZiRAqDP
 
 #EXTINF:-1 tvg-logo="https://mysports.ch/portal/assets/images/logos/mysports-logo-inverse.png" group-title="",MySports 1
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
