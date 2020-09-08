@@ -186,17 +186,19 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h4
 
 #EXTINF:-1 tvg-id="Suisse" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Update needed[/COLOR]★★★★★★★★★★
 
-
+# https://sportalhd.com/all/live #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Zwitserland",CH | Sportal HD
 http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
 
-
 # https://www.musig24.tv/ #
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24
 https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24
 https://tna5.bozztv.com/musig/index.m3u8
 
-https://www.suedostschweiz.ch/tv/wilmaa
+# https://www.suedostschweiz.ch/tv/wilmaa #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",suedostschweiz
+0.0.0.0
+
 #########
 
