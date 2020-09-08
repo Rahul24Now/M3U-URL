@@ -12,6 +12,10 @@ plugin://plugin.video.youtube/play/?video_id=1zuuFry4cSE
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 
 # update link : #
+#EXTINF:-1 tvg-id="Suisse" tvg-name="Canal 9" tvg-logo="https://canal9.ch/wp-content/uploads/2015/01/logo-canal9-white.png" group-title="Suisse",Canal 9
+https://edge8.vedge.infomaniak.com/livecast/ik:livehd/chunklist_w1977644832.m3u8
+
+# update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Canal Alpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Suisse",Canal Alpha
 https://edge6.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist_w1815884040_b2500000.m3u8
 
@@ -181,9 +185,7 @@ https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="Zwitserland",CH | Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 
-# update link : #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Canal 9" tvg-logo="https://canal9.ch/wp-content/uploads/2015/01/logo-canal9-white.png" group-title="Suisse",Canal 9
-https://edge8.vedge.infomaniak.com/livecast/ik:livehd/chunklist_w1977644832.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Zwitserland",CH | Sportal HD
 http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
