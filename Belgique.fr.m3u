@@ -226,6 +226,9 @@ http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV4NlTF.png" group-title="",ROB-tv
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://sterktv.net/wene/2019/10/cropped-sterk-logo-1-2.png" group-title="",STERK TV
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.topradio.be/assets/page/img/favicons/favicon-196x196.png" group-title="",TOPradio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=156527835&amp;mode=play
 
