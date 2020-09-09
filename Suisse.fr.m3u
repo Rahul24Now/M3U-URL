@@ -102,8 +102,15 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkGFeGO.png" group-title="",drita tv
+http://195.154.252.221:8000/play/dritawebtv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="",Folx TV
 http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+
+# https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=gfi8_m6pFr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
@@ -144,17 +151,20 @@ http://188.35.9.5:10007/stolen/236r/parasite.install
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2
 http://188.35.9.5:10007/stolen/237p/parasite.install
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dulBdqu.jpg" group-title="",rtvislam
+http://195.154.252.221:8000/play/rtvislamweb/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.schweiz5.ch/wp-content/uploads/2018/10/ch5logo-large.png" group-title="",schweiz5
 https://stream.schweiz5.ch/schweiz52020/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="",SivanTV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 
-#EXTINF:-1 tvg-logo="http://sterktv.net/wene/2019/10/cropped-sterk-logo-1-2.png" group-title="",STERK TV
-http://137.74.205.201/live2/sterk-3mbps.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="",Swiss Sport TV
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GX9LVu.png" group-title="",tele1
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqKjRTP.png" group-title="",Tele M1 HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
