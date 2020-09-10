@@ -533,6 +533,9 @@ https://fr7.seedr.cc/media/video/lq_hls/430a467e25e14d096ae3ab083cbddfe221d142e2
 
 ###O###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/686.jpg" group-title="",Obsession secrète
+https://fr3.seedr.cc/media/video/hd_hls/49109644780c1ecda6beef1c1226e68062001a44/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/414.jpg" group-title="",One Piece Stampede
 https://fr9.seedr.cc/media/video/hd_hls/b1297b54af9662975359f5f9ec8c62e94f114e83/vid.m3u8
 
@@ -557,8 +560,18 @@ https://fr2.seedr.cc/media/video/lq_hls/128370ce2d13090a6fe00ff78a36a997b117f43d
 
 ###Q###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/326.jpg" group-title="",Queen & Slim
+https://nl29.seedr.cc/media/video/hd_hls/2200551944e8dd77d15bf3b189510ce5a534868d/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/390.jpg" group-title="",Qu'un sang impur...
 https://nl38.seedr.cc/media/video/hd_hls/dcdcc265f206fda9f2ef301de38dfdcb2b5f4a49/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/533.jpg" group-title="",Qui a peur des monstres ?
+https://nl25.seedr.cc/media/video/lq_hls/a8b2cfd060eb6bafd20cf9930ed5e30fe2602175/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/580.jpg" group-title="",Quelqu'un de bien
+https://fr1.seedr.cc/media/video/hd_hls/ade91c5c6bd229dd00bf32fa6a19372938d77d37/vid.m3u8
+
 
 ###R###
 
@@ -724,8 +737,20 @@ https://fr12.seedr.cc/media/video/hd_hls/cdba91e3570b55d28b122941146d914b94c5e15
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/412.jpg" group-title="",Valhalla
 https://fr13.seedr.cc/media/video/hd_hls/b9493ff3b26e62c5efd5234f7da430e8b8d71e6d/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/19.jpg" group-title="",Vivre deux fois
+https://sf1.seedr.cc/media/video/hd_hls/nl34/e59c317dc94111b8c2eed12bd249e7b985baf57a/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/264.jpg" group-title="",Vivarium
+https://fr4.seedr.cc/media/video/hd_hls/e694202b866520419477fad415447e647b17a987/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/waERjyT.jpg" group-title="",Venom
 https://mega01.uqload.com/3rfkkacwe5w2q4drdi6ph57wathww7fahmqgtsyn5ljktb7beojktfzemlpa/v.mp4
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/369.jpg" group-title="",Verónica
+https://fr12.seedr.cc/media/video/hd_hls/8ebee6e18f157da871c81af64f3d61cd19aa5de9/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/371.jpg" group-title="",V pour Vendetta
+https://nl38.seedr.cc/media/video/lq_hls/e6d8951f1453dea68922846c474681acb3232814/vid.m3u8?dvr
 
 ###W###
 
@@ -735,8 +760,14 @@ https://nl34.seedr.cc/media/video/hd_hls/d244f74aa165acc6f0a8b2ea8486ba77f378a73
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/140.jpg" group-title="",White House Down
 https://fr5.seedr.cc/media/video/hd_hls/a9d403baa7a8689d0f6a420790b8ec864d780bda/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/188.jpg" group-title="",Will Hunting
+https://fr12.seedr.cc/media/video/hd_hls/307630746fc050abbf16d249c57ad10779800c74/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/83.jpg" group-title="",Wonder Woman - Bloodlines 
 https://sf1.seedr.cc/media/video/hd_hls/nl23/d4a51249d2295e9f17d2a6743b62500a3bf1343d/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/494.jpg" group-title="",Work It
+https://fr10.seedr.cc/media/video/hd_hls/4fd315a68501ac3275be58ab193c334a2b768cf6/vid.m3u8
 
 ###X###
 
