@@ -49,6 +49,12 @@ https://stream99.uqload.com/3rfk5bmggfw2q4drdkjph47wbklduocpxx43ckhjpiyxift4pfaa
 
 ###B###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5u1YzIj.jpg" group-title="",Babine (YT)
+plugin://plugin.video.youtube/play/?video_id=l3_4wpl2MNI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDY7LPM.jpg" group-title="",Bach et Bottine (YT)
+https://www.youtube.com/watch?v=zDEMVK8ibdg
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ueOUeld.jpg" group-title="",Bingo (1974) (YT)
 plugin://plugin.video.youtube/play/?video_id=KVDLWSYuC9g
 
