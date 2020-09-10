@@ -155,7 +155,7 @@ plugin://plugin.video.youtube/play/?video_id=mhaIzNhoRTg
 plugin://plugin.video.youtube/play/?video_id=Gn4gqkT6kik
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (UPD) https://www.facebook.com/intermedetv/
 plugin://plugin.video.youtube/play/?video_id=UpOUzaunkr8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
