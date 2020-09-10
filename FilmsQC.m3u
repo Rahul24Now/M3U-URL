@@ -60,6 +60,9 @@ https://s0.vudeo.net/2vp3tzadzyvjdohilncrrkmxqmvmgq7venc23eu3rfkrzxsdceqlmzifzjb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hgtCWtZ.jpg" group-title="",Cordélia (YT)
 plugin://plugin.video.youtube/play/?video_id=xYTRkPJCiBA
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2SKjSf.jpg" group-title="",Cosmos (1996) (YT)
+plugin://plugin.video.youtube/play/?video_id=V7AtYfdsyV4
+
 ###D###
 
 #EXTINF:-1 tvg-logo="https://img3.cdn.cinoche.com/images/c66d13308e4bce2f28ab5b99913a97d8.jpg" group-title="Quebec Film",DE PERE EN FLIC 1 2009 (YT)
@@ -69,6 +72,9 @@ plugin://plugin.video.youtube/play/?video_id=UQM1_PMMwHA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkZvEUb.jpg" group-title="",Dédé - à travers les brumes (YT)
 plugin://plugin.video.youtube/play/?video_id=cztKbX4nnvI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAXTnmS.jpg" group-title="",DING ET DONG - 1990 (YT)
+plugin://plugin.video.youtube/play/?video_id=3KOkRQIdTM0
 
 ###E###
 
@@ -108,6 +114,9 @@ https://m30.uqload.com/3rfki7u7ezw2q4drdi77h5fxcizkzvjhetxww562tiwmg4eeox5tcjlzm
 
 
 ###J###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Qsd3LS.jpg" group-title="",J'AI MON VOYAGE 1973 (YT)
+plugin://plugin.video.youtube/play/?video_id=yKktxyfMwck
 
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/jen-suis_fournier.jpg" group-title="Quebec Film",jen suis (YT)
 plugin://plugin.video.youtube/play/?video_id=7qwm0pAQ4xw
@@ -200,6 +209,9 @@ plugin://plugin.video.youtube/play/?video_id=12hD4IndDSA
 
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/02/maurice-richard_rocket_CAN.jpg" group-title="Quebec Film",Maurice Rocket Richard (YT)
 plugin://plugin.video.youtube/play/?video_id=kNSIQNRZ4BI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMkwsCO.jpg" group-title="",Mechant Party (YT)
+plugin://plugin.video.youtube/play/?video_id=OC59PylqTJE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jW4aM84.jpg" group-title="Quebec Film",Menteur (YT)
 plugin://plugin.video.youtube/play/?video_id=iC42-sdLrQ4
