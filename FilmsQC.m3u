@@ -9,8 +9,17 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C47RzB1.jpg" group-title="",1:54 (NA)
 https://s0.vudeo.net/2vp33wqbzyvjdohilndrriwht2jfilcwlbaj6j5pjoruft7b3wxkpchp7x2a/v.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HgWgwQX.jpg" group-title="",1er amour (YT)
+plugin://plugin.video.youtube/play/?video_id=F-Vqw_bQXbg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFNIvY6.jpg" group-title="",2 Frogs Dans L Ouest (YT)
+plugin://plugin.video.youtube/play/?video_id=vxEKF89OXn8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQE9pWh.jpg" group-title="",2 secondes (YT)
 plugin://plugin.video.youtube/play/?video_id=Cuzc2RxhAwk
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/422.jpg" group-title="",14 jours, 12 nuits
+https://nl21.seedr.cc/media/video/hd_hls/62f796d24aa818140d4ef9f1cfe8c5c307b53e30/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xMYWv7J.jpg" group-title="Quebec Film",15 février 1839 (YT)
 plugin://plugin.video.youtube/play/?video_id=mY3Iqd3J5g4
@@ -26,6 +35,11 @@ plugin://plugin.video.youtube/play/?video_id=OJnkkSzOeuU
 
 
 ###A###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAZ7g50.jpg" group-title="",À vos marques party !! (YT)
+plugin://plugin.video.youtube/play/?video_id=8amQlDKkRbs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JILl0Ef.jpg" group-title="",À VOS MARQUES… PARTY! 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=pOUdpJ49084
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NqpBqe.jpg" group-title="Quebec Film",Aurore, l'enfant martyre 2005 (YT)
 plugin://plugin.video.youtube/play/?video_id=KgVGzbPaUgQ
