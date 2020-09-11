@@ -115,6 +115,9 @@ plugin://plugin.video.youtube/play/?video_id=mw6twymYlfA
 
 ###G###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNW1ZBg.jpg" group-title="",Gaz Bar Blues (YT)
+plugin://plugin.video.youtube/play/?video_id=L63DWvek2yk
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZyUVU7.jpg" group-title="",Gerry Boulet (YT)
 plugin://plugin.video.youtube/play/?video_id=AvD-aSaWEPk
 
@@ -141,6 +144,9 @@ plugin://plugin.video.youtube/play/?video_id=yKktxyfMwck
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/jen-suis_fournier.jpg" group-title="Quebec Film",jen suis (YT)
 plugin://plugin.video.youtube/play/?video_id=7qwm0pAQ4xw
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jP0jRB1.jpg" group-title="",Jésus de Montréal (YT)
+plugin://plugin.video.youtube/play/?video_id=hiBBl4bNINM
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qGfOzd4.jpg" group-title="",Junior Majeur (YT)
 plugin://plugin.video.youtube/play/?video_id=Ls15xiQ_tTk
 
@@ -148,6 +154,8 @@ plugin://plugin.video.youtube/play/?video_id=Ls15xiQ_tTk
 
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2017/07/karmina_filmsquebecdotcom.jpg" group-title="Quebec Film",karmina (YT)
 plugin://plugin.video.youtube/play/?video_id=xLscFI5qZAg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfqYE1H.jpg" group-title="",Karmina 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=QaYcU_ED_lc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2xbvLwK.jpg" group-title="",King Dave (YT)
 plugin://plugin.video.youtube/play/?video_id=iHCKWrLw8h4
@@ -195,6 +203,9 @@ https://mega01.uqload.com/3rfkpeschvw2q4drdlvpfpnfamjghfe4ojy44oxrh2h64a77yvjs3a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oLKmMSz.jpg" group-title="Quebec Film",Les Dangereux (YT)
 plugin://plugin.video.youtube/play/?video_id=8wHjZTkFTqY
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0eHwSm.jpg" group-title="",les invasions barbares (YT)
+plugin://plugin.video.youtube/play/?video_id=eHLNKxQOiRY
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNXXQ0t.jpg" group-title="",Les jumelles Dionne (YT)
 plugin://plugin.video.youtube/play/?video_id=GC7r9XGnXfo
 
@@ -215,6 +226,9 @@ https://mega99.uqload.com/3rfktvwvezw2q4drdi5ph5xtchm7gxtsaizk5f4rk3oxa23kc7ok5n
 plugin://plugin.video.youtube/play/?video_id=-RpYi_Vuviw
 
 ###M###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tALAZuJ.jpg" group-title="",Madame La Bolduc (YT)
+plugin://plugin.video.youtube/play/?video_id=-puySzTeLew
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VuurcN6.jpg" group-title="",Mafia Inc. (NA)
 https://m0.vudeo.net/2vp3xdbjyyvjdohilmxbroueyapeiwopryzroer42qssgpw4hxqckuyqzl2q/v.mp4
