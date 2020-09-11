@@ -143,6 +143,18 @@ http://stream-e30453a4b.nmbs.top/m3u/Usa/66d415bdda.m3u8|User-Agent=VLC
 http://stream-e30453a4b.nmbs.top/m3u/Usa/be46de6a02.m3u8|User-Agent=VLC
 #EXTINF:-1,TEENNICK 
 http://stream-e30453a4b.nmbs.top/m3u/Usa/f21c85b637.m3u8|User-Agent=VLC
+#EXTINF:-1,NBA TV 
+http://stream-e30453a4b.nmbs.top/m3u/Sports/f9e0a5cfef.m3u8|User-Agent=VLC
+#EXTINF:-1,NBC SN 
+http://stream-e30453a4b.nmbs.top/m3u/Sports/019e96a4c6.m3u8|User-Agent=VLC
+#EXTINF:-1,NFL NETWORK 
+http://stream-e30453a4b.nmbs.top/m3u/Sports/32ceafb0ce.m3u8|User-Agent=VLC
+#EXTINF:-1,FOX SPORT 1 USA 
+http://stream-e30453a4b.nmbs.top/m3u/Sports/c2d957a01d.m3u8|User-Agent=VLC
+#EXTINF:-1,FOX SPORT 2 USA 
+http://stream-e30453a4b.nmbs.top/m3u/Sports/3efde4ac6a.m3u8|User-Agent=VLC
+#EXTINF:-1,WWE NETWORK 
+http://stream-e30453a4b.nmbs.top/m3u/Sports/1391c208ba.m3u8|User-Agent=VLC
 
 
 ######
