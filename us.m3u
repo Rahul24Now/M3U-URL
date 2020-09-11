@@ -1,7 +1,151 @@
 #EXTM3U 
 
 
+#EXTINF:-1,USA NETWORK 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/b7e6788636.m3u8|User-Agent=VLC
+#EXTINF:-1,SYFY
+http://stream-e30453a4b.nmbs.top/m3u/Usa/e44e457dde.m3u8|User-Agent=VLC
+#EXTINF:-1,ABC
+http://stream-e30453a4b.nmbs.top/m3u/Usa/4786c3abca.m3u8|User-Agent=VLC
+#EXTINF:-1,AMC USA
+http://stream-e30453a4b.nmbs.top/m3u/Usa/3a1649ffa2.m3u8|User-Agent=VLC
+#EXTINF:-1,HBO ZONE
+http://stream-e30453a4b.nmbs.top/m3u/Usa/84fced301b.m3u8|User-Agent=VLC
+#EXTINF:-1,HBO SINGNATURE
+http://stream-e30453a4b.nmbs.top/m3u/Usa/72a84804b9.m3u8|User-Agent=VLC
+#EXTINF:-1,HBO COMEDY
+http://stream-e30453a4b.nmbs.top/m3u/Usa/1b9512a7a8.m3u8|User-Agent=VLC
+#EXTINF:-1,Discovery USA
+http://stream-e30453a4b.nmbs.top/m3u/Usa/ed1010d3c3.m3u8|User-Agent=VLC
+#EXTINF:-1,FOX NEWS
+http://stream-e30453a4b.nmbs.top/m3u/Usa/0d8267e367.m3u8|User-Agent=VLC
+#EXTINF:-1,HBO HD
+http://stream-e30453a4b.nmbs.top/m3u/Usa/6abb3e952a.m3u8|User-Agent=VLC
+#EXTINF:-1,ROMEDY NOW
+http://stream-e30453a4b.nmbs.top/m3u/Usa/92489947d4.m3u8|User-Agent=VLC
+#EXTINF:-1,FX
+http://stream-e30453a4b.nmbs.top/m3u/Usa/1728346667.m3u8|User-Agent=VLC
+#EXTINF:-1,HGTV
+http://stream-e30453a4b.nmbs.top/m3u/Usa/e35c982050.m3u8|User-Agent=VLC
+#EXTINF:-1,SPIKE
+http://stream-e30453a4b.nmbs.top/m3u/Usa/152845ec0a.m3u8|User-Agent=VLC
+#EXTINF:-1,LIFETIME
+http://stream-e30453a4b.nmbs.top/m3u/Usa/21110ba030.m3u8|User-Agent=VLC
+#EXTINF:-1,TNT TV
+http://stream-e30453a4b.nmbs.top/m3u/Usa/1154f3240a.m3u8|User-Agent=VLC
+#EXTINF:-1,CBS
+http://stream-e30453a4b.nmbs.top/m3u/Usa/209cbcc5e5.m3u8|User-Agent=VLC
+#EXTINF:-1,STARZ HD
+http://stream-e30453a4b.nmbs.top/m3u/Usa/352088d7d9.m3u8|User-Agent=VLC
+#EXTINF:-1,STARZ WEST
+http://stream-e30453a4b.nmbs.top/m3u/Usa/22cdb5b343.m3u8|User-Agent=VLC
+#EXTINF:-1,STARZ COMEDY
+http://stream-e30453a4b.nmbs.top/m3u/Usa/b375662576.m3u8|User-Agent=VLC
+#EXTINF:-1,STARZ EDGE
+http://stream-e30453a4b.nmbs.top/m3u/Usa/33d3f546cb.m3u8|User-Agent=VLC
+#EXTINF:-1,BRAVO
+http://stream-e30453a4b.nmbs.top/m3u/Usa/7e9ba5f5bb.m3u8|User-Agent=VLC
+#EXTINF:-1,CW TV
+http://stream-e30453a4b.nmbs.top/m3u/Usa/9b11be80ab.m3u8|User-Agent=VLC
+#EXTINF:-1,E ENTERTAINMENT
+http://stream-e30453a4b.nmbs.top/m3u/Usa/76e1ce4136.m3u8|User-Agent=VLC
+#EXTINF:-1,SHOWTIME
+http://stream-e30453a4b.nmbs.top/m3u/Usa/bd66cc19d0.m3u8|User-Agent=VLC
+#EXTINF:-1,FOOD NETWORK
+http://stream-e30453a4b.nmbs.top/m3u/Usa/d7f5a6b38b.m3u8|User-Agent=VLC
+#EXTINF:-1,HISTORY US
+http://stream-e30453a4b.nmbs.top/m3u/Usa/60e83a4c3a.m3u8|User-Agent=VLC
+#EXTINF:-1,TBS
+http://stream-e30453a4b.nmbs.top/m3u/Usa/e59856b4de.m3u8|User-Agent=VLC
+#EXTINF:-1,COMEDY CENTRAL
+http://stream-e30453a4b.nmbs.top/m3u/Usa/65e0b240ce.m3u8|User-Agent=VLC
+#EXTINF:-1,MOVIETIME
+http://stream-e30453a4b.nmbs.top/m3u/Usa/178a9fc26f.m3u8|User-Agent=VLC
+#EXTINF:-1,NAT GEO USA 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/a24906e8a8.m3u8|User-Agent=VLC
+#EXTINF:-1,FOX US
+http://stream-e30453a4b.nmbs.top/m3u/Usa/724f73a996.m3u8|User-Agent=VLC
+#EXTINF:-1,CNN US
+http://stream-e30453a4b.nmbs.top/m3u/Usa/b7b36092fb.m3u8|User-Agent=VLC
+#EXTINF:-1,CINEMAX
+http://stream-e30453a4b.nmbs.top/m3u/Usa/a6f3de83d8.m3u8|User-Agent=VLC
+#EXTINF:-1,NICK AT NITE
+http://stream-e30453a4b.nmbs.top/m3u/Usa/d23373b17c.m3u8|User-Agent=VLC
+#EXTINF:-1,OWN
+http://stream-e30453a4b.nmbs.top/m3u/Usa/96e4c37100.m3u8|User-Agent=VLC
+#EXTINF:-1,HALLMARK 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/5cbdfd9f81.m3u8|User-Agent=VLC
+#EXTINF:-1,HALLMARK  DRAMA
+http://stream-e30453a4b.nmbs.top/m3u/Usa/25da1e29e3.m3u8|User-Agent=VLC
+#EXTINF:-1,HALLMARK  MOVIES & MYSTERIES
+http://stream-e30453a4b.nmbs.top/m3u/Usa/c4663ccf96.m3u8|User-Agent=VLC
+#EXTINF:-1,TLC USA
+http://stream-e30453a4b.nmbs.top/m3u/Usa/89d1e7298b.m3u8|User-Agent=VLC
+#EXTINF:-1,BET
+http://stream-e30453a4b.nmbs.top/m3u/Usa/38fc48a2cf.m3u8|User-Agent=VLC
+#EXTINF:-1,LMN US
+http://stream-e30453a4b.nmbs.top/m3u/Usa/66fd8f918a.m3u8|User-Agent=VLC
+#EXTINF:-1,SUNDANCE
+http://stream-e30453a4b.nmbs.top/m3u/Usa/f81e6a13cf.m3u8|User-Agent=VLC
+#EXTINF:-1,FXX
+http://stream-e30453a4b.nmbs.top/m3u/Usa/843ad7f202.m3u8|User-Agent=VLC
+#EXTINF:-1,VH1 US
+http://stream-e30453a4b.nmbs.top/m3u/Usa/9e83860db1.m3u8|User-Agent=VLC
+#EXTINF:-1,SEC NETWORK
+http://stream-e30453a4b.nmbs.top/m3u/Usa/c914f9e55d.m3u8|User-Agent=VLC
+#EXTINF:-1,MLB NETWORK
+http://stream-e30453a4b.nmbs.top/m3u/Usa/f75bf1bcfe.m3u8|User-Agent=VLC
+#EXTINF:-1,FREEFROM
+http://stream-e30453a4b.nmbs.top/m3u/Usa/3490357549.m3u8|User-Agent=VLC
+#EXTINF:-1,DISNEY CH US
+http://stream-e30453a4b.nmbs.top/m3u/Usa/a0055f636e.m3u8|User-Agent=VLC
+#EXTINF:-1,DISCOVERY SCI
+http://stream-e30453a4b.nmbs.top/m3u/Usa/1b839a0cef.m3u8|User-Agent=VLC
+#EXTINF:-1,DISCOVERY VELOCITY
+http://stream-e30453a4b.nmbs.top/m3u/Usa/069a435b31.m3u8|User-Agent=VLC
+#EXTINF:-1,EL REY NETWORK
+http://stream-e30453a4b.nmbs.top/m3u/Usa/2a07ca4b76.m3u8User-Agent=VLC
+#EXTINF:-1,TV LAND
+http://stream-e30453a4b.nmbs.top/m3u/Usa/6aeb9c157c.m3u8|User-Agent=VLC
+#EXTINF:-1,TRAVEL CHANNEL
+http://stream-e30453a4b.nmbs.top/m3u/Usa/a7425e7c98.m3u8|User-Agent=VLC
+#EXTINF:-1,TENNIS CHANNEL
+http://stream-e30453a4b.nmbs.top/m3u/Usa/3dfb505ffe.m3u8|User-Agent=VLC
+#EXTINF:-1,BBC AMERICA
+http://stream-e30453a4b.nmbs.top/m3u/Usa/48b743dc5d.m3u8|User-Agent=VLC
+#EXTINF:-1,MSNBC
+http://stream-e30453a4b.nmbs.top/m3u/Usa/d5c927d466.m3u8|User-Agent=VLC
+#EXTINF:-1,BIG TEN NETWORK
+http://stream-e30453a4b.nmbs.top/m3u/Usa/c23b952873.m3u8|User-Agent=VLC
+#EXTINF:-1,GSN
+http://stream-e30453a4b.nmbs.top/m3u/Usa/040da20ef3.m3u8|User-Agent=VLC
+#EXTINF:-1,IFC
+http://stream-e30453a4b.nmbs.top/m3u/Usa/dd3139aa4d.m3u8|User-Agent=VLC
+#EXTINF:-1,ANIMAL PLANET US
+http://stream-e30453a4b.nmbs.top/m3u/Usa/65625d76a6.m3u8|User-Agent=VLC
+#EXTINF:-1,CARTOON NET US
+http://stream-e30453a4b.nmbs.top/m3u/Usa/2fc3289af4.m3u8|User-Agent=VLC
+#EXTINF:-1,DISCOVERY ID 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/6a6f341e00.m3u8|User-Agent=VLC
+#EXTINF:-1,DISCOVERY FAMILY 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/fa3400d826.m3u8|User-Agent=VLC
+#EXTINF:-1,A & E USA 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/f04ef43739.m3u8|User-Agent=VLC
+#EXTINF:-1,WE TV 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/da05c5a094.m3u8|User-Agent=VLC
+#EXTINF:-1,Paramount Network 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/8b3a00b69c.m3u8|User-Agent=VLC
+#EXTINF:-1,DISCOVERY LIFE 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/e07753b0b9.m3u8|User-Agent=VLC
+#EXTINF:-1,BOUNCE TV 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/66d415bdda.m3u8|User-Agent=VLC
+#EXTINF:-1,NICKTOONS 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/be46de6a02.m3u8|User-Agent=VLC
+#EXTINF:-1,TEENNICK 
+http://stream-e30453a4b.nmbs.top/m3u/Usa/f21c85b637.m3u8|User-Agent=VLC
 
+
+######
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="USA",24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
