@@ -82,6 +82,8 @@ https://nl38.seedr.cc/media/video/hd_hls/4bf119b58d5f983a694d5f2fdcf98e121bd49c6
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/690.jpg" group-title="",Avengers
 https://nl27.seedr.cc/media/video/lq_hls/841948e6fe99322bd7b2c91902bc163307aecd25/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/709.jpg" group-title="",Avengers - L'Ère d'Ultron
+https://nl28.seedr.cc/media/video/hd_hls/730335a9ba06e35099004af0d3ad4b9126ccc055/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/688.jpg" group-title="",Avengers Grimm - Time Wars
 https://de9.seedr.cc/media/video/hd_hls/871ae849b1d67d0d22d89f52173f2094e3e46878/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/699.jpg" group-title="",Avengers - Endgame
@@ -130,6 +132,9 @@ https://de13.seedr.cc/media/video/lq_hls/e45b9c2e941c9df4202cfcdee448d11e8869adb
 https://de4.seedr.cc/media/video/hd_hls/4d3038e1610994aa6bae334dc2e8b13173799450/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/278.jpg" group-title="",Ça - Chapitre 2
 https://fr1.seedr.cc/media/video/hd_hls/9137e4e9a14e68f0e0d88931e995bf8d12481790/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/706.jpg" group-title="",Captain Marvel
+https://fr14.seedr.cc/media/video/hd_hls/40941cf921787c748b4e166f538b1d4e4aa4f422/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/192.jpg" group-title="",Cars - Quatre roues
 https://nl38.seedr.cc/media/video/lq_hls/9abc546d6f11338e3be79f12ca6c639b6caf6e72/vid.m3u8?dvr
@@ -634,6 +639,8 @@ https://fr1.seedr.cc/media/video/lq_hls/cb899643ce78768a9d8a75587fa239efcbdb560e
 https://nl29.seedr.cc/media/video/lq_hls/6a7ddc3439aa6304c5dda04c09e62f3279ea6402/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/695.jpg" group-title="",Shrek le troisième
 https://nl34.seedr.cc/media/video/hd_hls/392f56509e7dfd582fcf797787001b94ec04b579/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/703.jpg" group-title="",Shrek 4 - il était une fin
+https://nl31.seedr.cc/media/video/lq_hls/cff835ebe16e844503e2b5113a2e58e436126c59/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/228.jpg" group-title="",Sister Act
 https://lo1.seedr.cc/media/video/hd_hls/fr8/690f353de46c2bf2a9d8b9e50f161a986124aafa/vid.m3u8
