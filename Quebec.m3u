@@ -128,14 +128,14 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=cCKuX-09zR0
+plugin://plugin.video.youtube/play/?video_id=To4IbFIhtEg
 
 # update link  https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Quebec TV",CILE Havre-Saint-Pierre (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=AUISenV3ocg
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
-#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD) (OFF Line)
 plugin://plugin.video.youtube/play/?video_id=66ijPAFeRsM
 
 # update link https://www.youtube.com/user/ctmq #
@@ -155,7 +155,7 @@ plugin://plugin.video.youtube/play/?video_id=mhaIzNhoRTg
 plugin://plugin.video.youtube/play/?video_id=Gn4gqkT6kik
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (UPD) https://www.facebook.com/intermedetv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (UPD) facebook.com/intermedetv/
 plugin://plugin.video.youtube/play/?video_id=UpOUzaunkr8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
@@ -163,7 +163,7 @@ plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
 # https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=KBtNKr_7feo
+plugin://plugin.video.youtube/play/?video_id=IgPjxccENrM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="",AfterPT Jonquière (TWITCH)
 plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
