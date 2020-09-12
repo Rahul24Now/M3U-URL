@@ -44,7 +44,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6i37o5
 
 # https://www.youtube.com/channel/UC25EuGAePOPvPrUA5cmu3dQ #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://fr.africanews.com/apple-touch-icon-180x180.png" group-title="",Africanews (YT) (Opt-2) (UPD)
-plugin://plugin.video.youtube/play/?video_id=VClldaoPuF4
+plugin://plugin.video.youtube/play/?video_id=BgvN2oVZMys
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://africasports.tv/assets/images/favicon192.png" group-title="AfricaSports TV",AfricaSports
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
@@ -82,8 +82,9 @@ http://41.213.134.36/agkpum4i5aaaaaaaaiyjptdaaaaaaaaaaaaadymiujnid2yi/0000139/01
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/8c45FW7.png" group-title="",APTV Martinique
 http://51.91.247.187/hls/stream.m3u8
 
+# https://www.youtube.com/channel/UCsn_DOfpwtgW-2qiWmBkekQ #
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/8c45FW7.png" group-title="",APTV Martinique (YT)
-plugin://plugin.video.youtube/play/?video_id=meZ1faWdmW8
+plugin://plugin.video.youtube/play/?video_id=3HZKAyEZXfo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVvvGKy.png" group-title="",AraBel (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7teocz
@@ -209,14 +210,14 @@ http://bcliveuniv-lh.akamaihd.net/i/IADFrench_1@414083/master.m3u8
 
 # https://www.youtube.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/mEFqt8Y.png" group-title="",GABON 24 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=284J_7OlnDQ
+plugin://plugin.video.youtube/play/?video_id=ZLWf3aQCyjE
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/qJ4ykc8.png" group-title="",GC TV
 https://5c4984c4d9146.streamlock.net:1937/live/ngrp:GCTV_all/chunklist.m3u8
 
 # https://www.youtube.com/channel/UC98EZ3PHQNrqV-B-CtwAHMA #
-#EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/fut4cx5.png" group-title="Benin",GOLFE TV AFRICA (YT)
-plugin://plugin.video.youtube/play/?video_id=ljAy6qUTGps
+#EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/fut4cx5.png" group-title="Benin",GOLFE TV AFRICA (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=jQ_eIvYZg5k
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FoX8mlC.png" group-title="",GRACE TV
 http://connectiktv.ddns.net:5000/gracetv/gracetv/chunklist_w940348901.m3u8
@@ -243,7 +244,7 @@ https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
 
 # https://www.youtube.com/channel/UCgzADnln0QPAwUUQB0-wDQw #
 #EXTINF:-1 tvg-id="Fr"  tvg-logo="https://i.imgur.com/QyK7qc0.png" group-title="l'ile de la REUNION ",Kanal Austral TV (YT) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=CBV83RRfGFQ
+plugin://plugin.video.youtube/play/?video_id=mLxihok6kz0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNHwGp9.png" group-title="",KOLOTV (TWITCH)
 plugin://plugin.video.twitch/?channel_id=231145235&amp;mode=play
@@ -320,6 +321,10 @@ https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/jV1IyRU.jpg" tvg-url="" group-title="",Mouride TV
 http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
 
+# https://www.youtube.com/channel/UChDh4FIFs__u-HXk5z_0prA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZQuCB5.jpg" group-title="",NOURDINE TV KANKAN (OPT-2) (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=ggkgnAOqWkc
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/BuKv5Vj.png" group-title="",MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
 
@@ -395,8 +400,9 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/LdBDXGq.png" group-title="",Plex TV (OPT-2)
 http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist_w640810700.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UJKO70.png" group-title="",Radio Gabon (YT)
-plugin://plugin.video.youtube/play/?video_id=ju7z3lW3xR0
+# https://www.youtube.com/channel/UCCGUxmYh-xFp2o3zo2Ow8WA #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UJKO70.png" group-title="",Radio Gabon (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=UPulFs-PVSM
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/6EEHWNg.jpg" group-title="",Radio Tele Ginen | Chaine 18
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
