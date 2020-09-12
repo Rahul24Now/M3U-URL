@@ -576,6 +576,9 @@ https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tNU6NHC.png" group-title="USA",Hallmark Movies & Mysteries
 https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="USA",Harley Davidson
+https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NO7y3tt.png" group-title="USA",HBCU Game Day
 https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
 
@@ -782,6 +785,9 @@ https://30a-tv.com/NothingScripted.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ED80lIa.png" group-title="USA",nPowered TV
 https://nimble.dashstreams.net/onestudio/npowered/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exLpw9m.png" group-title="USA",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMnzfj1.png" group-title="USA",Opportunity Knocks TV
 https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
