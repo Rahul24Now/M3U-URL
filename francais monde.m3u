@@ -408,6 +408,10 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist_w640810700.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UJKO70.png" group-title="",Radio Gabon (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=UPulFs-PVSM
 
+# https://www.tv2vie.org/television-yt/ https://www.youtube.com/channel/UCuccXjjXi06oaSdAyznqUjQ #
+#EXTINF:-1 tvg-logo="https://www.tv2vie.org/static/img/logo-tv2vie.png" group-title="",TV2VIE (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=EZTsRKO4Yrk
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/6EEHWNg.jpg" group-title="",Radio Tele Ginen | Chaine 18
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
 
