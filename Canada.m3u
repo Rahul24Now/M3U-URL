@@ -102,7 +102,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8|User-Agent=VLC
 
 # Update Link https://www.chch.com/live/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD)
-https://flowcaster1-ch.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w233351587_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU5OTc3MzcwMiZpaW1hZTBVQzJhaGFzaD03WV9CZEFaVEdFS21rMm54UkdtQWxLNVJlZWVGUGRtcWFGLU52ZWt2LVlVPQ==.m3u8
+https://flowcaster1-sh.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w1188142799_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU5OTkzODkwOCZpaW1hZTBVQzJhaGFzaD1ueDQwZERnTTlTUDBaYXVkYlhDbHFSdTNWdFdFUzdZaURSN1haRXlXR1BrPQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/playlist.m3u8
@@ -386,6 +386,10 @@ http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+# https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=zJyh2ajGBPM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",► TVO KIDS (OPT-2)
 http://stream-e30453a4b.nmbs.top/m3u/Canada/6cd9f9c0c8.m3u8|User-Agent=VLC
