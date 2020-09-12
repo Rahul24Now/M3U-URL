@@ -299,6 +299,10 @@ https://edge8.vedge.infomaniak.com/livecast/ik:lmtvfr/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ImyfhN8.png" group-title="",LOGOS CHANNEL
 http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist_w1831753144.m3u8
 
+# https://www.youtube.com/channel/UC2v8FVZEkp5sp20zyG46OPw  #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LWYVdDz.jpg" group-title="",MISHAPI VOICE TV (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=3_CrKli4omk
+
 # https://www.youtube.com/channel/UCgA9V57lQlZFXkDfhVGTWSg #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/xqvPSPC.png" group-title="",Martinique La 1ere (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=DjgUzaNH1t4
