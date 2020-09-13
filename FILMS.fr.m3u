@@ -198,6 +198,9 @@ https://nl22.seedr.cc/media/video/hd_hls/b10ee562401063bfc1839c3c2bb3056f846bff1
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/250.jpg" group-title="",Countdown
 https://fr11.seedr.cc/media/video/hd_hls/bf4d6c722a2421992000d0c68918afd12372a8d0/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKkLPbr.jpg" group-title="",Criminal Squad (YT)
+plugin://plugin.video.youtube/play/?video_id=oBI1OE0ZZM8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/554.jpg" group-title="",Cruel Peter
 https://fr2.seedr.cc/media/video/hd_hls/04614220456e885a51ee14a506432e1d6791870c/vid.m3u8
 
@@ -205,6 +208,9 @@ https://fr2.seedr.cc/media/video/hd_hls/04614220456e885a51ee14a506432e1d6791870c
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/559.jpg" group-title="",De Gaulle
 https://nl31.seedr.cc/media/video/hd_hls/084a8f8c6c9b16424df8cb7453461b9ddfb52c0e/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8NS7ZOh.jpg" group-title="",De Sang Froid (YT)
+plugin://plugin.video.youtube/play/?video_id=zSA1Gtx4yL4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/231.jpg" group-title="",Dirty Dancing
 https://fr11.seedr.cc/media/video/lq_hls/ee868e2a09f765d2130b42abbe87a6a892b905bb/vid.m3u8?dvr
@@ -588,6 +594,9 @@ https://de11.seedr.cc/media/video/hd_hls/2f4827a2f91e86928bad302302006505a72a9b1
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/445.jpg" group-title="",Mon ninja et moi
 https://fr5.seedr.cc/media/video/hd_hls/e12a24856e4b5c521bd12c7a7fb9da8d2a9617cd/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8OMGka.jpg" group-title="",MON NOM EST PERSONNE (YT)
+plugin://plugin.video.youtube/play/?video_id=Y_nfnSj53Eg
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/723.jpg" group-title="",Monsieur
 https://nl30.seedr.cc/media/video/lq_hls/e172422578323bf211ea35bdd3c6efef97e73b15/vid.m3u8
