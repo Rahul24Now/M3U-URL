@@ -65,6 +65,11 @@ http://41.223.30.250:8080/afrobit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://www.afroculturetv.com/wp-content/uploads/2020/01/AFRO-CULTURE-LOGO-4.png" group-title="",Afroculture TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7t09ft
 
+#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/pHOGher.jpg" group-title="",ALPHAETOMEGA
+https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
+#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/pHOGher.jpg" group-title="",ALPHAETOMEGA (OPT-2)
+https://video1.getstreamhosting.com:1936/8318/8318/chunklist_w1247370038.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRX5wTH.png" group-title="",AMSPORT (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7v023j
 
