@@ -9,8 +9,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7tw89g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAFKBsu.png" group-title="",3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/SQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/x7O7K4N.png" group-title="",A12 TV (Off Line)
-http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
+#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/x7O7K4N.png" group-title="",A12 TV 
+https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
+#http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5dfbnH.png" group-title="",ACRO TV
 https://5d4a00b8a0738.streamlock.net/8072/8072/chunklist_w1056974286.m3u8
