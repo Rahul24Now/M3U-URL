@@ -281,7 +281,7 @@ http://c2.manasat.com:1935/eglise-online/frances2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n6obHoy.png" group-title="",MANA TV FR 3
 http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8
 
- https://www.youtube.com/channel/UCMVHuS2HYJAAbCQwKQNw-vQ #
+# https://www.youtube.com/channel/UCMVHuS2HYJAAbCQwKQNw-vQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nh7yzDP.jpg" group-title="",MMD MEDIA TV (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=dBB2cvjvOrY
 
