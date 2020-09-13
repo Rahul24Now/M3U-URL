@@ -9,13 +9,6 @@
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 
-# https://www.youtube.com/channel/UCFHpZ0Ps6PpYpqewQ81Q10w #
-#EXTINF:-1 tvg-logo="https://www.athle.fr/images.net/v3/top/logo.athle.png" group-title="",Championnats de France d'athlétisme Elite et Espoirs 2020 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=q1O_5G-Kv4I
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ocaYdfM.jpg" group-title="",Championnat de France Majors - Pôle international du Cheval Longines Deauville(YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=IXYcnKGo_Lo
-
 
 #######
 
