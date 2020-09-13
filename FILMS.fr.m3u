@@ -652,9 +652,6 @@ https://de11.seedr.cc/media/video/hd_hls/2f4827a2f91e86928bad302302006505a72a9b1
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/445.jpg" group-title="",Mon ninja et moi
 https://fr5.seedr.cc/media/video/hd_hls/e12a24856e4b5c521bd12c7a7fb9da8d2a9617cd/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8OMGka.jpg" group-title="",MON NOM EST PERSONNE (YT)
-plugin://plugin.video.youtube/play/?video_id=Y_nfnSj53Eg
-
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/723.jpg" group-title="",Monsieur
 https://nl30.seedr.cc/media/video/lq_hls/e172422578323bf211ea35bdd3c6efef97e73b15/vid.m3u8
 
@@ -845,6 +842,8 @@ https://s0.vudeo.net/2vp3slr4zyvjdohilnarrkodyygr4cpskojdt3pnfxxke4jpgan4fliqmqg
 plugin://plugin.video.youtube/play/?video_id=xl29_gNtI14
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w0oQjH.jpg" group-title="",Terence Hill - Tas le bonjour de Trinita (YT)
 plugin://plugin.video.youtube/play/?video_id=EXA2xbP8_aY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8OMGka.jpg" group-title="",Terence Hill - MON NOM EST PERSONNE (YT)
+plugin://plugin.video.youtube/play/?video_id=Y_nfnSj53Eg
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/598.jpg" group-title="",Terminator 1
 https://nl22.seedr.cc/media/video/hd_hls/83fa1233ba813881a53cba9c3bdb76b9d9a0b09e/vid.m3u8
