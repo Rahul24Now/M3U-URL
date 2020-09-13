@@ -6,8 +6,18 @@
 0.0.0.0
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5CNMIez.jpg" group-title="",Ghosts of War (VOSF) (NA)
-https://wvw.dwfull.com/gkgxwclv2zyb2c72qtsbroh3x67nim6cwpsrbi3pdeuvknk2wdsqp46566cq/v.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzkf69w.jpg" group-title="",La révélation des Pyramides (YT)
+plugin://plugin.video.youtube/play/?video_id=HFpHDXUgcqw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHqAekR.jpg" group-title="",La nouvelle révélation des pyramides (YT)
+plugin://plugin.video.youtube/play/?video_id=PhxUDQA1QPQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mt8a8XY.jpg" group-title="",L'épopée de Gilgmesh - Le plus vieux récit du monde (YT)
+plugin://plugin.video.youtube/play/?video_id=wbHg4OCZ-pw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V09oKtE.jpg" group-title="",Le livre d'hénoch audio (YT)
+plugin://plugin.video.youtube/play/?video_id=BQhIwCuMvzs
+
 
 ###0###
 
@@ -260,6 +270,9 @@ https://sf1.seedr.cc/media/video/hd_hls/fr8/d310c767e22c2f98af1c5a0540d7ac4dec71
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/643.jpg" group-title="",Get Duked!
 https://nl25.seedr.cc/media/video/lq_hls/2f84467f08465880a0ffa928c261dccf8a0c3222/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5CNMIez.jpg" group-title="",Ghosts of War (VOSF) (NA)
+https://wvw.dwfull.com/gkgxwclv2zyb2c72qtsbroh3x67nim6cwpsrbi3pdeuvknk2wdsqp46566cq/v.mp4
 
 ###H###
 
