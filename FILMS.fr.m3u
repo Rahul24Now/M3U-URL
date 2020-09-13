@@ -449,8 +449,8 @@ https://nl38.seedr.cc/media/video/lq_hls/15d7bde433213deba468d9630f427d34b2718aa
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/670.jpg" group-title="",Le Garçon qui dompta le vent
 https://fr13.seedr.cc/media/video/hd_hls/1ba0553e132cbc231544ffd0ea0de71d7da42eb9/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FJAINyb.jpg" group-title="",Le Grand Stan (NA)
-https://m10.uqload.com/3rfl6gptezw2q4drdi47hlfockzv63zsni7nqdtbqtqs44v3icfjere27jxq/v.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FJAINyb.jpg" group-title="",Le Grand Stan (YT)
+plugin://plugin.video.youtube/play/?video_id=9-6fkcrMP4Y
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/663.jpg" group-title="",Le jour viendra où...
 https://nl24.seedr.cc/media/video/lq_hls/786985a3b9e56bc1dd9200fea26024985af908fd/vid.m3u8
