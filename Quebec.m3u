@@ -140,7 +140,7 @@ plugin://plugin.video.youtube/play/?video_id=66ijPAFeRsM
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=RFC46w5odk4
+plugin://plugin.video.youtube/play/?video_id=SIc8HProTdA
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
