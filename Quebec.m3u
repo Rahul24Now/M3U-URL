@@ -128,7 +128,7 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=To4IbFIhtEg
+plugin://plugin.video.youtube/play/?video_id=FBUrUlZ4bjM
 
 # update link  https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Quebec TV",CILE Havre-Saint-Pierre (YT) (UPD) (Off Line)
@@ -152,7 +152,7 @@ plugin://plugin.video.youtube/play/?video_id=mhaIzNhoRTg
 
 # update link: http://egarizim.com/  #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="Canadian TV",GARIZIM RIVE-SUD Stream le Dimanche (YT)
-plugin://plugin.video.youtube/play/?video_id=Gn4gqkT6kik
+plugin://plugin.video.youtube/play/?video_id=ADIZSiEIh4E
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (UPD) facebook.com/intermedetv/
