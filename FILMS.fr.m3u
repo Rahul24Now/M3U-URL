@@ -56,6 +56,9 @@ https://bxqphfifwv.mstreamcdn.com/o/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjcwLjI5LjI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xaoXv8T.jpg" group-title="",Aladdin (2019) (NA)
 https://www41.uptostream.com/2cvintkf9cd/360/0/video.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gy3j2xg.jpg" group-title="",Aladdin et la Lampe Magique (YT)
+plugin://plugin.video.youtube/play/?video_id=ODnL-YprIUk
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/240.jpg" group-title="",Albator corsaire de l'espace
 https://fr7.seedr.cc/media/video/hd_hls/9ad7cf3bcc264df636ca75761645ae2417a0e3d7/vid.m3u8
 
@@ -163,6 +166,49 @@ https://sf1.seedr.cc/media/video/hd_hls/fr7/b49a854c9d40cdd5f100e2f557896c29ddd9
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/463.jpg" group-title="",Bruce Lee - La Fureur de vaincre
 https://cloudfront.tubi.video/df3c5da4-8675-4535-9f81-3cea76b96576/ghjay2dz/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNHWyQB.jpg" group-title="",Bud Spencer - Aladin 1986 (YT)
+plugin://plugin.video.youtube/play/?video_id=EV0T-LzCoN8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B0ChTES.jpg" group-title="",Bud Spencer - Amigo Mon colt a deux mots a te dire (YT)
+plugin://plugin.video.youtube/play/?video_id=vPMsW9PFkDY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tSV9Kuq.jpg" group-title="",Bud Spencer - On m appelle Malabar (YT)
+plugin://plugin.video.youtube/play/?video_id=eQmesg4PDkU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AoNKv5J.jpg" group-title="",Bud Spencer - Pied-Plat sur le Nil (YT)
+plugin://plugin.video.youtube/play/?video_id=foGqux6zBz8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C4ATug4.jpg" group-title="",Bud Spencer - ESCRO MATCHO ET GIGOLO (YT)
+plugin://plugin.video.youtube/play/?video_id=UnVvKGQdfPk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNHWyQB.jpg" group-title="",Bud Spencer / Terence Hill - Deux Super Flics 1976 (YT)
+plugin://plugin.video.youtube/play/?video_id=mMVK-FooNiQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bTG9i9.jpg" group-title="",Bud Spencer / Terence Hill - Banana Joe (YT)
+plugin://plugin.video.youtube/play/?video_id=8AK7HNI_TVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKxGbsM.jpg" group-title="",Bud Spencer / Terence Hill - LE SHERIFF ET LES EXTRA-TERRESTRES (YT)
+plugin://plugin.video.youtube/play/?video_id=EQkOibTPTlY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yalHdB.jpg" group-title="",Bud Spencer / Terence Hill - Cul Et Chemise (YT)
+plugin://plugin.video.youtube/play/?video_id=rnxgkIPS7M0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snwudrw.jpg" group-title="",Bud Spencer / Terence Hill - Attention les dégâts (YT)
+plugin://plugin.video.youtube/play/?video_id=9bpnDHHOkBs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3LAJJG.jpg" group-title="",Bud Spencer / Terence Hill - Petit papa baston (YT)
+plugin://plugin.video.youtube/play/?video_id=1NdadtwTY3s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cBx7tCf.jpg" group-title="",Bud Spencer / Terence Hill - Pair Et Impair (YT)
+plugin://plugin.video.youtube/play/?video_id=0r7L1v-sV7g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ssF7YBs.jpg" group-title="",Bud Spencer / Terence Hill - Dieu pardonne moi pas (YT)
+plugin://plugin.video.youtube/play/?video_id=dHxJf3KfP04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AxR9dot.jpg" group-title="",Bud Spencer / Terence Hill - On continue à l'appeler Trinita (YT)
+plugin://plugin.video.youtube/play/?video_id=35hZJWd5VGc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlOs8wM.jpg" group-title="",Bud Spencer / Terence Hill - La colline des bottes (YT)
+plugin://plugin.video.youtube/play/?video_id=g-Lp8J11sjk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bg9yLai.jpg" group-title="",Bud Spencer / Terence Hill - Maintenant On L'Appelle Plata (YT)
+plugin://plugin.video.youtube/play/?video_id=ZUCQ9W7v47Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3pOSMry.jpg" group-title="",Bud Spencer / Terence Hill - Attention, on va se fâcher (YT)
+plugin://plugin.video.youtube/play/?video_id=8UmrgB0YPYg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oDeRRv3.jpg" group-title="",Bud Spencer / Terence Hill - Quand faut y aller, faut y aller (YT)
+plugin://plugin.video.youtube/play/?video_id=BB9oSZ11QRo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zpVvdvu.jpg" group-title="",Bud Spencer / Terence Hill - Salut l'ami, adieu le tresor (YT)
+plugin://plugin.video.youtube/play/?video_id=DAXD2wYK63M
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQemZoY.jpg" group-title="",Bud Spencer / Terence Hill - LES SUPER FLICS DE MIAMI (YT)
+plugin://plugin.video.youtube/play/?video_id=Co2rX_oL4QI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/by8M7SU.jpg" group-title="",Bud Spencer / Terence Hill - le corsaire noire (YT)
+plugin://plugin.video.youtube/play/?video_id=roI3TO57jK4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/625.jpg" group-title="",Bumblebee
 https://de13.seedr.cc/media/video/lq_hls/e45b9c2e941c9df4202cfcdee448d11e8869adb2/vid.m3u8
@@ -794,6 +840,11 @@ https://sf1.seedr.cc/media/video/hd_hls/nl23/3f3f8b30a4217ec1f2aa546b3d9d4fb304a
 https://s0.vudeo.net/2vp3vf7dzyvjdohilngrrn4wsx2txpbmgtiesmenxsmt7glohagzd5f4zrwq/v.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxNxBDH.jpg" group-title="",Ted 2 (NA)
 https://s0.vudeo.net/2vp3slr4zyvjdohilnarrkodyygr4cpskojdt3pnfxxke4jpgan4fliqmqga/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lg9kDux.jpg" group-title="",Terence Hill - Renegade (YT)
+plugin://plugin.video.youtube/play/?video_id=xl29_gNtI14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w0oQjH.jpg" group-title="",Terence Hill - Tas le bonjour de Trinita (YT)
+plugin://plugin.video.youtube/play/?video_id=EXA2xbP8_aY
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/598.jpg" group-title="",Terminator 1
 https://nl22.seedr.cc/media/video/hd_hls/83fa1233ba813881a53cba9c3bdb76b9d9a0b09e/vid.m3u8
