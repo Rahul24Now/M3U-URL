@@ -96,6 +96,11 @@ plugin://plugin.video.youtube/play/?video_id=
 #EXTINF:-1 tvg-logo="https://img4.cdn.cinoche.com/images/5bcc9006866d1bfd40254b1f0a88d746.jpg" group-title="Quebec Film",De Pere en Flic 2 2017 (YT)
 plugin://plugin.video.youtube/play/?video_id=UQM1_PMMwHA
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j9Wdlot.jpg" group-title="",Dans une galaxie près de chez vous (YT)
+plugin://plugin.video.youtube/play/?video_id=quCVc08IGAI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tL5GNIo.jpg" group-title="",Dans une galaxie près de chez vous 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=yfLAog5NH-0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p2pWr0W.jpg" group-title="",Décharge (YT)
 plugin://plugin.video.youtube/play/?video_id=tKrDZFYK-m8
 
