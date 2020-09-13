@@ -525,8 +525,13 @@ https://nl24.seedr.cc/media/video/hd_hls/923f3d38395dd3063633534ba90e3584ef6dd61
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/720.jpg" group-title="",La Sincérité
 https://nl25.seedr.cc/media/video/hd_hls/aa27f273528c8b3b35d7102f3940dbcc88ddc6bd/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qU7WWej.jpg" group-title="",Le Couloir de la mort (1978) (YT)
+plugin://plugin.video.youtube/play/?video_id=em-wKwXB1CU
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/616.jpg" group-title="",Le Fils de Chucky
 https://nl38.seedr.cc/media/video/lq_hls/15d7bde433213deba468d9630f427d34b2718aae/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3W3bG6C.jpg" group-title="",La Fiancée de Chucky (YT)
+plugin://plugin.video.youtube/play/?video_id=clQk9hRBEAs
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/670.jpg" group-title="",Le Garçon qui dompta le vent
 https://fr13.seedr.cc/media/video/hd_hls/1ba0553e132cbc231544ffd0ea0de71d7da42eb9/vid.m3u8
