@@ -93,6 +93,17 @@ https://nl23.seedr.cc/media/video/hd_hls/bfcd7156aee25746fd0e94b2bc22bbdbb0b8cd7
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/388.jpg" group-title="",Artemis Fowl
 https://nl38.seedr.cc/media/video/hd_hls/4bf119b58d5f983a694d5f2fdcf98e121bd49c64/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Er0bVDK.jpg" group-title="",ASTERIX ET OBELIX CHEZ LES BRETONS (YT)
+plugin://plugin.video.youtube/play/?video_id=FTgjgyuivfk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JiTHBt.jpg" group-title="",Astérix et la surprise de César (YT)
+plugin://plugin.video.youtube/play/?video_id=7I9ZmhvQklE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVfv4yM.jpg" group-title="",Astérix Le Gaulois (YT)
+plugin://plugin.video.youtube/play/?video_id=j5Al7jL0To4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rw72uNU.jpg" group-title="",Les 12 travaux d'Astérix (YT)
+plugin://plugin.video.youtube/play/?video_id=AbWdEJbP1yg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BPmvNUp.jpg" group-title="",Astérix & Cléopatre (YT)
+plugin://plugin.video.youtube/play/?video_id=cpkMsoU0Cd4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/690.jpg" group-title="",Avengers
 https://nl27.seedr.cc/media/video/lq_hls/841948e6fe99322bd7b2c91902bc163307aecd25/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/709.jpg" group-title="",Avengers - L'Ère d'Ultron
