@@ -310,6 +310,9 @@ plugin://plugin.video.youtube/play/?video_id=acvLG_IzeX0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bIxR0QS.jpg" group-title="",Pin-Pon (YT)
 plugin://plugin.video.youtube/play/?video_id=I08vuTZZrnE
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtxwhmA.jpg" group-title="",Pourquoi le dire ? (YT)
+plugin://plugin.video.youtube/play/?video_id=kmjBoOmDhjs
+
 ###Q###
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PZdpaEj.jpg" group-title="",Quiconque meurt, meurt à douleur (YT)
