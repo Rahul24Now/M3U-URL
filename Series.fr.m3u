@@ -504,18 +504,18 @@ https://fr14.seedr.cc/media/video/lq_hls/53002b86aed8a1b1870d895896d6712e1578b45
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S1-E8
 https://fr14.seedr.cc/media/video/hd_hls/eab4cb55df018dce9dca92f8f13a548994e9ac57/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E1 (A Venir)
-0.0.0.0
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E2 (A Venir)
-0.0.0.0
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E3 (A Venir)
-0.0.0.0
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E4 (A Venir)
-0.0.0.0
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E5 (A Venir)
-0.0.0.0
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E6 (A Venir)
-0.0.0.0
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E1
+https://fr1.seedr.cc/media/video/lq_hls/0c597f1880d92296dae77e24dced1f0d8f165c0a/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E2
+https://fr1.seedr.cc/media/video/hd_hls/025967b726ec99851d63d0b328f6a78a2cfdb3ff/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E3
+https://fr1.seedr.cc/media/video/hd_hls/7aea2afc5321c446d9fba85d38288596285bd5d2/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E4
+https://fr1.seedr.cc/media/video/hd_hls/68372bc1723f3735d108b65f106b913e0fbfe79c/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E5
+https://fr1.seedr.cc/media/video/lq_hls/6bad41f4fb9a3b2c5ec7a42903ef23b41cbe63d8/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S2-E6
+https://fr1.seedr.cc/media/video/lq_hls/eb82d5b7431231bfcc0c9044ace86320102ab705/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/719.jpg" group-title="",The Rain S3-E1
 https://nl33.seedr.cc/media/video/hd_hls/e629142e9028cc10d43af6a046df9baee6e27a98/vid.m3u8
@@ -618,3 +618,6 @@ https://nl27.seedr.cc/media/video/lq_hls/c19188f1e1c2079e88c9a197e4569d75f847998
 https://nl27.seedr.cc/media/video/hd_hls/d7993d51bfcb5ab73d1f447668e642a6621061c1/vid.m3u8
 
 ###Z###
+
+
+###########
