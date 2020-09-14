@@ -510,6 +510,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7t0ln7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/55cpBp6.png" group-title="",Sun Plus Tv
 https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNwrubO.jpg" group-title="",TFM
+https://lynktelecom2-i.akamaihd.net/hls/live/738603/tfm/tfm/tfm_396p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAezGlK.png" group-title="",Tele24 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7um00d
 
