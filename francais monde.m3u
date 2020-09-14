@@ -214,6 +214,10 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espac
 #EXTINF:-1 tvg-logo="http://esperancetv.org/wp-content/uploads/2020/01/cropped-logo-hope-site2.png" group-title="",EsperanceTV
 http://bcliveuniv-lh.akamaihd.net/i/IADFrench_1@414083/master.m3u8
 
+# https://fasotv.net/ #
+#EXTINF:-1 tvg-logo="https://fasotv.net/wp-content/uploads/2019/08/log-faso.png" group-title="",Faso Tv
+https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
+
 # https://www.youtube.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/mEFqt8Y.png" group-title="",GABON 24 (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=ZLWf3aQCyjE
