@@ -414,6 +414,9 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJ64REq.png" group-title="",PARADIS TV
 http://connectiktv.ddns.net:5000/paradistv/paradistv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7p8ZZvz.jpg" group-title="",PARLEMENT TV (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7v0bk5
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/LdBDXGq.png" group-title="",Plex TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
