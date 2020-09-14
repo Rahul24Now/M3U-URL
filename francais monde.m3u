@@ -516,6 +516,9 @@ https://lynktelecom2-i.akamaihd.net/hls/live/738603/tfm/tfm/tfm_396p/chunklist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAezGlK.png" group-title="",Tele24 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7um00d
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qe9IvjO.jpg" group-title="Haiti",Tele Conscience Haitienne
+https://tvlakay.haitilive.net/player/tchhaiti/website/index.m3u8
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/dmRO6Ek.jpg" group-title="",Tele Univers | Chaine 6
 https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
 
