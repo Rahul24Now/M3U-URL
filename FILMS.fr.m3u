@@ -62,17 +62,17 @@ https://fr10.seedr.cc/media/video/hd_hls/a24eba7f3c46215e44da8ae8029857f25df44f6
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/728.jpg" group-title="",Alad'2
 https://fr9.seedr.cc/media/video/hd_hls/b4dc2387c8d560455c261d3a5460c4cd4fe34314/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NmOViD9.jpg" group-title="",Aladdin (NA)
-https://bxqphfifwv.mstreamcdn.com/o/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjcwLjI5LjIzMC4xMTgiLCJsbWNxNnBzbTZnZTQiLCJuIiwyXSwiZXhwIjoxNTk5MTUyMzg4fQ.O_moHZvSv52tHi3ZoxV6m6M_wQXifPQpSfGHj64hzD8.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xaoXv8T.jpg" group-title="",Aladdin (2019) 
 https://fr10.seedr.cc/media/video/hd_hls/94a4b360fa1db360bd51c210cf61314b030d4947/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/729.jpg" group-title="",Aladdin
+https://fr9.seedr.cc/media/video/hd_hls/65e37206cceef98f7d9bed7e375c05ddb6e81fa5/vid.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gy3j2xg.jpg" group-title="",Aladin et la lampe merveilleuse 
 https://fr9.seedr.cc/media/video/lq_hls/db9d05ecd13b56e5704277a3a345af364a38f4b5/vid.m3u8
-
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/727.jpg" group-title="",Aladin ou la lampe merveilleuse
 https://fr9.seedr.cc/media/video/lq_hls/e35beb940c010e718ab20bcea7791917da8ab27b/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/730.jpg" group-title="",Aladdin et le Roi des voleurs
+https://fr9.seedr.cc/media/video/hd_hls/b2e5ad366c7349c536a54af3f56d546c37326396/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/240.jpg" group-title="",Albator corsaire de l'espace
 https://fr7.seedr.cc/media/video/hd_hls/9ad7cf3bcc264df636ca75761645ae2417a0e3d7/vid.m3u8
@@ -91,6 +91,9 @@ https://fr6.seedr.cc/media/video/lq_hls/bcb2619fe146897dc51719105145e83ea7f987d3
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/406.jpg" group-title="",Angry Birds - Copains comme cochons
 https://fr14.seedr.cc/media/video/hd_hls/6d364c07f563907d51ceb423c81bffc3fa6727ef/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/738.jpg" group-title="",Animal Crackers
+https://nl29.seedr.cc/media/video/hd_hls/6eb488d189f2b2e21093571d6f8eab796b547248/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/279.jpg" group-title="",Annabelle
 https://fr12.seedr.cc/media/video/lq_hls/f118904577263376820231834c8df53222cf2d2d/vid.m3u8?dvr
@@ -124,6 +127,9 @@ plugin://plugin.video.youtube/play/?video_id=cpkMsoU0Cd4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/561.jpg" group-title="",Ava
 https://nl31.seedr.cc/media/video/hd_hls/827525978f201254605d93dc1ded957bc0864b69/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/732.jpg" group-title="",Avatar
+https://fr12.seedr.cc/media/video/lq_hls/4db448234d159c6f43863d4c71d035c24532e60e/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/690.jpg" group-title="",Avengers
 https://nl27.seedr.cc/media/video/lq_hls/841948e6fe99322bd7b2c91902bc163307aecd25/vid.m3u8?dvr
@@ -285,6 +291,9 @@ https://nl22.seedr.cc/media/video/hd_hls/b10ee562401063bfc1839c3c2bb3056f846bff1
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/250.jpg" group-title="",Countdown
 https://fr11.seedr.cc/media/video/hd_hls/bf4d6c722a2421992000d0c68918afd12372a8d0/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/736.jpg" group-title="",Crazy Rich Asians
+https://fr11.seedr.cc/media/video/hd_hls/ae5aed892bee5aedf966159400c12d1321559784/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKkLPbr.jpg" group-title="",Criminal Squad (YT)
 plugin://plugin.video.youtube/play/?video_id=oBI1OE0ZZM8
 
@@ -308,12 +317,19 @@ https://fr1.seedr.cc/media/video/hd_hls/2ec9ca47f2fe5c05b99fa5bf729e7d8f7e319282
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/609.jpg" group-title="",Django Unchained
 https://nl34.seedr.cc/media/video/hd_hls/ba10517a91bc6b3db734495f6fdf10632882cdd5/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/733.jpg" group-title="",Double Mortel
+https://fr10.seedr.cc/media/video/hd_hls/5ab2da1ce633c79ed7ac9a6a4713266d2dc7a2ff/vid.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/210.jpg" group-title="",Dragons
 https://nl31.seedr.cc/media/video/lq_hls/c4a9a0205f4e5516de0d34bf33dc0c9fc3543fa1/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/209.jpg" group-title="",Dragons - Première course de dragons - Prêt, feu, partez !
 https://nl30.seedr.cc/media/video/hd_hls/7d8dcc5285617ae0ab013ff179b6dd4d56e773e7/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/208.jpg" group-title="",Dragons 3 - Le monde caché
 https://de14.seedr.cc/media/video/lq_hls/efe14d7c929963b13fdf5a3c78a995101b2ad83f/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/739.jpg" group-title="",Dragons : Les Gardiens du ciel : Le secret de l'envolée lyrique
+https://fr4.seedr.cc/media/video/hd_hls/d6aa85d7de18f56d24dac4f60e63bd329c6fd380/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/499.jpg" group-title="",Dreamkatcher
 https://nl20.seedr.cc/media/video/hd_hls/52b75b572a3c27deec1f0836a9859905a9168930/vid.m3u8
@@ -554,6 +570,9 @@ https://fr12.seedr.cc/media/video/lq_hls/8e19def0d9e911c8a23120ffe87d198d74e97f6
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/200.jpg" group-title="",La Grande Vadrouille
 https://nl23.seedr.cc/media/video/hd_hls/2a6fc656676381de35c2f914a94aad353611d159/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/735.jpg" group-title="",La Légende du Roi Salomon
+https://nl33.seedr.cc/media/video/lq_hls/0113ae2b1ee1b8ebfd26370f60b887cda98a441a/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/260.jpg" group-title="",La Ligne verte
 https://nl37.seedr.cc/media/video/lq_hls/73e2287826f1e4ec221d1e9e80df8898b8b4a761/vid.m3u8?dvr
 
@@ -571,6 +590,9 @@ https://nl25.seedr.cc/media/video/hd_hls/aa27f273528c8b3b35d7102f3940dbcc88ddc6b
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qU7WWej.jpg" group-title="",Le Couloir de la mort (1978) (YT)
 plugin://plugin.video.youtube/play/?video_id=em-wKwXB1CU
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/737.jpg" group-title="",Le cristal magique
+https://nl31.seedr.cc/media/video/hd_hls/73509350f667a6ebfbb0d81c19d2a86e909f398e/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/616.jpg" group-title="",Le Fils de Chucky
 https://nl38.seedr.cc/media/video/lq_hls/15d7bde433213deba468d9630f427d34b2718aae/vid.m3u8?dvr
@@ -591,6 +613,9 @@ https://nl17.seedr.cc/media/video/hd_hls/819506f9e242a49f07929b1699370e7b2e98889
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/721.jpg" group-title="",Le Lycée des secrets
 https://fr4.seedr.cc/media/video/hd_hls/1ba016d01a666cd5d99e029caf0b19ea7e6f8876/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MO9OZvz.jpg" group-title="",Le Mans 66
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Ford_v_Ferrari_2019_FRENCH_HDRip_x264-Wawacity_top+Online+%E2%80%94+Mystream.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/232.jpg" group-title="",Le Monde de Narnia, chapitre 1 - Le Lion, la Sorcière blanche et l'Armoire magique
 https://fr7.seedr.cc/media/video/hd_hls/6f0753e658859cb9a3cf2850c622da02d38ec6b8/vid.m3u8
@@ -656,8 +681,8 @@ https://fr7.seedr.cc/media/video/hd_hls/71e416ae29da67405463d94641b42d0c419c7ac0
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/696.jpg" group-title="",Les sextuplés
 https://fr8.seedr.cc/media/video/hd_hls/6bbc570d09ef340f48702b7237e7b7120f4a6499/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MO9OZvz.jpg" group-title="",Le Mans 66
-https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Ford_v_Ferrari_2019_FRENCH_HDRip_x264-Wawacity_top+Online+%E2%80%94+Mystream.mp4
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/741.jpg" group-title="",Larva Island - Le film
+https://fr4.seedr.cc/media/video/hd_hls/237c83c764dd91e3088fdaefb83e3ee355f9c3b0/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/441.jpg" group-title="",Leprechaun Returns
 https://nl33.seedr.cc/media/video/hd_hls/45db87b1c3cc1422267463cd10bce648463ed679/vid.m3u8
@@ -667,6 +692,9 @@ https://nl27.seedr.cc/media/video/hd_hls/f19a639efb189e8983e3008e61e4210ae4b068d
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/551.jpg" group-title="",Logan
 https://fr6.seedr.cc/media/video/hd_hls/d3389f39f098a23dd579d68a7f4422e0bde3f77f/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/742.jpg" group-title="",Loin de moi - près de toi
+https://nl23.seedr.cc/media/video/hd_hls/34900f3a91f6ea1f762b853cb6a6cbc3bb3669f8/vid.m3u8
 
 ###M###
 
@@ -737,6 +765,9 @@ https://de11.seedr.cc/media/video/hd_hls/178a3872eb728e412d87472df9273c9c9c872fa
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/683.jpg" group-title="",Mulan
 https://fr2.seedr.cc/media/video/hd_hls/3aec133c0e57f1b7bdba6b8943eefa280b55ec4d/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/731.jpg" group-title="",Mulan 2 - la mission de l'Empereur 
+https://fr9.seedr.cc/media/video/hd_hls/621e6106533cd166f8690b2c1a137a07e8d609b4/vid.m3u8
 
 ###N###
 
@@ -867,6 +898,9 @@ https://sf1.seedr.cc/media/video/hd_hls/fr11/f7cc3b38656a6a877196cea4fe38371d734
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXFAIns.jpg" group-title="",Scary Stories
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Regarder+Scary+Stories+en+Streaming+Gratuis+VF+-+Stream-Gratuit.Com.mp4
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/740.jpg" group-title="",Scooby-Doo ! Retour sur l'île aux zombies
+https://nl20.seedr.cc/media/video/hd_hls/acee52c10dff2219b7f437d144dee70f1742b51d/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/411.jpg" group-title="",Sea Fever
 https://nl36.seedr.cc/media/video/hd_hls/c031036edbf9d44b5be63aebc6885f743ca18a66/vid.m3u8
 
@@ -895,6 +929,9 @@ https://nl29.seedr.cc/media/video/lq_hls/6a7ddc3439aa6304c5dda04c09e62f3279ea640
 https://nl34.seedr.cc/media/video/hd_hls/392f56509e7dfd582fcf797787001b94ec04b579/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/703.jpg" group-title="",Shrek 4 - il était une fin
 https://nl31.seedr.cc/media/video/lq_hls/cff835ebe16e844503e2b5113a2e58e436126c59/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/734.jpg" group-title="",Siberia
+https://fr7.seedr.cc/media/video/hd_hls/c159f0fe9ed528166609ea8b8922a12c78d217a8/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/228.jpg" group-title="",Sister Act
 https://lo1.seedr.cc/media/video/hd_hls/fr8/690f353de46c2bf2a9d8b9e50f161a986124aafa/vid.m3u8
