@@ -30,6 +30,9 @@ https://m20.uqload.com/3rfkjaxwerw2q4drdir7hlvna4tngf5b3etbceyhly25frg36i4v5ptsq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0B1qmwD.jpg" group-title="",1991 (NA)
 https://m30.uqload.com/3rfkowfaezw2q4drdi77hlfsb2km4sm7tkdnhrviuo5ansgrpo4fytlwdm6a/v.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PfIvXzf.jpg" group-title="",20h17 Rue Darling
+plugin://plugin.video.youtube/play/?video_id=okEaEosEzUc
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FKq7LDU.jpg" group-title="",5150, Rue des Ormes (YT)
 plugin://plugin.video.youtube/play/?video_id=OJnkkSzOeuU
 
@@ -196,14 +199,23 @@ plugin://plugin.video.youtube/play/?video_id=h6oKNrOhvIQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OADBDW.jpg" group-title="",La Run (NA)
 https://s0.vudeo.net/2vp3tpdwzavjdohilmkbryegz43dsvzdfflo6k4svrpcz5bo5ovlemidrfnq/v.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TfoAxPt.jpg" group-title="",le colis (YT)
+plugin://plugin.video.youtube/play/?video_id=ofjW_OVRdb8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/beA2rfq.jpg" group-title="Quebec Film",Le Grand Départ (YT)
 plugin://plugin.video.youtube/play/?video_id=i-g6w7MaaII
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yr4QE1P.jpg" group-title="",Le journal d'Aurélie Laflamme (YT)
 plugin://plugin.video.youtube/play/?video_id=KkHTi1HxM3A
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFCgfX7.jpg" group-title="",Le Matou (YT)
+plugin://plugin.video.youtube/play/?video_id=P6ZDGnZpMHQ
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/540.jpg" group-title="Quebec Film",Le rire 2020
 https://fr13.seedr.cc/media/video/lq_hls/ab664ddc2f0185e5a28043b5b464936fa4fa449d/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9xYBIyf.jpg" group-title="",Le Scaphandrier (YT)
+plugin://plugin.video.youtube/play/?video_id=Fd1ImzOqsdM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gjfpK6x.jpg" group-title="",Le Sphinx 1995 (YT)
 plugin://plugin.video.youtube/play/?video_id=QL4wCR4OL1Y
@@ -216,6 +228,12 @@ plugin://plugin.video.youtube/play/?video_id=YNq7GyioROU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ndgktPA.jpg" group-title="",Le Vrai du Faux (YT)
 plugin://plugin.video.youtube/play/?video_id=mggqPJ_DIWs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxW4XD4.jpg" group-title="",Les 7 Jours Du Talion (YT)
+plugin://plugin.video.youtube/play/?video_id=6EcA4lT6MEg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrlZUza.jpg" group-title="",Les Aventuriers Du Timbre Perdu (YT)
+plugin://plugin.video.youtube/play/?video_id=SFSbLlRbLi8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OJ7IMYV.jpg" group-title="",Les barbares de La Malbaie (NA)
 https://mega01.uqload.com/3rfkpeschvw2q4drdlvpfpnfamjghfe4ojy44oxrh2h64a77yvjs3ab3zl5a/v.mp4
@@ -307,6 +325,9 @@ plugin://plugin.video.youtube/play/?video_id=afZ6DA4M1LQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vA7SCAB.jpg" group-title="",Partis pour la gloire (YT)
 plugin://plugin.video.youtube/play/?video_id=acvLG_IzeX0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b2O2QJT.jpg" group-title="",Piché Entre Ciel & Terre (YT)
+plugin://plugin.video.youtube/play/?video_id=pPI1fJ3UunY
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bIxR0QS.jpg" group-title="",Pin-Pon (YT)
 plugin://plugin.video.youtube/play/?video_id=I08vuTZZrnE
 
@@ -347,6 +368,9 @@ plugin://plugin.video.youtube/play/?video_id=MRFL8gIpMgk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vilSQfg.jpg" group-title="",TI-COQ 1953 GRATIEN GELINAS (YT)
 plugin://plugin.video.youtube/play/?video_id=_-ywldXImLM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nO70aR0.jpg" group-title="",Ti-Mine, Bernie pis la gang... (YT)
+plugin://plugin.video.youtube/play/?video_id=srfC6cmS4D0
 
 ###U###
 
