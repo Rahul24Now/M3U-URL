@@ -188,6 +188,9 @@ http://stream-e30453a4b.nmbs.top/m3u/Belgium/8fa97c205f.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="",HLN LIVE
 https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1Mka04.jpg" group-title="",JOE fm
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZZB4gEP.png" group-title="",KADET TV
 http://stream-e30453a4b.nmbs.top/m3u/Belgium/2966d4c363.m3u8|User-Agent=VLC
 
