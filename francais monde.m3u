@@ -187,7 +187,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7uw6jc
 
 # http://dtv.sn/home/dtvlive #
 #EXTINF:-1 tvg-id="Africa" tvg-logo="http://dtv.sn/assets/images/logo.png" tvg-name="DTV"  group-title="Fr",DTV
-https://live1.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8?nimblesessionid=12539412&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjAgOTozMjo1NyBQTSZoYXNoX3ZhbHVlPUVXSGg4L2F1WUhpYzNHc01oUEZqVHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://live1.acangroup.org:1929/acanabr/dtv.stream_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIwIDEyOjQyOjExIEFNJmhhc2hfdmFsdWU9YldJMWtFUG5peU5rQTgxNTJtamh6Zz09JnZhbGlkbWludXRlcz0xMA==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozQGpL2.png" group-title="",Ecclesia TV
 https://gamako.livebox.co.in/Ecclesiatvhls/etvci.m3u8
