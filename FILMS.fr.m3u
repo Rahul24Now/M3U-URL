@@ -30,6 +30,9 @@ https://sf1.seedr.cc/media/video/hd_hls/nl24/eacefc8510bb505e9339023980ec1993c4d
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/358.jpg" group-title="",365 jours
 https://fr13.seedr.cc/media/video/hd_hls/a57541119e8be6f5f52b2ae7b3f00e8a9e18f53c/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qyPatOc.jpg" group-title="",1917
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+1917_2019_VOSTFR_DVDSCR_x264-Wawacity_top+Online+%E2%80%94+Mystream.mp4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/403.jpg" group-title="",7500
 https://nl20.seedr.cc/media/video/hd_hls/e6a5dc4dcaceb8e8ec25338f6732708dfd5fc837/vid.m3u8
 
@@ -42,10 +45,16 @@ https://nl21.seedr.cc/media/video/hd_hls/62f796d24aa818140d4ef9f1cfe8c5c307b53e3
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/308.jpg" group-title="",10 Minutes Gone
 https://nl24.seedr.cc/media/video/hd_hls/2de2e194ab7d26cd4609bb0d652567cf465ab3a5/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DThkfKU.jpg" group-title="",47 Meters Down: Uncaged
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/47+Meters+Down+streaming+vf+%E2%80%94+Streamay.mp4
+
 ###A###
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VoMCHog.jpg" group-title="",Ad Astra (NA)
-https://mega01.uqload.com/3rfk2lgzgzw2q4drdjspf4xwatp3eqwc2aiekpwa6732ued5fnscfsnfw3tq/v.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoMCHog.jpg" group-title="",Ad Astra
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Ad_Astra_2019_FRENCH_720p_WEB_H264-Wawacity_cc+Online+%E2%80%94+Mystream.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OQfEpQU.jpg" group-title="",Adam 
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Adam_2019_720p_TRUEFRENCH_WEB-DL_AC3-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/634.jpg" group-title="",All Together Now
 https://fr10.seedr.cc/media/video/hd_hls/a24eba7f3c46215e44da8ae8029857f25df44f67/vid.m3u8
@@ -90,8 +99,8 @@ https://ns1.skmovies.live/piki2/1/4/regarder-396422.avi.mp4
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/280.jpg" group-title="",Annabelle 3 - La maison du Mal
 https://de13.seedr.cc/media/video/lq_hls/5651ce3ea13523eb0873ce4d5f931235c520f61a/vid.m3u8?dvr
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/561.jpg" group-title="",Ava
-https://nl31.seedr.cc/media/video/hd_hls/827525978f201254605d93dc1ded957bc0864b69/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yP5SuRK.jpg" group-title="",Aquaman
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Aquaman+streaming+vf+%E2%80%94+Streamay.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/553.jpg" group-title="",A Good Woman
 https://fr3.seedr.cc/media/video/hd_hls/b25c14f3c6cc8a07b946418f3edacda9ae3e7c22/vid.m3u8
@@ -112,6 +121,9 @@ plugin://plugin.video.youtube/play/?video_id=j5Al7jL0To4
 plugin://plugin.video.youtube/play/?video_id=AbWdEJbP1yg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPmvNUp.jpg" group-title="",Astérix & Cléopatre (YT)
 plugin://plugin.video.youtube/play/?video_id=cpkMsoU0Cd4
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/561.jpg" group-title="",Ava
+https://nl31.seedr.cc/media/video/hd_hls/827525978f201254605d93dc1ded957bc0864b69/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/690.jpg" group-title="",Avengers
 https://nl27.seedr.cc/media/video/lq_hls/841948e6fe99322bd7b2c91902bc163307aecd25/vid.m3u8?dvr
@@ -154,6 +166,9 @@ https://nl25.seedr.cc/media/video/hd_hls/abbc2b0690db7d8df00801ea8bb4f375668222b
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/142.jpg" group-title="",Blood Diamond
 https://nl37.seedr.cc/media/video/lq_hls/c3ef01dd1687e4f6a12f3bf1215ad666cc9650ae/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H83ocN.jpg" group-title="",Blood Quantum
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Blood_Quantum_2020_FRENCH_BDRip_XviD-Wawacity_ninja+Online+%E2%80%94+Mystream.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/636.jpg" group-title="",Body Cam
 https://nl20.seedr.cc/media/video/hd_hls/23521cd57f00c4419f5622996903a0a7d1bbd1ad/vid.m3u8
@@ -243,6 +258,9 @@ https://fr9.seedr.cc/media/video/hd_hls/805501fb6260235450c97453b53c156bca6bd74c
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/166.jpg" group-title="",Coco
 https://nl34.seedr.cc/media/video/hd_hls/5a08370f916eeded4db2e830e6592f8684eecab3/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UH2ixb2.jpg" group-title="",Code 8
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Code.8.2019.FRENCH.HDRip.XviD-Wawacity.best.avi.mp4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/71.jpg" group-title="",Code 211
 https://sf1.seedr.cc/media/video/hd_hls/de1/457e9d34807e76f92a7c89f6bedbaf6b529e5e0d/vid.m3u8
 
@@ -304,6 +322,9 @@ https://fr5.seedr.cc/media/video/hd_hls/bb1417102c9d5271530a8f910c7ad1dbe3660907
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/151.jpg" group-title="",En avant
 https://fr13.seedr.cc/media/video/hd_hls/e226be4e674a4d9dd35c6b49f0b5cabe9a7a8e13/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NbtVYbV.jpg" group-title="",Escape from Pretoria
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Film+Escape+from+Pretoria+en+streaming+gratuit+%E2%80%94+AlloStreaming.mp4
 
 ###F###
 
@@ -454,12 +475,12 @@ https://de11.seedr.cc/media/video/hd_hls/9c2bfa3cad6c53a1375059241b32ae7ca9e06d4
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/661.jpg" group-title="",James Bond - Skyfall
 https://fr1.seedr.cc/media/video/lq_hls/b1d617a8b77efc89470bb125dfb687c03b368f6c/vid.m3u8?dvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9pxDUO.jpg" group-title="",John Wick (NA)
-https://s0.vudeo.net/2vp32vjizyvjdohilnbbrym3ytse2amt4ydlhcebccectocagojdtoq5vgsa/v.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xHYuhWg.jpg" group-title="",John Wick 2 (NA)
-https://s0.vudeo.net/2vp3u6qlzyvjdohilnabriu4sbj4fxsimqyvpkorplxwkc53ctnhwocs6q2a/v.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E1oUPMQ.jpg" group-title="",John Wick - Parabellum (NA)
-https://s0.vudeo.net/2vp3w4q7zyvjdohilncbrimrqhbffjfclhnzn4xgis7ubaidv5yzb67q24yq/v.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9pxDUO.jpg" group-title="",John Wick
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/John+Wick+en+Streaming+VF+GRATUIT+Complet+HD+2014+en+Fran%C3%A7ais._2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHYuhWg.jpg" group-title="",John Wick 2
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/John+Wick+2+streaming+vf+%E3%80%902017%E3%80%91.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E1oUPMQ.jpg" group-title="",John Wick - Parabellum
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/John+Wick+Parabellum+(John+Wick-+Chapter+3+-+Parabellum)+en+Streaming+VF+GRATUIT+Complet+HD+2019+en+Fran%C3%A7ais..mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/68.jpg" group-title="",Joker
 https://sf1.seedr.cc/media/video/hd_hls/fr1/2a061fd7c04b17e04e931ac82335d8b7d512b594/vid.m3u8
@@ -470,12 +491,18 @@ https://fr13.seedr.cc/media/video/hd_hls/913812ed75f2b5c6e88b659ffadb6be54923d57
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/426.jpg" group-title="",Jusqu'à l'aube
 https://nl19.seedr.cc/media/video/hd_hls/1c92ebabc8e822f040504f83c3471df5ddc734c3/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BgA5wLs.jpg" group-title="",Jusqu'au déclin
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Jusqu%E2%80%99au+d%C3%A9clin+%C2%BB+Film+Streaming+Gratuit+-+Zone+Films.mp4
+
 ###K###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/174.jpg" group-title="",Kick-Ass
 https://fr7.seedr.cc/media/video/lq_hls/56c3ca5ae26086e8eedb7899de9ff40d32c97d9e/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/175.jpg" group-title="",Kick-Ass 2
 https://fr7.seedr.cc/media/video/lq_hls/671f3f15eefab5284a8bb18e07860c44f5d9985b/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEqidwl.jpg" group-title="",Killing Gunther
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Killing+Gunther+streaming+vf+%E2%80%94+Streamay.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/630.jpg" group-title="",Kung Fu Panda 
 https://nl26.seedr.cc/media/video/lq_hls/d96360a990fe27a7ec3ff9ef16c24c6d1ec7d747/vid.m3u8?dvr
@@ -580,6 +607,9 @@ https://nl22.seedr.cc/media/video/hd_hls/fc5ed916df39c19508cb3f03043088c354a31eb
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/206.jpg" group-title="",Les aventures de Tintin - Le secret de la licorne
 https://nl25.seedr.cc/media/video/lq_hls/22bc88c41c82adf512bb87c40842b3eae6fc2423/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9Vi2Lk.jpg" group-title="",Les aventures de Tintin - le Mystère de la Toison d'or
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Tintin_Et_Le_Mystere_De_La_Toison_D_Or_1961_TRUEFRENCH_DVDRIP_Wawacity_vip+Online+%E2%80%94+Mystream.mp4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/72.jpg" group-title="",Les Enfants maudits
 https://sf1.seedr.cc/media/video/hd_hls/nl22/0c162b4bf0adbbfdb0405fee46acfa22d535acec/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/73.jpg" group-title="",Les Enfants maudits - Un amour interdit 
@@ -645,8 +675,8 @@ https://fr9.seedr.cc/media/video/lq_hls/092b0a71bda53a5e04182776a4688ef01e944c8e
 https://fr9.seedr.cc/media/video/lq_hls/5e24c9e14e86aadfd17eccdde66eb928fb1866d4/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/323.jpg" group-title="",Mission  Impossible - Rogue Nation
 https://nl38.seedr.cc/media/video/hd_hls/5fc20fe2eb0a159887fa0d65cc139fbea6a96124/vid.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yGCzvPI.jpg" group-title="",Mission Impossible - Fallout (NA)
-https://stream99.uqload.com/3rfk4wkye5w2q4drdi6ph5feli75xcrehemsvs2hbqgl3hyljftppwuzi2wa/v.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGCzvPI.jpg" group-title="",Mission Impossible - Fallout
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Mission+Impossible+-+Fallout+streaming+vf+%E2%80%94+Streamay.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/447.jpg" group-title="",Mission to Mars
 https://fr15.seedr.cc/media/video/hd_hls/aa00d82df824bf681b789a928c0a307b3ea9c594/vid.m3u8
@@ -691,6 +721,9 @@ https://nl19.seedr.cc/media/video/hd_hls/fb92512eccf68077576cb651f7f15a1b19de72b
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/351.jpg" group-title="",Nightmare Island
 https://nl20.seedr.cc/media/video/hd_hls/9d477bcd678612c47257401874b258b88c90812c/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tDOpixh.jpg" group-title="",Nightworld
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/La+Tour+sombre+streaming+vf+%E2%80%94+Streamay.mp4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/309.jpg" group-title="",Nicky Larson et le Parfum de Cupidon
 https://fr4.seedr.cc/media/video/hd_hls/6e600ad507527dce2d41b79f711bcb65bcf91d8f/vid.m3u8
 
@@ -708,6 +741,9 @@ https://fr3.seedr.cc/media/video/hd_hls/49109644780c1ecda6beef1c1226e68062001a44
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/414.jpg" group-title="",One Piece Stampede
 https://fr9.seedr.cc/media/video/hd_hls/b1297b54af9662975359f5f9ec8c62e94f114e83/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AawGh3.jpg" group-title="",Operation 118 318 sévices clients
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Film+Operation+118+318+s%C3%A9vices+clients+en+streaming+gratuit+%E2%80%94+AlloStreaming.mp4
+
 ###P###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/664.jpg" group-title="",Papicha
@@ -722,6 +758,9 @@ https://fr7.seedr.cc/media/video/hd_hls/82f6c68c2583b6fa21042ba9c3c1109b31ebd778
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/451.jpg" group-title="",Plus rien à f***
 https://nl38.seedr.cc/media/video/hd_hls/c54795476e41ed1809e5ab7a815494f40874c8bb/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snJUTFt.jpg" group-title="",Pokémon Detective Pikachu
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Pokemon.Detective.Pikachu.2019.TRUEFRENCH.BDRip.mkv
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1.jpg" group-title="",Prince of Persia : Les Sables du temps Partie 1
 https://fr2.seedr.cc/media/video/lq_hls/6fe3a03abd7b7768873c78907f35563359a36022/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1.jpg" group-title="",Prince of Persia : Les Sables du temps Partie 2
@@ -734,6 +773,12 @@ https://nl36.seedr.cc/media/video/hd_hls/730b00462000ffb810de4af706e7f740a9bc9ea
 https://nl34.seedr.cc/media/video/hd_hls/1cd7a5dd63b861e8671720cbe20901b68a8d8cd6/vid.m3u8
 
 ###Q###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vTYIxcG.jpg" group-title="",Que Dieu nous pardonne
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Que+Dios+Nos+Perdone+streaming+vf+%E2%80%94+Streamay.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVMHa0l.jpg" group-title="",Que Viva Eisenstein !
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Film+Que+Viva+Eisenstein+!+en+streaming+gratuit+%E2%80%94+AlloStreaming.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/326.jpg" group-title="",Queen & Slim
 https://nl29.seedr.cc/media/video/hd_hls/2200551944e8dd77d15bf3b189510ce5a534868d/vid.m3u8
@@ -790,6 +835,9 @@ https://nl22.seedr.cc/media/video/hd_hls/3cb3e9ba9b2cd028116b501876b913de3db93eb
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/79.jpg" group-title="",Scarface
 https://sf1.seedr.cc/media/video/hd_hls/fr11/f7cc3b38656a6a877196cea4fe38371d734df830/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXFAIns.jpg" group-title="",Scary Stories
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Regarder+Scary+Stories+en+Streaming+Gratuis+VF+-+Stream-Gratuit.Com.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/411.jpg" group-title="",Sea Fever
 https://nl36.seedr.cc/media/video/hd_hls/c031036edbf9d44b5be63aebc6885f743ca18a66/vid.m3u8
@@ -898,6 +946,9 @@ https://fr12.seedr.cc/media/video/hd_hls/1a2595870a8adf6595a87309c8603d5ac447f45
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/152.jpg" group-title="",The Last Full Measure
 https://lo1.seedr.cc/media/video/hd_hls/fr4/760647446e16d2ebf91478ad6e0ff28d16d77fcb/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4DyPy4.jpg" group-title="",The Lost City of Z	
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+The_Lost_City_Of_Z_2016_TRUEFRENCH_1080p_Bluray_Light_AC3-Wawacity_top+Online+%E2%80%94+Mystream.mp4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/377.jpg" group-title="",The Open House
 https://nl23.seedr.cc/media/video/hd_hls/20b95463d8db8a6fd1e9eee88c59903a5721f48c/vid.m3u8
 
@@ -912,6 +963,9 @@ https://nl20.seedr.cc/media/video/lq_hls/ad29ae40d90c59a5d2c70e39f98fe03f45b6031
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/590.jpg" group-title="",The Town
 https://nl24.seedr.cc/media/video/lq_hls/a1005f9531565b1078f038511662dc3702b1cbfc/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j1SxgTr.jpg" group-title="",The Warriors Gate
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+twgac3-TRUEFRENCH_BDRiP_XviD-Wawacity_top+Online+%E2%80%94+Mystream.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rXqqRVU.jpg" group-title="",Time Trap (NA)
 https://sravyajibo.mstreamcdn.com/c/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTkxNTM2OTIsImRhdGEiOlsiNzAuMjkuMjMwLjExOCIsIjNyeWIwZXNpcHB1dSIsIm4iLDJdfQ.zGUiP_t5G6A_SWmkDVFOr5CZAFdP_i798e0ycPgEAtU.mp4
@@ -953,6 +1007,9 @@ https://nl23.seedr.cc/media/video/hd_hls/a8a723df3cbc250aa5b2f35bea0d906afb90ece
 
 ###U###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLmU4VD.jpg" group-title="",U-235
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/film+U-235+streaming+vf.mp4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/566.jpg" group-title="",Un prince à New York
 https://nl28.seedr.cc/media/video/hd_hls/acd7afbcbdbebcf755bc856b4b5445ae3e00c574/vid.m3u8
 
@@ -962,8 +1019,17 @@ https://nl27.seedr.cc/media/video/hd_hls/c89abe0ff01f93c501ff6e46b8c2fa8f6a100d3
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/555.jpg" group-title="",Une sirène à Paris
 https://nl38.seedr.cc/media/video/hd_hls/eff65a111a858fd40c96a62ddcc98c7d6133c6f4/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mUi6p0F.jpg" group-title="",Ultras
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Film+Ultras+en+streaming+gratuit+%E2%80%94+AlloStreaming.mp4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/304.jpg" group-title="",Underwater
 https://fr12.seedr.cc/media/video/hd_hls/cdba91e3570b55d28b122941146d914b94c5e15d/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NkSHzYG.jpg" group-title="",Unknown Soldier
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Unknown_Soldier_2018_TRUEFRENCH_HDRiP_XViD-Wawacity_co+Online+%E2%80%94+Mystream.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UluVenQ.jpg" group-title="",Upgrade
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Upgrade+streaming+vf+%E2%80%94+Streamay.mp4
 
 ###V###
 
@@ -982,14 +1048,17 @@ https://fr4.seedr.cc/media/video/hd_hls/e694202b866520419477fad415447e647b17a987
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/19.jpg" group-title="",Vivre deux fois
 https://sf1.seedr.cc/media/video/hd_hls/nl34/e59c317dc94111b8c2eed12bd249e7b985baf57a/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/waERjyT.jpg" group-title="",Venom (NA)
-https://mega01.uqload.com/3rfkkacwe5w2q4drdi6ph57wathww7fahmqgtsyn5ljktb7beojktfzemlpa/v.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waERjyT.jpg" group-title="",Venom
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Venom+streaming+vf+%E2%80%94+Streamay.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/369.jpg" group-title="",Verónica
 https://fr12.seedr.cc/media/video/hd_hls/8ebee6e18f157da871c81af64f3d61cd19aa5de9/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/371.jpg" group-title="",V pour Vendetta
 https://nl38.seedr.cc/media/video/lq_hls/e6d8951f1453dea68922846c474681acb3232814/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XP2Vea9.jpg" group-title="",Vous êtes jeunes, vous êtes beaux
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/film+Vous+%C3%AAtes+jeunes%2C+vous+%C3%AAtes+beaux+streaming+vf.mp4
 
 ###W###
 
@@ -998,6 +1067,12 @@ https://nl34.seedr.cc/media/video/hd_hls/d244f74aa165acc6f0a8b2ea8486ba77f378a73
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/265.jpg" group-title="",Warning : Do not play
 https://nl37.seedr.cc/media/video/hd_hls/d1843610597a7aca81bbd13f3a5b8ea770bc4298/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkNuUsc.jpg" group-title="",Wasabi
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Wasabi_2001_FRENCH_BDRiP_AC3_Wawacity_ec+Online+%E2%80%94+Mystream.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pi0fgi8.jpg" group-title="",Waves
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Waves+en+streaming+-+Film+streaming+complet+vf+hd+gratuit+sans+pub+2020.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/140.jpg" group-title="",White House Down
 https://fr5.seedr.cc/media/video/hd_hls/a9d403baa7a8689d0f6a420790b8ec864d780bda/vid.m3u8
@@ -1013,7 +1088,13 @@ https://fr10.seedr.cc/media/video/hd_hls/4fd315a68501ac3275be58ab193c334a2b768cf
 
 ###X###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8o9LiKk.jpg" group-title="",X-Men - Dark Phoenix
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Dark.Phoenix.2019.TRUEFRENCH.BDRip.x264-EXTREME.mkv
+
 ###Y###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txQTUAL.jpg" group-title="",Yakuza Apocalypse
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Yakuza+Apocalypse+streaming+vf+%E2%80%94+Streamay.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/394.jpg" group-title="",Yardie
 https://nl23.seedr.cc/media/video/hd_hls/d29724a032ddd053ad40441eba2ad68237538d5e/vid.m3u8
