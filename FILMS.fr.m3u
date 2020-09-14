@@ -904,6 +904,8 @@ https://lo1.seedr.cc/media/video/hd_hls/nl32/c0e37f9a8fed71755a35d3222adad44233c
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/303.jpg" group-title="",Sonic, le film
 https://nl17.seedr.cc/media/video/hd_hls/189a649a0a5d080257214f404630f57d9bc8418d/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IBIZ2x8.jpg" group-title="",SpaceBalls (YT)
+plugin://plugin.video.youtube/play/?video_id=ijN4FjeS148
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrmaoXn.jpg" group-title="",Spider-Man 2
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Spider-Man+2+en+Streaming+VF+GRATUIT+Complet+HD+2004+en+Fran%C3%A7ais..mp4
