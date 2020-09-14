@@ -265,6 +265,9 @@ http://gamako.livebox.co.in/ivoirechannelhls/ivoirechannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3XsGBL.png" group-title="",K24 Tv (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6lvncs
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWXJoz6.png" group-title="",KAJOU TV
+https://video1.getstreamhosting.com:1936/8054/8054/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/r0VPXd1.png" group-title="",Kalac TV
 https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
 
@@ -421,6 +424,9 @@ http://connectiktv.ddns.net:5000/paradistv/paradistv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7p8ZZvz.jpg" group-title="",PARLEMENT TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7v0bk5
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2r05iL8.png" group-title="",Planet Compas TV
+https://5dcabf026b188.streamlock.net/mrcompas2/planet/chunklist_w1880315901.m3u8
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/LdBDXGq.png" group-title="",Plex TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
@@ -519,6 +525,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7um00d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qe9IvjO.jpg" group-title="Haiti",Tele Conscience Haitienne
 https://tvlakay.haitilive.net/player/tchhaiti/website/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://radiotelepacific.com/images/logopacific.jpg" group-title="",Tele Pacific
+http://51.81.80.243:2000/live/acw_01/index.m3u8
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/dmRO6Ek.jpg" group-title="",Tele Univers | Chaine 6
 https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
 
@@ -581,6 +590,9 @@ http://connectiktv.ddns.net:5000/toptv/toptv/chunklist_w1827303256.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="",Tunisie Immobilier TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ITbqWGC.png" group-title="Haiti",TVA  | Chaine 30
+https://watch.haitilive.net/tva/30/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kiIQnj4.png" group-title="",UBIZOM5 TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x74ucfd
