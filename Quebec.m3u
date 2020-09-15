@@ -126,6 +126,10 @@ https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Youtube/Twitch QC Live[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
+# https://ckiafm.org/en-direct https://www.youtube.com/channel/UCiin_6OBCUC-YizybZG85wg #
+#EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=pF2bDTE0k-E
+
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=FBUrUlZ4bjM
@@ -144,7 +148,7 @@ plugin://plugin.video.youtube/play/?video_id=SIc8HProTdA
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=6c4n__kfTXI
+plugin://plugin.video.youtube/play/?video_id=7RHDBe2Qw50
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
