@@ -110,7 +110,7 @@ http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
 
 # https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=gfi8_m6pFr
+plugin://plugin.video.youtube/play/?video_id=gfi8_m6pFrU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
@@ -133,6 +133,9 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="",QS24
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zTA54gD.png" group-title="",radio24
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_dfdxqb3w/sd/6000/t/kZTQ2XrFB-AgEa7c690FJw/index-s32.m3u8
 
 #EXTINF:-1 tvg-language="German" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="",Radio 3i
 https://livestream.gruppocdt.ch/hls/radio3i.m3u8
@@ -160,6 +163,9 @@ https://stream.schweiz5.ch/schweiz52020/stream.m3u8
 #EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="",SivanTV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz
+http://176.10.117.3:5000/play/a03t
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="",Swiss Sport TV
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 
@@ -176,13 +182,13 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTG
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn (OPT-3)
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="Zwitserland",CH | TeleBielingue
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="Zwitserland",TeleBielingue
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aFbgNNm.png" group-title="Zwitserland",CH | Telebasel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFbgNNm.png" group-title="Zwitserland",Telebasel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="",CH | TeleTicino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="",TeleTicino
 https://livestream.gruppocdt.ch/hls/teleticino_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ch.az-cdn.ch/static/1.152.0/telezueri/device-icons/512x512.png" group-title="",TeleZURI
@@ -191,6 +197,12 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq
 
 #EXTINF:-1 tvg-logo="https://ch.az-cdn.ch/static/1.152.0/tvo/device-icons/512x512.png" group-title="",TVO
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSWC4r9.png" group-title="",TVO (OPT-2)
+http://176.10.117.3:5000/play/a03s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bEzsCqj.jpg" group-title="",Wetter.tv
+http://176.10.117.3:5000/play/a03i
 
 ######
 
@@ -206,9 +218,7 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24
 https://tna5.bozztv.com/musig/index.m3u8
 
-# https://www.suedostschweiz.ch/tv/wilmaa #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",suedostschweiz
-0.0.0.0
+
 
 #########
 
