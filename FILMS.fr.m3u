@@ -196,9 +196,18 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Brig
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/76.jpg" group-title="",Bruce Lee - Big Boss
 https://sf1.seedr.cc/media/video/hd_hls/fr7/b49a854c9d40cdd5f100e2f557896c29ddd96cd9/vid.m3u8
-
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/463.jpg" group-title="",Bruce Lee - La Fureur de vaincre
 https://cloudfront.tubi.video/df3c5da4-8675-4535-9f81-3cea76b96576/ghjay2dz/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpC0AN9.jpg" group-title="",Bruce Lee - Le Jeu De La Mort (YT)
+plugin://plugin.video.youtube/play/?video_id=NlHfAnKkklo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDSd7O0.jpg" group-title="",Bruce Lee - le frelon vert (YT)
+plugin://plugin.video.youtube/play/?video_id=J00a4yMu8Cw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfMAeFI.jpg" group-title="",Bruce Lee - Les Six Epreuves de la Mort (YT)
+plugin://plugin.video.youtube/play/?video_id=qhpksk58OtQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/059b8vJ.jpg" group-title="",Bruce Lee - IN NEW GUINEA (YT)
+plugin://plugin.video.youtube/play/?video_id=F6aWnPl5Da4
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNHWyQB.jpg" group-title="",Bud Spencer - Aladin 1986 (YT)
 plugin://plugin.video.youtube/play/?video_id=EV0T-LzCoN8
@@ -266,6 +275,11 @@ https://lo1.seedr.cc/media/video/hd_hls/nl26/7c21919d5a050c73d7547148c7c9e1b0b4c
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/180.jpg" group-title="",Catwoman
 https://fr9.seedr.cc/media/video/hd_hls/805501fb6260235450c97453b53c156bca6bd74c/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DHnvIMY.jpg" group-title="",Clint Eastwood - ET POUR QUELQUES DOLLARS DE PLUS (YT)
+plugin://plugin.video.youtube/play/?video_id=-y5cR7FqUmw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B1wPWGS.jpg" group-title="",Clint Eastwood - LE BON, LA BRUTE ET LE TRUAND (YT)
+plugin://plugin.video.youtube/play/?video_id=uF_I6VRslZw
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/166.jpg" group-title="",Coco
 https://nl34.seedr.cc/media/video/hd_hls/5a08370f916eeded4db2e830e6592f8684eecab3/vid.m3u8
@@ -604,6 +618,9 @@ https://fr13.seedr.cc/media/video/hd_hls/1ba0553e132cbc231544ffd0ea0de71d7da42eb
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FJAINyb.jpg" group-title="",Le Grand Stan (YT)
 plugin://plugin.video.youtube/play/?video_id=9-6fkcrMP4Y
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RooMzw4.jpg" group-title="",Le Jour de la haine (YT)
+plugin://plugin.video.youtube/play/?video_id=uf91x0r88y0
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/663.jpg" group-title="",Le jour viendra où...
 https://nl24.seedr.cc/media/video/lq_hls/786985a3b9e56bc1dd9200fea26024985af908fd/vid.m3u8
@@ -980,6 +997,8 @@ plugin://plugin.video.youtube/play/?video_id=xl29_gNtI14
 plugin://plugin.video.youtube/play/?video_id=EXA2xbP8_aY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8OMGka.jpg" group-title="",Terence Hill - MON NOM EST PERSONNE (YT)
 plugin://plugin.video.youtube/play/?video_id=Y_nfnSj53Eg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FMM4aQ.jpg" group-title="",Terence Hill - Et Maintenant On L'appelle El Magnifico (YT)
+plugin://plugin.video.youtube/play/?video_id=L2705XORR_I
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/598.jpg" group-title="",Terminator 1
 https://nl22.seedr.cc/media/video/hd_hls/83fa1233ba813881a53cba9c3bdb76b9d9a0b09e/vid.m3u8
@@ -1086,6 +1105,9 @@ https://nl23.seedr.cc/media/video/hd_hls/a8a723df3cbc250aa5b2f35bea0d906afb90ece
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLmU4VD.jpg" group-title="",U-235
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/film+U-235+streaming+vf.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ht6raUh.jpg" group-title="",Un été magique (YT)
+plugin://plugin.video.youtube/play/?video_id=aRLhvuhSuV8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/566.jpg" group-title="",Un prince à New York
 https://nl28.seedr.cc/media/video/hd_hls/acd7afbcbdbebcf755bc856b4b5445ae3e00c574/vid.m3u8
