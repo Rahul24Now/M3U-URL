@@ -429,6 +429,10 @@ https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8?fluxustv.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="USA",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
+#https://www.doom.tube/doomtube.gif
+#EXTINF:-1 tvg-logo="https://cdn.bitwave.tv/uploads/v2/avatar/3e5c422d-22ef-4988-85d2-0df9b850cd34-128.png" group-title="",doomtube
+https://cdn.stream.bitwave.tv/hls/doomtube/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mTwMJk.png" group-title="USA",Dream TV
 https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
 
