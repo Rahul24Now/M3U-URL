@@ -128,7 +128,7 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # https://ckiafm.org/en-direct https://www.youtube.com/channel/UCiin_6OBCUC-YizybZG85wg #
 #EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=pF2bDTE0k-E
+plugin://plugin.video.youtube/play/?video_id=nX94DTQVF7E
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
