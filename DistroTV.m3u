@@ -30,9 +30,6 @@ http://a.jsrdn.com/broadcast/d5b47/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AOj9cgU.png" group-title="Distro TV",Brut US
 https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22834/bspoketv/logo_20200603_042338.png" group-title="DistroTV",bspoketv
-https://a.jsrdn.com/broadcast/2hdx8s3n/c.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VF1r0Yf.png" group-title="DistroTV",BUZZR
 https://a.jsrdn.com/broadcast/ds80weh4/c.m3u8
 
@@ -110,6 +107,9 @@ https://a.jsrdn.com/broadcast/9c897f1973/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22759/the-film-detective-2/logo_20200602_195337.png" group-title="DistroTV",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22887/magellan/thumbh_20200821_224843.jpg" group-title="Distro TV",Magellan TV Now
+https://a.jsrdn.com/broadcast/98rvhf3w7/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22677/matv-live/logo_20191213_010243.png" group-title="DistroTV",MATV Live EST
 https://a.jsrdn.com/broadcast/22677_J8PT4x6prY/-0500/c.m3u8
@@ -203,6 +203,9 @@ https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22820/acc-1/logo_20200526_193857.png" group-title="DistroTV Sport",ACCDN
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22834/bspoketv/logo_20200603_042338.png" group-title="DistroTV",bspoketv
+https://a.jsrdn.com/broadcast/2hdx8s3n/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22703/cycleworld/logo_20200208_001435.png" group-title="DistroTV Sport",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/c.m3u8
