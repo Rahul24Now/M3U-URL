@@ -76,9 +76,11 @@ http://24.122.251.104:8083/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET
 #EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-3
 http://24.122.251.104:8084/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
 
+# update link: https://webcamendirect.net/webcam/5052-capauxmeules-iles-de-la-madeleine.html #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJhANxd.png" group-title="Cam",port de Cap-aux-Meules
 http://205.237.248.39/axis-cgi/mjpg/video.cgi?resolution=635x476&dummy=1597946072826
 
+# update link: https://golfatlantide.com/parcours-en-direct/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qfr0yvS.png" group-title="Cam",Club Golf Atlantide-1
 http://24.37.234.6:8080/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qfr0yvS.png" group-title="Cam",Club Golf Atlantide-2
