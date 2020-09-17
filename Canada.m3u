@@ -29,7 +29,7 @@ https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist
 
 # update link https://www.youtube.com/watch?v=lYXdhqg6DmM #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT)
-plugin://plugin.video.youtube/play/?video_id=8sOqELICmkQ
+plugin://plugin.video.youtube/play/?video_id=ZaXSkSvqa_s
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCZ4VgJ.png" group-title="",► BRAVO CANADA
 http://stream-e30453a4b.nmbs.top/m3u/Canada/f057e133f9.m3u8|User-Agent=VLC
@@ -102,7 +102,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8|User-Agent=VLC
 
 # Update Link https://www.chch.com/live/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD)
-https://flowcaster1-sh.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w1188142799_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU5OTkzODkwOCZpaW1hZTBVQzJhaGFzaD1ueDQwZERnTTlTUDBaYXVkYlhDbHFSdTNWdFdFUzdZaURSN1haRXlXR1BrPQ==.m3u8
+https://flowcaster1-cl.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w311537970_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTYwMDM4NjAzMyZpaW1hZTBVQzJhaGFzaD1pQ01xSkR3VUo2b1Noa05EM1I5WG9oc0pMUXVLN18wUFVxeGZLcmptQVJNPQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/playlist.m3u8
