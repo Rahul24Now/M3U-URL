@@ -4,6 +4,16 @@
 0.0.0.0
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a1QadpM.jpg" group-title="",Les Nordiques, notre équipe - Docu (YT)
+plugin://plugin.video.youtube/play/?video_id=4xs00VbJ4ds
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nb8L8aP.jpg" group-title="",L'épopée des Nordiques - Docu (YT)
+plugin://plugin.video.youtube/play/?video_id=u8My3qp7Bbo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vN8Ol2h.jpg" group-title="",Les Tresors Caches Du Quebec Souterrain - Docu (YT)
+plugin://plugin.video.youtube/play/?video_id=miq2RiCNKjk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDelEkO.jpg" group-title="",Québec sur ordonnance - Docu (YT)
+plugin://plugin.video.youtube/play/?video_id=XUTf5ARYKeI
+
 ###0###
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C47RzB1.jpg" group-title="",1:54 (NA)
