@@ -90,6 +90,9 @@ http://24.37.234.6:8082/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qfr0yvS.png" group-title="Cam",Club Golf Atlantide-4
 http://24.37.234.6:8083/mjpg/video.mjpg
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile Drummondville
+http://207.164.82.197:8001/mjpg/video.mjpg
+
 # update link: https://montcastor.com/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGndFto.png" group-title="Cam",Mont-Castor Matane
 http://montcastor.axiscam.net:9000/mjpg/video.mjpg
