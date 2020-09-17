@@ -232,6 +232,12 @@ http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
 #EXTINF:-1 tvg-logo="http://sterktv.net/wene/2019/10/cropped-sterk-logo-1-2.png" group-title="",STERK TV
 http://137.74.205.201/live2/sterk-3mbps.m3u8
 
+#https://radioplus.be/#/stubru/herbeluister #
+#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru Audio Only
+https://live-radio-cf-vrt.akamaized.net/groupc/live/f404f0f3-3917-40fd-80b6-a152761072fe/live.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.topradio.be/assets/page/img/favicons/favicon-196x196.png" group-title="",TOPradio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=156527835&amp;mode=play
 
@@ -309,13 +315,8 @@ https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9
 #EXTINF:-1 tvg-logo="https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="BELGIUM",Qmusic
 https://dcs-live.apis.anvato.net/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-4&anvsid=i177602774-n5f09440d-dfa0-4976-8fe0-48042c24dd98&ts=1589733883&anvtrid=e177190134b20665753756072701d241
 
-#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru
-https://live-radio-cf.lwc.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/dash/live-video_track=365000.m3u8
-#https://live-radio-cf.lwc.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/dash/live-audio_track_0_0_dut=64000.m3u8
-#https://live-radio-cf.lwc.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/dash/live-audio_track_0_0_dut=64000-video=3000000.m3u8
-#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru
-#https://live-radio-cf.lwc.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/live-audio_track_0_dut=128000-video=3000000.m3u8
-#https://live-radio-cf.lwc.vrtcdn.be/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/dash/live-audio_track_0_0_dut=64000.dash
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sMtwdKk.png" group-title="BELGIUM",WTV
 https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8
