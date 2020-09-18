@@ -84,6 +84,9 @@ https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22818/filmeraa/logo_20200528_233056.png" group-title="DistroTV",Filmeraa
 https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-the-vault/logo_20200917_222921_70.png" group-title="DistroTV",GlewedTV The Vault
+https://a.jsrdn.com/broadcast/becb923d76/+0000/c.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42DOGtZ.png" group-title="DistroTV",Global Fashion
 https://a.jsrdn.com/broadcast/33ee2rtf5/c.m3u8
 
@@ -104,6 +107,9 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22870/kwelitv/logo_20200812_053208_70.png" group-title="DistroTV",KweliTV
 https://a.jsrdn.com/broadcast/9c897f1973/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22884/law/logo_20200911_201409_70.png" group-title="DistroTV",Law & Crime
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22759/the-film-detective-2/logo_20200602_195337.png" group-title="DistroTV",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8
@@ -203,6 +209,9 @@ https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22820/acc-1/logo_20200526_193857.png" group-title="DistroTV Sport",ACCDN
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22889/adventure-sports-tv/logo_20200910_015603_70.png" group-title="DistroTV",Adventure Sports TV
+https://gizmeon.s.llnwi.net/livehls/ngrp:CHANNEL275_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22834/bspoketv/logo_20200603_042338.png" group-title="DistroTV",bspoketv
 https://a.jsrdn.com/broadcast/2hdx8s3n/c.m3u8
@@ -382,22 +391,3 @@ https://a.jsrdn.com/broadcast/2sfki098xx/c.m3u8
 https://a.jsrdn.com/broadcast/vrd390hvb1/c.m3u8
 
 ###########
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
