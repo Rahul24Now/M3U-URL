@@ -247,6 +247,10 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/a5bafcb0fa.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AF11e8l.png" group-title="",► IFC CANADA
 http://stream-e30453a4b.nmbs.top/m3u/Canada/e06d6a0634.m3u8|User-Agent=VLC
 
+# https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (YT)
+plugin://plugin.video.youtube/play/?video_id=VFVM7_ffP3c
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
