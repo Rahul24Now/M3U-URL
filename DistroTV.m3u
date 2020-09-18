@@ -93,6 +93,9 @@ https://a.jsrdn.com/broadcast/33ee2rtf5/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0bnmCaY.png" group-title="DistroTV",Gusto
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22905/hollywire/logo_20200917_063637_70.png" group-title="DistroTV",Hollywire
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/broadcast/3bdaa1c3-f401-432b-9850-49d8fb8419c0/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22720/honor-tv/logo_20191213_193346.png" group-title="DistroTV",Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/c.m3u8
 
@@ -218,6 +221,9 @@ https://a.jsrdn.com/broadcast/2hdx8s3n/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22703/cycleworld/logo_20200208_001435.png" group-title="DistroTV Sport",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22904/dot-esports/logo_20200917_065552_65.png" group-title="DistroTV",Dot Esports
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/broadcast/441127f1-ee38-4613-adac-94534f4767ba/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22703/fieldstream/logo_20200208_010454.png" group-title="DistroTV Sport",Field & Stream
 https://a.jsrdn.com/broadcast/7536b84786/+0000/c.m3u8
