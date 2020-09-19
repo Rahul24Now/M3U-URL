@@ -11,6 +11,10 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrazFow.png" group-title="",Stade Toulousain vs. Cavigal de Nice - demi-finale de la French Summer League (YT)
 plugin://plugin.video.youtube/play/?video_id=NK61RIL6Gg0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37vDjLr.jpg" group-title="",Élection Miss Île de France 2020 pour Miss France (YT)
+plugin://plugin.video.youtube/play/?video_id=crdK3zLiz58
+
+
 #######
 
 # update link : https://www.01net.com/mediaplayer/live-video/ https://www.dailymotion.com/video/x7pctg0 #
