@@ -291,6 +291,11 @@ https://nl30.seedr.cc/media/video/lq_hls/449ce7cd10e3ab40ea6fb77b43ed56199a4a96a
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/180.jpg" group-title="",Catwoman
 https://fr9.seedr.cc/media/video/hd_hls/805501fb6260235450c97453b53c156bca6bd74c/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/836.jpg" group-title="",Cinquante nuances plus claires
+https://fr4.seedr.cc/media/video/hd_hls/8c27ed53dcd003436e7b08b6ccfc47e602b3215b/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/062WXI3.jpg" group-title="",Cinquante nuances plus sombres
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Cinquante+Nuances+plus+sombres+streaming+vf+%E2%80%94+Streamay_2.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DHnvIMY.jpg" group-title="",Clint Eastwood - ET POUR QUELQUES DOLLARS DE PLUS (YT)
 plugin://plugin.video.youtube/play/?video_id=-y5cR7FqUmw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B1wPWGS.jpg" group-title="",Clint Eastwood - LE BON, LA BRUTE ET LE TRUAND (YT)
@@ -457,6 +462,9 @@ https://de13.seedr.cc/media/video/lq_hls/5cdb5c10fea483ae554c7224d77800c08b64dda
 https://de13.seedr.cc/media/video/lq_hls/e56311a558c16620292d2b40bb891fed7f1aeee2/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/97.jpg" group-title="",Harry Potter et les Reliques de la mort - 2ème partie
 https://de13.seedr.cc/media/video/lq_hls/d4b42ce750207f8fdbba0be29dca79f6b5f048de/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/823.jpg" group-title="",Hellboy
+https://fr8.seedr.cc/media/video/hd_hls/c417f92e0782f2dbf71468d4d5a26a3ef95cf1f0/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/777.jpg" group-title="",Hell & Back
 https://nl24.seedr.cc/media/video/hd_hls/d39839b44be083f9a461cdbff148d76a8343a76f/vid.m3u8
@@ -1006,6 +1014,9 @@ https://fr9.seedr.cc/media/video/hd_hls/3ac90033a476306361f5ce940ffd03f7ecb71fe5
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/682.jpg" group-title="",Rememory
 https://nl37.seedr.cc/media/video/hd_hls/50679ed1001691457287a9c9640577bceccf9dd8/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/813.jpg" group-title="",Rémi sans famille
+https://fr3.seedr.cc/media/video/hd_hls/be16c9a82e85bac18c68845e214d9e4e718ead92/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/thhc2el.jpg" group-title="",Riddick
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Riddick_TrueFrench_BDRIP-Wawacity_ec+Online+%E2%80%94+Mystream.mp4
 
@@ -1027,6 +1038,9 @@ https://nl31.seedr.cc/media/video/lq_hls/73a72a6cfa3ae49e9059285223c6037e5558d12
 https://nl31.seedr.cc/media/video/lq_hls/0989c9e2b44ad15876b12af85a8f88a2affd9fb6/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/623.jpg" group-title="",Rocky Balboa
 https://nl31.seedr.cc/media/video/lq_hls/dbb55c3a96d69e9650288a799f9256dfd1c8aea9/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/788.jpg" group-title="",Rogue Warfare - L'art de la guerre 
+https://nl35.seedr.cc/media/video/hd_hls/2722ddc31f7419b069cc34eec6c44fac32169038/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/409.jpg" group-title="",Rufus et le Royaume d'Alyne
 https://nl22.seedr.cc/media/video/hd_hls/3cb3e9ba9b2cd028116b501876b913de3db93eb0/vid.m3u8
@@ -1113,6 +1127,23 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Star
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/14.jpg" group-title="",Stephen King's - Doctor Sleep
 https://sf1.seedr.cc/media/video/hd_hls/nl21/69c6781d08e37e5987fb413139e65fe608d6b272/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpHP90n.jpg" group-title="",steven seagal - Absolution (YT)
+plugin://plugin.video.youtube/play/?video_id=dULEXA8wXE0
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/60.jpg" group-title="",Steven Seagal - Désigné pour mourir
+https://sf1.seedr.cc/media/video/hd_hls/fr7/798fe74fc5be7e71c378954a0b33704f3e9cfc93/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/811.jpg" group-title="",Steven Seagal - General Commander
+https://nl17.seedr.cc/media/video/hd_hls/a03edecdc2b5b3c154fd450d555dc11840178d54/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eO9BJyT.jpg" group-title="",Steven Seagal - Jeu fatal (YT)
+plugin://plugin.video.youtube/play/?video_id=iNoYFJuzvZM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPfR4HZ.jpg" group-title="",steven seagal - LA MACHINE INFERNALE (YT)
+plugin://plugin.video.youtube/play/?video_id=b-13qNWEQ80
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zrFh007.jpg" group-title="",steven seagal - Perfect Weapon (YT) 
+plugin://plugin.video.youtube/play/?video_id=XqxxDP24QHo
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/815.jpg" group-title="",Steven Seagal - Sous haute protection
+https://nl25.seedr.cc/media/video/lq_hls/bb767410f1c8eb27e6acc55cc6ff9289b7dd937b/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S02YSBs.jpg" group-title="",steven seagal - Under Siege (YT)
+plugin://plugin.video.youtube/play/?video_id=fQ6UUKC4_Is
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/680.jpg" group-title="",Street Fighter - L'ultime combat
 https://nl24.seedr.cc/media/video/hd_hls/fced010e0cb8fe5e5774a23aa523c041c24ca636/vid.m3u8
