@@ -8,15 +8,15 @@ plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
 
 # update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=F0EYhlLDwoU
+plugin://plugin.video.youtube/play/?video_id=CfR16Nm3KoQ
 
 # update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=L_1fMIbMdxk
+plugin://plugin.video.youtube/play/?video_id=4laFNjZ7DlA
 
 # update link: https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=DCQDbs_-9eg
+plugin://plugin.video.youtube/play/?video_id=efd49_K2RUs
 
 # update link: https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (YT) (UPD) (Off LIne)
@@ -24,7 +24,7 @@ plugin://plugin.video.youtube/play/?video_id=k47I_2Ci0Sk
 
 # Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=qGdJvMEeV1A
+plugin://plugin.video.youtube/play/?video_id=ZQy5cL_mYy8
 
 # update link: https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RrNpqj.png" group-title="Cam",Promotion Saguenay (YT)
@@ -58,7 +58,7 @@ plugin://plugin.video.youtube/play/?video_id=jrBmarIQcwo
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
-https://mia.rtsp.me/qpUPb6YmrntOx-VNVlSi1A/1600449163/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/w4P5YlKEFLmfBxmwLqwrrQ/1600615088/hls/3yB3SNsr.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
@@ -89,6 +89,10 @@ http://24.37.234.6:8081/mjpg/video.mjpg
 http://24.37.234.6:8082/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qfr0yvS.png" group-title="Cam",Club Golf Atlantide-4
 http://24.37.234.6:8083/mjpg/video.mjpg
+
+# https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="",Cap-Colombier,Québec (YT)
+plugin://plugin.video.youtube/play/?video_id=a7wVm1BCPqI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile Drummondville
 http://207.164.82.197:8001/mjpg/video.mjpg
