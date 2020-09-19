@@ -92,6 +92,11 @@ https://de9.seedr.cc/media/video/hd_hls/bd58b24a18900e5b7c896cee173d247f0340c334
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/128.jpg" group-title="",American Sniper
 https://fr6.seedr.cc/media/video/lq_hls/bcb2619fe146897dc51719105145e83ea7f987d3/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UsJYNqR.jpg" group-title="",American Yakuza (YT)
+plugin://plugin.video.youtube/play/?video_id=4BUI9MOJtw8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxGun8z.jpg" group-title="",American Yakuza 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=f925jVhQBw0
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/767.jpg" group-title="",Angry Birds - Le film
 https://de16.seedr.cc/media/video/hd_hls/825aec71e481f954c1a182806affa36fab577343/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/406.jpg" group-title="",Angry Birds - Copains comme cochons
