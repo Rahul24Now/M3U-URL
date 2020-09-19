@@ -16,6 +16,10 @@ plugin://plugin.video.youtube/play/?video_id=crdK3zLiz58
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wcfd4mA.jpg" group-title="",TMB Toulouse (LF2) vs BCTM La Tronche Meylan (LF2) COUPE DE FRANCE BASKET 2020-2021 (YT)
 plugin://plugin.video.youtube/play/?video_id=3At4D4yj5Wk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yJCmmp.png" group-title="",DIFFUSION DES 24H DU MANS 2020 FR (YT)
+plugin://plugin.video.youtube/play/?video_id=HxxACMdM3jM
+
 #######
 
 # update link : https://www.01net.com/mediaplayer/live-video/ https://www.dailymotion.com/video/x7pctg0 #
