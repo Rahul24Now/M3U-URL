@@ -156,6 +156,21 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/3efde4ac6a.m3u8|User-Agent=VLC
 #EXTINF:-1,WWE NETWORK 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/1391c208ba.m3u8|User-Agent=VLC
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UkcgDgO.jpg" group-title="",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNwp4df.png" group-title="",&Prive
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPQkvtO.jpg" group-title="",24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vkZ0wNX.jpg" group-title="",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8nbAJy.png" group-title="",Wixlar TV
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+
 
 ######
 
