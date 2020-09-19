@@ -838,6 +838,9 @@ https://nl27.seedr.cc/media/video/hd_hls/5b3a4efc5489c5e9f133b30fbf8f1abcead5502
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/597.jpg" group-title="",Matrix Reloaded
 https://nl26.seedr.cc/media/video/lq_hls/59c85538a566c5daa444daa522f357c919fbda8b/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u2LAaIR.jpg" group-title="",Mercenaires (YT) 
+plugin://plugin.video.youtube/play/?video_id=kwb7KneK2E8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/710.jpg" group-title="",Mignonnes
 https://nl25.seedr.cc/media/video/hd_hls/7a78acaca4c5867a5b5c254047e6fe79cae31fef/vid.m3u8
 
