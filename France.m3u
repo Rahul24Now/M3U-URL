@@ -8,7 +8,8 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrazFow.png" group-title="",Stade Toulousain vs. Cavigal de Nice - demi-finale de la French Summer League (YT)
+plugin://plugin.video.youtube/play/?video_id=NK61RIL6Gg0
 
 #######
 
