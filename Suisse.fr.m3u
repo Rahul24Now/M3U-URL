@@ -12,9 +12,11 @@ plugin://plugin.video.youtube/play/?video_id=44F6cxUeQOE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3obbpi5.jpg" group-title="",2020 HC Finals SB Single-Championships 4 (YT)
 plugin://plugin.video.youtube/play/?video_id=aaU2F-njfNg
 
-
 #EXTINF:-1 tvg-logo="https://www.swisspool-billard.ch/images/layout/hinter_top_middle.png" group-title="",QT - 14-1 - Schweizer Herren Elite (YT)
 plugin://plugin.video.youtube/play/?video_id=SfBmeq_mAdA
+
+#EXTINF:-1 tvg-logo="https://www.hccnet.ch/sites/all/themes/bss_base_theme/logo.png" group-title="",HC La Chaux-de-Fonds VS HC Sierre
+plugin://plugin.video.youtube/play/?video_id=dwwQ04e8GjM
 
 # update link : https://www.youtube.com/channel/UCREx8vJx1YosnkGo3fRTG7A #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT) (UPD)
