@@ -3,6 +3,16 @@
 #EXTINF:-1 tvg-id="Suisse" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3obbpi5.jpg" group-title="",2020 HC Finals SB Single-Championships 1 (YT)
+plugin://plugin.video.youtube/play/?video_id=26Sn2G3KeDE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3obbpi5.jpg" group-title="",2020 HC Finals SB Single-Championships 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=eUfDU2i1cJs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3obbpi5.jpg" group-title="",2020 HC Finals SB Single-Championships 3 (YT)
+plugin://plugin.video.youtube/play/?video_id=44F6cxUeQOE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3obbpi5.jpg" group-title="",2020 HC Finals SB Single-Championships 4 (YT)
+plugin://plugin.video.youtube/play/?video_id=aaU2F-njfNg
+
+
 # update link : https://www.youtube.com/channel/UCREx8vJx1YosnkGo3fRTG7A #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=1zuuFry4cSE
