@@ -186,7 +186,8 @@ plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio(TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
-
+#EXTINF:-1 tvg-logo="http://www.djradio.ca/wp-content/uploads/2015/10/DJRadioca_125x.png" group-title="",Montreal Caliente Summer Vibes (YT)
+plugin://plugin.video.youtube/play/?video_id=VyAA3cSabl4
 
 ####
 
