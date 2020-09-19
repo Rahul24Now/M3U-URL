@@ -19,7 +19,8 @@ plugin://plugin.video.youtube/play/?video_id=3At4D4yj5Wk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yJCmmp.png" group-title="",DIFFUSION DES 24H DU MANS 2020 FR (YT)
 plugin://plugin.video.youtube/play/?video_id=HxxACMdM3jM
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yJCmmp.png" group-title="",DIFFUSION DES 24H DU MANS 2020  (YT)
+plugin://plugin.video.youtube/play/?video_id=Qa1k-kdh4Fs
 #######
 
 # update link : https://www.01net.com/mediaplayer/live-video/ https://www.dailymotion.com/video/x7pctg0 #
