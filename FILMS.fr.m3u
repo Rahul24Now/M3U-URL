@@ -272,6 +272,9 @@ https://de4.seedr.cc/media/video/hd_hls/4d3038e1610994aa6bae334dc2e8b13173799450
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/278.jpg" group-title="",Ça - Chapitre 2
 https://fr1.seedr.cc/media/video/hd_hls/9137e4e9a14e68f0e0d88931e995bf8d12481790/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/783.jpg" group-title="",Captain America - Le Soldat de l'hiver
+https://fr10.seedr.cc/media/video/hd_hls/48f928128251450de5350b8f844f46603ccaff9b/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/706.jpg" group-title="",Captain Marvel
 https://fr14.seedr.cc/media/video/hd_hls/40941cf921787c748b4e166f538b1d4e4aa4f422/vid.m3u8
 
@@ -1115,6 +1118,15 @@ https://sf1.seedr.cc/media/video/hd_hls/nl23/3f3f8b30a4217ec1f2aa546b3d9d4fb304a
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/760.jpg" group-title="",Tad et le secret du roi Midas
 https://nl27.seedr.cc/media/video/hd_hls/afab481cce4ca87c37f0bd3d0a6e8029164811c6/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/789.jpg" group-title="",Taxi
+https://fr6.seedr.cc/media/video/hd_hls/3ccda9d39b7f9771d05fe01e875b683980695350/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/790.jpg" group-title="",Taxi 2
+https://fr6.seedr.cc/media/video/lq_hls/3a6adb1d19e4a22aca4f6e432b9403ca64850863/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/791.jpg" group-title="",Taxi 3
+https://fr6.seedr.cc/media/video/hd_hls/52b41ccc7212710cdb83946c5137b1fcccc8a52c/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/792.jpg" group-title="",Taxi 4
+https://fr6.seedr.cc/media/video/lq_hls/05608f0d8618b219a184d9ecac5eb82d1f60ea1d/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8G1HXUS.jpg" group-title="",Ted (NA)
 https://s0.vudeo.net/2vp3vf7dzyvjdohilngrrn4wsx2txpbmgtiesmenxsmt7glohagzd5f4zrwq/v.mp4
