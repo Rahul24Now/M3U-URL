@@ -14,7 +14,8 @@ plugin://plugin.video.youtube/play/?video_id=NK61RIL6Gg0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37vDjLr.jpg" group-title="",Élection Miss Île de France 2020 pour Miss France (YT)
 plugin://plugin.video.youtube/play/?video_id=crdK3zLiz58
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcfd4mA.jpg" group-title="",TMB Toulouse (LF2) vs BCTM La Tronche Meylan (LF2) COUPE DE FRANCE BASKET 2020-2021 (YT)
+plugin://plugin.video.youtube/play/?video_id=3At4D4yj5Wk
 #######
 
 # update link : https://www.01net.com/mediaplayer/live-video/ https://www.dailymotion.com/video/x7pctg0 #
@@ -57,7 +58,7 @@ http://str81.creacast.com/iltv/high/chunklist_w1782720917.m3u8
 
 # update link : https://mon.astrocenter.fr/tv/en-direct https://www.youtube.com/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg #
 #EXTINF:-1 tvg-id="France" tvg-name="AstrocenterTV" tvg-logo="https://mon.astrocenter.fr/static/img/third_parties/www.astrocenter.fr/astrocenter-logo.png" group-title="France",AstrocenterTV (YT)
-plugin://plugin.video.youtube/play/?video_id=JnnOx3E4IHw
+plugin://plugin.video.youtube/play/?video_id=Iw6jgQR5S-M
 
 # update link: https://www.youtube.com/channel/UCd9hPbPHI0XKWhxYLtmyvFA #
 #EXTINF:-1 tvg-id="France" tvg-name="ASTV" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="France",ASTV Grande-Synthe (YT) (UPD)
@@ -165,7 +166,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Kids/05bcd8c334.m3u8|User-Agent=VLC
 
 # Update Link : https://www.youtube.com/channel/UCjbvuMcOCvyYFZKKPvU6QHw #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Loc" tvg-logo="https://i.imgur.com/4KD7F69.png" group-title="France",Canal Local Grosbliederstroff (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=YIVul7U-Qek
+plugin://plugin.video.youtube/play/?video_id=omZPIYxytUk
 
 # update link : # https://www.dailymotion.com/video/x5gv6be #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal+ (DM)
