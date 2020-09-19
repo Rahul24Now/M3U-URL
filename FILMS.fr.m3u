@@ -518,6 +518,8 @@ https://fr7.seedr.cc/media/video/hd_hls/daebde502c0ae86cb104c844d5270e41590ddc9a
 https://fr7.seedr.cc/media/video/hd_hls/f3586f72f0e6821e5a565f8caf0edeabc2467944/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/149.jpg" group-title="",Ip Man 4
 https://nl38.seedr.cc/media/video/lq_hls/ca368980468dfbe9d5752703141958349efdc294/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euhS5XV.jpg" group-title="",Ipman the final Fight (YT)
+plugin://plugin.video.youtube/play/?video_id=lBObMdA-loo
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/685.jpg" group-title="",Irresistible
 https://nl21.seedr.cc/media/video/hd_hls/959a10eb9482f093f651f43fbf89774b11088de2/vid.m3u8
@@ -1158,6 +1160,9 @@ https://nl24.seedr.cc/media/video/hd_hls/fced010e0cb8fe5e5774a23aa523c041c24ca63
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/766.jpg" group-title="",Sword Art Online - Ordinal Scale
 https://fr13.seedr.cc/media/video/hd_hls/09c943722186d8d91a0b4f3f327d3dbfbb930404/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WkDLYDG.jpg" group-title="",swordsman(Wuxia) (YT)
+plugin://plugin.video.youtube/play/?video_id=Eux250tCj4k
 
 ###T###
 
