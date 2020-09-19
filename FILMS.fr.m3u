@@ -208,7 +208,7 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Brig
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/76.jpg" group-title="",Bruce Lee - Big Boss
 https://sf1.seedr.cc/media/video/hd_hls/fr7/b49a854c9d40cdd5f100e2f557896c29ddd96cd9/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/463.jpg" group-title="",Bruce Lee - La Fureur de vaincre
-https://cloudfront.tubi.video/df3c5da4-8675-4535-9f81-3cea76b96576/ghjay2dz/stream.m3u8
+https://nl35.seedr.cc/media/video/hd_hls/bbcd3e1f8a9c78022918385a9e0b4a50153c3be7/vid.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpC0AN9.jpg" group-title="",Bruce Lee - Le Jeu De La Mort (YT)
 plugin://plugin.video.youtube/play/?video_id=NlHfAnKkklo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rDSd7O0.jpg" group-title="",Bruce Lee - le frelon vert (YT)
@@ -310,6 +310,9 @@ https://fr10.seedr.cc/media/video/hd_hls/c213695ae2bdb5b8747b9190ea7308515cb6f60
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/637.jpg" group-title="",Comme des phénix - L'esprit paralympique
 https://nl38.seedr.cc/media/video/hd_hls/f51db527e479b9d7cad85e56c4ea7f9f99f57abe/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/825.jpg" group-title="",Constantine
+https://nl31.seedr.cc/media/video/lq_hls/1779d85d4643c6a0b85e140db00d19ae8d80fdfb/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/246.jpg" group-title="",Contagion
 https://nl23.seedr.cc/media/video/lq_hls/2d9405d960f0cd448838f926dd7749639ef2a37f/vid.m3u8?dvr
@@ -460,6 +463,9 @@ https://nl24.seedr.cc/media/video/hd_hls/d39839b44be083f9a461cdbff148d76a8343a76
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/543.jpg" group-title="",Hell on the Border
 https://nl33.seedr.cc/media/video/hd_hls/8ed13c637c1eee7d2ec2a6e6314e9ffb8fed0628/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/822.jpg" group-title="",Homefront
+https://nl33.seedr.cc/media/video/lq_hls/da24ce209e51a9fd9f806cd9c5b1dc1702ee7add/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0VW5Ue.jpg" group-title="",Horse Girl
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Film+Horse+Girl+en+streaming+gratuit+%E2%80%94+AlloStreaming.mp4
@@ -1045,6 +1051,9 @@ https://nl36.seedr.cc/media/video/hd_hls/c031036edbf9d44b5be63aebc6885f743ca18a6
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/592.jpg" group-title="",Seul au monde
 https://nl24.seedr.cc/media/video/hd_hls/0e88231c4e0baf3fe254a841529e9b38365217d3/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/827.jpg" group-title="",Shaft
+https://fr1.seedr.cc/media/video/hd_hls/703c306081f97735b0411672f14b56888f8814f6/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/405.jpg" group-title="",Shaun le Mouton - le film
 https://nl34.seedr.cc/media/video/hd_hls/3c8156620b4ae4d7b6749c190aaab56e9e259403/vid.m3u8
 
@@ -1208,6 +1217,9 @@ https://nl24.seedr.cc/media/video/lq_hls/a1005f9531565b1078f038511662dc3702b1cbf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j1SxgTr.jpg" group-title="",The Warriors Gate
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+twgac3-TRUEFRENCH_BDRiP_XviD-Wawacity_top+Online+%E2%80%94+Mystream.mp4
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/814.jpg" group-title="",Thor - Le Monde des ténèbres
+https://nl38.seedr.cc/media/video/lq_hls/6c5c4d1066be8897a6e235efe3131fcbc1508b3d/vid.m3u8?dvr
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rXqqRVU.jpg" group-title="",Time Trap (NA)
 https://sravyajibo.mstreamcdn.com/c/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTkxNTM2OTIsImRhdGEiOlsiNzAuMjkuMjMwLjExOCIsIjNyeWIwZXNpcHB1dSIsIm4iLDJdfQ.zGUiP_t5G6A_SWmkDVFOr5CZAFdP_i798e0ycPgEAtU.mp4
 
@@ -1312,11 +1324,15 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/film
 
 ###W###
 
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/640.jpg" group-title="",Waiting for the Barbarians
 https://nl34.seedr.cc/media/video/hd_hls/d244f74aa165acc6f0a8b2ea8486ba77f378a73f/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/265.jpg" group-title="",Warning : Do not play
 https://nl37.seedr.cc/media/video/hd_hls/d1843610597a7aca81bbd13f3a5b8ea770bc4298/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/807.jpg" group-title="",Wake Up
+https://de13.seedr.cc/media/video/hd_hls/a4929fd59da20a1ccdd08772e383f76ad0d172a6/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkNuUsc.jpg" group-title="",Wasabi
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Wasabi_2001_FRENCH_BDRiP_AC3_Wawacity_ec+Online+%E2%80%94+Mystream.mp4
@@ -1340,8 +1356,8 @@ https://fr10.seedr.cc/media/video/hd_hls/4fd315a68501ac3275be58ab193c334a2b768cf
 
 ###X###
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8o9LiKk.jpg" group-title="",X-Men - Dark Phoenix
-https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Dark.Phoenix.2019.TRUEFRENCH.BDRip.x264-EXTREME.mkv
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/803.jpg" group-title="",X-Men - Dark Phoenix
+https://de13.seedr.cc/media/video/hd_hls/85364d493363581d9363cbdd5a1a99838f5bc46c/vid.m3u8
 
 ###Y###
 
