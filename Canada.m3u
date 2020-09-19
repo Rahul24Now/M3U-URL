@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada English[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/esdlnn0.jpg" group-title="",Cape Breton Eagles vs. Saint John Seadogs | QMJHL Preseason 2020 (YT)
+plugin://plugin.video.youtube/play/?video_id=Ssvi4Fq9K7w
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
 http://stream-e30453a4b.nmbs.top/m3u/Canada/03f392ffc6.m3u8|User-Agent=VLC
 
