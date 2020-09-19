@@ -510,6 +510,8 @@ https://nl24.seedr.cc/media/video/lq_hls/682829318495d0ded970ca9fed53ab9e4eb164c
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/146.jpg" group-title="",Invisible Man
 https://nl24.seedr.cc/media/video/hd_hls/10100b05adebe2f7c4976d1019cda7ded5e2b951/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDFBEvN.jpg" group-title="",IP man - la legend est née (YT)
+plugin://plugin.video.youtube/play/?video_id=ILRh7x7aD1U
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/176.jpg" group-title="",Ip Man 
 https://fr7.seedr.cc/media/video/hd_hls/efb51b2dfea82ba1cbfaad86377cdf04eb2736c8/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/177.jpg" group-title="",Ip Man 2
@@ -518,7 +520,7 @@ https://fr7.seedr.cc/media/video/hd_hls/daebde502c0ae86cb104c844d5270e41590ddc9a
 https://fr7.seedr.cc/media/video/hd_hls/f3586f72f0e6821e5a565f8caf0edeabc2467944/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/149.jpg" group-title="",Ip Man 4
 https://nl38.seedr.cc/media/video/lq_hls/ca368980468dfbe9d5752703141958349efdc294/vid.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euhS5XV.jpg" group-title="",Ipman the final Fight (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euhS5XV.jpg" group-title="",Ip man the final Fight (YT)
 plugin://plugin.video.youtube/play/?video_id=lBObMdA-loo
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/685.jpg" group-title="",Irresistible
