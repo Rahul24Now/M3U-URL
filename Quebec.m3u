@@ -143,8 +143,8 @@ plugin://plugin.video.youtube/play/?video_id=AUISenV3ocg
 plugin://plugin.video.youtube/play/?video_id=Tm2uXinN7YE
 
 # update link https://www.youtube.com/user/ctmq #
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=FYWI8wR07r4
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=6RNDSHlb3VE
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
@@ -156,11 +156,7 @@ plugin://plugin.video.youtube/play/?video_id=mhaIzNhoRTg
 
 # update link: http://egarizim.com/  #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="Canadian TV",GARIZIM RIVE-SUD Stream le Dimanche (YT)
-plugin://plugin.video.youtube/play/?video_id=ADIZSiEIh4E
-
-# https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (UPD) facebook.com/intermedetv/ (Off Line)
-plugin://plugin.video.youtube/play/?video_id=UpOUzaunkr8
+plugin://plugin.video.youtube/play/?video_id=Iji0ayEUBRY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
@@ -186,8 +182,7 @@ plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio(TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
-#EXTINF:-1 tvg-logo="http://www.djradio.ca/wp-content/uploads/2015/10/DJRadioca_125x.png" group-title="",Montreal Caliente Summer Vibes (YT)
-plugin://plugin.video.youtube/play/?video_id=VyAA3cSabl4
+
 
 ####
 
