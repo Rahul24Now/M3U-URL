@@ -450,6 +450,9 @@ https://nl28.seedr.cc/media/video/hd_hls/bdfa5a203d661c7465c48e745c55ad9e9bad7e1
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/81.jpg" group-title="",Gemini Man
 https://sf1.seedr.cc/media/video/hd_hls/fr8/d310c767e22c2f98af1c5a0540d7ac4dec71d76a/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8sZFXe.jpg" group-title="",Genghis Khan - La légende d'un conquérant (YT)
+plugin://plugin.video.youtube/play/?video_id=r0OFqCi0hEI
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/643.jpg" group-title="",Get Duked!
 https://nl25.seedr.cc/media/video/lq_hls/2f84467f08465880a0ffa928c261dccf8a0c3222/vid.m3u8
 
@@ -840,8 +843,18 @@ https://fr6.seedr.cc/media/video/hd_hls/d3389f39f098a23dd579d68a7f4422e0bde3f77f
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/742.jpg" group-title="",Loin de moi - près de toi
 https://nl23.seedr.cc/media/video/hd_hls/34900f3a91f6ea1f762b853cb6a6cbc3bb3669f8/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KxVNjH.jpg" group-title="",Lucky Luke - La Ballade des Daltons (YT)
+plugin://plugin.video.youtube/play/?video_id=31Q-qv3KsfU
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/11.jpg" group-title="",Lucky Luke: Les Dalton en cavale
 https://sf1.seedr.cc/media/video/hd_hls/fr8/d1e6fe94b79f6553c4ea74caf825daca5ff99466/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wHcdl7D.jpg" group-title="",Lucky Luck - Daisy Town (YT)
+plugin://plugin.video.youtube/play/?video_id=A8kr6rC34pU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BEAaCb2.jpg" group-title="",LUCKY LUKE - ep01- ep10 (YT)
+plugin://plugin.video.youtube/play/?video_id=VjQlMpbQUo0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BEAaCb2.jpg" group-title="",LUCKY LUKE - ep07- ep17 (YT)
+plugin://plugin.video.youtube/play/?video_id=CktZK9e-kh8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BEAaCb2.jpg" group-title="",LUCKY LUKE - ep18 - ep26 (YT)
+plugin://plugin.video.youtube/play/?video_id=THUK_nKf7Cg
 
 ###M###
 
