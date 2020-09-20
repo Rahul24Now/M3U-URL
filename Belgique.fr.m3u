@@ -206,7 +206,7 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="https://klara.be/s/i/3KP5XWCyqhYS21n-.png" group-title="",klara
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2MalyLh.jpg",RADIO BE | MNM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MalyLh.jpg" group-title="", MNM
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png" group-title="",Q2 TV
