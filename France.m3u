@@ -8,19 +8,8 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrazFow.png" group-title="",Stade Toulousain vs. Cavigal de Nice - demi-finale de la French Summer League (YT)
-plugin://plugin.video.youtube/play/?video_id=NK61RIL6Gg0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37vDjLr.jpg" group-title="",Élection Miss Île de France 2020 pour Miss France (YT)
-plugin://plugin.video.youtube/play/?video_id=crdK3zLiz58
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wcfd4mA.jpg" group-title="",TMB Toulouse (LF2) vs BCTM La Tronche Meylan (LF2) COUPE DE FRANCE BASKET 2020-2021 (YT)
-plugin://plugin.video.youtube/play/?video_id=3At4D4yj5Wk
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3yJCmmp.png" group-title="",DIFFUSION DES 24H DU MANS 2020 FR (YT)
-plugin://plugin.video.youtube/play/?video_id=HxxACMdM3jM
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3yJCmmp.png" group-title="",DIFFUSION DES 24H DU MANS 2020  (YT)
-plugin://plugin.video.youtube/play/?video_id=Qa1k-kdh4Fs
 #######
 
 # update link : https://www.01net.com/mediaplayer/live-video/ https://www.dailymotion.com/video/x7pctg0 #
