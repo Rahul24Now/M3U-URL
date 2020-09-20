@@ -212,10 +212,6 @@ https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png" group-title="",Q2 TV
 http://stream-e30453a4b.nmbs.top/m3u/Belgium/249e6baa5c.m3u8|User-Agent=VLC
 
-# https://qmusic.be/player/qmusic_be/index.html?showVideo=true #
-#EXTINF:-1 tvg-logo="https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="BELGIUM",Qmusic (UPD)
-https://dcs-live.apis.anvato.net/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-4&anvsid=i177603640-nebf65f4f-4d6f-4f27-adad-5858f97774f1&ts=1600571427&anvtrid=c0add5af33fb073f260e8c16289dc118
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9cYVmP.png" group-title="",QMusic 103.3 FM Bruges
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 
@@ -318,6 +314,10 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 
 #EXTINF:-1 tvg-logo="https://mnm.be/favicons/favicon-196x196.png" group-title="BELGIUM",MNM
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/live-audio_track_0_dut=128000-video=3000000.m3u8
+
+# https://qmusic.be/player/qmusic_be/index.html?showVideo=true #
+#EXTINF:-1 tvg-logo="https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="BELGIUM",Qmusic (UPD)
+https://dcs-live.apis.anvato.net/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-4&anvsid=i177603640-nebf65f4f-4d6f-4f27-adad-5858f97774f1&ts=1600571427&anvtrid=c0add5af33fb073f260e8c16289dc118
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sMtwdKk.png" group-title="BELGIUM",WTV
 https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8
