@@ -210,6 +210,9 @@ https://de12.seedr.cc/media/video/lq_hls/00a0e8e3dde391c0102bca1815ba5722a0b1e53
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwKif7v.jpg" group-title="",Bright
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Bright+streaming+sur+Streamay.mp4
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/830.jpg" group-title="",Broken Arrow
+https://nl37.seedr.cc/media/video/hd_hls/55bfa6e170a178042f431084426eb775dd2e9f74/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/76.jpg" group-title="",Bruce Lee - Big Boss
 https://sf1.seedr.cc/media/video/hd_hls/fr7/b49a854c9d40cdd5f100e2f557896c29ddd96cd9/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/463.jpg" group-title="",Bruce Lee - La Fureur de vaincre
@@ -290,6 +293,13 @@ https://lo1.seedr.cc/media/video/hd_hls/nl20/6dce6dde236aec7400d561c807846978123
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/190.jpg" group-title="",Cars 3
 https://lo1.seedr.cc/media/video/hd_hls/nl26/7c21919d5a050c73d7547148c7c9e1b0b4c27a05/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8yfQDPO.jpg" group-title="",Casper - Le nouveau défi (YT)
+plugin://plugin.video.youtube/play/?video_id=zZyPILkuQT8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25EYqyP.jpg" group-title="",Casper et Wendy (YT)
+plugin://plugin.video.youtube/play/?video_id=8lFBG2g8_G4
+
+
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/743.jpg" group-title="",Casting pour un papa
 https://nl30.seedr.cc/media/video/lq_hls/449ce7cd10e3ab40ea6fb77b43ed56199a4a96aa/vid.m3u8
 
@@ -300,6 +310,9 @@ https://fr9.seedr.cc/media/video/hd_hls/805501fb6260235450c97453b53c156bca6bd74c
 https://fr4.seedr.cc/media/video/hd_hls/8c27ed53dcd003436e7b08b6ccfc47e602b3215b/vid.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/062WXI3.jpg" group-title="",Cinquante nuances plus sombres
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Cinquante+Nuances+plus+sombres+streaming+vf+%E2%80%94+Streamay_2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R1NSai9.jpg" group-title="",Chasseurs de Monstres (YT)
+plugin://plugin.video.youtube/play/?video_id=5Sob77aSr-Y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DHnvIMY.jpg" group-title="",Clint Eastwood - ET POUR QUELQUES DOLLARS DE PLUS (YT)
 plugin://plugin.video.youtube/play/?video_id=-y5cR7FqUmw
@@ -384,6 +397,9 @@ https://nl20.seedr.cc/media/video/hd_hls/52b75b572a3c27deec1f0836a9859905a916893
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/764.jpg" group-title="",Drôles de petites bêtes
 https://nl17.seedr.cc/media/video/hd_hls/cb9bff71f8fb54aa213e907944d31dc7700f173e/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/821.jpg" group-title="",Dumbo
+https://fr5.seedr.cc/media/video/hd_hls/dc37227cf3a91102224d36695ac00c93ee4d32e4/vid.m3u8
 
 ###E###
 
@@ -670,6 +686,9 @@ https://nl37.seedr.cc/media/video/lq_hls/73e2287826f1e4ec221d1e9e80df8898b8b4a76
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jMlLqYy.png" group-title="",La Mule (NA)
 https://8x218w7rq8.mstreamcdn.com/v/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTkxNTM0NTEsImRhdGEiOlsiNzAuMjkuMjMwLjExOCIsIndkMmw2bDRkaXc2ciIsIm4iLDJdfQ.M0ROpYsB1yGAgK7yVgK24XYMV-3dPmYZQcYfgApicM8.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KwDKF6c.jpg" group-title="",La neuvième porte (YT)
+plugin://plugin.video.youtube/play/?video_id=CysDLKw7hlk
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/556.jpg" group-title="",La nuit où on a sauvé Maman
 https://nl23.seedr.cc/media/video/hd_hls/c5e5d4e106c6c76a96249df39209c84536261e4d/vid.m3u8
 
@@ -681,6 +700,9 @@ https://fr15.seedr.cc/media/video/hd_hls/2e0befd537f14ef5c80d23386da463b17fc6a8a
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/720.jpg" group-title="",La Sincérité
 https://nl25.seedr.cc/media/video/hd_hls/aa27f273528c8b3b35d7102f3940dbcc88ddc6bd/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQKg0er.jpg" group-title="",le bras de fer (YT)
+plugin://plugin.video.youtube/play/?video_id=m0LUKrjGoHM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qU7WWej.jpg" group-title="",Le Couloir de la mort (1978) (YT)
 plugin://plugin.video.youtube/play/?video_id=em-wKwXB1CU
@@ -702,6 +724,9 @@ plugin://plugin.video.youtube/play/?video_id=9-6fkcrMP4Y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RooMzw4.jpg" group-title="",Le Jour de la haine (YT)
 plugin://plugin.video.youtube/play/?video_id=uf91x0r88y0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VA2lAeS.jpg" group-title="",le jour de la marmotte (YT)
+plugin://plugin.video.youtube/play/?video_id=SWnnEHvY9HQ
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/663.jpg" group-title="",Le jour viendra où...
 https://nl24.seedr.cc/media/video/lq_hls/786985a3b9e56bc1dd9200fea26024985af908fd/vid.m3u8
 
@@ -713,6 +738,9 @@ https://fr4.seedr.cc/media/video/hd_hls/1ba016d01a666cd5d99e029caf0b19ea7e6f8876
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MO9OZvz.jpg" group-title="",Le Mans 66
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Ford_v_Ferrari_2019_FRENCH_HDRip_x264-Wawacity_top+Online+%E2%80%94+Mystream.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgUrFdt.jpg" group-title="",Le miracle de Noël (YT)
+plugin://plugin.video.youtube/play/?video_id=RmlwZfbUvkc
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/771.jpg" group-title="",Le Monde de Dory
 https://de9.seedr.cc/media/video/lq_hls/638feff168dc51332a20e962c1c6278b4fe84e2b/vid.m3u8
@@ -795,6 +823,8 @@ https://fr4.seedr.cc/media/video/hd_hls/237c83c764dd91e3088fdaefb83e3ee355f9c3b0
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/350.jpg" group-title="",LEGO DC - Shazam! - Magie et Monstres
 https://nl23.seedr.cc/media/video/hd_hls/e887128aa3407a408adbc0b9f9e25fa97967b366/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcN3CU7.jpg" group-title="",Lego Marvel's Avengers (YT)
+plugin://plugin.video.youtube/play/?video_id=I_ZX25Oq1Tg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ppfl9j4.jpg" group-title="",Lego Ninjago - le film
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/LEGO+Ninjago+-+Le+Film+streaming+vf+%E2%80%94+Streamay.mp4
 
@@ -941,6 +971,9 @@ https://fr9.seedr.cc/media/video/hd_hls/b1297b54af9662975359f5f9ec8c62e94f114e83
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AawGh3.jpg" group-title="",Operation 118 318 sévices clients
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Film+Operation+118+318+s%C3%A9vices+clients+en+streaming+gratuit+%E2%80%94+AlloStreaming.mp4
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/817.jpg" group-title="",Operation Red Sea
+https://fr1.seedr.cc/media/video/lq_hls/1704ef7442a80483b8984a752cf079a4326a4a6b/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/750.jpg" group-title="",Ozzy, la Grande Évasion
 https://fr6.seedr.cc/media/video/hd_hls/59226a8d1b142f0d4e91cb804117fad31ceca9c5/vid.m3u8
 
@@ -1061,6 +1094,9 @@ https://nl22.seedr.cc/media/video/hd_hls/3cb3e9ba9b2cd028116b501876b913de3db93eb
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/772.jpg" group-title="",Sausage Party
 https://nl24.seedr.cc/media/video/lq_hls/ed93a9e776450252616f250cf3a8ecc24085041e/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/829.jpg" group-title="",San Andreas Mega Quake
+https://nl28.seedr.cc/media/video/hd_hls/f4797cb7dbd0baae561342042281004d6d257a8f/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/79.jpg" group-title="",Scarface
 https://sf1.seedr.cc/media/video/hd_hls/fr11/f7cc3b38656a6a877196cea4fe38371d734df830/vid.m3u8
