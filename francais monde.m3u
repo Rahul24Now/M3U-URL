@@ -450,6 +450,9 @@ https://play.acwstream.com:2002/live/acw_01/index.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="",Radio TeleBoston (USA)
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltObNGk.png" group-title="",ratelki
+http://edge3.vedge.infomaniak.com/livecast/ratelkitv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2020/05/realblack1-300x140.png" group-title="",REAL BLACK Music
 http://connectiktv.ddns.me:8080/realblack/tracks-v1a1/mono.m3u8
 
