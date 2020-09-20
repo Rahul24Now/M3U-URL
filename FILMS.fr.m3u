@@ -470,6 +470,9 @@ https://nl32.seedr.cc/media/video/lq_hls/f75acf0125bf94dceda4f6ed17ab206abd5a38b
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/774.jpg" group-title="",Happy Family
 https://nl30.seedr.cc/media/video/hd_hls/9b9494a7623e6a77edd88b17678595763d8248c4/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1IlE18.jpg" group-title="",HARDRUSH (YT)
+plugin://plugin.video.youtube/play/?video_id=VgI9paoAi18
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/104.jpg" group-title="",Harry Potter à l'école des sorciers
 https://de13.seedr.cc/media/video/lq_hls/a4f3990ee365448926d61ca2bf49166fc0cbe461/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/102.jpg" group-title="",Harry Potter et la Chambre des secrets
@@ -787,6 +790,9 @@ https://nl17.seedr.cc/media/video/hd_hls/9e3d07a11ab67ad2cb08493046fa39113e3d9b9
 https://nl25.seedr.cc/media/video/lq_hls/22bc88c41c82adf512bb87c40842b3eae6fc2423/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9Vi2Lk.jpg" group-title="",Les aventures de Tintin - le Mystère de la Toison d'or
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Tintin_Et_Le_Mystere_De_La_Toison_D_Or_1961_TRUEFRENCH_DVDRIP_Wawacity_vip+Online+%E2%80%94+Mystream.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9e3AMR.jpg" group-title="",les daltons (YT)
+plugin://plugin.video.youtube/play/?video_id=e1ow7xszcIY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O3dMoRQ.jpg" group-title="",Les Défenseurs de l'espace (1987)
 https://ia801009.us.archive.org/3/items/lesdnfenseursdelespacernalisateursidneycharleston/Les_Dn_fenseurs_De_L_Espace__Rn_alisateur___Sidney_Charleston_.mp4
