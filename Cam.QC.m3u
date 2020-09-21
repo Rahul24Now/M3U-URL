@@ -92,7 +92,7 @@ http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="",Cap-Colombier,Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=0u8WhKS1Nk4
+plugin://plugin.video.youtube/play/?video_id=w9mNfCERyOE
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile Drummondville
