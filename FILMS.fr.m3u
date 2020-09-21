@@ -24,6 +24,9 @@ plugin://plugin.video.youtube/play/?video_id=BQhIwCuMvzs
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/34.jpg" group-title="",42
 https://sf1.seedr.cc/media/video/hd_hls/fr8/b7e6841dac5f0bdf2794cc30e4fd3a9b39274faa/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/851.jpg" group-title="",3 from Hell
+https://nl21.seedr.cc/media/video/hd_hls/946261a9f1f562e98150201f64dfce961ac8e3ce/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/36.jpg" group-title="",6 Underground
 https://sf1.seedr.cc/media/video/hd_hls/nl24/eacefc8510bb505e9339023980ec1993c4ddb444/vid.m3u8
 
@@ -377,6 +380,9 @@ https://fr1.seedr.cc/media/video/hd_hls/2ec9ca47f2fe5c05b99fa5bf729e7d8f7e319282
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/609.jpg" group-title="",Django Unchained
 https://nl34.seedr.cc/media/video/hd_hls/ba10517a91bc6b3db734495f6fdf10632882cdd5/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/852.jpg" group-title="",Dolomites 1915
+https://nl22.seedr.cc/media/video/lq_hls/91d20200058be48d87e220b776c0c7d4aa638497/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/733.jpg" group-title="",Double Mortel
 https://fr10.seedr.cc/media/video/hd_hls/5ab2da1ce633c79ed7ac9a6a4713266d2dc7a2ff/vid.m3u8
@@ -771,6 +777,9 @@ https://nl24.seedr.cc/media/video/lq_hls/37c308162f1ae9badc5cf56132d89a707510915
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEULVFh.jpg" group-title="",Le Seul et unique Ivan
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+The_One_and_Only_Ivan_2020_FRENCH_720p_WEB_x264-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/839.jpg" group-title="",Le Silence de la ville blanche
+https://nl23.seedr.cc/media/video/hd_hls/3b2f3026bc6a8f43bb058b74f7d35088ff7e9e96/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/557.jpg" group-title="",Le trésor des Walton
 https://fr2.seedr.cc/media/video/lq_hls/acebdc53246d0f71cd0d7ffb3d31fe5371126905/vid.m3u8
 
@@ -863,6 +872,9 @@ plugin://plugin.video.youtube/play/?video_id=CktZK9e-kh8
 plugin://plugin.video.youtube/play/?video_id=THUK_nKf7Cg
 
 ###M###
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/826.jpg" group-title="",Mad Max
+https://nl28.seedr.cc/media/video/lq_hls/bc82fdcfdc533aeb9c822ea44456dc84fc1229bd/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/408.jpg" group-title="",Magic Kids
 https://nl20.seedr.cc/media/video/hd_hls/5feb9aab970042dd4ace5bb0b9cac9af16e05793/vid.m3u8
@@ -1110,6 +1122,9 @@ https://nl35.seedr.cc/media/video/hd_hls/2722ddc31f7419b069cc34eec6c44fac3216903
 https://nl22.seedr.cc/media/video/hd_hls/3cb3e9ba9b2cd028116b501876b913de3db93eb0/vid.m3u8
 
 ###S###
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/818.jpg" group-title="",Sang froid
+https://de14.seedr.cc/media/video/hd_hls/812a962dc50fc496047b74cbf38be667ea8d48bb/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/772.jpg" group-title="",Sausage Party
 https://nl24.seedr.cc/media/video/lq_hls/ed93a9e776450252616f250cf3a8ecc24085041e/vid.m3u8
