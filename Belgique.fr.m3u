@@ -75,6 +75,9 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.ramdammusique.be/wp-content/uploads/2019/07/Logo_-long_400_web.png" group-title="",RamdamMusique (TWITCH)
 plugin://plugin.video.twitch/?channel_id=470473334&amp;mode=play
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wFKoZCw.jpg" group-title="",RFM Charleroi (TWITCH)
+plugin://plugin.video.twitch/?channel_id=506204176&amp;mode=play
+
 # update link : https://www.rtc.be/live #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTC Liege" tvg-logo="https://i.ibb.co/p3zw6tG/RTC-Liege.png" group-title="Belgique",RTC Liege
 https://tvl-live-prp.fl.freecaster.net/live/rtc/rtc-audio_fre=128000-video=5200000.m3u8
