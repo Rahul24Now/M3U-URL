@@ -6,11 +6,15 @@ plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true"  group-title="Quebec TV",TVA 720
 https://tvalive.akamaized.net/hls/live/2012413-b/tva01/med_720p/med_720p.m3u8
-#https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true"  group-title="Quebec TV",TVA 720 (OPT-2)
+https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true" group-title="Quebec TV",TVA 1080
 https://tvalive.akamaized.net/hls/live/2012413-b/tva01/high_1080p/high_1080p.m3u8
-#https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true" group-title="Quebec TV",TVA 1080 (OTP-2)
+https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Quebec TV",Tele-Quebec
