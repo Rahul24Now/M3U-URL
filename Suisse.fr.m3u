@@ -107,6 +107,12 @@ https://tvoosa-pez0308.sctv.ch/http_adaptive_streaming/OLCPJFBAEIMPAGPF.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1OWDojV.jpg" group-title="",Auftanken.TV (OPT-2)
 http://176.10.117.3:5000/play/a030
 
+# https://www.channel55.tv/ # 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaAb6Lz.png" group-title="",Channel 55
+https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaAb6Lz.png" group-title="",Channel 55 (OPT-2)
+https://sdn-global-live-http-cache.3qsdn.com/3186/amlst:6023-sbr/3186/6023_8FXKkRJb6NMmLzW/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 
