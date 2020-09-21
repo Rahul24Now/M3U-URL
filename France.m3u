@@ -789,6 +789,10 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x797sy0
 #EXTINF:-1 tvg-id="France" tvg-name="StudioQualita" tvg-logo="https://i1.sndcdn.com/avatars-000312584857-l11mj7-t500x500.jpg" group-title="France",StudioQualita (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=Br93uUT3plQ
 
+# https://stylfm.fr/reagir-en-direct/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SG0sPGE.png" group-title="",Stylfm (TWITCH)
+plugin://plugin.video.twitch/?channel_id=190883654&amp;mode=play
+
 # update link : https://www.youtube.com/channel/UCESTwDXpoMgiYBHipMdKTkQ #
 #EXTINF:-1 tvg-id="France" tvg-name="Sud Radio" tvg-logo="https://i.imgur.com/C6ckk6V.png" group-title="France",Sud Radio (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x75yzts
