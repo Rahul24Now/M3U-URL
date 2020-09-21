@@ -76,7 +76,7 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ICI Tele Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 
-# update link: #
+# update link: https://icitelevision.ca/ #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ici-television.png?raw=true" group-title="Quebec TV",ICI TV
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
@@ -95,10 +95,14 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3
 # update link: https://ctbtv.ca/ #
 #EXTINF:-1 tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Quebec TV",CTB-TV
 https://fl001.elpcinc.com/CTB-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Quebec TV",CTB-TV (OPT-2)
+https://fl001.elpcinc.com/CTB-TV/tracks-v1a1/mono.m3u8
 
-# update link: #
+# update link: https://emcitv.com/direct/  #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/emcitv.png?raw=true" group-title="Canadian TV",EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/emcitv.png?raw=true" group-title="Canadian TV",EMCI TV 2 
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
 
 # update link: https://seletlumieretv.org/endirect/?muid=1 #
 #EXTINF:-1 tvg-logo="https://seletlumieretv.org/images/logo/sl-french-logo.png" group-title="",SLMedia
