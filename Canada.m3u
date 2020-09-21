@@ -408,6 +408,10 @@ https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
 http://stream-e30453a4b.nmbs.top/m3u/Canada/01358b9fcb.m3u8|User-Agent=VLC
 
+# https://www.zoomerradio.ca/ #
+#EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (YT)
+plugin://plugin.video.youtube/play/?video_id=azl07uA79pA
+
 ##########
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada Other Language[/COLOR]★★★★★★★★★★
