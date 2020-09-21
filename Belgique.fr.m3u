@@ -66,6 +66,10 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NjxtF5D.png" group-title="",PLUG RTL
 http://stream-e30453a4b.nmbs.top/m3u/Belgium/52b150f9c3.m3u8|User-Agent=VLC
 
+# https://www.radiobonheur.be/bonheurtv-test/  #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Na6uTsW.png" group-title="",Radio BonheurTV (TWITCH)
+plugin://plugin.video.twitch/?channel_id=471368155&amp;mode=play
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="",Radio Contact 102.2 FM Brussels
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 
