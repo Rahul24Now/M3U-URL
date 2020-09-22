@@ -987,6 +987,9 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LqiNFL.jpg" group-title="France",tzik
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w100208697.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mN5XrhH.png" group-title="",Vetzen (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7vy2d5
+
 # update link : https://viaatv.tv/direct-tv/ #
 #EXTINF:-1 tvg-id="France" tvg-name="viaatv" tvg-logo="https://viaatv.tv/fileadmin/via_main/img/logos/LOGO_ATV_Web.png" group-title="France",viaatv
 https://streamer03.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
