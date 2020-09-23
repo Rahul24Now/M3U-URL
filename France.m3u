@@ -1086,6 +1086,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7mxymy
 #EXTINF:-1 tvg-id="France" tvg-name="Ushuaia tv FR"  tvg-logo="https://i.imgur.com/nOzZS8a.png" group-title="France",Ushuaia tv FR (TT)
 plugin://script.module.tt/play/766/play.pvr
 
+#EXTINF:-1 tvg-id="France" tvg-name="Ushuaia tv FR"  tvg-logo="https://i.imgur.com/nOzZS8a.png" group-title="France",Ushuaia tv
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Ushuaia_live/01.m3u8
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="France",W9
 http://51.15.3.161:8080/W9/index.m3u8?token=test
