@@ -19,6 +19,10 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7pctg0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uLDtTz4.jpg" group-title="",7 ENTERTAINMENT TELEVISION (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x71xyvd
 
+# https://7television.fr/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uLDtTz4.jpg" group-title="",7 ENTERTAINMENT TELEVISION 
+https://edge1.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQyNDg3JmNOYW1lPTdUVkUmb0lEPTEzNjI3MSZvTmFtZT1FTUFKVUxZJnNJZD1oMTlkamt0MGU2OXF2Z3BwaGcwdDcxN2tlMCZ1SUQ9MCZ1TmFtZT1HdWVzdDNiZTNm&id=8-RXRNQAZ_iUnbK5A8J8
+
 # https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="",7ALimoges (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=JUWqf6qjqD4
