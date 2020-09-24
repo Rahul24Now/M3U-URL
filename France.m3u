@@ -674,6 +674,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5ddv09
 #EXTINF:-1 tvg-id="France" tvg-name="MYComedy" tvg-logo="https://i.ibb.co/8PV3vp3/MYComedy.png" group-title="France",MYComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6q3QKpO.jpg" group-title="",N31 - La chaine des gamers (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6nkjg1
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ HITS
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w582372968_b981072.m3u8
