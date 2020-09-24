@@ -884,11 +884,6 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5ct4nu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30tUMWq.png" group-title="",Toute l'Histoire
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Toute_l_Histoire_live/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jZjmZyk.png" group-title="",TV3v
-https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jZjmZyk.png" group-title="",TV3v (OPT-2)
-https://tv3v.live-kd.com/live/tv3v/livestream/chunklist_w1537066310.m3u8
-
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TV7 Colmar" tvg-logo="https://i.ibb.co/Rjj84xV/TV7.png" group-title="France",TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/ngrp:tv7_Wifi/chunklist_w440095073_b3035136.m3u8
@@ -965,6 +960,11 @@ plugin://plugin.video.youtube/play/?video_id=j3fruDO5WYA
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TV3V" tvg-logo="https://i.ibb.co/ZY9Q2Qf/logo-tv3v.png" group-title="France",TV3V
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jZjmZyk.png" group-title="",TV3v
+https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jZjmZyk.png" group-title="",TV3v (OPT-2)
+https://tv3v.live-kd.com/live/tv3v/livestream/chunklist_w1537066310.m3u8
+
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TV5" tvg-logo="https://i.ibb.co/DpyP5jm/TV5Style.png" group-title="France",TV5 Style
