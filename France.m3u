@@ -571,7 +571,7 @@ http://str81.creacast.com:80/iltv/high/playlist.m3u8
 
 # https://www.youtube.com/channel/UC_CE5uL8tsIPsWCt4D8wc8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXvZsuW.jpg" group-title="",Kids Tv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=CCKK9nhPem8
+plugin://plugin.video.youtube/play/?video_id=l6CdjNmb7fo
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="KTO FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/db/KTO_logo_2008.png" group-title="France",KTO
