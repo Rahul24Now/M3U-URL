@@ -512,7 +512,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6nlc5t
 plugin://plugin.video.twitch/?channel_id=10072972&amp;mode=play
 
 # update link : #
-EXTINF:-1 tvg-id="France" tvg-name="GAME ONE" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/GameOne2006-800x450-c-default.png" group-title="France",GAME ONE
+#EXTINF:-1 tvg-id="France" tvg-name="GAME ONE" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/GameOne2006-800x450-c-default.png" group-title="France",GAME ONE
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/GameOne_live/01.m3u8
 #http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1816
 
