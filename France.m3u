@@ -16,9 +16,6 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 #EXTINF:-1 tvg-id="France" tvg-name="1net" tvg-logo="https://img.bfmtv.com/c/709/360/c1d/6563bed295ce02d829725b9899b31.png" group-title="France",1net (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7pctg0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uLDtTz4.jpg" group-title="",7 ENTERTAINMENT TELEVISION (DM)
-plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x71xyvd
-
 # https://7television.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uLDtTz4.jpg" group-title="",7 ENTERTAINMENT TELEVISION 
 https://edge1.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQyNDg3JmNOYW1lPTdUVkUmb0lEPTEzNjI3MSZvTmFtZT1FTUFKVUxZJnNJZD1oMTlkamt0MGU2OXF2Z3BwaGcwdDcxN2tlMCZ1SUQ9MCZ1TmFtZT1HdWVzdDNiZTNm&id=8-RXRNQAZ_iUnbK5A8J8
@@ -175,7 +172,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Kids/05bcd8c334.m3u8|User-Agent=VLC
 
 # Update Link : https://www.youtube.com/channel/UCjbvuMcOCvyYFZKKPvU6QHw #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Loc" tvg-logo="https://i.imgur.com/4KD7F69.png" group-title="France",Canal Local Grosbliederstroff (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=CAMYkCLb5yQ
+plugin://plugin.video.youtube/play/?video_id=uPd77_dVu0A
 
 # update link : # https://www.dailymotion.com/video/x5gv6be #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal+ (DM)
@@ -216,10 +213,11 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THErPIU.jpg" group-title="",Chasse & Peche 
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Chasseetpeche_live/04.m3u8
 
+# https://www.youtube.com/channel/UCcfLuU0NFT0ZRoQy4jk6GdA #
 #EXTINF:-1 tvg-id="France" tvg-name="CGTN" tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="China",CGTN (YT)
 plugin://plugin.video.youtube/play/?video_id=c7QHJNd1TkM
 
-#EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25 (UPD)
+#EXTINF:-1 tvg-id="France" tvg-name="Cherie 25" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="France",Cherie 25 (UPD) (OFF Line)
 http://51.210.182.17:25461/live/tdn/42175432139/51431.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="CINE CLASSIC" tvg-logo="https://i.imgur.com/iApEA5B.png" group-title="France",CINE+ CLASSIC
@@ -347,10 +345,10 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Euronews_live/04.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="europe1" tvg-logo="https://cdn-europe1.lanmedia.fr/europe1/apple-touch-icon.png" group-title="France",europe1 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xqjkfz
 
-#EXTINF:-1 tvg-id="France" tvg-name="EuroSport 1" tvg-logo="https://i.imgur.com/vNuqdwU.png" group-title="France",EuroSport 1 (UPD)
+#EXTINF:-1 tvg-id="France" tvg-name="EuroSport 1" tvg-logo="https://i.imgur.com/vNuqdwU.png" group-title="France",EuroSport 1 (UPD) (Off LIne)
 http://51.210.182.17:25461/live/tdn/42175391072/10364.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="EuroSport 2" tvg-logo="https://i.imgur.com/3xQRIoq.png" group-title="France",EuroSport 2 (UPD)
+#EXTINF:-1 tvg-id="France" tvg-name="EuroSport 2" tvg-logo="https://i.imgur.com/3xQRIoq.png" group-title="France",EuroSport 2 (UPD) (Off LIne)
 http://51.210.182.17:25461/live/tdn/42175391073/10365.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVOFZs.png" group-title="",evandis
