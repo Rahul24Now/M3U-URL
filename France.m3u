@@ -708,7 +708,7 @@ http://51.15.4.237:1935/PancraceTV/smil:PancraceTV.smil/playlist.m3u8
 
 # update link : https://www.youtube.com/user/PearlDiffusion #
 #EXTINF:-1 tvg-id="France" tvg-name="PearlTV" tvg-logo="https://content.pearl.fr/bundles/pearlfront/images/general/logo_pearl_bleu.png"group-title="France",PearlTV (YT)
-plugin://plugin.video.youtube/play/?video_id=nXriyspJBRY
+plugin://plugin.video.youtube/play/?video_id=sEx_exhUBcg
 
 #EXTINF:-1 tvg-logo="http://www.boulistenaute.com/logo.png" group-title="",Pétanque avec Boulistenaute (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7n019d
@@ -725,17 +725,13 @@ plugin://script.module.tt/play/322/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JX04RpS.png" group-title="",Playloud Live radio DAB+ Lille, France.(TWITCH)
 plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
 
-# update link : https://www.dailymotion.com/video/xkxbzc #
-#EXTINF:-1 tvg-id="France" tvg-name="PUBLIC SENAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/1200px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="France",PUBLIC SENAT (DM)
-plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xkxbzc
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV Arabia
 http://51.15.193.127/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV France
 http://51.15.254.60/hls/stream.m3u8
 
-# https://www.publicsenat.fr/direct #
+# https://www.publicsenat.fr/direct https://www.dailymotion.com/video/xkxbzc #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SD53Zl7.jpg" group-title="",Public Senat (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xkxbzc
 
