@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
+
+# https://www.youtube.com/channel/UCRCZCSgW4MEEO2I_8OtMaTw #
 #EXTINF:-1 tvg-logo="https://francosmontreal.com/apple-touch-icon.png" group-title="",Francos de Montréal (YT)
 plugin://plugin.video.youtube/play/?video_id=1gS9rS3uo6w
 
