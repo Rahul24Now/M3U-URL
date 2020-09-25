@@ -658,6 +658,9 @@ https://fr7.seedr.cc/media/video/lq_hls/56c3ca5ae26086e8eedb7899de9ff40d32c97d9e
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/175.jpg" group-title="",Kick-Ass 2
 https://fr7.seedr.cc/media/video/lq_hls/671f3f15eefab5284a8bb18e07860c44f5d9985b/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRk9ls3.jpg" group-title="",KILL ZONE (YT)
+plugin://plugin.video.youtube/play/?video_id=w-Cu6zR22H0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEqidwl.jpg" group-title="",Killing Gunther
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Killing+Gunther+streaming+vf+%E2%80%94+Streamay.mp4
 
