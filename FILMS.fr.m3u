@@ -228,6 +228,9 @@ plugin://plugin.video.youtube/play/?video_id=J00a4yMu8Cw
 plugin://plugin.video.youtube/play/?video_id=qhpksk58OtQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/059b8vJ.jpg" group-title="",Bruce Lee - IN NEW GUINEA (YT)
 plugin://plugin.video.youtube/play/?video_id=F6aWnPl5Da4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MPAnwou.jpg" group-title="",Bruce Lee, naissance d'une légende (YT)
+plugin://plugin.video.youtube/play/?video_id=IVJIkv9Lt5A
+
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/889.jpg" group-title="",Brutus Vs César
 https://nl31.seedr.cc/media/video/hd_hls/4250aca1b7fd6f86b1f4623c6338c66246d5ad25/vid.m3u8
