@@ -1,0 +1,362 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="", A venir https://www.cheriefm.fr/webradios https://www.nostalgie.fr/webradios https://www.rireetchansons.fr/webradios http://player.ouifm.fr/rock/ https://www.nrj.fr/webradios bfm RMC Radio
+0.0.0.0
+
+
+
+#https://www.francebleu.fr/stations  https://www.francebleu.fr/favicons/android-chrome-192x192.png #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlBnGBI.png" group-title="",♫♪FranceBleu♪♫
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_alsace.jpg" group-title="",Alsace 101.4 FM	
+https://stream.radiofrance.fr/fbalsace/fbalsace.m3u8?quality=midfi&id=radiofrance
+https://stream.radiofrance.fr/fbarmorique/fbalsace_midfi.m3u8?id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_armorique.jpg" group-title="",Armorique 103.1 FM
+https://stream.radiofrance.fr/fbarmorique/fbarmorique.m3u8?quality=midfi&id=radiofrance
+https://stream.radiofrance.fr/fbarmorique/fbarmorique_midfi.m3u8?id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_auxerre.jpg" group-title="",Auxerre 103.5 FM
+https://stream.radiofrance.fr/fbauxerre/fbauxerre.m3u8?quality=midfi&id=radiofrance
+https://stream.radiofrance.fr/fbauxerre/fbauxerre_midfi.m3u8?id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_azur.jpg" group-title="",Azur 103.8 FM
+https://stream.radiofrance.fr/fbazur/fbazur.m3u8?quality=midfi&id=radiofrance
+https://stream.radiofrance.fr/fbazur/fbazur_midfi.m3u8?id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_bearn.jpg" group-title="",Béarn 102.5 FM
+https://stream.radiofrance.fr/fbbearn/fbbearn_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbbearn/fbbearn.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_belfort-montbeliard.jpg" group-title="",Belfort-Montbéliard 106.8 FM
+https://stream.radiofrance.fr/fbbelfort/fbbelfort_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbbelfort/fbbelfort.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_berry.jpg" group-title="",Berry 95.2 FM
+https://stream.radiofrance.fr/fbberry/fbberry_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbberry/fbberry.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_besancon.jpg" group-title="",Besançon 102.8 FM
+https://stream.radiofrance.fr/fbbesancon/fbbesancon_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbbesancon/fbbesancon.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_bourgogne.jpg" group-title="",Bourgogne 98.3 FM
+https://stream.radiofrance.fr/fbbourgogne/fbbourgogne_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbbourgogne/fbbourgogne.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_breizh-izel.jpg" group-title="",Breizh Izel 93.0 FM
+https://stream.radiofrance.fr/fbbreizizel/fbbreizizel_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbbreizizel/fbbreizizel.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_champagne-ardenne.jpg" group-title="",Champagne-Ardenne 95.1 FM
+https://stream.radiofrance.fr/fbchampagne/fbchampagne_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbchampagne/fbchampagne.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_cotentin.jpg" group-title="",Cotentin 100.7 FM
+https://stream.radiofrance.fr/fbcotentin/fbcotentin_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbcotentin/fbcotentin.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_creuse.jpg" group-title="",Creuse 94.3 FM
+https://stream.radiofrance.fr/fbcreuse/fbcreuse_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbcreuse/fbcreuse.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_drome-ardeche.jpg" group-title="",Drôme Ardèche 87.9 FM
+https://stream.radiofrance.fr/fbdromeardeche/fbdromeardeche_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbdromeardeche/fbdromeardeche.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6btfgrj.jpg" group-title="",Elsass WebRadio
+https://stream.radiofrance.fr/fbelsass/fbelsass_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbelsass/fbelsass.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_gard-lozere.jpg" group-title="",Gard Lozère 90.2 FM
+https://stream.radiofrance.fr/fbgardlozere/fbgardlozere_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbgardlozere/fbgardlozere.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_gascogne.jpg" group-title="",Gascogne 98.8 FM
+https://stream.radiofrance.fr/fbgascogne/fbgascogne_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbgascogne/fbgascogne.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_gironde.jpg" group-title="",Gironde 100.1 FM
+https://stream.radiofrance.fr/fbgironde/fbgironde_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbgironde/fbgironde.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_herault.jpg" group-title="",Hérault 100.6 FM
+https://stream.radiofrance.fr/fbherault/fbherault_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbherault/fbherault.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_isere.jpg" group-title="",Isère 98.2 FM
+https://stream.radiofrance.fr/fbisere/fbisere_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbisere/fbisere.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_la-rochelle.jpg" group-title="",La Rochelle 98.2 FM
+https://stream.radiofrance.fr/fblarochelle/fblarochelle_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fblarochelle/fblarochelle.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_limousin.jpg" group-title="",Limousin 103.5 FM
+https://stream.radiofrance.fr/fblimousin/fblimousin_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fblimousin/fblimousin.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_loire-ocean.jpg" group-title="",Loire Océan 101.8 FM
+https://stream.radiofrance.fr/fbloireocean/fbloireocean_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbloireocean/fbloireocean.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_lorraine-nord.jpg" group-title="",Lorraine Nord 98.5 FM
+https://stream.radiofrance.fr/fblorrainenord/fblorrainenord_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fblorrainenord/fblorrainenord.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_maine.jpg" group-title="",Maine 96.0 FM
+https://stream.radiofrance.fr/fbmaine/fbmaine_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbmaine/fbmaine.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_mayenne.jpg" group-title="",Mayenne 96.6 FM
+https://stream.radiofrance.fr/fbmayenne/fbmayenne_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbmayenne/fbmayenne.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_nord.jpg" group-title="",Nord 94.7 FM
+https://stream.radiofrance.fr/fbnord/fbnord_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbnord/fbnord.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_normandie.jpg" group-title="",Normandie b (Calvados - Orne) 102.6 FM
+https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_normandie.jpg" group-title="",Normandie h (Seine-Maritime - Eure) 100.1 FM
+https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_occitanie.png" group-title="",Occitanie 91.8 FM
+https://stream.radiofrance.fr/fbtoulouse/fbtoulouse_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbtoulouse/fbtoulouse.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_orleans.jpg" group-title="",Orléans 100.9 FM
+https://stream.radiofrance.fr/fborleans/fborleans_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fborleans/fborleans.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_paris.png" group-title="",Paris 107.1 FM
+https://icecast.radiofrance.fr/fb1071-hifi.aac?id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_pays-basque.jpg" group-title="",Pays Basque 101.3 FM
+https://stream.radiofrance.fr/fbpaysbasque/fbpaysbasque_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbpaysbasque/fbpaysbasque.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_auvergne.jpg" group-title="",Pays d'Auvergne 102.5 FM
+https://stream.radiofrance.fr/fbpaysdauvergne/fbpaysdauvergne_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbpaysdauvergne/fbpaysdauvergne.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_savoie.jpg" group-title="",Pays de Savoie 95.2 FM
+https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_perigord.jpg" group-title="",Périgord 99.3 FM
+https://stream.radiofrance.fr/fbperigord/fbperigord_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbperigord/fbperigord.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_picardie.jpg" group-title="",Picardie 100.2 FM
+https://stream.radiofrance.fr/fbpicardie/fbpicardie_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbpicardie/fbpicardie.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_poitou.jpg" group-title="",Poitou 87.6 FM
+https://stream.radiofrance.fr/fbpoitou/fbpoitou_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbpoitou/fbpoitou.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_provence.jpg" group-title="",Provence 103.6 FM
+https://stream.radiofrance.fr/fbprovence/fbprovence_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbprovence/fbprovence.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_rcfm.jpg" group-title="",RCFM 101.7 FM
+https://stream.radiofrance.fr/fbfrequenzamora/fbfrequenzamora_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbfrequenzamora/fbfrequenzamora.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_roussillon.jpg" group-title="",Roussillon 101.6 FM
+https://stream.radiofrance.fr/fbroussillon/fbroussillon_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbroussillon/fbroussillon.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_saint-etienne-loire.jpg" group-title="",Saint-Étienne Loire 97.1 FM
+https://stream.radiofrance.fr/fbstetienne/fbstetienne_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbstetienne/fbstetienne.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_sud-lorraine.jpg" group-title="",Sud Lorraine 100.5 FM
+https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_touraine.jpg" group-title="",Touraine 98.7 FM
+https://stream.radiofrance.fr/fbtouraine/fbtouraine_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbtouraine/fbtouraine.m3u8?quality=midfi&id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_vaucluse.jpg" group-title="",Vaucluse 98.8 FM
+https://stream.radiofrance.fr/fbvaucluse/fbvaucluse_midfi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fbvaucluse/fbvaucluse.m3u8?quality=midfi&id=radiofrance
+
+#############
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP
+https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IFi5Zq.png" group-title="",France Culture
+https://icecast.radiofrance.fr/franceculture-midfi.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRawx6k.png" group-title="",France Info
+https://icecast.radiofrance.fr/franceinfo-midfi.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E5vVW3c.png" group-title="",France Inter
+https://icecast.radiofrance.fr/franceinter-midfi.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5w0mZEg.png" group-title="",France Musique
+https://icecast.radiofrance.fr/francemusique-midfi.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AzX3bqI.jpg" group-title="",France Musique - Classique Easy
+https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/mbzgmsp.jpg",France Musique - La Baroque
+https://stream.radiofrance.fr/francemusiquebaroque/francemusiquebaroque_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kwxqBus.jpg" group-title="",France Musique - Classique Plus
+https://stream.radiofrance.fr/francemusiqueclassiqueplus/francemusiqueclassiqueplus_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpJYSik.jpg" group-title="",France Musique - Concerts Radio France
+https://stream.radiofrance.fr/francemusiqueconcertsradiofrance/francemusiqueconcertsradiofrance_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8viyslG.jpg" group-title="",France Musique - La Jazz
+https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ygrAIYk.jpg" group-title="",France Musique - La Contemporaine
+https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontemporaine_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H6ZUK6K.jpg" group-title="",France Musique - Ocora Musiques du Monde
+https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hifi.m3u8?id=radiofrance 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WUW4HIO.jpg" group-title="",France Musique - La B.O. Musiques de Films
+https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8?id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmzEXHi.jpg" group-title="",Le Mouv'
+https://icecast.radiofrance.fr/mouv-midfi.mp3
+
+#############
+
+# http://www.rfm.fr/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gh7T6DT.png" group-title="",RFM
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPUeo3j.png" group-title="",RFM Live
+https://stream.rfm.fr/rfm.128.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDfdktF.png" group-title="",RFM Hit Party
+https://stream.rfm.fr/rfm-wr8.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sRZOnmx.png" group-title="",RFM Musique Fraîche 
+https://stream.rfm.fr/rfm-wr14.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9Xmpin.png" group-title="",Le HIT RFM
+https://stream.rfm.fr/rfm-wr7.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yijuWr9.png" group-title="",100 % Français
+https://stream.rfm.fr/rfm-wr11.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kd1ED6Z.png" group-title="",RFM Night Fever
+https://stream.rfm.fr/rfm-wr2.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vNQvA7r.png" group-title="",100% Femmes
+https://stream.rfm.fr/rfm-wr3.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s39QDbf.png" group-title="",Cinéma
+https://stream.rfm.fr/rfm-wr15.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RU1tAJx.png" group-title="",RFM Collector
+https://stream.rfm.fr/rfm-wr1.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ix573LN.png" group-title="",RFM Lounge
+https://stream.rfm.fr/rfm-wr6.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Unfy2Nt.png" group-title="",RFM Party 90
+https://stream.rfm.fr/rfm-wr5.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOY908C.png" group-title="",RFM Slow
+https://stream.rfm.fr/rfm-wr13.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GDz0XET.png" group-title="",100 % New Wave
+https://stream.rfm.fr/rfm-wr12.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wHdngqN.png" group-title="",RFM 80's
+https://stream.rfm.fr/rfm-wr4.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IWlrmks.png" group-title="",RFM Pop Rock
+https://stream.rfm.fr/rfm-wr10.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ic9tMg9.png" group-title="",Run & Fit
+https://stream.rfm.fr/rfm-wr9.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mrZ144.png" group-title="",RFM 70's
+https://stream.rfm.fr/rfm-wr16.aac
+
+#############
+
+# https://www.rjm-radio.fr/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lStKptc.png" group-title="",RJM Radio 
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xNiRJ31.png" group-title="",RJM - Live
+http://streamingv2.shoutcast.com/RJM-radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C28aHk4.jpg" group-title="",RJM - Groove
+https://listen.radioking.com/radio/181675/stream/223462
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MGsaJZu.jpg" group-title="",RJM - Love
+https://streamingv2.shoutcast.com/RJM-Love
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P4iVz98.jpg" group-title="",RJM - Lounge
+https://streamingv2.shoutcast.com/RJM-Lounge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGuPKYz.jpg" group-title="",RJM - Dance
+https://listen.radioking.com/radio/120304/stream/159802
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mfGlgeM.jpg" group-title="",RJM - Jazzy
+https://streamingv2.shoutcast.com/RJM-Jazzy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxKT80s.jpg" group-title="",RJM - RnB
+https://streamingv2.shoutcast.com/RJM-RnB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9U8TFeK.jpg" group-title="",RJM - 80
+https://streamingv2.shoutcast.com/RJM-80
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCXW1Ev.jpg" group-title="",RJM - French
+https://streamingv2.shoutcast.com/RJM-French
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmPiiwE.jpg" group-title="",RJM - Pop
+https://streamingv2.shoutcast.com/RJM-radio
+
+#############
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fO6NSDw.png" group-title="",BeurFm
+https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrzXFNM.png" group-title="",Contact FM
+https://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qyTv4Cg.jpg" group-title="",Europe1
+https://ais-live.cloud-services.paris/europe1.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6GflXG.jpg" group-title="",Fun Radio
+http://streaming.radio.funradio.fr/fun-1-44-128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEDRkrM.jpg" group-title="",Skyrock Radio
+https://www.skyrock.fm/stream.php/frequenceradio_64mp3.mp3
+
+#############
+
+# https://www.radiofg.com/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9pHpXV.jpg" group-title="",RadioFG
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kjoO9zK.png" group-title="",RadioFG
+https://radiofg.impek.com/fg.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCq5eg9.png" group-title="",RadioFG - Chic
+http://radiofg.impek.com/fgc.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSnYvZM.png" group-title="",RadioFG - Deep Dance
+http://radiofg.impek.com/fgd.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qwD64zi.png" group-title="",RadioFG - Home Party
+http://radiofg.impek.com/fg6.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMm5v4L.jpg" group-title="",RadioFG - Nomade
+http://radiofg.impek.com/fg13.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sG25twY.png" group-title="",RadioFG - NonStop
+http://radiofg.impek.com/fge.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVJ4DWA.jpg" group-title="",RadioFG - Starter
+http://radiofg.impek.com/fgv.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MHF0rfi.png" group-title="",RadioFG - Underground
+http://radiofg.impek.com/ufg.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PS5lqZ8.jpg" group-title="",RadioFG - -xtra
+http://stream1.impek.com:8300/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6Ay0HZ.jpg" group-title="",RadioFG - Maxximum
+https://radiofg.impek.com/max1.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VynttSO.jpg" group-title="",RadioFG - Maxximum Classixx
+https://radiofg.impek.com/max2.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNQ9iic.png" group-title="",RadioFG - SnowParty
+http://radiofg.impek.com/fg14.mp3
+
+#############
+
+# https://www.virginradio.fr/webradios/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YAzOCIz.png" group-title="",Virgin Radio
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/59JCoIK.png" group-title="",Virgin Radio - Officiel
+https://stream.virginradio.fr/virgin.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwl7jF4.jpg" group-title="",Virgin Radio - Nouvelle Scène
+https://stream.virginradio.fr/vr-wr8.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DptnkR7.png" group-title="",Virgin Radio - Hits
+https://stream.virginradio.fr/vr-wr4.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc6ImYl.png" group-title="",Virgin Radio - Classics
+https://stream.virginradio.fr/vr-wr2.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCNfxDK.png" group-title="",Virgin Radio - Tonic
+https://stream.virginradio.fr/vr-wr6.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rshAG7V.png" group-title="",Virgin Radio - Rock
+https://stream.virginradio.fr/vr-wr5.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/assmjFR.png" group-title="",Virgin Radio - New
+https://stream.virginradio.fr/vr-wr1.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NTwIJIx.png" group-title="",Virgin Radio - Electroshock
+https://stream.virginradio.fr/vr-wr3.aac
+
+#############
