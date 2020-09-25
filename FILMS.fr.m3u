@@ -577,6 +577,17 @@ https://fr3.seedr.cc/media/video/hd_hls/e70789e44f46f83c9fd9e2ff15be03c96732af3d
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/884.jpg" group-title="",Jackie Chan - New Police Story
 https://fr9.seedr.cc/media/video/hd_hls/82afaa6dc4d8f0eb501ddd8998f13a76673079f4/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eS3a34t.jpg" group-title="",Jackie Chan - Robin-B-Hood (YT)
+plugin://plugin.video.youtube/play/?video_id=RC393geDzHI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QECKRbu.jpg" group-title="",Jacky Chan - Chinese Zodiac (YT)
+plugin://plugin.video.youtube/play/?video_id=2Nk_xXHqED4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hA03MIP.jpg" group-title="",Jackie Chan - Qui suis je (YT)
+plugin://plugin.video.youtube/play/?video_id=2yV7Ns8Mc3g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GBVnWU.jpg" group-title="",jackie chan jet li- Le royaume interdit (YT)
+plugin://plugin.video.youtube/play/?video_id=8frlgl3rQWU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WibNj7V.jpg" group-title="",jackie chan - Soif de Justice (YT)
+plugin://plugin.video.youtube/play/?video_id=ICpxEAO_gO8
+
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/645.jpg" group-title="",James Bond - contre Dr. No
 https://nl24.seedr.cc/media/video/lq_hls/5c8595090fb7f7d5da248aebd3f05be6ecfdcb31/vid.m3u8?dvr
