@@ -314,26 +314,6 @@ https://streamingv2.shoutcast.com/RJM-radio
 
 #############
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fO6NSDw.png" group-title="",BeurFm
-https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrzXFNM.png" group-title="",Contact FM
-https://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qyTv4Cg.jpg" group-title="",Europe1
-https://ais-live.cloud-services.paris/europe1.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6GflXG.jpg" group-title="",Fun Radio
-http://streaming.radio.funradio.fr/fun-1-44-128.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idu0Brs.png" group-title="",Mixxfm
-https://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEDRkrM.jpg" group-title="",Skyrock Radio
-https://www.skyrock.fm/stream.php/frequenceradio_64mp3.mp3
-
-#############
-
 # https://www.radiofg.com/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9pHpXV.jpg" group-title="",★★★★★★★★★★RadioFG★★★★★★★★★★
 0.0.0.0
@@ -385,3 +365,32 @@ https://stream.virginradio.fr/vr-wr1.aac
 https://stream.virginradio.fr/vr-wr3.aac
 
 #############
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",★★★★★★★★★★Autre Stations★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fO6NSDw.png" group-title="",BeurFm
+https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrzXFNM.png" group-title="",Contact FM
+https://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qyTv4Cg.jpg" group-title="",Europe1
+https://ais-live.cloud-services.paris/europe1.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6GflXG.jpg" group-title="",Fun Radio
+http://streaming.radio.funradio.fr/fun-1-44-128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idu0Brs.png" group-title="",Mixxfm
+https://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZnpV36.png" group-title="",Nice Radio
+https://niceradio.ice.infomaniak.ch/niceradio.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEDRkrM.jpg" group-title="",Skyrock Radio
+https://www.skyrock.fm/stream.php/frequenceradio_64mp3.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqv1ick.png" group-title="",Vfm Radio
+http://str0.creacast.com/vfm_hq.mp3
+
+
