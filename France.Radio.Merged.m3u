@@ -226,6 +226,28 @@ https://icecast.radiofrance.fr/mouv-midfi.mp3
 
 #############
 
+# https://www.latina.fr/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQna5yq.png" group-title="",★★★★★★★★★★Latina Radio★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WF108Hl.png" group-title="",LATINA
+https://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r7IdnFY.png" group-title="",LATINA @WORK
+https://latinawork.ice.infomaniak.ch/latinawork.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1Dpw5x.png" group-title="",LATINA BACHATA
+https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HgDoLtJ.png" group-title="",LATINA KIZOMBA
+https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqSzHHw.png" group-title="",LATINA LOVE
+https://latinalove.ice.infomaniak.ch/latinalove.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Smb5hza.png" group-title="",LATINA REGGAETON 
+https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HMzbHFV.png" group-title="",LATINA SALSA
+https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/156sb8h.png" group-title="",LATINA FIESTA 
+https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
+
+#############
+
 # http://www.rfm.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gh7T6DT.png" group-title="",★★★★★★★★★★RFM★★★★★★★★★★
 0.0.0.0
