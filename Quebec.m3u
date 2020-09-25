@@ -5,8 +5,10 @@ plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
 
 # https://www.youtube.com/channel/UCRCZCSgW4MEEO2I_8OtMaTw #
-#EXTINF:-1 tvg-logo="https://francosmontreal.com/apple-touch-icon.png" group-title="",Francos de Montréal (YT)
+#EXTINF:-1 tvg-logo="https://francosmontreal.com/apple-touch-icon.png" group-title="",Francos de Montréal 24 (YT)
 plugin://plugin.video.youtube/play/?video_id=1gS9rS3uo6w
+#EXTINF:-1 tvg-logo="https://francosmontreal.com/apple-touch-icon.png" group-title="",Francos de Montréal 25 (YT)
+plugin://plugin.video.youtube/play/?video_id=DqeP4B-C7P8
 
 # update link: https://video.tva.ca/page/direct #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true" group-title="Quebec TV",TVA 1080
