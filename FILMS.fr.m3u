@@ -378,6 +378,9 @@ https://nl31.seedr.cc/media/video/hd_hls/084a8f8c6c9b16424df8cb7453461b9ddfb52c0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NS7ZOh.jpg" group-title="",De Sang Froid (YT)
 plugin://plugin.video.youtube/play/?video_id=zSA1Gtx4yL4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c0Tfwyi.jpg" group-title="",Deadpool 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=f4qUPFkPc8o
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/751.jpg" group-title="",Destruction Finale
 https://nl23.seedr.cc/media/video/hd_hls/89bb78700408f05c8c4423b0c53179eb01230ddf/vid.m3u8
 
