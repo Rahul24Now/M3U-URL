@@ -763,17 +763,13 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 
 # update link : https://www.youtube.com/channel/UCszBccoIWK0-0uBMv5eKiHg  #
 #EXTINF:-1 tvg-id="France" tvg-name="radio inter s'cool" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kgQfPT5D6J.png"group-title="France",radio inter s'cool (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Ey2wrekvypU
+plugin://plugin.video.youtube/play/?video_id=kNcSyaHjkI8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="",Reveil TV
 http://scaz.streamingchurch.tv:1935/7256/7256/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="",Reveil TV (YT)
 plugin://plugin.video.youtube/play/?video_id=635pwJsFHcM
-
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="RMC Decouverte FR" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="France",RMC Decouverte
-https://nextmediahdslive-lh.akamaihd.net/i/RMCDECOUVERTE_KB@300868/master.m3u8?__nn__=5375862360001&hdnea=st=1588347000~exp=1588350600~acl=/i/*~hmac=0a6f1b0bfe70fd95d4959ba161590f3bc22d1795c967f118a1cafb7b16624967
 
 #EXTINF:-1 tvg-id="France" tvg-name="RFM TV" tvg-logo="https://i.imgur.com/V3wENl0.png" group-title="France",RFM TV
 http://stream-e30453a4b.nmbs.top/m3u/France/55a4f27472.m3u8|User-Agent=VLC
