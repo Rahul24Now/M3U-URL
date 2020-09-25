@@ -6,7 +6,7 @@
 
 
 #https://www.francebleu.fr/stations  https://www.francebleu.fr/favicons/android-chrome-192x192.png #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QlBnGBI.png" group-title="",♫♪FranceBleu♪♫
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlBnGBI.png" group-title="",★★★★★★★★★★FranceBleu★★★★★★★★★★
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_alsace.jpg" group-title="",Alsace 101.4 FM	
@@ -206,7 +206,7 @@ https://icecast.radiofrance.fr/franceinter-midfi.mp3
 https://icecast.radiofrance.fr/francemusique-midfi.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AzX3bqI.jpg" group-title="",France Musique - Classique Easy
 https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique_hifi.m3u8?id=radiofrance
-#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/mbzgmsp.jpg",France Musique - La Baroque
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbzgmsp.jpg" group-title="",France Musique - La Baroque
 https://stream.radiofrance.fr/francemusiquebaroque/francemusiquebaroque_hifi.m3u8?id=radiofrance
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwxqBus.jpg" group-title="",France Musique - Classique Plus
 https://stream.radiofrance.fr/francemusiqueclassiqueplus/francemusiqueclassiqueplus_hifi.m3u8?id=radiofrance
@@ -227,7 +227,7 @@ https://icecast.radiofrance.fr/mouv-midfi.mp3
 #############
 
 # http://www.rfm.fr/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gh7T6DT.png" group-title="",RFM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gh7T6DT.png" group-title="",★★★★★★★★★★RFM★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YPUeo3j.png" group-title="",RFM Live
 https://stream.rfm.fr/rfm.128.aac/playlist.m3u8
@@ -267,7 +267,7 @@ https://stream.rfm.fr/rfm-wr16.aac
 #############
 
 # https://www.rjm-radio.fr/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lStKptc.png" group-title="",RJM Radio 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lStKptc.png" group-title="",★★★★★★★★★★RJM Radio★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNiRJ31.png" group-title="",RJM - Live
 http://streamingv2.shoutcast.com/RJM-radio
@@ -310,7 +310,7 @@ https://www.skyrock.fm/stream.php/frequenceradio_64mp3.mp3
 #############
 
 # https://www.radiofg.com/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9pHpXV.jpg" group-title="",RadioFG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9pHpXV.jpg" group-title="",★★★★★★★★★★RadioFG★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kjoO9zK.png" group-title="",RadioFG
 https://radiofg.impek.com/fg.mp3
@@ -340,7 +340,7 @@ http://radiofg.impek.com/fg14.mp3
 #############
 
 # https://www.virginradio.fr/webradios/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YAzOCIz.png" group-title="",Virgin Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YAzOCIz.png" group-title="",★★★★★★★★★★Virgin Radio★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59JCoIK.png" group-title="",Virgin Radio - Officiel
 https://stream.virginradio.fr/virgin.aac
