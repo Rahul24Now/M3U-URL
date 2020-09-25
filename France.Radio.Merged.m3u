@@ -326,6 +326,9 @@ https://ais-live.cloud-services.paris/europe1.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6GflXG.jpg" group-title="",Fun Radio
 http://streaming.radio.funradio.fr/fun-1-44-128.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idu0Brs.png" group-title="",Mixxfm
+https://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEDRkrM.jpg" group-title="",Skyrock Radio
 https://www.skyrock.fm/stream.php/frequenceradio_64mp3.mp3
 
