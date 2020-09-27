@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AScpUFP.png" group-title="",★★★★★★★★★★[COLOR green]DistroTV[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/logo_20200922_191829_68.png" group-title="DistroTV",-24 Hour Free Movies-
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
+https://d15690s323oesy.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/69254e5f-828d-4861-bb3d-9ce142afe1a9/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22826/alee/logo_20200603_045313.png" group-title="DistroTV",alee+
 https://a.jsrdn.com/broadcast/55fgy6xc3/c.m3u8
 
@@ -230,6 +234,9 @@ https://a.jsrdn.com/broadcast/7536b84786/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22696/fighting-spirit-tv/logo_20200309_233956.png" group-title="DistroTV Sport",Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22883/flo-sports/logo_20200923_224803_68.png" group-title="DistroTV",Flo Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/broadcast/ba69f9f5-bc41-4adc-9e2f-1edeade0a078/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74mO7FF.png" group-title="DistroTV Sport",FTF
 https://a.jsrdn.com/broadcast/432fS3OX/c.m3u8
