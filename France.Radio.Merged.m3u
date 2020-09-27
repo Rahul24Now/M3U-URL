@@ -344,6 +344,49 @@ http://radiofg.impek.com/fg14.mp3
 
 #############
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pObDWEz.png" group-title="",★★★★★★★★★★Sweet Fm★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-1.png" group-title="",Sweet Fm Sablé-sur-Sarthe
+https://sweetfm-sable-sur-sarthe.ice.infomaniak.ch/sweetfm-sable-sur-sarthe-192.mp3  
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-2.png" group-title="",Sweet FM La Ferté Bernard
+https://sweetfm-perche72.ice.infomaniak.ch/sweetfm-perche72-192.mp3  
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-3.png" group-title="",Sweet FM Saint-Calais
+https://sweetfm-perche72.ice.infomaniak.ch/sweetfm-perche72-192.mp3  
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-4.png" group-title="",Sweet FM Mamers
+https://sweetfm-mamers.ice.infomaniak.ch/sweetfm-mamers-192.mp3 
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-5.png" group-title="",Sweet FM Alençon
+https://sweetfm-alencon.ice.infomaniak.ch/sweetfm-alencon-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-6.png" group-title="",Sweet FM l'Aigle
+https://sweetfm-aigle-verneuil.ice.infomaniak.ch/sweetfm-aigle-verneuil-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-7.png" group-title="",Sweet FM Verneuil-sur-Avre
+https://sweetfm-aigle-verneuil.ice.infomaniak.ch/sweetfm-aigle-verneuil-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-8.png" group-title="",Sweet FM Chateau-Gontier
+https://sweetfm-haut-anjou.ice.infomaniak.ch/sweetfm-haut-anjou-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-9.png" group-title="",Sweet FM Craon
+https://sweetfm-haut-anjou.ice.infomaniak.ch/sweetfm-haut-anjou-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-10.png" group-title="",Sweet FM Nogent le Rotrou
+https://sweetfm-perche28.ice.infomaniak.ch/sweetfm-perche28-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-11.png" group-title="",Sweet FM La Loupe
+https://sweetfm-perche28.ice.infomaniak.ch/sweetfm-perche28-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-12.png" group-title="",Sweet FM Blois
+https://sweetfm-blois.ice.infomaniak.ch/sweetfm-blois-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-13.png" group-title="",Sweet FM Saint-Aignan
+https://sweetfm-blois.ice.infomaniak.ch/sweetfm-blois-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-14.png" group-title="",Sweet FM Vendome
+https://sweetfm-vendome-montoire.ice.infomaniak.ch/sweetfm-vendome-montoire-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-15.png" group-title="",Sweet FM Montoire-sur-le-Loir
+https://sweetfm-vendome-montoire.ice.infomaniak.ch/sweetfm-vendome-montoire-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-16.png" group-title="",Sweet FM Romorantin
+https://sweetfm-sologne.ice.infomaniak.ch/sweetfm-sologne-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-17.png" group-title="",Sweet FM Lamotte-Beuvron
+https://sweetfm-sologne.ice.infomaniak.ch/sweetfm-sologne-192.mp3'
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-18.png" group-title="",Sweet FM Rouen
+http://sweetfm-rouen.ice.infomaniak.ch/sweetfm-rouen-192.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange92-19.png" group-title="",Sweet FM Le Mans
+https://sweetfm-lemans.ice.infomaniak.ch/sweetfm-lemans-192.mp3
+
+#############
+
 # https://www.virginradio.fr/webradios/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAzOCIz.png" group-title="",★★★★★★★★★★Virgin Radio★★★★★★★★★★
 0.0.0.0
