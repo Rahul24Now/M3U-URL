@@ -12,6 +12,10 @@ plugin://plugin.video.youtube/play/?video_id=DqeP4B-C7P8
 #EXTINF:-1 tvg-logo="https://francosmontreal.com/apple-touch-icon.png" group-title="",Francos de Montréal 26 (YT)
 plugin://plugin.video.youtube/play/?video_id=OfjBNrTBrRQ
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZuRTx85.jpg" group-title="",Société de musique contemporaine du Québec
+plugin://plugin.video.youtube/play/?video_id=fdeyDFowLhM
+
+
 # update link: https://video.tva.ca/page/direct #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true" group-title="Quebec TV",TVA 1080
 https://tvalive.akamaized.net/hls/live/2012413-b/tva01/high_1080p/high_1080p.m3u8
