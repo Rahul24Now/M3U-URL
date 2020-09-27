@@ -583,6 +583,12 @@ https://fr3.seedr.cc/media/video/hd_hls/e70789e44f46f83c9fd9e2ff15be03c96732af3d
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/884.jpg" group-title="",Jackie Chan - New Police Story
 https://fr9.seedr.cc/media/video/hd_hls/82afaa6dc4d8f0eb501ddd8998f13a76673079f4/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/903.jpg" group-title="",Jackie Chan - My Stunts 
+https://fr9.seedr.cc/media/video/hd_hls/24c7371991fd254911b5e8daadcda17ad5882b44/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/905.jpg" group-title="",Jackie Chan - Police Story 3 : Supercop
+https://fr9.seedr.cc/media/video/hd_hls/dfe28c11c7bbb6d922dc29deebc97ebf72193fe9/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/904.jpg" group-title="",Jackie Chan - Police Story 4 : Contre-attaque
+https://fr9.seedr.cc/media/video/lq_hls/c439536761d9e2904c182294bb532bb4b132155c/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eS3a34t.jpg" group-title="",Jackie Chan - Robin-B-Hood (YT)
 plugin://plugin.video.youtube/play/?video_id=RC393geDzHI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QECKRbu.jpg" group-title="",Jacky Chan - Chinese Zodiac (YT)
