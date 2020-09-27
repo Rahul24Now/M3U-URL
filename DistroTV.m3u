@@ -235,8 +235,11 @@ https://a.jsrdn.com/broadcast/7536b84786/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22696/fighting-spirit-tv/logo_20200309_233956.png" group-title="DistroTV Sport",Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22883/flo-sports/logo_20200923_224803_68.png" group-title="DistroTV",Flo Sports
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22883/flo-sports/logo_20200923_224803_68.png" group-title="DistroTV",-Flo Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/broadcast/ba69f9f5-bc41-4adc-9e2f-1edeade0a078/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22883/flo-high-impact/logo_20200923_225129_68.png" group-title="DistroTV",-Flo High Impact
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/broadcast/af70d570-4df2-45e9-a979-da62ce55d7b6/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74mO7FF.png" group-title="DistroTV Sport",FTF
 https://a.jsrdn.com/broadcast/432fS3OX/c.m3u8
