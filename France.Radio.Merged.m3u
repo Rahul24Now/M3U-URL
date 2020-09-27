@@ -366,6 +366,31 @@ https://stream.virginradio.fr/vr-wr3.aac
 
 #############
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzwxN4m.png" group-title="",★★★★★★★★★★WITFM-★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M5od1yo.png" group-title="",Wit FM
+https://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhjdG1i.png" group-title="",Wit FM - 80`s
+https://wit80s.ice.infomaniak.ch/wit80s.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ovmn9bj.png" group-title="",Wit FM - 90`s
+https://wit90s.ice.infomaniak.ch/wit90s.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbOkrrG.png" group-title="",Wit FM - 2000`s
+https://wit2000.ice.infomaniak.ch/wit2000.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7iUKbU.png" group-title="",Wit FM - Club 
+https://witclub.ice.infomaniak.ch/witclub.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3gmc1D.png" group-title="",Wit FM - LATINA
+https://witlatina.ice.infomaniak.ch/witlatina.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GyT8X3P.png" group-title="",Wit FM - LOUNGE
+https://witlounge.ice.infomaniak.ch/witlounge.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fY7rQmG.png" group-title="",Wit FM - Love 
+https://witlove.ice.infomaniak.ch/witlove.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cN14vSb.png" group-title="",Wit FM - @WORK
+https://witwork.ice.infomaniak.ch/witwork.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vGCrFS.png" group-title="",Wit FM - EN FRANCAIS
+https://witenfrancais.ice.infomaniak.ch/witenfrancais-128.mp3
+
+#############
+
 #EXTINF:-1 tvg-logo="nologo.png" group-title="",★★★★★★★★★★Autre Stations★★★★★★★★★★
 0.0.0.0
 
