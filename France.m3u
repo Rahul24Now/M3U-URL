@@ -18,7 +18,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7pctg0
 
 # https://7television.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uLDtTz4.jpg" group-title="",7 ENTERTAINMENT TELEVISION 
-https://edge1.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQyNDg3JmNOYW1lPTdUVkUmb0lEPTEzNjI3MSZvTmFtZT1FTUFKVUxZJnNJZD1oMTlkamt0MGU2OXF2Z3BwaGcwdDcxN2tlMCZ1SUQ9MCZ1TmFtZT1HdWVzdDNiZTNm&id=8-RXRNQAZ_iUnbK5A8J8
+https://edge1.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/chunklist_w1501731228_b1066482.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQyNDg3JmNOYW1lPTdUVkUmb0lEPTEzNjI3MSZvTmFtZT1FTUFKVUxZJnNJZD12YjhnN28xbGIzbzE3OGJ1MTAxaW5iOXFwbiZ1SUQ9MCZ1TmFtZT1HdWVzdDRlM2I1&id=0DnEJUQCdZW33oyyBBF2
 
 # https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="",7ALimoges (YT) (UPD)
@@ -174,7 +174,7 @@ http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Kids/402f5b94e84e5df.m3u8|User-Agent
 
 # Update Link : https://www.youtube.com/channel/UCjbvuMcOCvyYFZKKPvU6QHw #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Loc" tvg-logo="https://i.imgur.com/4KD7F69.png" group-title="France",Canal Local Grosbliederstroff (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=uPd77_dVu0A
+plugin://plugin.video.youtube/play/?video_id=NFzwxZm6zl4
 
 # update link : # https://www.dailymotion.com/video/x5gv6be #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal+ (DM)
@@ -337,7 +337,7 @@ https://euronews-fr-p13-cdn.hexaglobe.net/5a877c5c427b1cda17c248d4ead4e0f2/5e7d5
 
 # update link : # https://www.youtube.com/channel/UCW2QcKZiU8aUGg4yxCIditg #
 #EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=GTaouWS5qjM
+plugin://plugin.video.youtube/play/?video_id=xi3v5W__dQc
 
 #EXTINF:-1 tvg-id="France" tvg-name="euronews" tvg-logo="https://fr.euronews.com/android-chrome-192x192.png" group-title="France",euronews (OPT-2)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Euronews_live/04.m3u8
@@ -563,7 +563,7 @@ plugin://script.module.tt/play/721/play.pvr
 
 # update link : https://www.idf1.fr/live #
 #EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (UPD)
-https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=1600408505~exp=1600408905~acl=/i/dclive_1@103544*~hmac=03da927fc08335901674565c0afda61abc18607498583588f4be9b5a9ea1ea34
+https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=1601267464~exp=1601267864~acl=/i/dclive_1@103544*~hmac=d4d56186bcef6f243b35550711383b87a2d115b7cecc39ecc9d3fe86befcbb14
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="ILTV" tvg-logo="https://i.ibb.co/Sf6FDkV/ILTV.png" group-title="France",ILTV
@@ -579,7 +579,7 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 # update link : https://www.melody.tv/en-direct .. need update everyday #
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY (UPD)
-https://str81.creacast.com/telemelody/439d114a202a1eb5ed9d7886507e3ac2/chunklist_w1705585752_b1028000_t64SGlnaA==.m3u8
+https://str81.creacast.com/telemelody/cad22be890833c85b696312c377d6bb3/chunklist_w422089995_b1028000_t64SGlnaA==.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY (OPT-2)
 http://37.59.45.46/stream/Melody/playlist.m3u8
@@ -764,13 +764,13 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 
 # update link : https://www.youtube.com/channel/UCszBccoIWK0-0uBMv5eKiHg  #
 #EXTINF:-1 tvg-id="France" tvg-name="radio inter s'cool" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kgQfPT5D6J.png"group-title="France",radio inter s'cool (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=kNcSyaHjkI8
+plugin://plugin.video.youtube/play/?video_id=fIUJSf0glRc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="",Reveil TV
 http://scaz.streamingchurch.tv:1935/7256/7256/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="",Reveil TV (YT)
-plugin://plugin.video.youtube/play/?video_id=635pwJsFHcM
+plugin://plugin.video.youtube/play/?video_id=NCa6Rf3aBIo
 
 #EXTINF:-1 tvg-id="France" tvg-name="RFM TV" tvg-logo="https://i.imgur.com/V3wENl0.png" group-title="France",RFM TV
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/dabcfc79d45b03d.m3u8|User-Agent=stream
@@ -830,7 +830,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x797sy0
 
 # update link : https://www.studioqualita.com/direct https://www.youtube.com/channel/UC4ZNntU3CyEIH8RGH0n_5bw #
 #EXTINF:-1 tvg-id="France" tvg-name="StudioQualita" tvg-logo="https://i1.sndcdn.com/avatars-000312584857-l11mj7-t500x500.jpg" group-title="France",StudioQualita (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Br93uUT3plQ
+plugin://plugin.video.youtube/play/?video_id=JTV1SUS9W_M
 
 # https://stylfm.fr/reagir-en-direct/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SG0sPGE.png" group-title="",Stylfm (TWITCH)
