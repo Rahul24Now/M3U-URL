@@ -3,7 +3,29 @@
 #EXTINF:-1 tvg-logo="" group-title="", A venir http://www.virageradio.com/radio/webradio/ https://www.topmusic.fr/ https://www.cheriefm.fr/webradios https://www.nostalgie.fr/webradios https://www.rireetchansons.fr/webradios http://player.ouifm.fr/rock/ https://www.nrj.fr/webradios bfm RMC Radio
 0.0.0.0
 
+#############
 
+#https://www.deltafm.fr/  #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Tj7m6m.png" group-title="",★★★★★★★★★★Delta Fm★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://www.deltafm.fr/wp-content/uploads/charte/logo_dk_2019_menu.png" group-title="",Delta FM à Dunkerque
+https://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.mp3
+#EXTINF:-1 tvg-logo="https://www.deltafm.fr/wp-content/uploads/charte/logo_so_2019_menu.png" group-title="",Delta FM Saint-Omer
+https://deltafmsaintomer.ice.infomaniak.ch/deltafmsaintomer-high.mp3
+#EXTINF:-1 tvg-logo="https://www.deltafm.fr/wp-content/uploads/charte/logo_li_2019_menu.png" group-title="",Delta FM Lille
+http://deltafmregion.ice.infomaniak.ch/deltafmregion-128.aac
+#EXTINF:-1 tvg-logo="https://www.deltafm.fr/wp-content/uploads/charte/logo_bo_2019_menu.png" group-title="",Delta FM Boulogne/Mer
+https://deltafmboulogne.ice.infomaniak.ch/deltafmboulogne-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="https://www.deltafm.fr/wp-content/uploads/charte/logo_ca_2019_menu.png",Delta FM Calais
+http://deltafmcalais.ice.infomaniak.ch/deltafmcalais-128.aac
+#EXTINF:-1 tvg-logo="https://www.deltafm.fr/player/img/hits.png" group-title="",Delta FM 100% Hits
+http://deltahits.ice.infomaniak.ch/deltahits-128.aac
+#EXTINF:-1 tvg-logo="https://www.deltafm.fr/player/img/logo_player_plus.png" group-title="",Delta +
+http://delta.ice.infomaniak.ch/delta-128.aac
+#EXTINF:-1 tvg-logo="https://www.deltafm.fr/player/img/logo_player_party.png" group-title="",Delta Party
+http://deltaparty.ice.infomaniak.ch/deltaparty-128.aac
+
+#############
 
 #https://www.francebleu.fr/stations  https://www.francebleu.fr/favicons/android-chrome-192x192.png #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlBnGBI.png" group-title="",★★★★★★★★★★FranceBleu★★★★★★★★★★
