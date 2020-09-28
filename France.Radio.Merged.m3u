@@ -344,6 +344,7 @@ http://radiofg.impek.com/fg14.mp3
 
 #############
 
+# https://www.sweetfm.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pObDWEz.png" group-title="",★★★★★★★★★★Sweet Fm★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange92-1.png" group-title="",Sweet Fm Sablé-sur-Sarthe
@@ -387,6 +388,29 @@ https://sweetfm-lemans.ice.infomaniak.ch/sweetfm-lemans-192.mp3
 
 #############
 
+
+# https://www.urbanhit.fr/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wGqwY9J.png" group-title="",★★★★★★★★★★URBAN HIT★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHZEBeu.png" group-title="",URBAN HIT
+https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L3Q8dcZ.png" group-title="",URBAN HIT A L'ANCIENNE
+https://urbanhitalancienne.ice.infomaniak.ch/urbanhitalancienne.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HW3DwEn.png" group-title="",URBAN HIT AFRO
+https://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MWA7gCP.png" group-title="",URBAN HIT FUNK
+http://urbanhitfunk.ice.infomaniak.ch/urbanhitfunk-128.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Vt3mJQ.png" group-title="",URBAN HIT LATINO
+https://urbanhitlatino.ice.infomaniak.ch/urbanhitreggeaton-128.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTX9umD.png" group-title="",URBAN HIT RAI&B
+https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJQ50DU.png" group-title="",URBAN HIT RAP FR
+https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHS4ktb.png" group-title="",URBAN HIT US
+https://urbanhitus.ice.infomaniak.ch/urbanhitus-128.mp3
+
+#############
+
 # https://www.virginradio.fr/webradios/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAzOCIz.png" group-title="",★★★★★★★★★★Virgin Radio★★★★★★★★★★
 0.0.0.0
@@ -409,7 +433,8 @@ https://stream.virginradio.fr/vr-wr3.aac
 
 #############
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzwxN4m.png" group-title="",★★★★★★★★★★WITFM-★★★★★★★★★★
+# https://www.witfm.fr/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzwxN4m.png" group-title="",★★★★★★★★★★WITFM★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M5od1yo.png" group-title="",Wit FM
 https://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3
