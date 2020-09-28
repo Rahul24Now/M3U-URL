@@ -270,6 +270,26 @@ https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
 
 #############
 
+# https://www.mistralfm.com/  #
+#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/exp1Ntl.png",★★★★★★★★★★Mistral Fm★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://www.mistralfm.com/upload/players/5b2296b05e4c70.59688524.png" group-title="",TOULON
+http://mistralfm.ice.infomaniak.ch/mistralfm-high.mp3
+#EXTINF:-1 tvg-logo="https://www.mistralfm.com/upload/players/5b2296b05e4c70.59688524.png" group-title="",AUBAGNE
+http://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3
+#EXTINF:-1 tvg-logo="https://www.mistralfm.com/upload/players/5b2296b05e4c70.59688524.png" group-title="",NICE
+http://51.83.128.112:8000/mistralfm-nice
+#EXTINF:-1 tvg-logo="https://www.mistralfm.com/upload/players/5dea36a0ae4a46.04660280.png" group-title="",Les Duos Virtuels
+https://listen.radioking.com/radio/260701/stream/305488
+#EXTINF:-1 tvg-logo="https://www.mistralfm.com/upload/players/5e6ba7a9aa9599.52504174.png" group-title="",>A L'ANCIENNE
+http://stream.mistralfm.fr:8000/alancienne
+#EXTINF:-1 tvg-logo="https://www.mistralfm.com/upload/players/5f5f8bfdae3702.25887906.png" group-title="",URBAN HIT'S
+http://stream.mistralfm.fr:8000/urbanhit
+#EXTINF:-1 tvg-logo="https://www.mistralfm.com/upload/players/5c8921de8a0094.53480114.png" group-title="",RCT La Radio
+http://rctlaradio.bcast.infomaniak.ch:80//rctlaradio-128.mp3
+
+#############
+
 # https://www.oceanefm.com/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rixjdbC.png" group-title="",★★★★★★★★★★Océane FM★★★★★★★★★★
 0.0.0.0
