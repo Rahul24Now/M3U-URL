@@ -174,7 +174,7 @@ plugin://plugin.video.youtube/play/?video_id=Tm2uXinN7YE
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=HO9Sd5lkkxI
+plugin://plugin.video.youtube/play/?video_id=9GonnNMj0es
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
@@ -189,7 +189,7 @@ plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
 # https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Qucy4H9x9g8
+plugin://plugin.video.youtube/play/?video_id=8GiAaQak4U8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="",AfterPT Jonquière (TWITCH)
 plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
