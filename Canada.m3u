@@ -344,8 +344,8 @@ plugin://script.module.tt/play/215/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkAqXSg.png" group-title="Canada",TAG TV
 http://cdn11.live247stream.com/tag/tv/tag/stream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="",The New Classical FM (YT)
-plugin://plugin.video.youtube/play/?video_id=NyuoYE8zwQw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="",The New Classical FM (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=PyAkalHJgd0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -401,7 +401,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 
 # https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=zJyh2ajGBPM
+plugin://plugin.video.youtube/play/?video_id=9Cm8euXejjI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",► TVO KIDS (OPT-2)
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/c26780bd0cb10e7.m3u8|User-Agent=stream
@@ -514,12 +514,12 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 
 # Update Link : http://www.iipccanada.com/2017/12/26/iipc-tv-urdu/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD)
-https://edge1.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w1494744082_b1682988.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD1qMmVuZGVwdXRxMmFmdTBodHU4c3VodDBlcyZ1SUQ9MCZ1TmFtZT1HdWVzdDhhOTZi&id=a18YF9RrOScLpqY8Atu3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD) (EXP)
+https://edge2.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w528901458_b2239784.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD12YjhnN28xbGIzbzE3OGJ1MTAxaW5iOXFwbiZ1SUQ9MCZ1TmFtZT1HdWVzdDQ5MTRk&id=Pe2FgKNw3Fn1y-PcBBVH
 
 # Update Link : http://itctv.ca/live/ #
-#EXTINF:-1 tvg-logo="http://itctv.ca/wp-content/uploads/2018/10/LOGO.png" group-title="",itctv (UPD)
-https://dcunilive89-lh.akamaihd.net/i/dclive_1@827634/master.m3u8?hdnea=st=1599759443~exp=1599759843~acl=/i/dclive_1@827634*~hmac=ad69475fb5c83197e618a1aab31a94ecf9ff33135007e8ad46aba4f296e62a15
+#EXTINF:-1 tvg-logo="http://itctv.ca/wp-content/uploads/2018/10/LOGO.png" group-title="",itctv (UPD) (EXP) (Off LIne)
+0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfXOgXT.png" group-title="",Lord TV
 https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/playlist.m3u8
