@@ -152,7 +152,7 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",► THE WEATHER NETWORK
-http://stream-e30453a4b.nmbs.top/m3u/Canada/7fd4395ece.m3u8|User-Agent=VLC
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/0db762ed95c4bfa.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="Canadian TV",Weather Network (event Only)
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
