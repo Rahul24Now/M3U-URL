@@ -668,8 +668,11 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 plugin://plugin.video.youtube/play/?video_id=dSls9-EKGBI
 
 # update link : https://www.dailymotion.com/video/x5ddv09 #
-#EXTINF:-1 tvg-id="France" tvg-name="Mouv" tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="France",Mouv (DM)
+#EXTINF:-1 tvg-id="France" tvg-name="Mouv" tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="France",Mouv TV(DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5ddv09
+
+#EXTINF:-1 tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="",MOUV' - TA RADIO HIP HOP (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x590cb7
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="MYComedy" tvg-logo="https://i.ibb.co/8PV3vp3/MYComedy.png" group-title="France",MYComedy
