@@ -147,7 +147,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="Boomrang France" tvg-logo="https://i.imgur.com/FJjZhNN.png" group-title="France",Boomrang France
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
-#http://stream-e30453a4b.nmbs.top/m3u/France/935ed8ac4b.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-id="France" tvg-name="Boomrang France" tvg-logo="https://i.imgur.com/FJjZhNN.png" group-title="France",Boomrang France (OPT-2)
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Kids/91ee48794163fce.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://www.bsmart.fr/bsmart192.png" group-title="France",bsmart (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7tn4fp
@@ -168,7 +169,7 @@ plugin://script.module.tt/play/503/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal J FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_J_Logo.png" group-title="France",Canal J
-http://stream-e30453a4b.nmbs.top/m3u/Kids/05bcd8c334.m3u8|User-Agent=VLC
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Kids/402f5b94e84e5df.m3u8|User-Agent=stream
 
 # Update Link : https://www.youtube.com/channel/UCjbvuMcOCvyYFZKKPvU6QHw #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Loc" tvg-logo="https://i.imgur.com/4KD7F69.png" group-title="France",Canal Local Grosbliederstroff (YT) (UPD)
@@ -948,7 +949,7 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="TIJI" tvg-logo="https://i.imgur.com/1quH8K2.png" group-title="France",TIJI
-http://stream-e30453a4b.nmbs.top/m3u/Kids/2cbd8fc7fb.m3u8|User-Agent=VLC
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Kids/f34cb256f3f12d6.m3u8|User-Agent=stream
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="France",TMC
