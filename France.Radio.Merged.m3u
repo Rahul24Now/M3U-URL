@@ -248,6 +248,48 @@ https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
 
 #############
 
+# https://www.oceanefm.com/ #
+#EXTINF:-1 tvg-logo="" group-title="",★★★★★★★★★★Océane FM★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/concarneau.png" group-title="",Océane FM Concarneau
+https://oceaneconcarneau.ice.infomaniak.ch/oceaneconcarneau-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/guer.png" group-title="",Océane FM Guer
+https://oceaneguer.ice.infomaniak.ch/oceaneguer-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/guingamp.png" group-title="",Océane FM Guingamp
+https://oceaneguingamp.ice.infomaniak.ch/oceaneguingamp-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/larochebernard.png" group-title="",Océane FM La Roche Bernard
+https://oceanelarochebernard.ice.infomaniak.ch/oceanelarochebernard-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/larochesuryon.png" group-title="",Océane FM La Roche sur Yon
+https://oceanelarochesuryon.ice.infomaniak.ch/oceanelarochesuryon-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/lannion.png" group-title="",Océane FM Lannion
+https://oceanelannion.ice.infomaniak.ch/oceanelannion-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/lorient.png" group-title="",Océane FM Lorient
+https://oceanequimperle.ice.infomaniak.ch/oceanequimperle-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/nantes.png" group-title="",Océane FM Nantes
+https://oceanenantes.ice.infomaniak.ch/oceanenantes-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/paimpol.png" group-title="",Océane FM Paimpol
+https://oceanepaimpol.ice.infomaniak.ch/oceanepaimpol-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/ploermel.png" group-title="",Océane FM Ploermel
+https://oceaneploermel.ice.infomaniak.ch/oceanevannes-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/questembert.png" group-title="",Océane FM Questembert
+https://oceaneguer.ice.infomaniak.ch/oceaneguer-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/quimper.png" group-title="",Océane FM Quimper
+https://oceanequimper.ice.infomaniak.ch/oceanequimper-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/quimperlé.png" group-title="",Océane FM Quimperle
+https://oceanequimperle.ice.infomaniak.ch/oceanequimperle-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/redon.png" group-title="",Océane FM Redon
+https://oceaneredon.ice.infomaniak.ch/oceaneredon-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/rouen.png" group-title="",Océane FM Rouen
+https://oceanerouen.ice.infomaniak.ch/oceanerouen-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/saintnazaire.png" group-title="",Océane FM Saint-Nazaire
+https://oceanesaintnazaire.ice.infomaniak.ch/oceanesaintnazaire-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/vannes.png" group-title="",Océane FM Vannes
+https://oceanevannes.ice.infomaniak.ch/oceanevannes-128.mp3
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/logos/orange410.png" group-title="",Océane NOEL
+https://listen.shoutcast.com/OCEANENOEL.mp3
+
+#############
+
 # http://www.rfm.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gh7T6DT.png" group-title="",★★★★★★★★★★RFM★★★★★★★★★★
 0.0.0.0
