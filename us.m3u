@@ -1,5 +1,9 @@
 #EXTM3U 
 
+# https://www.youtube.com/channel/UCju5Bpr3NY63ZBZoKDrCTbg #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ff7qiyL.jpg" group-title="",US National Debt Clock LIVE (YT)
+plugin://plugin.video.youtube/play/?video_id=wb8lhNWRxDM
+
 
 #EXTINF:-1,USA NETWORK 
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Usa/46b2ff6f8d02c1a.m3u8|User-Agent=stream
