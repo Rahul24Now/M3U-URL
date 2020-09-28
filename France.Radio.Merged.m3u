@@ -249,7 +249,7 @@ https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
 #############
 
 # https://www.oceanefm.com/ #
-#EXTINF:-1 tvg-logo="" group-title="",★★★★★★★★★★Océane FM★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rixjdbC.png" group-title="",★★★★★★★★★★Océane FM★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.fr/decrochages/oceane/concarneau.png" group-title="",Océane FM Concarneau
 https://oceaneconcarneau.ice.infomaniak.ch/oceaneconcarneau-128.mp3
