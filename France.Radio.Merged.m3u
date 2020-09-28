@@ -532,6 +532,9 @@ https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrzXFNM.png" group-title="",Contact FM
 https://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuu9AWy.png" group-title="",DIRECT FM
+https://directfm.ice.infomaniak.ch/directfm-128.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qyTv4Cg.jpg" group-title="",Europe1
 https://ais-live.cloud-services.paris/europe1.mp3
 
