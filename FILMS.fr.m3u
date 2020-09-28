@@ -536,6 +536,11 @@ https://nl29.seedr.cc/media/video/hd_hls/4d5ce541a6e6f8e08766d3d7e963a0fb8ba03ce
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/376.jpg" group-title="",How It Ends
 https://fr8.seedr.cc/media/video/hd_hls/02018a1fd0e2f5a98c6956d127741f9e7738795d/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/914.jpg" group-title="",Hulk
+https://fr9.seedr.cc/media/video/lq_hls/2efcade9c75910265788d63075650acb347990fa/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/912.jpg" group-title="",L'Incroyable Hulk
+https://nl21.seedr.cc/media/video/hd_hls/7dcbc96979004f225573cf7a1f83eae46de4c7d8/vid.m3u8
+
 ###I###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/380.jpg" group-title="",Inception
@@ -1253,10 +1258,12 @@ https://nl17.seedr.cc/media/video/hd_hls/189a649a0a5d080257214f404630f57d9bc8418
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IBIZ2x8.jpg" group-title="",SpaceBalls (YT)
 plugin://plugin.video.youtube/play/?video_id=ijN4FjeS148
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/915.jpg" group-title="",Spider-Man
+https://nl25.seedr.cc/media/video/lq_hls/482da59fe7604ef61610e7774b1dfe045a458862/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrmaoXn.jpg" group-title="",Spider-Man 2
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Spider-Man+2+en+Streaming+VF+GRATUIT+Complet+HD+2004+en+Fran%C3%A7ais..mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8k40y3Q.jpg" group-title="",Spider-Man 3
-https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Spider-Man+3+en+Streaming+VF+GRATUIT+Complet+HD+2007+en+Fran%C3%A7ais..mp4
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/913.jpg" group-title="",Spider-Man 3
+https://de14.seedr.cc/media/video/lq_hls/6fe01bfe5455e93f77a1a840366ec660272149c2/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/inY9dDZ.jpg" group-title="",Spider-Man - Homecoming 
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Spider-Man-+Homecoming+streaming+vf+%E2%80%94+Streamay.mp4
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/109.jpg" group-title="",Spider-Man - Far from Home
@@ -1399,8 +1406,12 @@ https://nl21.seedr.cc/media/video/hd_hls/30738ce46e84bae25338b447b7fe3ec62bc58ce
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j1SxgTr.jpg" group-title="",The Warriors Gate
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+twgac3-TRUEFRENCH_BDRiP_XviD-Wawacity_top+Online+%E2%80%94+Mystream.mp4
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/910.jpg" group-title="",Thor
+https://fr11.seedr.cc/media/video/lq_hls/ad36dcdefb2433050aaea64c5626e33adc03df89/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/814.jpg" group-title="",Thor - Le Monde des ténèbres
 https://nl38.seedr.cc/media/video/lq_hls/6c5c4d1066be8897a6e235efe3131fcbc1508b3d/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/911.jpg" group-title="",Thor - Ragnarok
+https://de15.seedr.cc/media/video/hd_hls/cac90a70df3a805bb29c2c3c0ceac426a764f5f0/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/901.jpg" group-title="",Thomas Pesquet : L'Étoffe d'un héros
 https://nl25.seedr.cc/media/video/hd_hls/f6a65e23fde225ff687a05625001301dd6684be5/vid.m3u8
