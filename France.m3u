@@ -630,6 +630,10 @@ http://str81.creacast.com:80/iltv/high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXvZsuW.jpg" group-title="",Kids Tv (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=l6CdjNmb7fo
 
+# https://www.youtube.com/channel/UC_CE5uL8tsIPsWCt4D8wc8A #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHEfzMn.jpg" group-title="",Kids Tv Française - chansons de bébé (YT)
+plugin://plugin.video.youtube/play/?video_id=yBHY2qYIisc
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="KTO FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/db/KTO_logo_2008.png" group-title="France",KTO
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
