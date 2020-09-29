@@ -479,7 +479,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/France24_fr_live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/08/7b/11089/c175.png" group-title="",France Bleu Elsass (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x72b0ey
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IR3DJRY.png" group-title="",La matinale de France Bleu Paris ( 7:00 @ 8:40 AM ) (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7qhskn
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/station/logo/logo_francebleu_saint-etienne-loire.jpg" group-title="",La matinale de France Bleu Saint-Étienne Loire ( 7:00 @ 8:40 AM ) (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7qhse0
 
