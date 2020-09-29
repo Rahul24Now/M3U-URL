@@ -164,6 +164,8 @@ https://fr9.seedr.cc/media/video/hd_hls/6b4e9afb6ba1f0e057e28f21d36bfc078883ae12
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/691.jpg" group-title="",Avengers - Infinity War 
 https://de11.seedr.cc/media/video/hd_hls/1855dfaf3ca0604634f13a418426496864de4fac/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xo7KovC.jpg" group-title="",Ayden et le Dragon (YT)
+plugin://plugin.video.youtube/play/?video_id=ZcNFnb7t_Iw
 
 ###B###
 
@@ -708,8 +710,14 @@ https://nl22.seedr.cc/media/video/hd_hls/052a989f301f54cf388365377890459409dd13e
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/305.jpg" group-title="",L'appel de la forêt
 https://nl24.seedr.cc/media/video/hd_hls/b667fe13f8ed128be60841db8b35b28e81190a75/vid.m3u8
 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",L'Effondrement ? (YT)
+plugin://plugin.video.youtube/play/?video_id=8aWzqc-O2-U
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/755.jpg" group-title="",L'île aux chiens
 https://fr14.seedr.cc/media/video/hd_hls/5aab96b3da59e1c9d427d75e5c96c101808ec93b/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zw61kil.jpg" group-title="",L'Île Infernale (YT)
+plugin://plugin.video.youtube/play/?video_id=hF9bp21NTys
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/674.jpg" group-title="",L'ombre d'un fils
 https://nl29.seedr.cc/media/video/lq_hls/9d5f4974ac24903ac952608131d76cbcf3960da4/vid.m3u8
@@ -771,6 +779,12 @@ https://fr15.seedr.cc/media/video/hd_hls/2e0befd537f14ef5c80d23386da463b17fc6a8a
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/720.jpg" group-title="",La Sincérité
 https://nl25.seedr.cc/media/video/hd_hls/aa27f273528c8b3b35d7102f3940dbcc88ddc6bd/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PTQTPfG.jpg" group-title="",La vengeance aux deux visages 1961 (YT)
+plugin://plugin.video.youtube/play/?video_id=4niqEzhn76o
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TknI86O.jpg" group-title="",Le 5ème Pouvoir (YT)
+plugin://plugin.video.youtube/play/?video_id=EZANrA1hM8o
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQKg0er.jpg" group-title="",le bras de fer (YT)
 plugin://plugin.video.youtube/play/?video_id=m0LUKrjGoHM
 
@@ -784,6 +798,9 @@ https://nl31.seedr.cc/media/video/hd_hls/73509350f667a6ebfbb0d81c19d2a86e909f398
 https://nl38.seedr.cc/media/video/lq_hls/15d7bde433213deba468d9630f427d34b2718aae/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3W3bG6C.jpg" group-title="",La Fiancée de Chucky (YT)
 plugin://plugin.video.youtube/play/?video_id=clQk9hRBEAs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgOQ7Dc.jpg" group-title="",Le fort de la dernière chance 1957 (YT)
+plugin://plugin.video.youtube/play/?video_id=SnocEmWa1Ac
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/670.jpg" group-title="",Le Garçon qui dompta le vent
 https://fr13.seedr.cc/media/video/hd_hls/1ba0553e132cbc231544ffd0ea0de71d7da42eb9/vid.m3u8
@@ -848,6 +865,9 @@ https://de14.seedr.cc/media/video/lq_hls/58599dd58ff3c029256bf6bd68b411f49d851e2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEULVFh.jpg" group-title="",Le Seul et unique Ivan
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+The_One_and_Only_Ivan_2020_FRENCH_720p_WEB_x264-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sm7UkH9.jpg" group-title="",Le Silence Des Innocents (YT)
+plugin://plugin.video.youtube/play/?video_id=kNeQKMNyb_c
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/839.jpg" group-title="",Le Silence de la ville blanche
 https://nl23.seedr.cc/media/video/hd_hls/3b2f3026bc6a8f43bb058b74f7d35088ff7e9e96/vid.m3u8
 
@@ -904,6 +924,9 @@ https://fr7.seedr.cc/media/video/hd_hls/71e416ae29da67405463d94641b42d0c419c7ac0
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/696.jpg" group-title="",Les sextuplés
 https://fr8.seedr.cc/media/video/hd_hls/6bbc570d09ef340f48702b7237e7b7120f4a6499/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMURdAv.jpg" group-title="",Les Simpson le film (YT)
+plugin://plugin.video.youtube/play/?video_id=E92yBi7L-ow
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ORusWFk.jpg" group-title="",LES YEUX DU MAL (1979)	
 https://ia800903.us.archive.org/9/items/LESYEUXDUMALFilmDhorreurCompletEnFranaisLow480x360Mp4/LES%20YEUX%20DU%20MAL%20-%20Film%20dhorreur%20Complet%20en%20Fran%C3%A7ais%5BLow%2C480x360%2C%20Mp4%5D.mp4
 
@@ -919,6 +942,9 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/LEGO
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/441.jpg" group-title="",Leprechaun Returns
 https://nl33.seedr.cc/media/video/hd_hls/45db87b1c3cc1422267463cd10bce648463ed679/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKOutRO.jpg" group-title="",Leviathan (YT)
+plugin://plugin.video.youtube/play/?video_id=fo-yNkUHEKs
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/528.jpg" group-title="",Light of my life
 https://nl27.seedr.cc/media/video/hd_hls/f19a639efb189e8983e3008e61e4210ae4b068d9/vid.m3u8
@@ -952,6 +978,11 @@ plugin://plugin.video.youtube/play/?video_id=lfqo4ERIzIM
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/408.jpg" group-title="",Magic Kids
 https://nl20.seedr.cc/media/video/hd_hls/5feb9aab970042dd4ace5bb0b9cac9af16e05793/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkQ2Cqe.jpg" group-title="",Magnitude 10.5 l'apocalypse (partie 1) (YT)
+plugin://plugin.video.youtube/play/?video_id=eCY1g4eoo_8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkQ2Cqe.jpg" group-title="",Magnitude 10.5 l'apocalypse (partie 2) (YT)
+plugin://plugin.video.youtube/play/?video_id=fUuJUO1Tva8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/607.jpg" group-title="",Maître Tai-Chi
 https://nl24.seedr.cc/media/video/hd_hls/75fc3c9cfdc4760fb5a8f62e64d6a337a4a8ba02/vid.m3u8
@@ -1270,6 +1301,9 @@ https://lo1.seedr.cc/media/video/hd_hls/fr8/690f353de46c2bf2a9d8b9e50f161a986124
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/229.jpg" group-title="",Sister Act, acte 2
 https://lo1.seedr.cc/media/video/hd_hls/nl32/c0e37f9a8fed71755a35d3222adad44233c95e8e/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qROTK56.jpg" group-title="",Siren (YT)
+plugin://plugin.video.youtube/play/?video_id=r6sgvy9DCuI
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WPDeFj.jpg" group-title="",Société secrète de la royauté
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020/Watch+Secret_Society_of_Second_Born_Royals_2020_REPACK_FRENCH_720p_WEB_H264-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
 
@@ -1386,6 +1420,9 @@ https://nl17.seedr.cc/media/video/hd_hls/a070700b4693e6dc960d84ac1d8cbcaa36c0407
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/689.jpg" group-title="",The Dictator
 https://nl31.seedr.cc/media/video/lq_hls/7ea188819501f1f904f40410c2264146fbbd99f7/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nBCSwY9.jpg" group-title="",The Equalizer (YT)
+plugin://plugin.video.youtube/play/?video_id=M4kjCtESxAM
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/420.jpg" group-title="",The Hero
 https://fr7.seedr.cc/media/video/hd_hls/f55f1a0a4da14468b44b7e27309b786cdec68b3c/vid.m3u8
 
@@ -1429,6 +1466,9 @@ https://nl21.seedr.cc/media/video/hd_hls/30738ce46e84bae25338b447b7fe3ec62bc58ce
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j1SxgTr.jpg" group-title="",The Warriors Gate
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+twgac3-TRUEFRENCH_BDRiP_XviD-Wawacity_top+Online+%E2%80%94+Mystream.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkOZgqO.jpg" group-title="",The Woman (YT)
+plugin://plugin.video.youtube/play/?video_id=mn-EXTAmWFM
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/910.jpg" group-title="",Thor
 https://fr11.seedr.cc/media/video/lq_hls/ad36dcdefb2433050aaea64c5626e33adc03df89/vid.m3u8?dvr
