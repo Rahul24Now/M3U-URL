@@ -687,6 +687,10 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="La Chaine Normande TV FR" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="France;Family",La Chaine Normande TV
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 
+# https://www.youtube.com/channel/UCqOX4chZe7ZMEPmeB5yIf1g #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rih4m4n.png" group-title="",La Chaîne Voyance (YT)
+plugin://plugin.video.youtube/play/?video_id=taPJcJn6ABU
+
 # https://www.youtube.com/channel/UCvYqgo9dGBPVvaa4paVIhwQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/02ZMxO4.jpg" group-title="",LOU! Officiel(YT)
 plugin://plugin.video.youtube/play/?video_id=FiXUe4OilTI
