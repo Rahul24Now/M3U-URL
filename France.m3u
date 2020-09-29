@@ -437,7 +437,7 @@ https://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france3live-12472/hls/index.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3 (OPT-")
+#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3 (OPT-2)
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/e60f36e66704465.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Français",France 3 (opt-3)
 http://51.15.3.161:8080/france3/index.m3u8?token=test
