@@ -488,6 +488,8 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7qhse0
 #EXTINF:-1 tvg-id="France" tvg-name="Francophonie" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/tv-francophonie.png" group-title="France",Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/fashiontv-14423623/hls/index.m3u8
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
@@ -955,6 +957,11 @@ plugin://plugin.video.youtube/play/?video_id=_zEUTa4n2n8
 # https://www.youtube.com/channel/UCo9j7fWproKYTos4_RY-LUw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8Iqdws.jpg" group-title="",Simon Officiel (YT)
 plugin://plugin.video.youtube/play/?video_id=yH8BuakZhBY
+
+#http://www.souvenirsfromearth.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3bM4Kt.png" group-title="",SouvenirsFrome>Earth (UPD-EXP)
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@122827/master.m3u8?hdnea=st=1601401916~exp=1601402316~acl=/i/dclive_1@122827*~hmac=2fda0c3d488fca16a1b24926c4c5819abc1f4a484d51219b0bb3f5dd43df96f9
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@122827/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1601488317~acl=%2fi%2fdclive_1%40122827*~data=hdntl~hmac=5ff3dbe299f548f911c89fe9c8148de684ce7ba02d39a43c288fe379660f5780
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="France",Sport en France (DM)
