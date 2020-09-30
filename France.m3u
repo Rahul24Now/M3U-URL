@@ -853,7 +853,7 @@ plugin://plugin.video.youtube/play/?video_id=EavPQFfXVNk
 
 # update link https://www.youtube.com/channel/UCxSUslP_JMH3Bb50oXd1Nnw #
 #EXTINF:-1 tvg-id="France" tvg-logo="https://puissancetelevision.fr/wp-content/uploads/2019/04/Reconvert_White.png" group-title="France",Puissance Télévision (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=J-U-S7AGtig
+plugin://plugin.video.youtube/play/?video_id=zBAXSVf6sXs
 
 # update link https://puissancetelevision.fr/le-direct/#
 #EXTINF:-1 tvg-id="France" tvg-logo="https://puissancetelevision.fr/wp-content/uploads/2019/04/Reconvert_White.png" group-title="France",Puissance Télévision (opt-1)
