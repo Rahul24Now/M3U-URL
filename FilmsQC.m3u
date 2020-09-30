@@ -198,6 +198,19 @@ plugin://plugin.video.youtube/play/?video_id=DkXrLruqLsI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zur3XWe.jpg" group-title="Quebec Film",l’Homme le plus fort du Monde - Louis Cyr (YT)
 plugin://plugin.video.youtube/play/?video_id=R6JOn_fKurQ
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcOAPrS.jpg" group-title="",Lance et Compte Téléfilms 1 Tous pour un  (YT)
+plugin://plugin.video.youtube/play/?video_id=VK5hdba4aBM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcOAPrS.jpg" group-title="",Lance et Compte Téléfilms 2 Le crime de Lulu (YT)
+plugin://plugin.video.youtube/play/?video_id=leUbJQcS61s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcOAPrS.jpg" group-title="",Lance et Compte Téléfilms 3 Le moment de vérité (YT)
+plugin://plugin.video.youtube/play/?video_id=9Y7TcgDGCUQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcOAPrS.jpg" group-title="",Lance et Compte Téléfilms 4 Le choix (YT)
+plugin://plugin.video.youtube/play/?video_id=ER352FdjXRs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcOAPrS.jpg" group-title="",Lance et Compte Téléfilms 5 Envers et contre tous (YT)
+plugin://plugin.video.youtube/play/?video_id=AI5LN0zsoEo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcOAPrS.jpg" group-title="",Lance et Compte Telefilms 6 Le Retour du Chat (YT)
+plugin://plugin.video.youtube/play/?video_id=uz1kHOI7pgU
+
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/cta-ton-tour-laura-cadieux.jpg" group-title="Quebec Film",Laura Cadieux - Cta ton tour (YT)
 plugin://plugin.video.youtube/play/?video_id=i2PEStfCnWQ
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/02/laura-cadieux-suite_VHS.jpg" group-title="Quebec Film",Laura Cadieux - la suite (YT)
