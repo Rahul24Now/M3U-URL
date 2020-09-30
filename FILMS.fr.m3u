@@ -1333,13 +1333,31 @@ https://nl24.seedr.cc/media/video/lq_hls/a5481389ce5bc5b50fe4796975f74db00534491
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/635.jpg" group-title="",Stalker in the Attic
 https://nl32.seedr.cc/media/video/hd_hls/4e657b668682dabd0d7cd967c0e6a0841f4e9a8c/vid.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXEHGrG.jpg" group-title="",Star Wars Story - Solo
-http://144.217.176.177/private/Solo.A.Star.Wars.Story.2018.FRENCH.720p.HDLight.x264.AC3.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rh9yx9a.jpg" group-title="",Star Wars - Rise Of skywalker
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IwWPjst.jpg" group-title="",Star Wars épisode I - La Menace fantôme
+http://w.sylviethiriez.com/Downloads/films/Star%20Wars%20Pr%c3%a9logie/Star%20Wars,%20%c3%a9pisode%20I%20:%20La%20Menace%20fant%c3%b4me%20.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xoNGL1j.jpg" group-title="",Star Wars épisode II - L'Attaque des clones
+http://w.sylviethiriez.com/Downloads/films/Star%20Wars%20Pr%c3%a9logie/Star%20Wars,%20%c3%a9pisode%20II%20:%20L'Attaque%20des%20clones%20.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VLZ9bVd.png" group-title="",Star Wars épisode III - La Revanche des Sith
+http://w.sylviethiriez.com/Downloads/films/Star%20Wars%20Pr%c3%a9logie/Star%20Wars,%20%c3%a9pisode%20III%20:%20La%20Revanche%20des%20Sith%20.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PKGJ9j.jpg" group-title="",Star Wars épisode IV - Un nouvel espoir
+http://w.sylviethiriez.com/Downloads/films/Trilogie%20originale%20(1977-1983)/Star%20Wars,%20%c3%a9pisode%20IV%20:%20Un%20nouvel%20espoir.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWXa5Eo.jpg" group-title="",Star Wars  Episode V – L’Empire Contre-Attaque 
+http://w.sylviethiriez.com/Downloads/films/Trilogie%20originale%20(1977-1983)/Star%20Wars,%20%c3%a9pisode%20V%20:%20L'Empire%20contre-attaque%20.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWcWHz3.jpg" group-title="",Star Wars épisode VI - Le Retour du Jedi
+http://w.sylviethiriez.com/Downloads/films/Trilogie%20originale%20(1977-1983)/Star%20Wars,%20%c3%a9pisode%20VI%20:%20Le%20Retour%20du%20Jedi%20.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rh9yx9a.jpg" group-title="",Star Wars - L'Ascension de Skywalker
 http://144.217.176.177/private/Star.Wars.Episode.IX.The.Rise.of.Skywalker.2020.FRENCH.HDRip.x264.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Njatcp.jpg" group-title="",Star Wars Le Réveil de la Force
+http://w.sylviethiriez.com/Downloads/films/Star%20Wars%20Trilogie/Star%20Wars,%20%c3%a9pisode%20VII%20:%20Le%20R%c3%a9veil%20de%20la%20Force.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5jzZzx2.jpg" group-title="",Star Wars : Les Derniers Jedi
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Star+Wars+-+Les+Derniers+Jedi+streaming+vf+%E2%80%94+Streamay.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXEHGrG.jpg" group-title="",Star Wars Story - Solo
+http://144.217.176.177/private/Solo.A.Star.Wars.Story.2018.FRENCH.720p.HDLight.x264.AC3.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bqapx8m.jpg" group-title="",Star Wars - Les Ewoks : La caravane du courage (DM) 
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x3ikhgy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJfXdCP.jpg" group-title="",Star Wars - L'aventure des Ewoks - La Bataille Pour Endor (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x3ikhgz
+
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/14.jpg" group-title="",Stephen King's - Doctor Sleep
 https://sf1.seedr.cc/media/video/hd_hls/nl21/69c6781d08e37e5987fb413139e65fe608d6b272/vid.m3u8
