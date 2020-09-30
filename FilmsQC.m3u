@@ -79,6 +79,9 @@ plugin://plugin.video.youtube/play/?video_id=nEZ-tPDEHIo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQHwXTN.jpg" group-title="Quebec Film",Bon Cop Bad Cop 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=EY1cIDjXhXY
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFoQ7HB.jpg" group-title="",BUMRUSH (YT)
+plugin://plugin.video.youtube/play/?video_id=CZWITw0oYdI
+
 ###C###
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PIPlvkM.jpg" group-title="",Camping sauvage (YT)
@@ -211,6 +214,9 @@ https://s0.vudeo.net/2vp3tpdwzavjdohilmkbryegz43dsvzdfflo6k4svrpcz5bo5ovlemidrfn
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TfoAxPt.jpg" group-title="",le colis (YT)
 plugin://plugin.video.youtube/play/?video_id=ofjW_OVRdb8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QG3xagW.jpg" group-title="",LE GARAGISTE (YT)
+plugin://plugin.video.youtube/play/?video_id=JF05eU9OmUo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/beA2rfq.jpg" group-title="Quebec Film",Le Grand Départ (YT)
 plugin://plugin.video.youtube/play/?video_id=i-g6w7MaaII
