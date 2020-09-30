@@ -162,7 +162,7 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=yFNrhbHqy-4
+plugin://plugin.video.youtube/play/?video_id=0XD4nFCiZ0E
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
@@ -189,7 +189,7 @@ plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
 # https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Vdv9wcAIK7U
+plugin://plugin.video.youtube/play/?video_id=aLzq42NlYe4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="",AfterPT Jonquière (TWITCH)
 plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
