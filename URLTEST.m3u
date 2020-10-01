@@ -1,0 +1,33 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/16vj6yd/m3u.png" tvg-name="tester"  group-title="", ★★★★★[COLOR red]Link Tester[/COLOR]★★★★★
+0.0.0.0
+
+##Dailymotion##
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/Njj2M62/dailymotion.png" tvg-name="DailyMotion"  group-title="New Group",DM TEST plugins
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/Njj2M62/dailymotion.png" tvg-name="DailyMotion"  group-title="New Group",DM TEST Direct link 
+https://www.dailymotion.com/video/
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/Njj2M62/dailymotion.png" tvg-name="DailyMotion"  group-title="New Group",DM TEST Owner 
+plugin://plugin.video.dailymotion_com/?mode=sortVideos1&amp;url=owner%3a****&quot;,return
+
+##Youtube##
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST plugins link
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST plugins channel
+plugin://plugin.video.youtube/channel/
+
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST direct Link
+https://www.youtube.com/watch?v=
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST user
+https://www.youtube.com/user/
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST Channel
+https://www.youtube.com/channel/
