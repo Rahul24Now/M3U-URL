@@ -41,6 +41,10 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnpZuMy.png" group-title="",Canada Star TV
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 
+# https://www.youtube.com/channel/UCuB9b-D26b4gjUmaAZKo_IQ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jt4GxXw.png" group-title="",CARP (YT)
+plugin://plugin.video.youtube/play/?video_id=bAsZNZuD5DM
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC (TT)
 plugin://script.module.tt/play/613/play.pvr
 
