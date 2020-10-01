@@ -441,6 +441,10 @@ plugin://plugin.video.youtube/play/?video_id=UPulFs-PVSM
 #EXTINF:-1 tvg-logo="https://www.tv2vie.org/static/img/logo-tv2vie.png" group-title="",TV2VIE (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=EZTsRKO4Yrk
 
+# https://www.youtube.com/channel/UCMRUAEjvPv7HZCUinmjywSA #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cngd9U8.jpg" group-title="",Radio Télé Altagrace (YT)
+plugin://plugin.video.youtube/play/?video_id=OVzwrW1-FKU
+
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/6EEHWNg.jpg" group-title="",Radio Tele Ginen | Chaine 18
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
 
