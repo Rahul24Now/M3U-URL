@@ -12,8 +12,28 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 plugin://plugin.video.youtube/play/?video_id=EQpvWd5HJHk
 #EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=EN9IM7gt99g
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 3 (YT)
+plugin://plugin.video.youtube/play/?video_id=zOvIoTa85Qo
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 4 (YT)
+plugin://plugin.video.youtube/play/?video_id=u89IA2DSnbg
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 5 (YT)
+plugin://plugin.video.youtube/play/?video_id=6gCl8W1CQhU
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 6 (YT)
+plugin://plugin.video.youtube/play/?video_id=jPv568V8Ha4
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 7 (YT)
+plugin://plugin.video.youtube/play/?video_id=-ohjPNjbIBQ
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 8 (YT)
+plugin://plugin.video.youtube/play/?video_id=dmZmGmgqG8s
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 9 (YT)
+plugin://plugin.video.youtube/play/?video_id=30WhsrN5da0
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 10 (YT)
+plugin://plugin.video.youtube/play/?video_id=TtC5-qATk4Y
+
 #EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Big Live TV (YT)
 plugin://plugin.video.youtube/play/?video_id=WEqYMH4NaII
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Big 2020 - l'Ampli (YT)
+plugin://plugin.video.youtube/play/?video_id=uYotZwhkqiw
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/whcZSFI.jpg" group-title="",les débats du Grand Paris 2020 (YT)
 plugin://plugin.video.youtube/play/?video_id=94_IllFZiNE
