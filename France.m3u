@@ -4,9 +4,16 @@
 
 ## note : u need dailymotion  youtube Twitch and tvtap addon in kodi #
 
-
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
+
+
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance (YT)
+plugin://plugin.video.youtube/play/?video_id=EQpvWd5HJHk
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=EN9IM7gt99g
+#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Big Live TV (YT)
+plugin://plugin.video.youtube/play/?video_id=WEqYMH4NaII
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/whcZSFI.jpg" group-title="",les débats du Grand Paris 2020 (YT)
 plugin://plugin.video.youtube/play/?video_id=94_IllFZiNE
