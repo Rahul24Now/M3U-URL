@@ -487,6 +487,12 @@ http://churchchannelstream.tulix.tv/liveticker/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKlVKdp.png" group-title="Canada",GH Canada TV (OPT-2)
 http://churchchannelstream.tulix.tv/liveticker/720p/chunklist_w977888254.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSvS1rp.png" group-title="",Gurdwara Dukh Nivaran Sahib Surrey - BC Canada (YT)
+plugin://plugin.video.youtube/play/?video_id=I2lUTEctXa8
+
+#EXTINF:-1 tvg-logo="EWx4xALxqr0" group-title="",Gurdwara Sahib - DCC Calgary (YT)
+plugin://plugin.video.youtube/play/?video_id=EWx4xALxqr0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WKdwZbf.png" group-title="",GurSikh Sabha TV (Scarborough)
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 
