@@ -513,6 +513,10 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV (OPT-2)
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 
+# https://www.youtube.com/channel/UC_CaZMJn76Wqg-CVzkVxyuQ/live #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPCTV Live (YT)
+plugin://plugin.video.youtube/play/?video_id=SCtxOSPVePw
+
 # Update Link : http://www.iipccanada.com/2017/12/26/iipc-tv-urdu/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD-EXP)
 https://edge2.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w258389168_b2005302.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD1nYTU3Y2c0YmpwbWFwMXF0cmV0OWUyNmUybCZ1SUQ9MCZ1TmFtZT1HdWVzdDcyYTYz&id=CwYvzBBvE0hc4j-iBD3h
