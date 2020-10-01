@@ -37,9 +37,12 @@ plugin://plugin.video.youtube/play/?video_id=uYotZwhkqiw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/whcZSFI.jpg" group-title="",les débats du Grand Paris 2020 (YT)
 plugin://plugin.video.youtube/play/?video_id=94_IllFZiNE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whcZSFI.jpg" group-title="",les débats du Grand Paris 2020 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=94_IllFZiNE
+
 
 # https://www.youtube.com/channel/UCju5Bpr3NY63ZBZoKDrCTbg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2RM26AM.jpg" group-title="",Dette Publique Française et Mondiale EN DIRECT (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RM26AM.jpg" group-title="",Dette Publique Française et Mondiale EN DIRECT (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=He2jJym0RKI
 
 #######
