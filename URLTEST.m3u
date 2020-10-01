@@ -20,7 +20,7 @@ plugin://plugin.video.dailymotion_com/?mode=sortVideos1&amp;url=owner%3a****&quo
 plugin://plugin.video.youtube/play/?video_id=
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST plugins channel
-plugin://plugin.video.youtube/channel/
+plugin://plugin.video.youtube/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live
 
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST direct Link
@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=
 https://www.youtube.com/user/
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST Channel
-https://www.youtube.com/channel/
+https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live
