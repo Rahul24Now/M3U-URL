@@ -102,8 +102,8 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/4d39be7452c4918.m3u8|User-Agent=stream
 
 # Update Link https://www.chch.com/live/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD)
-https://flowcaster1-cl.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w311537970_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTYwMDM4NjAzMyZpaW1hZTBVQzJhaGFzaD1pQ01xSkR3VUo2b1Noa05EM1I5WG9oc0pMUXVLN18wUFVxeGZLcmptQVJNPQ==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD-EXP)
+https://flowcaster1-uo.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w36186854_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTYwMTU3NTgxNCZpaW1hZTBVQzJhaGFzaD1zaDF5eEVKekZraGVHQjVuVUhMUlVxX2NRbEZfQ3hKSS1LOThEN2IxbVZnPQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/playlist.m3u8
@@ -514,11 +514,11 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 
 # Update Link : http://www.iipccanada.com/2017/12/26/iipc-tv-urdu/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD) (EXP)
-https://edge2.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w528901458_b2239784.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD12YjhnN28xbGIzbzE3OGJ1MTAxaW5iOXFwbiZ1SUQ9MCZ1TmFtZT1HdWVzdDQ5MTRk&id=Pe2FgKNw3Fn1y-PcBBVH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV Urdu (UPD-EXP)
+https://edge2.tikilive.com:8443/html5_tikilive/46216/amlst:mainstream/chunklist_w258389168_b2005302.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQ2MjE2JmNOYW1lPUlJUEMlMjBUViUyMFVyZHUmb0lEPTE3MjAwOCZvTmFtZT1paXBjY2FuYWRhJnNJZD1nYTU3Y2c0YmpwbWFwMXF0cmV0OWUyNmUybCZ1SUQ9MCZ1TmFtZT1HdWVzdDcyYTYz&id=CwYvzBBvE0hc4j-iBD3h
 
 # Update Link : http://itctv.ca/live/ #
-#EXTINF:-1 tvg-logo="http://itctv.ca/wp-content/uploads/2018/10/LOGO.png" group-title="",itctv (UPD) (EXP) (Off LIne)
+#EXTINF:-1 tvg-logo="http://itctv.ca/wp-content/uploads/2018/10/LOGO.png" group-title="",itctv (UPD-EXP) (Off LIne)
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfXOgXT.png" group-title="",Lord TV
