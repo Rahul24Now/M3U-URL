@@ -4,6 +4,9 @@
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/REVPBC6.jpg" group-title="",Le Stu-Dio
+plugin://plugin.video.youtube/play/?video_id=LgHhAbKYV2E
+
 # https://www.youtube.com/channel/UCRCZCSgW4MEEO2I_8OtMaTw #
 #EXTINF:-1 tvg-logo="https://francosmontreal.com/apple-touch-icon.png" group-title="",Francos de Montréal 24 (YT)
 plugin://plugin.video.youtube/play/?video_id=1gS9rS3uo6w
