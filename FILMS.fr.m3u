@@ -138,6 +138,9 @@ https://fr3.seedr.cc/media/video/hd_hls/b25c14f3c6cc8a07b946418f3edacda9ae3e7c22
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/421.jpg" group-title="",A.R.I.
 https://nl23.seedr.cc/media/video/hd_hls/bfcd7156aee25746fd0e94b2bc22bbdbb0b8cd70/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/945.jpg" group-title="",Arkansas
+https://nl20.seedr.cc/media/video/hd_hls/bb33b36d21500791b9ec7d883b8634922ccd9ac8/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/388.jpg" group-title="",Artemis Fowl
 https://nl38.seedr.cc/media/video/hd_hls/4bf119b58d5f983a694d5f2fdcf98e121bd49c64/vid.m3u8
 
@@ -189,6 +192,9 @@ https://fr1.seedr.cc/media/video/hd_hls/184e537dfc1382a21c5fd45cb5af94f0acea3db7
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/745.jpg" group-title="",Bayala - La magie des dragons
 https://fr9.seedr.cc/media/video/hd_hls/2e98e97e8fba6e019d1ef5d1598fb666478ca319/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/940.jpg" group-title="",Beyond White Space
+https://nl33.seedr.cc/media/video/hd_hls/316ee848ca408c2fe7dd2b40ddcc323c908035a3/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/675.jpg" group-title="",Bill & Ted Face the Music
 https://nl24.seedr.cc/media/video/hd_hls/5aa88b5aa04e4b8ea7eeb6f3186fb521618cd404/vid.m3u8
@@ -320,8 +326,6 @@ plugin://plugin.video.youtube/play/?video_id=zZyPILkuQT8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/25EYqyP.jpg" group-title="",Casper et Wendy (YT)
 plugin://plugin.video.youtube/play/?video_id=8lFBG2g8_G4
 
-
-
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/743.jpg" group-title="",Casting pour un papa
 https://nl30.seedr.cc/media/video/lq_hls/449ce7cd10e3ab40ea6fb77b43ed56199a4a96aa/vid.m3u8
 
@@ -349,6 +353,9 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Code
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/71.jpg" group-title="",Code 211
 https://sf1.seedr.cc/media/video/hd_hls/de1/457e9d34807e76f92a7c89f6bedbaf6b529e5e0d/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/949.jpg" group-title="",Cody Banks - Agent Secret
+https://fr9.seedr.cc/media/video/hd_hls/0da9d0cb7aba19801df331672a41e26831f0d7c3/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/527.jpg" group-title="",COMA - Esprits prisonniers
 https://fr10.seedr.cc/media/video/hd_hls/c213695ae2bdb5b8747b9190ea7308515cb6f605/vid.m3u8
@@ -415,7 +422,6 @@ https://nl22.seedr.cc/media/video/lq_hls/91d20200058be48d87e220b776c0c7d4aa63849
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/733.jpg" group-title="",Double Mortel
 https://fr10.seedr.cc/media/video/hd_hls/5ab2da1ce633c79ed7ac9a6a4713266d2dc7a2ff/vid.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/210.jpg" group-title="",Dragons
 https://nl31.seedr.cc/media/video/lq_hls/c4a9a0205f4e5516de0d34bf33dc0c9fc3543fa1/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/209.jpg" group-title="",Dragons - Première course de dragons - Prêt, feu, partez !
@@ -445,6 +451,9 @@ https://fr5.seedr.cc/media/video/hd_hls/bb1417102c9d5271530a8f910c7ad1dbe3660907
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/151.jpg" group-title="",En avant
 https://fr13.seedr.cc/media/video/hd_hls/e226be4e674a4d9dd35c6b49f0b5cabe9a7a8e13/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/946.jpg" group-title="",EP-Executive Protection
+https://fr5.seedr.cc/media/video/hd_hls/23463c6694b562d78fa3d3b0e74ac43aa98070a5/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vAP5XN7.jpg" group-title="",Enola Holme
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020/Watch+Enola_Holmes_2020_FRENCH_720p_WEB_H264-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
@@ -788,6 +797,9 @@ https://nl24.seedr.cc/media/video/hd_hls/923f3d38395dd3063633534ba90e3584ef6dd61
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/748.jpg" group-title="",La Princesse des Glaces
 https://fr15.seedr.cc/media/video/hd_hls/2e0befd537f14ef5c80d23386da463b17fc6a8a7/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/942.jpg" group-title="",La Souffleuse de verre
+https://nl19.seedr.cc/media/video/hd_hls/82ee1f463f55f9175cd2c0508e1e349133cbec28/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/720.jpg" group-title="",La Sincérité
 https://nl25.seedr.cc/media/video/hd_hls/aa27f273528c8b3b35d7102f3940dbcc88ddc6bd/vid.m3u8
@@ -1346,6 +1358,9 @@ https://sf1.seedr.cc/media/video/hd_hls/nl35/565175bbd8e6fea9c2bef736433b18bc6fc
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/107.jpg" group-title="",Spider-Man - Le Destin d'un héros 
 https://nl24.seedr.cc/media/video/lq_hls/a5481389ce5bc5b50fe4796975f74db00534491d/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/941.jpg" group-title="",Stalked
+https://nl23.seedr.cc/media/video/hd_hls/2d87267dd53ff061a31ebcd64166962c0cff9909/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/635.jpg" group-title="",Stalker in the Attic
 https://nl32.seedr.cc/media/video/hd_hls/4e657b668682dabd0d7cd967c0e6a0841f4e9a8c/vid.m3u8
 
@@ -1468,6 +1483,9 @@ https://nl38.seedr.cc/media/video/hd_hls/2e4c001e3ec4759477ef11f014d8e2f13eb4560
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/437.jpg" group-title="",The Courier
 https://nl17.seedr.cc/media/video/hd_hls/a070700b4693e6dc960d84ac1d8cbcaa36c04075/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/944.jpg" group-title="",The Demon Inside
+https://fr13.seedr.cc/media/video/hd_hls/25ee4bb8db5250c7421ebc8b70fdc5bacbe202ff/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/689.jpg" group-title="",The Dictator
 https://nl31.seedr.cc/media/video/lq_hls/7ea188819501f1f904f40410c2264146fbbd99f7/vid.m3u8?dvr
