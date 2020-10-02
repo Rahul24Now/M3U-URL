@@ -1,10 +1,12 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/16vj6yd/m3u.png" tvg-name="tester"  group-title="", ★★★★★[COLOR red]Link Tester[/COLOR]★★★★★
-https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Index.m3u
+https://github.com/Sphinxroot/M3U-URL/blob/master/Fluxus.tv/Index.m3u
+#https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Index.m3u
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/16vj6yd/m3u.png" tvg-name="tester"  group-title="", ★★★★★[COLOR red]Link Tester 2[/COLOR]★★★★★
-https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Index2.m3u
+https://github.com/Sphinxroot/M3U-URL/blob/master/Fluxus.tv/Index2.m3u
+#https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Index2.m3u
 
 ##Dailymotion##
 
@@ -24,7 +26,6 @@ plugin://plugin.video.youtube/play/?video_id=0XD4nFCiZ0E
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST plugins channel
 plugin://plugin.video.youtube/channel/UCNKXYT-Nng5LBMUQrZJ9zWA
-
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST direct Link
 https://www.youtube.com/watch?v=0XD4nFCiZ0E
