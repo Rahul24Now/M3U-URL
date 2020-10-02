@@ -27,7 +27,7 @@ plugin://plugin.video.youtube/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live
 https://www.youtube.com/watch?v=0XD4nFCiZ0E
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST user
-https://www.youtube.com/user/ctmq/live
+https://www.youtube.com/user/ctmq
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST Channel
 https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live
