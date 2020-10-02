@@ -320,6 +320,8 @@ plugin://plugin.video.youtube/play/?video_id=OC59PylqTJE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jW4aM84.jpg" group-title="Quebec Film",Menteur (YT)
 plugin://plugin.video.youtube/play/?video_id=iC42-sdLrQ4
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/938.jpg" group-title="",Menteur HD
+https://fr7.seedr.cc/media/video/hd_hls/fc5813ec29e8ae915711beb72963280a0e7d488e/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nZnStvq.jpg" group-title="",Moïse : L'Affaire Roch Thériault (YT)
 plugin://plugin.video.youtube/play/?video_id=X-d35BU8hiU
