@@ -15,7 +15,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x69a2vh
 https://www.dailymotion.com/video/x69a2vh
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/Njj2M62/dailymotion.png" tvg-name="DailyMotion"  group-title="New Group",DM TEST Owner 
-plugin://plugin.video.dailymotion_com/?mode=sortVideos1&amp;url=owner%3aAirshowradio&quot;,return
+plugin://plugin.video.dailymotion_com/?mode=sortVideos1&amp;url=owner%3aAirshowradio
 
 ##Youtube##
 
