@@ -7,6 +7,24 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idaS7Dw.jpg" group-title="",Finale de France de Billard Artistique 2020 (YT)
+plugin://plugin.video.youtube/play/?video_id=wtvKjlVM9Ew
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idaS7Dw.jpg" group-title="",Finale De France De Billard Artistique Par Équipe (YT)
+plugin://plugin.video.youtube/play/?video_id=NvXm_jceGrU
+# https://www.youtube.com/channel/UCA8Fa53ERQKGhVbD7XZa40g #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HlzQqOC.jpg" group-title="",Live Radio Restos (YT)
+plugin://plugin.video.youtube/play/?video_id=HJlpV0qVMT4
+# https://www.france-sire.com/webtv.php https://www.youtube.com/channel/UClec6fW4Pcg_mZVgxYC21Ew #
+#EXTINF:-1 tvg-logo="https://www.france-sire.com/images/logo.png" group-title="",France Sire - Vente Arqana de l'Arc de Triomphe 2020 (YT)
+plugin://plugin.video.youtube/play/?video_id=Sx52-P-Ckig
+#EXTINF:-1 tvg-logo="https://www.france-sire.com/images/logo.png" group-title="",France Sire - Vente Arqana de l'Arc de Triomphe - 2020 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=4PiLkzWScPI
+# https://www.youtube.com/channel/UCzrjIzE1Hp3UkXAYEawK3JA https://www.iledefrance.fr/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FoTFo0X.png" group-title="",Région Île-de-France (YT)
+plugin://plugin.video.youtube/play/?video_id=BuKBQlH44xs
+
+
 # https://www.youtube.com/channel/UCZ1adoWtdSQGI79Uq9zaGzQ 
 #EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance (YT)
 plugin://plugin.video.youtube/play/?video_id=EQpvWd5HJHk
@@ -35,20 +53,6 @@ plugin://plugin.video.youtube/play/?video_id=WEqYMH4NaII
 #EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Big 2020 - l'Ampli (YT)
 plugin://plugin.video.youtube/play/?video_id=uYotZwhkqiw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idaS7Dw.jpg" group-title="",Finale de France de Billard Artistique 2020 (YT)
-plugin://plugin.video.youtube/play/?video_id=wtvKjlVM9Ew
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idaS7Dw.jpg" group-title="",Finale De France De Billard Artistique Par Équipe (YT)
-plugin://plugin.video.youtube/play/?video_id=NvXm_jceGrU
-
-# https://www.france-sire.com/webtv.php https://www.youtube.com/channel/UClec6fW4Pcg_mZVgxYC21Ew #
-#EXTINF:-1 tvg-logo="https://www.france-sire.com/images/logo.png" group-title="",France Sire - Vente Arqana de l'Arc de Triomphe 2020 (YT)
-plugin://plugin.video.youtube/play/?video_id=Sx52-P-Ckig
-#EXTINF:-1 tvg-logo="https://www.france-sire.com/images/logo.png" group-title="",France Sire - Vente Arqana de l'Arc de Triomphe - 2020 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=4PiLkzWScPI
-
-
-
-
 
 #######
 
@@ -61,7 +65,7 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
 
 # https://7television.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uLDtTz4.jpg" group-title="",7 ENTERTAINMENT TELEVISION (UPD-EXP)
-https://edge2.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/chunklist_w911040819_b1907506.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQyNDg3JmNOYW1lPTdUVkUmb0lEPTEzNjI3MSZvTmFtZT1FTUFKVUxZJnNJZD1nYTU3Y2c0YmpwbWFwMXF0cmV0OWUyNmUybCZ1SUQ9MCZ1TmFtZT1HdWVzdDc1YWMz&id=Tt9EnCjRLtYuDOH2BD1K
+https://edge1.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/chunklist_w1948147236_b2108092.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQyNDg3JmNOYW1lPTdUVkUmb0lEPTEzNjI3MSZvTmFtZT1FTUFKVUxZJnNJZD1zNXJuM2doazk3bGRqazh2aWwycnNvaXE3byZ1SUQ9MCZ1TmFtZT1HdWVzdGE5NDUy&id=Vww8P6-QufsesikOBGRP
 
 # https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="",7ALimoges (YT) (UPD)
@@ -239,7 +243,7 @@ http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Kids/402f5b94e84e5df.m3u8|User-Agent
 
 # Update Link : https://www.youtube.com/channel/UCjbvuMcOCvyYFZKKPvU6QHw #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Loc" tvg-logo="https://i.imgur.com/4KD7F69.png" group-title="France",Canal Local Grosbliederstroff (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=DW7golm6rAY
+plugin://plugin.video.youtube/play/?video_id=nrfzRhTA8eU
 
 # update link : # https://www.dailymotion.com/video/x5gv6be #
 #EXTINF:-1 tvg-id="France" tvg-name="Canal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1024px-Canal%2B.svg.png" group-title="France",Canal+ (DM)
@@ -659,8 +663,7 @@ plugin://script.module.tt/play/721/play.pvr
 
 # update link : https://www.idf1.fr/live #
 #EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (UPD-EXP)
-
-https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=1601559499~exp=1601559899~acl=/i/dclive_1@103544*~hmac=08e8096279b6f88695d7adfc8331d79aaec2494ac506edf837949b2d5e49e4b9
+https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=1601733300~exp=1601733700~acl=/i/dclive_1@103544*~hmac=92191f68fcfb5f972a63e6af02c1abf317309f19fec6efb68c9ec30dadf7bd78
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="ILTV" tvg-logo="https://i.ibb.co/Sf6FDkV/ILTV.png" group-title="France",ILTV
@@ -682,7 +685,7 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/kto-14366337/hls/index.m3u8
 
 # update link : https://www.melody.tv/en-direct .. need update everyday #
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY (UPD)
-https://str81.creacast.com/telemelody/c67afd09c36657abeaa9d37c1376fff9/chunklist_w384869150_b1028000_t64SGlnaA==.m3u8
+https://str81.creacast.com/telemelody/e993b1cbb596676c9831b3f42d9b7ceb/chunklist_w737949077_b1028000_t64SGlnaA==.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY (OPT-2)
 http://37.59.45.46/stream/Melody/playlist.m3u8
@@ -992,11 +995,11 @@ plugin://plugin.video.youtube/play/?video_id=_zEUTa4n2n8
 
 # https://www.youtube.com/channel/UCo9j7fWproKYTos4_RY-LUw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8Iqdws.jpg" group-title="",Simon Officiel (YT)
-plugin://plugin.video.youtube/play/?video_id=yH8BuakZhBY
+plugin://plugin.video.youtube/play/?video_id=U_Ej-GKP4jo
 
-#http://www.souvenirsfromearth.tv/
+# http://www.souvenirsfromearth.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3bM4Kt.png" group-title="",SouvenirsFrome>Earth (UPD-EXP)
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@122827/master.m3u8?hdnea=st=1601559834~exp=1601560234~acl=/i/dclive_1@122827*~hmac=d1ecb42b925f32ad1a8976e707dc7e5bcc9262aa70becea6fe5e470c4fa5d8ca
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@122827/master.m3u8?hdnea=st=1601733868~exp=1601734268~acl=/i/dclive_1@122827*~hmac=cd643b166c5eb8be7b2f4c8f77a712ec5b04bc7077dec4412e7d4c1355aec642
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="France",Sport en France (DM)
