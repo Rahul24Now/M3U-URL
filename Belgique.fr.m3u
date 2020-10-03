@@ -4,6 +4,12 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/belge.png?raw=true",★★★★★★★★★★[COLOR orange]Belgique[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
 
+# https://www.equideo.be/ https://www.youtube.com/channel/UC70CoNT5xMbPjkz34PXZ3Fw #
+#EXTINF:-1 tvg-logo="https://www.equideo.be/wp-content/uploads/2019/08/EQUIDEO-logo-white-1.png" group-title="",EQUIDEO 1 (YT)
+plugin://plugin.video.youtube/play/?video_id=6TzAmA_zz3c
+#EXTINF:-1 tvg-logo="https://www.equideo.be/wp-content/uploads/2019/08/EQUIDEO-logo-white-1.png" group-title="",EQUIDEO 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=Lw8ZUfwAO44
+
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Antenne Centre" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="Belgique",Antenne Centre
 https://tvl-live-prp.fl.freecaster.net/live/actv/actv.m3u8
@@ -35,9 +41,6 @@ http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist_w85
 https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w1160503303.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETsDhb8.png" group-title="",Canal C (Opt-2)
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="nologo.png" group-title="",CINE HD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1864
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRYkNLF.png" group-title="",CLUB RTL
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Belgium/071f002299fa5dd.m3u8|User-Agent=stream
