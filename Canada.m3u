@@ -4,6 +4,9 @@
 0.0.0.0
 
 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",Canada T20 - Cricket Premier League (YT)
+plugin://plugin.video.youtube/play/?video_id=iBClhPJ5TIU
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/4b63310fe82cc67.m3u8|User-Agent=stream
 
