@@ -35,21 +35,20 @@ plugin://plugin.video.youtube/play/?video_id=WEqYMH4NaII
 #EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Big 2020 - l'Ampli (YT)
 plugin://plugin.video.youtube/play/?video_id=uYotZwhkqiw
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idaS7Dw.jpg" group-title="",Finale de France de Billard Artistique 2020 (YT)
+plugin://plugin.video.youtube/play/?video_id=wtvKjlVM9Ew
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idaS7Dw.jpg" group-title="",Finale De France De Billard Artistique Par Équipe (YT)
+plugin://plugin.video.youtube/play/?video_id=NvXm_jceGrU
+
 # https://www.france-sire.com/webtv.php https://www.youtube.com/channel/UClec6fW4Pcg_mZVgxYC21Ew #
-#EXTINF:-1 tvg-logo="https://www.france-sire.com/images/logo.png" group-title="",France Sire - Vente Arqana (YT)
-plugin://plugin.video.youtube/play/?video_id=E-EF4lJNFfI
-#EXTINF:-1 tvg-logo="https://www.france-sire.com/images/logo.png" group-title="",France Sire - Vente Arqana 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=_7zRIiaK-r4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/whcZSFI.jpg" group-title="",les débats du Grand Paris 2020 (YT)
-plugin://plugin.video.youtube/play/?video_id=94_IllFZiNE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/whcZSFI.jpg" group-title="",les débats du Grand Paris 2020 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=94_IllFZiNE
+#EXTINF:-1 tvg-logo="https://www.france-sire.com/images/logo.png" group-title="",France Sire - Vente Arqana de l'Arc de Triomphe 2020 (YT)
+plugin://plugin.video.youtube/play/?video_id=Sx52-P-Ckig
+#EXTINF:-1 tvg-logo="https://www.france-sire.com/images/logo.png" group-title="",France Sire - Vente Arqana de l'Arc de Triomphe - 2020 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=4PiLkzWScPI
 
 
-# https://www.youtube.com/channel/UCju5Bpr3NY63ZBZoKDrCTbg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2RM26AM.jpg" group-title="",Dette Publique Française et Mondiale EN DIRECT (YT) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=He2jJym0RKI
+
+
 
 #######
 
