@@ -266,6 +266,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74mO7FF.png" group-title="DistroTV Sport",FTF
 https://a.jsrdn.com/broadcast/432fS3OX/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/logo_20200917_223146_70.png" group-title="DistroTV",GlewedTV Yoga & Fitness
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/fc2eaca0-6ee4-4cc5-85e4-8d502c65542e/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22817/hard-knocks-fighting/logo_20200420_183430.png" group-title="DistroTV Sport",Hard Knocks
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 
