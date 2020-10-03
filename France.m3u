@@ -23,6 +23,12 @@ plugin://plugin.video.youtube/play/?video_id=4PiLkzWScPI
 # https://www.youtube.com/channel/UCzrjIzE1Hp3UkXAYEawK3JA https://www.iledefrance.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FoTFo0X.png" group-title="",Région Île-de-France (YT)
 plugin://plugin.video.youtube/play/?video_id=BuKBQlH44xs
+# https://www.youtube.com/channel/UCAw1n-VnQrZyPGwj82fLcjQ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Rj7mSb.jpg" group-title="",Assemblée Générale - Éclaireuses Éclaireurs de France (YT)
+plugin://plugin.video.youtube/play/?video_id=MbrbGu89vZo
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",En direct: Les Gilets Jaunes Acte 85 (YT)
+plugin://plugin.video.youtube/play/?video_id=lrHPp-P7CCA
+
 
 
 # https://www.youtube.com/channel/UCZ1adoWtdSQGI79Uq9zaGzQ 
