@@ -52,6 +52,10 @@ https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22886/cjc-television-network/logo_20200819_003239_68.png" group-title="DistroTV",CJC Television Network
 https://edge2.tikilive.com:8443/unrestricted_tikilive/56434/amlst:keY3DogwDbXV/chunklist_w1668228739_b4855826.m3u8?i=YXBwTmFtZT1VbnJlc3RyaWN0ZWQmY0lEPTU2NDM0JmNOYW1lPUNKQytOZXR3b3JrJm9JRD04NDA4MDYmb05hbWU9Y2ozMw%3D%3D
 
+# https://a.jsrdn.com/hls/22882/logo_20201002_165225_68.png #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HatZvTA.jpg" group-title="DistroTV",Cooking Panda
+https://stream.ads.ottera.tv/cl/c167ac9a-fe54-46f5-8bdb-a367689ca920/1024x576_1651243_5.m3u8
+
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/contv/logo_20191126_224818.png" group-title="DistroTV",CONtv HD
 https://a.jsrdn.com/broadcast/44hgsuu7/c.m3u8
 
@@ -60,6 +64,9 @@ https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/dove-channel/logo_20191213_195855.png" group-title="DistroTV",Dove Channel
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/drinktv/logo_20200930_061821_68.png" group-title="DistroTV",DrinkTV
+https://stream.ads.ottera.tv/cl/9233f78c-63a6-4dd0-8344-da7e87198360/960x540_975681_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCwsArY.png" group-title="DistroTV",Dry Bar Comedy
 https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
@@ -90,6 +97,9 @@ https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-the-vault/logo_20200917_222921_70.png" group-title="DistroTV",GlewedTV The Vault
 https://a.jsrdn.com/broadcast/becb923d76/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-spanish/logo_20200917_223052_70.png" group-title="DistroTV",GlewedTV Spanish
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/65283d7e-ba61-4d4d-a629-3a24433762d4/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42DOGtZ.png" group-title="DistroTV",Global Fashion
 https://a.jsrdn.com/broadcast/33ee2rtf5/c.m3u8
@@ -175,6 +185,9 @@ https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22703/saveur-1/logo_20200204_134616.png" group-title="DistroTV",Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20200930_055234_70.png" group-title="DistroTV",SQAD
+https://stream.ads.ottera.tv/cl/0b310c10-7b77-4212-b746-18683232d14e/960x540_980313_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22735/bobs-your-uncle-linear/logo_20191212_233001.png" group-title="DistroTV",Studio C
 https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
 
@@ -195,6 +208,9 @@ https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22886/the-grid/logo_20200819_003042_68.png" group-title="DistroTV",The Grid
 https://edge1.tikilive.com:8443/unrestricted_tikilive/56436/amlst:dw0N76Va7nRJ/chunklist_w1036490540_b2833102.m3u8?i=YXBwTmFtZT1VbnJlc3RyaWN0ZWQmY0lEPTU2NDM2JmNOYW1lPVRoZUdyaWQrTmV0d29yayZvSUQ9ODQwODA2Jm9OYW1lPWNqMzM%3D
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/the-love-destination/logo_20200930_053809_68.png" group-title="DistroTV",The Love Destination
+https://stream.ads.ottera.tv/cl/1da7712e-48a3-4953-879d-deca9d26a927/1024x576_1722112_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png" group-title="DistroTV",The Titanic Channel
 https://a.jsrdn.com/broadcast/22719/+0000/c.m3u8
@@ -225,6 +241,9 @@ https://gizmeon.s.llnwi.net/livehls/ngrp:CHANNEL275_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22834/bspoketv/logo_20200603_042338.png" group-title="DistroTV",bspoketv
 https://a.jsrdn.com/broadcast/2hdx8s3n/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/channel-fight/logo_20200930_055751_68.png" group-title="DistroTV",Channel Fight
+https://stream-us-east-1.getpublica.com/cl/fdc473b4-e950-4594-9253-1e8fe50cd6a9/960x540_1035340_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22703/cycleworld/logo_20200208_001435.png" group-title="DistroTV Sport",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/c.m3u8
