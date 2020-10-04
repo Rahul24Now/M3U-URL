@@ -165,15 +165,15 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=0XD4nFCiZ0E
+plugin://plugin.video.youtube/play/?video_id=sEJSv1Koero
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=ZAkq71b6VLw
+plugin://plugin.video.youtube/play/?video_id=mtI-Rfk210g
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=Tm2uXinN7YE
+plugin://plugin.video.youtube/play/?video_id=fI_auAE5ZW0
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
@@ -181,7 +181,7 @@ plugin://plugin.video.youtube/play/?video_id=Nx9m874yqCE
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=mhaIzNhoRTg
+plugin://plugin.video.youtube/play/?video_id=OQBoaSAkbUA
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT)
@@ -192,7 +192,7 @@ plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
 # https://www.youtube.com/channel/UC7tKJ6g5zCdAN4usNzY01hQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=y2uMYQDDzXM
+plugin://plugin.video.youtube/play/?video_id=Udc37ktQW7E
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="",AfterPT Jonquière (TWITCH)
 plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
@@ -211,6 +211,8 @@ plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio(TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
+
+
 # https://ckiafm.org/en-direct https://www.youtube.com/channel/UCiin_6OBCUC-YizybZG85wg #
 #EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=On-08L7kTkU
@@ -219,9 +221,6 @@ plugin://plugin.video.youtube/play/?video_id=On-08L7kTkU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Quebec TV",CILE Havre-Saint-Pierre (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=AUISenV3ocg
 
-# update link: http://egarizim.com/  #
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="Canadian TV",GARIZIM RIVE-SUD Stream le Dimanche (YT)
-plugin://plugin.video.youtube/play/?video_id=Iji0ayEUBRY
 
 ####
 
