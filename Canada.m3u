@@ -8,25 +8,25 @@
 plugin://plugin.video.youtube/play/?video_id=iBClhPJ5TIU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/4b63310fe82cc67.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d7afb6824649ec6.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymhAHpF.png" group-title="",► ABC SPARK
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/a800fc3f3bc7b98.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/afcf31635334cca.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djwLvl9.png" group-title="",► AMC CAN
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/b3780273489a39e.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/68caef2d264729a.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrvynVa.png" group-title="",► AMERICAN HERO
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/0090fa9fa249ffe.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/c107ae9213d092c.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GFoHKz.png" group-title="",► BBC Canada
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/07ec8d229077701.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/17e2fbf10348457.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJllL8Z.png" group-title="",► BET CAN
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/b631e773b2aa546.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/8f12c6a0ac29b75.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jILckhl.png" group-title="",blackflag.tv
 https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist.m3u8
@@ -36,7 +36,7 @@ https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist
 plugin://plugin.video.youtube/play/?video_id=ZaXSkSvqa_s
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCZ4VgJ.png" group-title="",► BRAVO CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/58091cab272583c.m3u8|User-Agent=stream
+hhttp://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/c6c9e1c9d29a952.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihpYMdJ.png" group-title="",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
@@ -106,7 +106,7 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuKdd24.png" group-title="",► CHCH
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/4d39be7452c4918.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/e4f310b8a02b60f.m3u8|User-Agent=stream
 
 # Update Link https://www.chch.com/live/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD-EXP)
@@ -119,16 +119,16 @@ https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/53309
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",► CITY TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/8d5c30ec02b8577.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/878a249cd2e6454.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5WMvALb.png" group-title="",► COMEDY GOLD
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/4273cb92c4502cd.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/64c1111a19c73f9.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0dnKxJd.png" group-title="",► COTTAGE LIFE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/0fdc18340633c85.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/90d25d8b05f2990.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k58usl.png" group-title="",► CP 24 
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/24d13ae7cd9dac0.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/1818bfb72eb2141.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC | English
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
@@ -137,19 +137,19 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CAJkcjW.png" group-title="",► CRIME INVESTIGATION CAN 
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/fd9f0a1a95a2ec0.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f2cf3cf1e395c5c.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="Canada",CTV (TT)
 plugin://script.module.tt/play/691/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6vremw.png" group-title="",► CTV NEWS
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/ac557fbf701d4c6.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/8d62a2326c5b765.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2H707B.png" group-title="",► CTV TWO
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/80b70ae9475beb3.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/a14ee913377b198.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",► CTV VANCOUVER
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/fd054d86040c2bc.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/90e4cd6c8ff16f0.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV video only
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
@@ -166,31 +166,31 @@ https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/2917038973_cvtv21_247
 https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/2917038973_cvtv22_247/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0dmRJRn.png" group-title="",► DAYSTAR
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/6a7e0d9961349ad.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/a0e61d7dd7853df.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c62ZUq3.png" group-title="",► DISCOVERY CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/fd755a8cbbd3bea.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/1deee8916549f8d.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/luu1BBL.png" group-title="",► DISCOVERY SCI CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/47ae793fce8b7ae.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/12023713f14bb5d.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hGO4izI.png" group-title="",► DIY NETWORK
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/0444d10eff9d91e.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/fa9182a2c73ff5f.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khD6vuy.png" group-title="",► DOCUMENTARY
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/980118f3984d842.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d31c17a23a06192.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQeS1i4.png" group-title="",► E! ENT CANDA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/0d6a3bfa1ef85d2.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/3ebd16015f7683c.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
 https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xM54fHS.png" group-title="News",► FOX NEWS CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/b09c5a404bd2116.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/61f14b3bc902dae.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5dOL2O.png" group-title="",► GAME TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/8765d918deb437d.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/35591ba73e0de21.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H036COy.png" group-title="Canada",Global TV (TT)
 plugin://script.module.tt/play/659/play.pvr
@@ -229,7 +229,7 @@ https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df528024
 https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s0PjRqw.png" group-title="",Global Toronto
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/9bf05cbdd555945.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/b71d978ae8cc919.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKbkHDf.png" group-title="News",Global News Vancouver 
 https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8
@@ -238,22 +238,22 @@ https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/ind
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ov8Yhbh.png" group-title="",► GSN CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/e17631c9a273978.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/93566ebf3202511.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q2kC456.png" group-title="",► HBO CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/6950b9f62a0fa63.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/6e250e707dc2b33.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azsvbVs.png" group-title="",► HGTV CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/2d0e49e36ae7a83.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/bb5444bb9bd6963.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFJEFAG.png" group-title="",► HISTORY CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/89e29702b0282af.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f988f6ee205ecc7.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QfZW5yQ.png" group-title="",► HLN 
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/99af8fbdb49b8e9.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d0b7fc043d7f217.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AF11e8l.png" group-title="",► IFC CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/955d030bf81c188.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/20ea0094f8b372f.m3u8|User-Agent=stream
 
 # https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (YT)
@@ -275,7 +275,7 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3
 https://lin10.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hTVk0fk.png" group-title="",► LIFETIME CAN
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/5fc931d45110137.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/90c7eea18eef7b0.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjEnQm9.jpg" group-title="",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
@@ -284,7 +284,7 @@ https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2RhJxrw.png" group-title="",► MOVIETIME CAN
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/26b835c81bd45ca.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f274b4207bde14c.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2NVXjc.png" group-title="",NET TV Toronto
 https://live.streams.ovh/NetvToronto/NetvToronto/chunklist_w1495472612.m3u8
@@ -301,13 +301,13 @@ http://d3krv8j28xkav1.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/lives
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MaOHKsm.png" group-title="",► OWN CAN
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/5481724a1404a72.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f726d51796f319d.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAb96Id.png" group-title="Kids",► PBS KIDS CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/22d6101cd21d5ed.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/320bf31dfe3df18.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mmk5qYX.png" group-title="",► PEACHTREE TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/8a5e2868cde0d92.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/87eeeae50141e9e.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/civVGxa.png" group-title="Religious",Quo Vadis TV
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
@@ -319,13 +319,13 @@ https://qvmstream.tulix.tv/720p/720p/chunklist_w518252905.m3u8
 https://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJvViZC.png" group-title="",► SHOWCASE CANADA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/fecad7a0fb42082.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/557469a9934e0e3.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tt3KNIw.png" group-title="",► SLICE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/cbc312b8aae2c3a.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/e33750ce6874012.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h535oXl.png" group-title="",► SPACE (CTV ScI-Fy)
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/f1441b3d7b7a09b.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/945a987e2a0b1a1.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXoCgM0.png" group-title="",Sportsnet 360
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/32992e5f7c5c370.m3u8|User-Agent=stream
@@ -358,10 +358,10 @@ plugin://plugin.video.youtube/play/?video_id=PyAkalHJgd0
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="",The Shopping Channel (OPT-2)
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/a7bad3d67f63ab6.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/ed4cea3085a6d9b.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",► THE WEATHER NETWORK
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/0db762ed95c4bfa.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43a.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",The Weather Network (OPT-2)
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
@@ -411,16 +411,16 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 plugin://plugin.video.youtube/play/?video_id=--1cTe4h2MY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",► TVO KIDS (OPT-2)
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/c26780bd0cb10e7.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/b06d7d239929527.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J406yXY.png" group-title="Kids",W NETWORK
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/e7585fe34c52bfe.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f0450a5ba06c17e.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="",wcgtv
 https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftpNSst.png" group-title="",► YES TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Canada/eb0269fed68079a.m3u8|User-Agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/7c215ea1103775e.m3u8|User-Agent=stream
 
 # https://www.zoomerradio.ca/ #
 #EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (YT)
