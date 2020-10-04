@@ -996,6 +996,10 @@ plugin://plugin.video.youtube/play/?video_id=CktZK9e-kh8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BEAaCb2.jpg" group-title="",LUCKY LUKE - ep18 - ep26 (YT)
 plugin://plugin.video.youtube/play/?video_id=THUK_nKf7Cg
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkFsN0Z.jpg" group-title="",Lucy
+http://w.sylviethiriez.com/Downloads/films/Lucy.mkv
+
+
 ###M###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/826.jpg" group-title="",Mad Max
