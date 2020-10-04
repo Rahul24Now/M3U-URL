@@ -12,56 +12,30 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idaS7Dw.jpg" group-title="",Finale de France de Billard Artistique 2020 (YT)
-plugin://plugin.video.youtube/play/?video_id=wtvKjlVM9Ew
+plugin://plugin.video.youtube/play/?video_id=R_orrCkCWJI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idaS7Dw.jpg" group-title="",Finale De France De Billard Artistique Par Équipe (YT)
-plugin://plugin.video.youtube/play/?video_id=NvXm_jceGrU
+plugin://plugin.video.youtube/play/?video_id=sHZl2tRe5AU
+
 # https://www.youtube.com/channel/UCA8Fa53ERQKGhVbD7XZa40g #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlzQqOC.jpg" group-title="",Live Radio Restos (YT)
 plugin://plugin.video.youtube/play/?video_id=HJlpV0qVMT4
-# https://www.france-sire.com/webtv.php https://www.youtube.com/channel/UClec6fW4Pcg_mZVgxYC21Ew #
-#EXTINF:-1 tvg-logo="https://www.france-sire.com/images/logo.png" group-title="",France Sire - Vente Arqana de l'Arc de Triomphe 2020 (YT)
-plugin://plugin.video.youtube/play/?video_id=Sx52-P-Ckig
-#EXTINF:-1 tvg-logo="https://www.france-sire.com/images/logo.png" group-title="",France Sire - Vente Arqana de l'Arc de Triomphe - 2020 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=4PiLkzWScPI
-# https://www.youtube.com/channel/UCzrjIzE1Hp3UkXAYEawK3JA https://www.iledefrance.fr/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FoTFo0X.png" group-title="",Région Île-de-France (YT)
-plugin://plugin.video.youtube/play/?video_id=BuKBQlH44xs
-# https://www.youtube.com/channel/UCAw1n-VnQrZyPGwj82fLcjQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Rj7mSb.jpg" group-title="",Assemblée Générale - Éclaireuses Éclaireurs de France (YT)
-plugin://plugin.video.youtube/play/?video_id=MbrbGu89vZo
-#EXTINF:-1 tvg-logo="nologo.png" group-title="",En direct: Les Gilets Jaunes Acte 85 (YT)
-plugin://plugin.video.youtube/play/?video_id=lrHPp-P7CCA
+
+# https://www.youtube.com/user/citedessciences #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPQuIVQ.jpg" group-title="",Cité des sciences et de l'industrie 1 (YT)
+plugin://plugin.video.youtube/play/?video_id=Hka0tfGqzLk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPQuIVQ.jpg" group-title="",Cité des sciences et de l'industrie 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=okPMqGqtCng
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPQuIVQ.jpg" group-title="",Cité des sciences et de l'industrie 3 (YT)
+plugin://plugin.video.youtube/play/?video_id=VlEyffOqjsA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPQuIVQ.jpg" group-title="",Cité des sciences et de l'industrie 4 (YT)
+plugin://plugin.video.youtube/play/?video_id=eri30mI0U3U
 
 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",Election Miss Franche Comté (YT)
+plugin://plugin.video.youtube/play/?video_id=Kjdn10V1iw4
 
-# https://www.youtube.com/channel/UCZ1adoWtdSQGI79Uq9zaGzQ 
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance (YT)
-plugin://plugin.video.youtube/play/?video_id=EQpvWd5HJHk
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=EN9IM7gt99g
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 3 (YT)
-plugin://plugin.video.youtube/play/?video_id=zOvIoTa85Qo
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 4 (YT)
-plugin://plugin.video.youtube/play/?video_id=u89IA2DSnbg
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 5 (YT)
-plugin://plugin.video.youtube/play/?video_id=6gCl8W1CQhU
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 6 (YT)
-plugin://plugin.video.youtube/play/?video_id=jPv568V8Ha4
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 7 (YT)
-plugin://plugin.video.youtube/play/?video_id=-ohjPNjbIBQ
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 8 (YT)
-plugin://plugin.video.youtube/play/?video_id=dmZmGmgqG8s
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 9 (YT)
-plugin://plugin.video.youtube/play/?video_id=30WhsrN5da0
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 10 (YT)
-plugin://plugin.video.youtube/play/?video_id=TtC5-qATk4Y
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Bpifrance 11 (YT)
-plugin://plugin.video.youtube/play/?video_id=uBKtNHRigIM
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Big Live TV (YT)
-plugin://plugin.video.youtube/play/?video_id=WEqYMH4NaII
-#EXTINF:-1 tvg-logo="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" group-title="",Big 2020 - l'Ampli (YT)
-plugin://plugin.video.youtube/play/?video_id=uYotZwhkqiw
-
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",ROLLER HOCKEY - CHAMPIONNAT DE FRANCE U17 (YT)
+plugin://plugin.video.youtube/play/?video_id=sFqWRxTx2qc
 
 #######
 
