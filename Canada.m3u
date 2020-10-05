@@ -4,9 +4,6 @@
 0.0.0.0
 
 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="",Canada T20 - Cricket Premier League (YT)
-plugin://plugin.video.youtube/play/?video_id=iBClhPJ5TIU
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d7afb6824649ec6.m3u8|User-Agent=stream
 
@@ -46,7 +43,7 @@ http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 
 # https://www.youtube.com/channel/UCuB9b-D26b4gjUmaAZKo_IQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jt4GxXw.png" group-title="",CARP (YT)
-plugin://plugin.video.youtube/play/?video_id=bAsZNZuD5DM
+plugin://plugin.video.youtube/play/?video_id=bHsQmsLEmeI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC (TT)
 plugin://script.module.tt/play/613/play.pvr
