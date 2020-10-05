@@ -300,6 +300,8 @@ plugin://plugin.video.youtube/play/?video_id=roI3TO57jK4
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/625.jpg" group-title="",Bumblebee
 https://de13.seedr.cc/media/video/lq_hls/e45b9c2e941c9df4202cfcdee448d11e8869adb2/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/956.jpg" group-title="",Burn Out
+https://lo1.seedr.cc/media/video/lq_hls/nl26/27a01da1bb7d91258e54315d177aa145512207c2/vid.m3u8
 
 ###C###
 
@@ -336,6 +338,8 @@ https://fr9.seedr.cc/media/video/hd_hls/805501fb6260235450c97453b53c156bca6bd74c
 https://fr4.seedr.cc/media/video/hd_hls/8c27ed53dcd003436e7b08b6ccfc47e602b3215b/vid.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/062WXI3.jpg" group-title="",Cinquante nuances plus sombres
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Cinquante+Nuances+plus+sombres+streaming+vf+%E2%80%94+Streamay_2.mp4
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/977.jpg" group-title="",Cinquante nuances de Black
+https://de16.seedr.cc/media/video/lq_hls/486edf10ec45b8c9b5b6a71dcc8b293e78bbb96a/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R1NSai9.jpg" group-title="",Chasseurs de Monstres (YT)
 plugin://plugin.video.youtube/play/?video_id=5Sob77aSr-Y
@@ -1119,14 +1123,19 @@ https://nl19.seedr.cc/media/video/hd_hls/fb92512eccf68077576cb651f7f15a1b19de72b
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/749.jpg" group-title="",Nelly et Simon - Mission Yéti
 https://fr11.seedr.cc/media/video/hd_hls/981440549fcebba2eabc54d2d163b14704327b2f/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/309.jpg" group-title="",Nicky Larson et le Parfum de Cupidon
+https://fr4.seedr.cc/media/video/hd_hls/6e600ad507527dce2d41b79f711bcb65bcf91d8f/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/351.jpg" group-title="",Nightmare Island
 https://nl20.seedr.cc/media/video/hd_hls/9d477bcd678612c47257401874b258b88c90812c/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tDOpixh.jpg" group-title="",Nightworld
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/La+Tour+sombre+streaming+vf+%E2%80%94+Streamay.mp4
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/309.jpg" group-title="",Nicky Larson et le Parfum de Cupidon
-https://fr4.seedr.cc/media/video/hd_hls/6e600ad507527dce2d41b79f711bcb65bcf91d8f/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/963.jpg" group-title="",Ninja Turtles
+https://nl19.seedr.cc/media/video/lq_hls/09ac2ece303bb9fe5c061ce8cfd78aebdc4e8f19/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/964.jpg" group-title="",Ninja Turtles 2
+https://nl23.seedr.cc/media/video/hd_hls/959a754c38e89a351ddd53fd1f25acc942e806aa/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/66.jpg" group-title="",Nevada
 https://sf1.seedr.cc/media/video/hd_hls/nl34/7c442a1cc099b0f5f21a6dd255d68de90e0bd4c9/vid.m3u8
@@ -1694,6 +1703,9 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pi0fgi8.jpg" group-title="",Waves
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Waves+en+streaming+-+Film+streaming+complet+vf+hd+gratuit+sans+pub+2020.mp4
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/966.jpg" group-title="",Wheelman 
+https://nl35.seedr.cc/media/video/hd_hls/cf203548a2fdd0ea99f3bcd38298c32e56c54b03/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/140.jpg" group-title="",White House Down
 https://fr5.seedr.cc/media/video/hd_hls/a9d403baa7a8689d0f6a420790b8ec864d780bda/vid.m3u8
