@@ -4,20 +4,6 @@
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/REVPBC6.jpg" group-title="",Le Stu-Dio
-plugin://plugin.video.youtube/play/?video_id=LgHhAbKYV2E
-
-# https://www.youtube.com/channel/UCRCZCSgW4MEEO2I_8OtMaTw #
-#EXTINF:-1 tvg-logo="https://francosmontreal.com/apple-touch-icon.png" group-title="",Francos de Montréal 24 (YT)
-plugin://plugin.video.youtube/play/?video_id=1gS9rS3uo6w
-#EXTINF:-1 tvg-logo="https://francosmontreal.com/apple-touch-icon.png" group-title="",Francos de Montréal 25 (YT)
-plugin://plugin.video.youtube/play/?video_id=DqeP4B-C7P8
-#EXTINF:-1 tvg-logo="https://francosmontreal.com/apple-touch-icon.png" group-title="",Francos de Montréal 26 (YT)
-plugin://plugin.video.youtube/play/?video_id=OfjBNrTBrRQ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZuRTx85.jpg" group-title="",Société de musique contemporaine du Québec
-plugin://plugin.video.youtube/play/?video_id=fdeyDFowLhM
-
 
 # update link: https://video.tva.ca/page/direct #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVA.png?raw=true" group-title="Quebec TV",TVA 1080
@@ -211,7 +197,8 @@ plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio(TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/REVPBC6.jpg" group-title="",Le Stu-Dio (YT) (UDP)
+plugin://plugin.video.youtube/play/?video_id=LgHhAbKYV2E
 
 # https://ckiafm.org/en-direct https://www.youtube.com/channel/UCiin_6OBCUC-YizybZG85wg #
 #EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD)
