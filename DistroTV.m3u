@@ -53,8 +53,8 @@ https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 https://edge2.tikilive.com:8443/unrestricted_tikilive/56434/amlst:keY3DogwDbXV/chunklist_w1668228739_b4855826.m3u8?i=YXBwTmFtZT1VbnJlc3RyaWN0ZWQmY0lEPTU2NDM0JmNOYW1lPUNKQytOZXR3b3JrJm9JRD04NDA4MDYmb05hbWU9Y2ozMw%3D%3D
 
 # https://a.jsrdn.com/hls/22882/logo_20201002_165225_68.png #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HatZvTA.jpg" group-title="DistroTV",Cooking Panda
-https://stream.ads.ottera.tv/cl/554917f7-da69-49eb-bad6-9f7981899c1a/1024x576_1721342_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HatZvTA.jpg" group-title="DistroTV",Cooking Panda (UPD)
+https://stream.ads.ottera.tv/cl/ea5820d6-b6be-48cf-9559-f16675813259/1024x576_1654704_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/contv/logo_20191126_224818.png" group-title="DistroTV",CONtv HD
 https://a.jsrdn.com/broadcast/44hgsuu7/c.m3u8
@@ -65,8 +65,8 @@ https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/dove-channel/logo_20191213_195855.png" group-title="DistroTV",Dove Channel
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/drinktv/logo_20200930_061821_68.png" group-title="DistroTV",DrinkTV
-https://stream.ads.ottera.tv/cl/aac450bd-91d6-4845-980c-2ee5890f6dfc/1024x576_1721360_6.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/drinktv/logo_20200930_061821_68.png" group-title="DistroTV",DrinkTV (UPD)
+https://stream.ads.ottera.tv/cl/e6d4c90e-1985-444a-8db4-fd1e2681619e/1024x576_1721360_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCwsArY.png" group-title="DistroTV",Dry Bar Comedy
 https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
@@ -209,8 +209,8 @@ https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22886/the-grid/logo_20200819_003042_68.png" group-title="DistroTV",The Grid
 https://edge1.tikilive.com:8443/unrestricted_tikilive/56436/amlst:dw0N76Va7nRJ/chunklist_w1036490540_b2833102.m3u8?i=YXBwTmFtZT1VbnJlc3RyaWN0ZWQmY0lEPTU2NDM2JmNOYW1lPVRoZUdyaWQrTmV0d29yayZvSUQ9ODQwODA2Jm9OYW1lPWNqMzM%3D
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/the-love-destination/logo_20200930_053809_68.png" group-title="DistroTV",The Love Destination
-https://stream.ads.ottera.tv/cl/47596364-5599-4f91-ad0d-b513913a5da0/1024x576_1722112_5.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/the-love-destination/logo_20200930_053809_68.png" group-title="DistroTV",The Love Destination (UPD)
+https://stream.ads.ottera.tv/cl/af16591c-e282-4318-ba7f-09e96e61bcf8/1024x576_1632134_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png" group-title="DistroTV",The Titanic Channel
 https://a.jsrdn.com/broadcast/22719/+0000/c.m3u8
@@ -242,8 +242,8 @@ https://gizmeon.s.llnwi.net/livehls/ngrp:CHANNEL275_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22834/bspoketv/logo_20200603_042338.png" group-title="DistroTV",bspoketv
 https://a.jsrdn.com/broadcast/2hdx8s3n/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/channel-fight/logo_20200930_055751_68.png" group-title="DistroTV",Channel Fight
-https://stream-us-east-1.getpublica.com/cl/20e711f0-3b04-4009-bc10-94b0b3842e00/960x540_982700_2.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/channel-fight/logo_20200930_055751_68.png" group-title="DistroTV",Channel Fight (UDP)
+https://stream-us-east-1.getpublica.com/cl/bf43391a-fc9b-4b06-8ece-e70b7eb7f83f/960x540_1045780_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22703/cycleworld/logo_20200208_001435.png" group-title="DistroTV Sport",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/c.m3u8
