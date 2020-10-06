@@ -39,6 +39,8 @@ plugin://plugin.video.youtube/play/?video_id=pnzGJvZjhqk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr3V0t5.jpg" group-title="",QUAND L' ARCHÉOLOGIE CONTREDIT LA BIBLE (YT)
 plugin://plugin.video.youtube/play/?video_id=H5VQ495B62o
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c6UEFUb.jpg" group-title="",Les évangiles cachés de la Bible (YT)
+plugin://plugin.video.youtube/play/?video_id=q0xFCRcQEvY
 
 ###0###
 
