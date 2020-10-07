@@ -210,6 +210,9 @@ https://fr11.seedr.cc/media/video/hd_hls/5c8450a6a6c8e96e2b37a14ba87c13cf129f218
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/355.jpg" group-title="",Bad Boys for Life
 https://nl37.seedr.cc/media/video/hd_hls/8a9709fd151f4d30ba5f0f00386825a684f74aa1/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/988.jpg" group-title="",Badland
+https://nl32.seedr.cc/media/video/hd_hls/2b369b67e034c06f799ada05a244f6b2b3283646/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/401.jpg" group-title="",Balle perdue
 https://fr1.seedr.cc/media/video/hd_hls/184e537dfc1382a21c5fd45cb5af94f0acea3db7/vid.m3u8
 
@@ -252,8 +255,8 @@ https://nl31.seedr.cc/media/video/lq_hls/bc086cbed32bd025f50803443c60c443482d6cd
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/617.jpg" group-title="",Breaking In
 https://de12.seedr.cc/media/video/lq_hls/00a0e8e3dde391c0102bca1815ba5722a0b1e536/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BwKif7v.jpg" group-title="",Bright
-https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Bright+streaming+sur+Streamay.mp4
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/980.jpg" group-title="",Bright
+https://fr10.seedr.cc/media/video/hd_hls/f1e7185c9a4ac5077cc60dd9fc9c81543d27792d/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/830.jpg" group-title="",Broken Arrow
 https://nl37.seedr.cc/media/video/hd_hls/55bfa6e170a178042f431084426eb775dd2e9f74/vid.m3u8
@@ -704,6 +707,9 @@ https://de11.seedr.cc/media/video/hd_hls/9c2bfa3cad6c53a1375059241b32ae7ca9e06d4
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/661.jpg" group-title="",James Bond - Skyfall
 https://fr1.seedr.cc/media/video/lq_hls/b1d617a8b77efc89470bb125dfb687c03b368f6c/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/995.jpg" group-title="",Jobs
+https://nl33.seedr.cc/media/video/hd_hls/32659c4b8a743ba1cc75232841b8d0abe3a5709c/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9pxDUO.jpg" group-title="",John Wick
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/John+Wick+en+Streaming+VF+GRATUIT+Complet+HD+2014+en+Fran%C3%A7ais._2.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xHYuhWg.jpg" group-title="",John Wick 2
@@ -1029,9 +1035,8 @@ plugin://plugin.video.youtube/play/?video_id=CktZK9e-kh8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BEAaCb2.jpg" group-title="",LUCKY LUKE - ep18 - ep26 (YT)
 plugin://plugin.video.youtube/play/?video_id=THUK_nKf7Cg
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TkFsN0Z.jpg" group-title="",Lucy
-http://w.sylviethiriez.com/Downloads/films/Lucy.mkv
-
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1006.jpg" group-title="",Lucy
+https://nl35.seedr.cc/media/video/lq_hls/881d41776a55b4ed322ce6c9a33a908d33b7829d/vid.m3u8?dvr
 
 ###M###
 
@@ -1168,6 +1173,9 @@ https://fr7.seedr.cc/media/video/lq_hls/430a467e25e14d096ae3ab083cbddfe221d142e2
 
 ###O###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1004.jpg" group-title="",Òlòtūré
+https://fr8.seedr.cc/media/video/hd_hls/006a01f5672287f5d3a99f5da80ad97f5640e51d/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/686.jpg" group-title="",Obsession secrète
 https://fr3.seedr.cc/media/video/hd_hls/49109644780c1ecda6beef1c1226e68062001a44/vid.m3u8
 
@@ -1202,6 +1210,9 @@ https://nl22.seedr.cc/media/video/hd_hls/f4505f89d140dc593b41c3fa5870c51d4a9cf8f
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/753.jpg" group-title="",Pets United - L'union fait la force
 https://nl25.seedr.cc/media/video/hd_hls/5a7cd2f0915582f36620a71d834dfe60fda5e7ad/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/983.jpg" group-title="",Phoenix Forgotten
+https://nl30.seedr.cc/media/video/hd_hls/17c72639456dd205f6df89134bf4eba1ae711111/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/291.jpg" group-title="",Pinocchio
 https://fr7.seedr.cc/media/video/hd_hls/82f6c68c2583b6fa21042ba9c3c1109b31ebd778/vid.m3u8
@@ -1714,6 +1725,9 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/film
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/640.jpg" group-title="",Waiting for the Barbarians
 https://nl34.seedr.cc/media/video/hd_hls/d244f74aa165acc6f0a8b2ea8486ba77f378a73f/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/979.jpg" group-title="",War Machine
+https://nl19.seedr.cc/media/video/hd_hls/19f3209a28cd90fc22907bebbe271c8d7e3dd4e5/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/265.jpg" group-title="",Warning : Do not play
 https://nl37.seedr.cc/media/video/hd_hls/d1843610597a7aca81bbd13f3a5b8ea770bc4298/vid.m3u8
