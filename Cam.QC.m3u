@@ -58,7 +58,7 @@ plugin://plugin.video.youtube/play/?video_id=fRxH3IVSCPM
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
-https://mia.rtsp.me/eCaDrNRqy87cc1VFzsrjog/1601426314/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/jDDntIHTHvHSXMv7rOSThw/1602164977/hls/3yB3SNsr.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
@@ -92,7 +92,7 @@ http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="",Cap-Colombier,Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=_7sD7zHovGo
+plugin://plugin.video.youtube/play/?video_id=k-EkblXfXn4
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile Drummondville
