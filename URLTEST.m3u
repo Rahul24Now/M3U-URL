@@ -11,7 +11,8 @@ https://github.com/Sphinxroot/M3U-URL/blob/master/Fluxus.tv/Index2.m3u
 ##Dailymotion##
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/Njj2M62/dailymotion.png" tvg-name="DailyMotion"  group-title="New Group",DM TEST plugins
-plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x69a2vh
+plugin://plugin.video.dailymotion_com/?url=x69a2vh&mode=playLiveVideo
+#plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x69a2vh
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/Njj2M62/dailymotion.png" tvg-name="DailyMotion"  group-title="New Group",DM TEST Direct link 
 https://www.dailymotion.com/video/x69a2vh
