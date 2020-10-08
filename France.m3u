@@ -11,6 +11,10 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]stream temporaire / Evenement[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+# https://www.youtube.com/channel/UC3BW_IlgG6orWiej8jYpEow
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvjklxQ.jpg" group-title="",Académie des sciences (YT)
+plugin://plugin.video.youtube/play/?video_id=CaAcSJI0oMs
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hK7iWCJ.png" group-title="",Sélections Olympiques Françaises Canoë Kayak Slalom - A (DM)
 plugin://plugin.video.dailymotion_com/?url=x7wopfm&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hK7iWCJ.png" group-title="",Sélections Olympiques Françaises Canoë Kayak Slalom - B (DM)
@@ -20,6 +24,9 @@ plugin://plugin.video.dailymotion_com/?url=x7wopg9&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
 plugin://plugin.video.youtube/play/?video_id=oUfrcmfKh44
 
+# https://www.youtube.com/channel/UCOZfI-5ZJsi1p7IzTl8UKnA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LOocdjr.jpg" group-title="",France AutoTech (YT)
+plugin://plugin.video.youtube/play/?video_id=8zaa-I8rVf8
 
 #EXTINF:-1 tvg-logo="" group-title="",Update dailymotion -- tout les liens reformater pour etre compatible avec le plugin dailymotion 2.4.2 
 0.0.0.0
