@@ -16,6 +16,10 @@ plugin://plugin.video.dailymotion_com/?url=x7wopfm&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hK7iWCJ.png" group-title="",Sélections Olympiques Françaises Canoë Kayak Slalom - B (DM)
 plugin://plugin.video.dailymotion_com/?url=x7wopg9&mode=playLiveVideo
 
+# https://www.youtube.com/channel/UCCDz_XYeKWd0OIyjp95dqyQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
+plugin://plugin.video.youtube/play/?video_id=oUfrcmfKh44
+
 
 #EXTINF:-1 tvg-logo="" group-title="",Update dailymotion -- tout les liens reformater pour etre compatible avec le plugin dailymotion 2.4.2 
 0.0.0.0
