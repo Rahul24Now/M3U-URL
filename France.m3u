@@ -15,6 +15,10 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvjklxQ.jpg" group-title="",Académie des sciences (YT)
 plugin://plugin.video.youtube/play/?video_id=CaAcSJI0oMs
 
+# https://www.youtube.com/channel/UCH6rAZUDfVIoVSJjm3vlcnw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0E2fqRC.jpg" group-title="",L'Esprit Sorcier Officiel - LE POUVOIR DES PLANTES (YT)
+plugin://plugin.video.youtube/play/?video_id=WLHZ9FxFi6U
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hK7iWCJ.png" group-title="",Sélections Olympiques Françaises Canoë Kayak Slalom - A (DM)
 plugin://plugin.video.dailymotion_com/?url=x7wopfm&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hK7iWCJ.png" group-title="",Sélections Olympiques Françaises Canoë Kayak Slalom - B (DM)
