@@ -195,8 +195,12 @@ plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA
 plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 
 # update link: https://kracradio.com/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio(TWITCH)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
+
+# https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (YT)
+plugin://plugin.video.youtube/play/?video_id=Ht_wyflI6rM
 
 # https://ckiafm.org/en-direct https://www.youtube.com/channel/UCiin_6OBCUC-YizybZG85wg #
 #EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD)
