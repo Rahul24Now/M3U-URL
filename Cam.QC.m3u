@@ -7,23 +7,23 @@
 plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
 
 # update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=1dNtWrRZafM
 
 # update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=m9Ta7TCkTQU
 
 # update link: https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=CYsga-lqnzc
 
 # update link: https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=uk4_G6m96Sg
 
 # Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=bFQxTDv86sg
 
 # update link: https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ #
@@ -31,7 +31,7 @@ plugin://plugin.video.youtube/play/?video_id=bFQxTDv86sg
 plugin://plugin.video.youtube/play/?video_id=VvZFRbo2KIg
 
 # update link: https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=z6AF-4OZ0cw
 
 # Update Link: https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q #
@@ -58,7 +58,7 @@ plugin://plugin.video.youtube/play/?video_id=fRxH3IVSCPM
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
-https://mia.rtsp.me/jDDntIHTHvHSXMv7rOSThw/1602164977/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/_xgIvNDDOjjWfk2Fmy6zZQ/1602255713/hls/3yB3SNsr.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
@@ -91,8 +91,8 @@ http://24.37.234.6:8082/mjpg/video.mjpg
 http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="",Cap-Colombier,Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=k-EkblXfXn4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="",Cap-Colombier,Québec (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=feeE_6Pj5fo
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile Drummondville
