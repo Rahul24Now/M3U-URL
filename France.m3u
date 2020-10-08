@@ -906,7 +906,7 @@ plugin://plugin.video.youtube/play/?video_id=fIUJSf0glRc
 
 # https://www.youtube.com/channel/UC6V-tTuTNwnnysyYkiHkZ2Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTCXWBZ.png" group-title="",Radio Notre Dame (YT)
-plugin://plugin.video.youtube/play/?video_id=58_OrnPmKBY
+plugin://plugin.video.youtube/play/?video_id=N4lmaYQDkCg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IPIQiS.png" group-title="",Reveil TV
 http://scaz.streamingchurch.tv:1935/7256/7256/playlist.m3u8
