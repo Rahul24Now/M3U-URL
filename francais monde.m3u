@@ -7,7 +7,7 @@
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kk0dl66.png" group-title="",2stv (DM)
-plugin://plugin.video.dailymotion_com/?url=x7tw89g&mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x7vidbbg&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAFKBsu.png" group-title="",3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/SQs/chunklist.m3u8
@@ -27,7 +27,6 @@ https://edge6.vedge.infomaniak.com/livecast/ik:afri4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://africa7.tv/wp-content/uploads/2019/05/cropped-logo-bon.png" group-title="",AFRICA7 (DM)
 plugin://plugin.video.dailymotion_com/?url=x7te5yu&mode=playLiveVideo
-
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/c9aytZa.png" group-title="",Africa24 (YT)
 plugin://plugin.video.youtube/play/?video_id=L5Ppr0JvPws
@@ -109,6 +108,9 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/benie_tv/hls_video/benie_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZI1Gx6.png" group-title="",BIKUTSI TV
 http://connectiktv.ddns.net:5000/bikutsitv/bikutsi_360p/chunklist_w614574595.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhBT4jB.png" group-title="",BNMTV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7v306o&mode=playLiveVideo
+
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/CNnyD4S.png" group-title="",BossBrothers TV
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8 
 
@@ -189,7 +191,6 @@ plugin://plugin.video.dailymotion_com/?url=x6cq41k&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7VTtSC.png" group-title="",Def Tv (DM)
 plugin://plugin.video.dailymotion_com/?url=x7uw6jc&mode=playLiveVideo
-
 
 # http://dtv.sn/home/dtvlive #
 #EXTINF:-1 tvg-id="Africa" tvg-logo="http://dtv.sn/assets/images/logo.png" tvg-name="DTV"  group-title="Fr",DTV
@@ -351,9 +352,8 @@ https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/jV1IyRU.jpg" tvg-url="" group-title="",Mouride TV
 http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
 
-# https://www.youtube.com/channel/UChDh4FIFs__u-HXk5z_0prA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sZQuCB5.jpg" group-title="",NOURDINE TV KANKAN (OPT-2) (YT) (UPD) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=ggkgnAOqWkc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZQuCB5.jpg" group-title="",NOURDINE TV KANKAN (OPT-2) (DM)
+plugin://plugin.video.dailymotion_com/?url=x740psx&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/BuKv5Vj.png" group-title="",MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
@@ -498,6 +498,9 @@ https://www.enovativecdn.com:4433/radio/radiorci.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://www.rti.ci/radio/frequence2/images/logo_frequence2.png" group-title="Fr",FRQ2
 https://www.enovativecdn.com:4433/rticdn/smil:rtif2.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jKUvRMS.png" group-title="",RSTV5 (DM)
+plugin://plugin.video.dailymotion_com/?url=x3m96sp&mode=playLiveVideo
+
 # https://www.youtube.com/channel/UCWwP6VfG61i7BWSV0H3Jn9A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VrFWnG.png" group-title="",RTVC (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=5i9j4aQ_SiE
@@ -577,7 +580,7 @@ http://41.213.129.46:8080/2.ts
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/vZmlq9N.jpg" group-title="",Tele Louange
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tuDd4hY.png" group-title="",Tele Shalom(DM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuDd4hY.png" group-title="",Tele Shalom (DM)
 plugin://plugin.video.dailymotion_com/?url=x7u4q05&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="Fr" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tgvN6s3.jpg" tvg-country="HT" tvg-url="" group-title="",Tele Soleil
