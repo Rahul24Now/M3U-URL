@@ -11,9 +11,15 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]stream temporaire / Evenement[/COLOR]★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hK7iWCJ.png" group-title="",Sélections Olympiques Françaises Canoë Kayak Slalom - A (DM)
+plugin://plugin.video.dailymotion_com/?url=x7wopfm&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hK7iWCJ.png" group-title="",Sélections Olympiques Françaises Canoë Kayak Slalom - B (DM)
+plugin://plugin.video.dailymotion_com/?url=x7wopg9&mode=playLiveVideo
+
 
 #EXTINF:-1 tvg-logo="" group-title="",Update dailymotion -- tout les liens reformater pour etre compatible avec le plugin dailymotion 2.4.2 
 0.0.0.0
+
 #######
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France TV[/COLOR]★★★★★★★★★★
