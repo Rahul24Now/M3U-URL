@@ -3,6 +3,9 @@
 
 #### Made By Sphinxroot QC ####
 
+#EXTINF:-1 tvg-logo="" group-title="",Update dailymotion -- tout les liens reformater pour etre compatible avec le plugin dailymotion 2.4.2 
+0.0.0.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kk0dl66.png" group-title="",2stv (DM)
 plugin://plugin.video.dailymotion_com/?url=x7tw89g&mode=playLiveVideo
 
