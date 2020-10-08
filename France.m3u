@@ -28,6 +28,9 @@ plugin://plugin.video.dailymotion_com/?url=x7wopg9&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
 plugin://plugin.video.youtube/play/?video_id=oUfrcmfKh44
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
+plugin://plugin.video.youtube/play/?video_id=p749nKXfID4
+
 # https://www.youtube.com/channel/UCOZfI-5ZJsi1p7IzTl8UKnA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LOocdjr.jpg" group-title="",France AutoTech (YT)
 plugin://plugin.video.youtube/play/?video_id=8zaa-I8rVf8
