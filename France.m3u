@@ -11,33 +11,6 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]stream temporaire / Evenement[/COLOR]★★★★★★★★★★
 0.0.0.0
 
-# https://www.youtube.com/channel/UC3BW_IlgG6orWiej8jYpEow
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bvjklxQ.jpg" group-title="",Académie des sciences (YT)
-plugin://plugin.video.youtube/play/?video_id=CaAcSJI0oMs
-
-# https://www.youtube.com/channel/UCH6rAZUDfVIoVSJjm3vlcnw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0E2fqRC.jpg" group-title="",L'Esprit Sorcier Officiel - LE POUVOIR DES PLANTES (YT)
-plugin://plugin.video.youtube/play/?video_id=WLHZ9FxFi6U
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hK7iWCJ.png" group-title="",Sélections Olympiques Françaises Canoë Kayak Slalom - A (DM)
-plugin://plugin.video.dailymotion_com/?url=x7wopfm&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hK7iWCJ.png" group-title="",Sélections Olympiques Françaises Canoë Kayak Slalom - B (DM)
-plugin://plugin.video.dailymotion_com/?url=x7wopg9&mode=playLiveVideo
-
-# https://www.youtube.com/channel/UCCDz_XYeKWd0OIyjp95dqyQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
-plugin://plugin.video.youtube/play/?video_id=oUfrcmfKh44
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
-plugin://plugin.video.youtube/play/?video_id=p749nKXfID4
-
-# https://www.youtube.com/channel/UCOZfI-5ZJsi1p7IzTl8UKnA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LOocdjr.jpg" group-title="",France AutoTech (YT)
-plugin://plugin.video.youtube/play/?video_id=8zaa-I8rVf8
-
-#EXTINF:-1 tvg-logo="" group-title="",Update dailymotion -- tout les liens reformater pour etre compatible avec le plugin dailymotion 2.4.2 
-0.0.0.0
-
 #######
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France TV[/COLOR]★★★★★★★★★★
@@ -423,6 +396,11 @@ http://51.210.182.17:25461/live/tdn/42175391073/10365.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVOFZs.png" group-title="",Evandis
 https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+
+# https://www.youtube.com/channel/UCCDz_XYeKWd0OIyjp95dqyQ
+# https://www.youtube.com/user/lefigaro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
+plugin://plugin.video.youtube/play/?video_id=p749nKXfID4
 
 #EXTINF:-1 tvg-id="France" tvg-name="France info" tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png" group-title="France",France info
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceinfo-14390660/hls/index.m3u8
