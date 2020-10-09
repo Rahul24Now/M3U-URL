@@ -888,6 +888,9 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 #EXTINF:-1 tvg-id="France" tvg-name="radio inter s'cool" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kgQfPT5D6J.png"group-title="France",radio inter s'cool (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=fIUJSf0glRc
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LmYNqd9.jpg" group-title="",Radio Melodie Story (TWITCH)
+plugin://plugin.video.twitch/?channel_id=569416637&amp;mode=play
+
 # https://www.youtube.com/channel/UC6V-tTuTNwnnysyYkiHkZ2Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTCXWBZ.png" group-title="",Radio Notre Dame (YT)
 plugin://plugin.video.youtube/play/?video_id=N4lmaYQDkCg
