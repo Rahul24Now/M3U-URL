@@ -502,8 +502,8 @@ https://www.enovativecdn.com:4433/rticdn/smil:rtif2.smil/playlist.m3u8
 plugin://plugin.video.dailymotion_com/?url=x3m96sp&mode=playLiveVideo
 
 # https://www.youtube.com/channel/UCWwP6VfG61i7BWSV0H3Jn9A
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VrFWnG.png" group-title="",RTVC (YT) (UPD) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=5i9j4aQ_SiE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VrFWnG.png" group-title="",RTVC (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=_J5z9vl0UBk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJ21s63.png" group-title="",Rwanda Tv
 https://1600706787.rsc.cdn77.org/1600706787/tracks-v1a1/mono.m3u8
