@@ -31,8 +31,8 @@ plugin://plugin.video.youtube/play/?video_id=bFQxTDv86sg
 plugin://plugin.video.youtube/play/?video_id=VvZFRbo2KIg
 
 # update link: https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (YT) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=z6AF-4OZ0cw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (YT)
+plugin://plugin.video.youtube/play/?video_id=n88FInL_PqI
 
 # Update Link: https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT) (UPD)
@@ -94,8 +94,12 @@ http://24.37.234.6:8083/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="",Cap-Colombier,Québec (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=feeE_6Pj5fo
 
+# https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="",rue Augustin-Carrier,Lévis (YT)
+plugin://plugin.video.youtube/play/?video_id=tPbfgKJzbWg
+
 # update link: #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile Drummondville
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile,Drummondville
 http://207.164.82.197:8001/mjpg/video.mjpg
 
 # https://www.youtube.com/channel/UCY58ggqQB70vAG_ZEce4U8g http://marinadeneuville.org/nouveau/index.php/webcams #
@@ -103,7 +107,7 @@ http://207.164.82.197:8001/mjpg/video.mjpg
 plugin://plugin.video.youtube/play/?video_id=3Z4FBuXECsw
 
 # update link: https://montcastor.com/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BGndFto.png" group-title="Cam",Mont-Castor Matane
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BGndFto.png" group-title="Cam",Mont-Castor,Matane
 http://montcastor.axiscam.net:9000/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCpV6Dn5hiout62phgZk9oEw #
