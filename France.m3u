@@ -817,7 +817,7 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Parispremiere_live/index.m3u
 
 # update link : https://www.youtube.com/user/PearlDiffusion #
 #EXTINF:-1 tvg-id="France" tvg-name="PearlTV" tvg-logo="https://content.pearl.fr/bundles/pearlfront/images/general/logo_pearl_bleu.png"group-title="France",PearlTV (YT)
-plugin://plugin.video.youtube/play/?video_id=sEx_exhUBcg
+plugin://plugin.video.youtube/play/?video_id=cWYoHKBLJV4
 
 #EXTINF:-1 tvg-logo="http://www.boulistenaute.com/logo.png" group-title="",Pétanque avec Boulistenaute (DM)
 plugin://plugin.video.dailymotion_com/?url=x7n019d&mode=playLiveVideo
