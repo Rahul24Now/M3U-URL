@@ -157,7 +157,7 @@ plugin://plugin.video.youtube/play/?video_id=94CVjf5bpKU
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=fI_auAE5ZW0
+plugin://plugin.video.youtube/play/?video_id=Z7-dPRWPUbM
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
