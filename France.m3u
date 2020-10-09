@@ -397,6 +397,9 @@ http://51.210.182.17:25461/live/tdn/42175391073/10365.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVOFZs.png" group-title="",Evandis
 https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K7ssUfW.jpg" group-title="",f1dqm - CHAINE RADIOAMATEUR (TWITCH)
+plugin://plugin.video.twitch/?channel_id=245747090&amp;mode=play
+
 # https://www.youtube.com/channel/UCCDz_XYeKWd0OIyjp95dqyQ
 # https://www.youtube.com/user/lefigaro
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
