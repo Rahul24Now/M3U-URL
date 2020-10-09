@@ -165,7 +165,7 @@ plugin://plugin.video.youtube/play/?video_id=Uujwkr2TgG0
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=OQBoaSAkbUA
+plugin://plugin.video.youtube/play/?video_id=B6huI-nwAS4
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT)
