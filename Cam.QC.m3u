@@ -60,6 +60,10 @@ plugin://plugin.video.youtube/play/?video_id=fRxH3IVSCPM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
 https://mia.rtsp.me/_xgIvNDDOjjWfk2Fmy6zZQ/1602255713/hls/3yB3SNsr.m3u8
 
+# https://www.vision-environnement.com/livecams/webcam.php?webcam=islet-sur-mer 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="",L´Islet-sur-Mer
+https://mia.rtsp.me/R9K5yuFn_1oCJNNPMWqG-Q/1602297866/hls/7H9hbRNZ.m3u8
+
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
 plugin://plugin.video.youtube/play/?video_id=MLqoZwpcpHk
