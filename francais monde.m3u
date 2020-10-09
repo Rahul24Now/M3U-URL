@@ -227,7 +227,7 @@ https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
 
 # https://www.youtube.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw #
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/mEFqt8Y.png" group-title="",GABON 24 (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=ZLWf3aQCyjE
+plugin://plugin.video.youtube/play/?video_id=hIhzg0sqYFk
 
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/qJ4ykc8.png" group-title="",GC TV
 https://5c4984c4d9146.streamlock.net:1937/live/ngrp:GCTV_all/chunklist.m3u8
