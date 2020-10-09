@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="", A venir  https://www.topmusic.fr/  https://generations.fr/radio/webradio/1/generations https://www.cheriefm.fr/webradios https://www.nostalgie.fr/webradios https://www.rireetchansons.fr/webradios http://player.ouifm.fr/rock/ https://www.nrj.fr/webradios bfm RMC Radio
+#EXTINF:-1 tvg-logo="" group-title="", A venir    https://generations.fr/radio/webradio/1/generations https://www.cheriefm.fr/webradios https://www.nostalgie.fr/webradios https://www.rireetchansons.fr/webradios http://player.ouifm.fr/rock/ https://www.nrj.fr/webradios bfm RMC Radio
 0.0.0.0
 
 #############
@@ -482,6 +482,29 @@ https://sweetfm-lemans.ice.infomaniak.ch/sweetfm-lemans-192.mp3
 
 #############
 
+# https://www.topmusic.fr/player/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XaQnyxg.png" group-title="",★★★★★★★★★★Top Music★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGPiXSe.png" group-title="",Top Music - Colmar
+http://str0.creacast.com/topmusic_colmar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGPiXSe.png" group-title="",Top Music - Haguenau
+http://str0.creacast.com/topmusic_haguenau
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGPiXSe.png" group-title="",Top Music - Mulhouse
+http://str0.creacast.com/topmusic_mulhouse
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGPiXSe.png" group-title="",Top Music - Ste Marie Aux Mines	
+http://str0.creacast.com/topmusic_sainte_marie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGPiXSe.png" group-title="",Top Music - Sarrebourg
+http://str0.creacast.com/topmusic_sarrebourg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGPiXSe.png" group-title="",Top Music - Saverne
+http://str0.creacast.com/topmusic_saverne
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGPiXSe.png" group-title="",Top Music - Schirmeck
+http://str0.creacast.com/topmusic_schirmeck
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGPiXSe.png" group-title="",Top Music - Selestat
+http://str0.creacast.com/topmusic_selestat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGPiXSe.png" group-title="",Top Music - Strasbourg
+http://str0.creacast.com/topmusic_strasbourg
+
+#############
 
 # https://www.urbanhit.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wGqwY9J.png" group-title="",★★★★★★★★★★URBAN HIT★★★★★★★★★★
