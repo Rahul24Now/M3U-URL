@@ -870,6 +870,9 @@ https://fr15.seedr.cc/media/video/hd_hls/2e0befd537f14ef5c80d23386da463b17fc6a8a
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1015.jpg" group-title="",La Rage au ventre
 https://nl35.seedr.cc/media/video/lq_hls/1d4677d7988c6caeb2123a08af25e40da3f2ec19/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/6.jpg" group-title="",La Reine des neiges II
+https://sf1.seedr.cc/media/video/hd_hls/fr1/9944dc7e6dbd57e0bbaaefb1db69b6e338a39ceb/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/942.jpg" group-title="",La Souffleuse de verre
 https://nl19.seedr.cc/media/video/hd_hls/82ee1f463f55f9175cd2c0508e1e349133cbec28/vid.m3u8
 
@@ -1085,11 +1088,16 @@ https://nl35.seedr.cc/media/video/lq_hls/881d41776a55b4ed322ce6c9a33a908d33b7829
 
 ###M###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBmqSO4.jpg" group-title="",Machine gun preacher (YT)
+plugin://plugin.video.youtube/play/?video_id=lfqo4ERIzIM
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/826.jpg" group-title="",Mad Max
 https://nl28.seedr.cc/media/video/lq_hls/bc82fdcfdc533aeb9c822ea44456dc84fc1229bd/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DBmqSO4.jpg" group-title="",Machine gun preacher (YT)
-plugin://plugin.video.youtube/play/?video_id=lfqo4ERIzIM
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1079.jpg" group-title="",Madagascar
+https://nl38.seedr.cc/media/video/lq_hls/96075ebb4b8d2b557b0ade943d03750608f16503/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1080.jpg" group-title="",Madagascar 2
+https://fr15.seedr.cc/media/video/lq_hls/96e6bea11455d02c33da5d71a758a80a52b88a51/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/408.jpg" group-title="",Magic Kids
 https://nl20.seedr.cc/media/video/hd_hls/5feb9aab970042dd4ace5bb0b9cac9af16e05793/vid.m3u8
@@ -1255,6 +1263,9 @@ https://nl35.seedr.cc/media/video/hd_hls/d021dcc69f944c1ce23ed7a68a5b2cf5fbd10c8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/664.jpg" group-title="",Papicha
 https://nl28.seedr.cc/media/video/hd_hls/8979fb85fa0ee741f4762158ceed34fb2f214b3d/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1076.jpg" group-title="",Parasomnie
+https://nl37.seedr.cc/media/video/lq_hls/0d425b83785edbbdf70cd72889e9182a8f6be4fb/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/762.jpg" group-title="",Parvana
 https://nl30.seedr.cc/media/video/hd_hls/1fbb61ede5136c309fea128c467dc82002c15b74/vid.m3u8
