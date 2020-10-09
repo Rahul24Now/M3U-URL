@@ -125,3 +125,11 @@ plugin://plugin.video.youtube/play/?video_id=ws-VacdWtsU
 # https://www.youtube.com/channel/UCURjrBQ-UcxspbA7bEPxIMA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LkqoYa2.jpg" group-title="",Bird Watching Montreal Live Stream (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=XB2DWu7VSsc
+
+# https://roulezelectrique.com/webcam/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aon4gD9.png" group-title="",Roulez Electrique 1 (Trois-Rivieres)
+https://stream-ue1-delta.dropcam.com/nexus_aac/3be32e8fae8549af94cb0b529620e20f/playlist.m3u8?public=R3STi1PWyD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aon4gD9.png" group-title="",Roulez Electrique 2 (Trois-Rivieres)
+https://stream-us1-charlie.dropcam.com/nexus_aac/d7cafad4b123472f98368b92242a9ccc/playlist.m3u8?public=Oz02RhBwP6
+
+
