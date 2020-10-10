@@ -677,12 +677,13 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21 (OPT-2)
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/3fbaa0ce77d2001.m3u8|User-Agent=stream
 # update link : https://www.dailymotion.com/lachainelequipe #
-#EXTINF:-1 tvg-id="France" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21 (DM)
+#EXTINF:-1 tvg-id="France" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21 Live 1 (DM)
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 # update link : https://www.dailymotion.com/lachainelequipe #
-#EXTINF:-1 tvg-id="France" tvg-name="L'Equipe Live 2 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe Live 2 (DM)
+#EXTINF:-1 tvg-id="France" tvg-name="L'Equipe Live 2 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21 Live 2 (DM)
 plugin://plugin.video.dailymotion_com/?url=x43lrzl&mode=playLiveVideo
-
+#EXTINF:-1 tvg-id="France" tvg-name="L'Equipe Live 3 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21 Live 3 (DM)
+plugin://plugin.video.dailymotion_com/?url=x6hczsw&mode=playLiveVideo
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Lèeekô TV" tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="France",Lèeekô TV
