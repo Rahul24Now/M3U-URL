@@ -174,9 +174,9 @@ plugin://plugin.video.youtube/play/?video_id=lkrJIjpfBjI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
-
+# https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=ovHzlkRI6-w
+plugin://plugin.video.youtube/play/?video_id=PdHoAE9klYE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
 
@@ -192,10 +192,9 @@ plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (TWITCH)
 plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 
-# https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ
+# https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ https://kracradio.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (YT)
 plugin://plugin.video.youtube/play/?video_id=Ht_wyflI6rM
-# update link: https://kracradio.com/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (TWITCH)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
