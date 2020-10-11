@@ -1016,6 +1016,9 @@ https://sf1.seedr.cc/media/video/hd_hls/fr7/0a3b5c20c48507598b1dc5041eef0fdbb0a1
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/74.jpg" group-title="",Les Enfants maudits - Les secrets du manoir 
 https://sf1.seedr.cc/media/video/hd_hls/nl22/89ecbad16d65e09d2b429dea2790afe223bcbbdc/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/541.jpg" group-title="",Les Mondes parallèles
+https://nl24.seedr.cc/media/video/hd_hls/e8c46733fc07a83eedaacb0643ddfe992deb0432/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjR4NAO.jpg" group-title="",Les Municipaux
 http://w.sylviethiriez.com/Downloads/films/Les.Municipaux%202019.mkv
 
@@ -1027,11 +1030,13 @@ https://sf1.seedr.cc/media/video/hd_hls/fr9/395f3a718b7884c4a6fa6eb4943e7cfbe72e
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/558.jpg" group-title="",Les Ours Boonie - L'aventure préhistorique 
 https://fr2.seedr.cc/media/video/lq_hls/5011b9a1feb8e6826b43a3a2c8a2f40b2a392555/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/541.jpg" group-title="",Les Mondes parallèles
-https://nl24.seedr.cc/media/video/hd_hls/e8c46733fc07a83eedaacb0643ddfe992deb0432/vid.m3u8
-
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/678.jpg" group-title="",Les Phénomènes
 https://fr7.seedr.cc/media/video/hd_hls/71e416ae29da67405463d94641b42d0c419c7ac0/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1078.jpg" group-title="",Les Pingouins de Madagascar (YT)
+plugin://plugin.video.youtube/play/?video_id=_PJMK3XYwFE
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1084.jpg" group-title="",Les Pingouins de Madagascar - Opération : Antarctique
+https://nl32.seedr.cc/media/video/hd_hls/53321d579daf000637d234ba6bfb2d262a4a4b1e/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/696.jpg" group-title="",Les sextuplés
 https://fr8.seedr.cc/media/video/hd_hls/6bbc570d09ef340f48702b7237e7b7120f4a6499/vid.m3u8
@@ -1097,6 +1102,8 @@ https://nl28.seedr.cc/media/video/lq_hls/bc82fdcfdc533aeb9c822ea44456dc84fc1229b
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1079.jpg" group-title="",Madagascar
 https://nl38.seedr.cc/media/video/lq_hls/96075ebb4b8d2b557b0ade943d03750608f16503/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1080.jpg" group-title="",Madagascar 2
+https://fr15.seedr.cc/media/video/lq_hls/96e6bea11455d02c33da5d71a758a80a52b88a51/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1082.jpg" group-title="",Madagascar 3 - Bons baisers d'Europe
 https://fr15.seedr.cc/media/video/lq_hls/96e6bea11455d02c33da5d71a758a80a52b88a51/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/408.jpg" group-title="",Magic Kids
@@ -1390,6 +1397,9 @@ http://w.sylviethiriez.com/Downloads/films/Rocky%20V.mkv
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/623.jpg" group-title="",Rocky Balboa
 https://nl31.seedr.cc/media/video/lq_hls/dbb55c3a96d69e9650288a799f9256dfd1c8aea9/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1099.jpg" group-title="",Rogue
+https://nl29.seedr.cc/media/video/hd_hls/b46e1aec98d1104a89bef51c742299c734f48fcd/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/788.jpg" group-title="",Rogue Warfare - L'art de la guerre 
 https://nl35.seedr.cc/media/video/hd_hls/2722ddc31f7419b069cc34eec6c44fac32169038/vid.m3u8
 
@@ -1424,6 +1434,11 @@ https://nl36.seedr.cc/media/video/hd_hls/c031036edbf9d44b5be63aebc6885f743ca18a6
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/592.jpg" group-title="",Seul au monde
 https://nl24.seedr.cc/media/video/hd_hls/0e88231c4e0baf3fe254a841529e9b38365217d3/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1086.jpg" group-title="",Sexy Dance
+https://nl22.seedr.cc/media/video/lq_hls/e417846269081a991d83f2c4c45620d1c69de19c/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1087.jpg" group-title="",Sexy Dance 2
+https://fr13.seedr.cc/media/video/lq_hls/ec3e38338b94d4f666481822b6fc10b5e0f08b19/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/827.jpg" group-title="",Shaft
 https://fr1.seedr.cc/media/video/hd_hls/703c306081f97735b0411672f14b56888f8814f6/vid.m3u8
@@ -1603,6 +1618,9 @@ https://fr13.seedr.cc/media/video/hd_hls/85f11d22a8734815812148ad30aff672dfb9500
 https://nl35.seedr.cc/media/video/hd_hls/8fe22b92ac3f4b3ee71cfda6cd52aa39f4313d4e/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/600.jpg" group-title="",Terminator - Dark Fate
 https://fr7.seedr.cc/media/video/hd_hls/19a283b93f2eea0c92e165c528481bdfd4e9eabf/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1091.jpg" group-title="",Tesla
+https://fr9.seedr.cc/media/video/hd_hls/b9d8e4f733fd178e3fc56cb38c16c817ad7b9ac9/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/722.jpg" group-title="",The Babysitter - Killer Queen
 https://nl20.seedr.cc/media/video/hd_hls/379845804f6fdf01becade34ace07e750471bc4a/vid.m3u8
