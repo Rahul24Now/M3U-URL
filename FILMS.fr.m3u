@@ -449,6 +449,9 @@ plugin://plugin.video.youtube/play/?video_id=f4qUPFkPc8o
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/751.jpg" group-title="",Destruction Finale
 https://nl23.seedr.cc/media/video/hd_hls/89bb78700408f05c8c4423b0c53179eb01230ddf/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYCIOiw.jpg" group-title="",Deux Frères Appelés Trinita (YT)
+plugin://plugin.video.youtube/play/?video_id=GPma8eHhwpI
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/231.jpg" group-title="",Dirty Dancing
 https://fr11.seedr.cc/media/video/lq_hls/ee868e2a09f765d2130b42abbe87a6a892b905bb/vid.m3u8?dvr
 
@@ -496,6 +499,9 @@ https://fr5.seedr.cc/media/video/hd_hls/dc37227cf3a91102224d36695ac00c93ee4d32e4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/69.jpg" group-title="",El Camino - Un film "Breaking Bad"
 https://sf1.seedr.cc/media/video/hd_hls/nl31/fa4e4e33f1e51f92418ed4c805021a04f17a8988/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIc7mKg.jpg" group-title="",El Cisco (YT)
+plugin://plugin.video.youtube/play/?video_id=Xs-EFU15Z4I
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/375.jpg" group-title="",Eli
 https://fr5.seedr.cc/media/video/hd_hls/bb1417102c9d5271530a8f910c7ad1dbe3660907/vid.m3u8
@@ -771,6 +777,9 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Jusq
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Justice+League+streaming+vf+%E2%80%94+Streamay.mp4
 
 ###K###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OtSdsxw.jpg" group-title="", Keoma (YT)
+plugin://plugin.video.youtube/play/?video_id=tcj9bcnthII
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/174.jpg" group-title="",Kick-Ass
 https://fr7.seedr.cc/media/video/lq_hls/56c3ca5ae26086e8eedb7899de9ff40d32c97d9e/vid.m3u8?dvr
@@ -1268,6 +1277,9 @@ https://fr6.seedr.cc/media/video/hd_hls/59226a8d1b142f0d4e91cb804117fad31ceca9c5
 
 ###P###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b57itzb.jpg" group-title="",PAS DE PITIÉ POUR LES SALOPARDS (YT)
+plugin://plugin.video.youtube/play/?video_id=eDBfl0rFsPA
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/770.jpg" group-title="",Paddington 2
 https://nl35.seedr.cc/media/video/hd_hls/d021dcc69f944c1ce23ed7a68a5b2cf5fbd10c85/vid.m3u8
 
@@ -1410,6 +1422,9 @@ https://nl35.seedr.cc/media/video/hd_hls/2722ddc31f7419b069cc34eec6c44fac3216903
 https://nl22.seedr.cc/media/video/hd_hls/3cb3e9ba9b2cd028116b501876b913de3db93eb0/vid.m3u8
 
 ###S###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYj3LDa.jpg" group-title="",SABATA (YT)
+plugin://plugin.video.youtube/play/?video_id=-6GhWp-gOBs
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/818.jpg" group-title="",Sang froid
 https://de14.seedr.cc/media/video/hd_hls/812a962dc50fc496047b74cbf38be667ea8d48bb/vid.m3u8
@@ -1772,6 +1787,9 @@ https://nl23.seedr.cc/media/video/hd_hls/a8a723df3cbc250aa5b2f35bea0d906afb90ece
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLmU4VD.jpg" group-title="",U-235
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/film+U-235+streaming+vf.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GNGnRPi.jpg" group-title="",Un Cercueil pour le shérif (YT)
+plugin://plugin.video.youtube/play/?video_id=MAHOunmAZco
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ht6raUh.jpg" group-title="",Un été magique (YT)
 plugin://plugin.video.youtube/play/?video_id=aRLhvuhSuV8
