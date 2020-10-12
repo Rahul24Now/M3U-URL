@@ -58,11 +58,11 @@ plugin://plugin.video.youtube/play/?video_id=fRxH3IVSCPM
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
-https://mia.rtsp.me/68mnkyELsGO-RmUVCD6BXA/1602341844/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/23lXKe8By-P6UuOAX4EDYQ/1602602257/hls/3yB3SNsr.m3u8
 
 # https://www.vision-environnement.com/livecams/webcam.php?webcam=islet-sur-mer 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="",L´Islet-sur-Mer (UPD)
-https://mia.rtsp.me/F6tg4Xi-y20DuyhjMadrug/1602341880/hls/7H9hbRNZ.m3u8
+https://mia.rtsp.me/CZ02yxdfjXt9jNDufKHa2Q/1602602283/hls/7H9hbRNZ.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
@@ -96,11 +96,11 @@ http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="",Cap-Colombier,Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=kdicHq4asbY
+plugin://plugin.video.youtube/play/?video_id=gzeK0YkAjdw
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="",rue Augustin-Carrier,Lévis (YT)
-plugin://plugin.video.youtube/play/?video_id=tPbfgKJzbWg
+plugin://plugin.video.youtube/play/?video_id=Cn3bNWCKCRI
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile,Drummondville
@@ -131,5 +131,4 @@ plugin://plugin.video.youtube/play/?video_id=XB2DWu7VSsc
 https://stream-ue1-delta.dropcam.com/nexus_aac/3be32e8fae8549af94cb0b529620e20f/playlist.m3u8?public=R3STi1PWyD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aon4gD9.png" group-title="",Roulez Electrique 2 (Trois-Rivieres)
 https://stream-us1-charlie.dropcam.com/nexus_aac/d7cafad4b123472f98368b92242a9ccc/playlist.m3u8?public=Oz02RhBwP6
-
 
