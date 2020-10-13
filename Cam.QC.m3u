@@ -44,7 +44,7 @@ plugin://plugin.video.youtube/play/?video_id=0mXfTYRMI6k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est
 plugin://plugin.video.youtube/play/?video_id=_c0cmmt_ai0
 
-# https://www.youtube.com/channel/UCTa_gibTHUjXqybtEpEH7GQ
+# https://www.youtube.com/channel/UC4sV5M5L86DfidH0Aeq1YcQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal Aeroport Trudeau
 plugin://plugin.video.youtube/play/?video_id=iAf4ku9cgCM
 
