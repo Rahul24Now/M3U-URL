@@ -79,7 +79,7 @@ plugin://plugin.video.youtube/play/?video_id=jKNvoqVwe5o
 
 # update link: https://www.youtube.com/channel/UCd9hPbPHI0XKWhxYLtmyvFA #
 #EXTINF:-1 tvg-id="France" tvg-name="ASTV" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="France",ASTV Grande-Synthe (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=npCVP0RUBUc
+plugin://plugin.video.youtube/play/?video_id=WMKU194IgW0
 
 # update link : https://www.azur-tv.fr/live/  #
 #EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur TV (DM)
@@ -183,7 +183,7 @@ plugin://plugin.video.dailymotion_com/?url=x7tn4fp&mode=playLiveVideo
 plugin://plugin.video.twitch/?channel_id=549946935&amp;mode=play
 # https://www.youtube.com/channel/UC1KzDzAh-umEJV97pYjAqRA #
 #EXTINF:-1 tvg-logo="https://btvs.fr/wp-content/uploads/2020/07/BTVS-Television_LOGO.png" group-title="",BTVS (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=ZpH-90ksamE
+plugin://plugin.video.youtube/play/?video_id=-bywKzL4554
 
 #EXTINF:-1 tvg-id="France" tvg-name="C8" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="France",C8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/direct8live-76289/hls/index.m3u8
@@ -820,6 +820,10 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Parispremiere_live/index.m3u
 # update link : https://www.youtube.com/user/PearlDiffusion #
 #EXTINF:-1 tvg-id="France" tvg-name="PearlTV" tvg-logo="https://content.pearl.fr/bundles/pearlfront/images/general/logo_pearl_bleu.png"group-title="France",PearlTV (YT)
 plugin://plugin.video.youtube/play/?video_id=cWYoHKBLJV4
+
+# https://www.youtube.com/channel/UCXptamDYEVcU4JCio30hYTw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lhYlwRW.jpg" group-title="",Peppa Pig (YT)
+plugin://plugin.video.youtube/play/?video_id=YW4I5fIwHnQ
 
 #EXTINF:-1 tvg-logo="http://www.boulistenaute.com/logo.png" group-title="",Pétanque avec Boulistenaute (DM)
 plugin://plugin.video.dailymotion_com/?url=x7n019d&mode=playLiveVideo
