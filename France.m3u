@@ -919,6 +919,12 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/ac8bbaf89f65d0
 #EXTINF:-1 tvg-id="France" tvg-name="RFM TV" tvg-logo="https://i.imgur.com/V3wENl0.png" group-title="France",RFM TV (OPT-2)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Mcm_pop_live/index.m3u8
 
+# https://www.youtube.com/channel/UCsrHu8soIky9c6dtS1o1w0Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCxG61F.jpg" group-title="",ROSAIRE en CONTINU - les 20 mystères du CHAPELET (YT)
+plugin://plugin.video.youtube/play/?video_id=eqseFaSsJTA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCxG61F.jpg" group-title="",ROSAIRE en CONTINU - CHAPELET SOIR et MATIN (YT)
+plugin://plugin.video.youtube/play/?video_id=Bv8U1xOxiOk
+
 # update link : #
 #EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
