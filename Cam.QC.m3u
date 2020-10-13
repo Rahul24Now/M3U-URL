@@ -40,6 +40,10 @@ plugin://plugin.video.youtube/play/?video_id=qqLwNpI8ok8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu b (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=0mXfTYRMI6k
 
+# https://www.youtube.com/channel/UCTa_gibTHUjXqybtEpEH7GQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est
+plugin://plugin.video.youtube/play/?video_id=_c0cmmt_ai0
+
 # update link: https://jacquescartierchamplain.ca/circulation-travaux/reseau-en-direct/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="Cam",Pont Jacques Cartier vers Montreal
 https://wowzaprod124-i.akamaihd.net/hls/live/508629/d094e21b/playlist.m3u8
