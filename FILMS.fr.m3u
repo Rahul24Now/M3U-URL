@@ -252,6 +252,9 @@ https://nl37.seedr.cc/media/video/lq_hls/c3ef01dd1687e4f6a12f3bf1215ad666cc9650a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H83ocN.jpg" group-title="",Blood Quantum
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Blood_Quantum_2020_FRENCH_BDRip_XviD-Wawacity_ninja+Online+%E2%80%94+Mystream.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yb0HMZ8.jpg" group-title="",BOATS (YT)
+plugin://plugin.video.youtube/play/?video_id=FSypzysMWU0
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/636.jpg" group-title="",Body Cam
 https://nl20.seedr.cc/media/video/hd_hls/23521cd57f00c4419f5622996903a0a7d1bbd1ad/vid.m3u8
 
@@ -1049,6 +1052,11 @@ https://fr7.seedr.cc/media/video/hd_hls/71e416ae29da67405463d94641b42d0c419c7ac0
 plugin://plugin.video.youtube/play/?video_id=_PJMK3XYwFE
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1084.jpg" group-title="",Les Pingouins de Madagascar - Opération : Antarctique
 https://nl32.seedr.cc/media/video/hd_hls/53321d579daf000637d234ba6bfb2d262a4a4b1e/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xTr10e.jpg" group-title="",Les Schtroumpfs - La Sorcellerie (YT)
+plugin://plugin.video.youtube/play/?video_id=qnynAiO1pJQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BdsNMUR.jpg" group-title="",Les Schtroumpfs  - Les Betises (YT)
+plugin://plugin.video.youtube/play/?video_id=i7xtNIpUYhA
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/696.jpg" group-title="",Les sextuplés
 https://fr8.seedr.cc/media/video/hd_hls/6bbc570d09ef340f48702b7237e7b7120f4a6499/vid.m3u8
