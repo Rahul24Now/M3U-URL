@@ -327,11 +327,11 @@ https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
 https://live.creacast.com/d5music/smil:d5music.smil/chunklist_w1720615818_b1928000.m3u8
 
 # https://www.youtube.com/channel/UCuju5K7RVyqTZ0xVPbb3Zvg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6MpWPRu.jpg" group-title="",DC Kids (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MpWPRu.jpg" group-title="",DC Kids - Teen Titans Go (YT)
 plugin://plugin.video.youtube/play/?video_id=mQwLev-Dqcc
 
 # https://www.youtube.com/channel/UCtqh974Np62qGOcvs3aYDrg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MGHXyvo.jpg" group-title="",DC Super Hero Girls en Français (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MGHXyvo.jpg" group-title="",DC Kids - Super Hero Girls en Français (YT)
 plugin://plugin.video.youtube/play/?video_id=q97ofEmFknM
 
 # update link : #
@@ -631,13 +631,21 @@ https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=160211
 #EXTINF:-1 tvg-id="France" tvg-name="ILTV" tvg-logo="https://i.ibb.co/Sf6FDkV/ILTV.png" group-title="France",ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
 
+# https://www.youtube.com/channel/UCkIKnMCyc2hNSj-dUuG9o-g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8So9O0I.jpg" group-title="",Jouets joyeux en avant! 1 (YT)
+plugin://plugin.video.youtube/play/?video_id=PpGc5WhC3MQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8So9O0I.jpg" group-title="",Jouets joyeux en avant! 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=dBLXPTzvK9A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8So9O0I.jpg" group-title="",Jouets joyeux en avant! 3 (YT)
+plugin://plugin.video.youtube/play/?video_id=djz5RcbBDjc
+
 # https://www.youtube.com/channel/UC_CE5uL8tsIPsWCt4D8wc8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXvZsuW.jpg" group-title="",Kids Tv (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=l6CdjNmb7fo
 
 # https://www.youtube.com/channel/UC_CE5uL8tsIPsWCt4D8wc8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xHEfzMn.jpg" group-title="",Kids Tv Française - chansons de bébé (YT)
-plugin://plugin.video.youtube/play/?video_id=yBHY2qYIisc
+plugin://plugin.video.youtube/play/?video_id=IO1mPOKtS48
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="KTO FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/db/KTO_logo_2008.png" group-title="France",KTO
