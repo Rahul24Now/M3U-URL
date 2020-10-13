@@ -858,6 +858,9 @@ https://fr12.seedr.cc/media/video/lq_hls/8e19def0d9e911c8a23120ffe87d198d74e97f6
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/200.jpg" group-title="",La Grande Vadrouille
 https://nl23.seedr.cc/media/video/hd_hls/2a6fc656676381de35c2f914a94aad353611d159/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WKzNzXc.jpg" group-title="",La Légende de Zorro (YT)
+plugin://plugin.video.youtube/play/?video_id=MprcBwxgLFU
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/735.jpg" group-title="",La Légende du Roi Salomon
 https://nl33.seedr.cc/media/video/lq_hls/0113ae2b1ee1b8ebfd26370f60b887cda98a441a/vid.m3u8
 
