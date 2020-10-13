@@ -185,6 +185,10 @@ plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fUB6On4.png" group-title="",DJ SHOO Québec COORS ATTACK!!!! (TWITCH)
 plugin://plugin.video.twitch/?channel_id=477666625&amp;mode=play
 
+# https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q https://www.funkypanda.net
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="",Funky Way FM MTL (YT)
+plugin://plugin.video.youtube/play/?video_id=VlXyZZlsKb4
+
 # update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT) 
 plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA
