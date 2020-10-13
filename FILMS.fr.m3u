@@ -1014,6 +1014,14 @@ https://nl17.seedr.cc/media/video/hd_hls/9e3d07a11ab67ad2cb08493046fa39113e3d9b9
 https://nl25.seedr.cc/media/video/lq_hls/22bc88c41c82adf512bb87c40842b3eae6fc2423/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9Vi2Lk.jpg" group-title="",Les aventures de Tintin - le Mystère de la Toison d'or
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Tintin_Et_Le_Mystere_De_La_Toison_D_Or_1961_TRUEFRENCH_DVDRIP_Wawacity_vip+Online+%E2%80%94+Mystream.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MhAxvGG.jpg" group-title="",Les aventures de Tintin - Et Le Lac Aux Requins (YT)
+plugin://plugin.video.youtube/play/?video_id=eoLPFtXAkrU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0mFAFT5.jpg" group-title="",Tintin et le mystère de la Toison d'Or (1961)(YT)
+plugin://plugin.video.youtube/play/?video_id=MBqz88sNMq8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPlasXe.jpg" group-title="",Les aventures de Tintin - Le trésor de Rackham le rouge (YT)
+plugin://plugin.video.youtube/play/?video_id=yyckYGdJ_e0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdzxRBX.jpg" group-title="",Les aventures de Tintin - Le Temple du Soleil (YT)
+plugin://plugin.video.youtube/play/?video_id=o_SMWjv9Clc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9e3AMR.jpg" group-title="",les daltons (YT)
 plugin://plugin.video.youtube/play/?video_id=e1ow7xszcIY
