@@ -169,7 +169,7 @@ plugin://plugin.video.youtube/play/?video_id=B6huI-nwAS4
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT)
-plugin://plugin.video.youtube/play/?video_id=lkrJIjpfBjI
+plugin://plugin.video.youtube/play/?video_id=XbyjmT7eH-Y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
