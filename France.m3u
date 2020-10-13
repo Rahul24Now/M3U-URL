@@ -1037,6 +1037,10 @@ http://51.15.3.161:8080/Teva/index.m3u8?token=test
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="Français",Téva (OPT-2)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/teva-37149/hls/index.m3u8
 
+# https://www.youtube.com/channel/UC9XXHsquIdhme3gOTo2wiEw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oq9YTOz.jpg" group-title="",TuTiTu (YT)
+plugin://plugin.video.youtube/play/?video_id=dKcc5GElQR8
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TL7" tvg-logo="https://www.tl7.fr/images/interface/bannerLogo.png" group-title="France",TL7  Loire (DM)
 plugin://plugin.video.dailymotion_com/?url=x5ct4nu&mode=playLiveVideo
@@ -1052,8 +1056,6 @@ http://tv7.hdr-tv.com/live/tv7/ngrp:tv7_Wifi/chunklist_w440095073_b3035136.m3u8
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Tv7 Bordeaux" tvg-logo="https://mk0tv7bordeauxtnwgfh.kinstacdn.com/wp-content/uploads/2018/09/tv7.png" group-title="France",Tv7 Bordeaux (DM)
 plugin://plugin.video.dailymotion_com/?url=x46ancl&mode=playLiveVideo
-
-
 # update link : https://www.youtube.com/channel/UCV9yrdAfyd1BdDyd4tDdVxg #
 #EXTINF:-1 tvg-id="France" tvg-name="Tv7 Bordeaux" tvg-logo="https://mk0tv7bordeauxtnwgfh.kinstacdn.com/wp-content/uploads/2018/09/tv7.png" group-title="France",Tv7 Bordeaux (opt-2)(YT)
 plugin://plugin.video.youtube/play/?video_id=t6wgCy7kwPU
