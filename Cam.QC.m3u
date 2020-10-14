@@ -42,7 +42,7 @@ plugin://plugin.video.youtube/play/?video_id=0mXfTYRMI6k
 
 # https://www.youtube.com/channel/UCTa_gibTHUjXqybtEpEH7GQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est
-plugin://plugin.video.youtube/play/?video_id=_c0cmmt_ai0
+plugin://plugin.video.youtube/play/?video_id=2T3jNNYBnGA
 
 # https://www.youtube.com/channel/UC4sV5M5L86DfidH0Aeq1YcQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal Aeroport Trudeau
