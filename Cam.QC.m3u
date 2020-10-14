@@ -41,11 +41,11 @@ plugin://plugin.video.youtube/play/?video_id=qqLwNpI8ok8
 plugin://plugin.video.youtube/play/?video_id=0mXfTYRMI6k
 
 # https://www.youtube.com/channel/UCTa_gibTHUjXqybtEpEH7GQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=2T3jNNYBnGA
 
 # https://www.youtube.com/channel/UC4sV5M5L86DfidH0Aeq1YcQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal Aeroport Trudeau
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal Aeroport Trudeau (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=iAf4ku9cgCM
 
 # update link: https://jacquescartierchamplain.ca/circulation-travaux/reseau-en-direct/ #
@@ -66,11 +66,11 @@ plugin://plugin.video.youtube/play/?video_id=fRxH3IVSCPM
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
-https://mia.rtsp.me/Ah-832gF-0JULU55GDjOQg/1602689402/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/MKs39fz0uPuNIFoszrNR3Q/1602769180/hls/3yB3SNsr.m3u8
 
 # https://www.vision-environnement.com/livecams/webcam.php?webcam=islet-sur-mer 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="",L´Islet-sur-Mer (UPD)
-https://mia.rtsp.me/f-Eo9B-XCP69S_Y-RunwCg/1602689435/hls/7H9hbRNZ.m3u8
+https://mia.rtsp.me/4zYm5Q9qv6O-MYXM3wx7Jw/1602769209/hls/7H9hbRNZ.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
@@ -108,7 +108,7 @@ plugin://plugin.video.youtube/play/?video_id=gzeK0YkAjdw
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="",rue Augustin-Carrier,Lévis (YT)
-plugin://plugin.video.youtube/play/?video_id=Cn3bNWCKCRI
+plugin://plugin.video.youtube/play/?video_id=AIhYtDXMGr8
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile,Drummondville
