@@ -403,7 +403,9 @@ plugin://plugin.video.twitch/?channel_id=245747090&amp;mode=play
 # https://www.youtube.com/channel/UCCDz_XYeKWd0OIyjp95dqyQ
 # https://www.youtube.com/user/lefigaro
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
-plugin://plugin.video.youtube/play/?video_id=p749nKXfID4
+plugin://plugin.video.youtube/play/?video_id=oCUHpyEqR6s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (TWITCH)
+plugin://plugin.video.twitch/?channel_id=75965671&amp;mode=play
 
 #EXTINF:-1 tvg-id="France" tvg-name="France info" tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png" group-title="France",France info
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceinfo-14390660/hls/index.m3u8
