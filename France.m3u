@@ -29,7 +29,7 @@ https://edge2.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/chunklist_
 
 # https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="",7ALimoges (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=qXdpNoEN-Ts
+plugin://plugin.video.youtube/play/?video_id=337KeUVPIrk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="",AB1
 http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
