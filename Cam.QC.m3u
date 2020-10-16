@@ -108,6 +108,8 @@ plugin://plugin.video.youtube/play/?video_id=gzeK0YkAjdw
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="",rue Augustin-Carrier,Lévis (YT)
+plugin://plugin.video.youtube/play/?video_id=GBlLtZ0OgMk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="",rue Augustin-Carrier,Lévis 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=P2-11HKH7Lo
 
 # update link: #
