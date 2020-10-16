@@ -116,6 +116,9 @@ https://fl001.elpcinc.com/CTB-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/emcitv.png?raw=true" group-title="Canadian TV",EMCI TV MTL
 https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DDTuhkS.png" group-title="",Encan Horreur Fanatik (tous les samedis soirs, 18h à minuit!)	
+https://svbell-hls.secdn.net/svbell-live/play/mp4:HFanatik/playlist.m3u8
+
 # update link: https://seletlumieretv.org/endirect/?muid=1 #
 #EXTINF:-1 tvg-logo="https://seletlumieretv.org/images/logo/sl-french-logo.png" group-title="",SLMedia
 https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
