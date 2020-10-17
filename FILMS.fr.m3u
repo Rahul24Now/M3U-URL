@@ -795,6 +795,9 @@ plugin://plugin.video.youtube/play/?video_id=w-Cu6zR22H0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEqidwl.jpg" group-title="",Killing Gunther
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Killing+Gunther+streaming+vf+%E2%80%94+Streamay.mp4
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1105.jpg" group-title="",King Kong
+https://nl32.seedr.cc/media/video/lq_hls/87c8f1430a73331a8733764ae43d31ff2545c6a6/vid.m3u8?dvr
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/776.jpg" group-title="",Kubo et l'armure magique
 https://fr4.seedr.cc/media/video/lq_hls/1386cdaea65c8299206617eda4da7c0a8b8926d7/vid.m3u8
 
@@ -1025,6 +1028,9 @@ plugin://plugin.video.youtube/play/?video_id=MBqz88sNMq8
 plugin://plugin.video.youtube/play/?video_id=yyckYGdJ_e0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdzxRBX.jpg" group-title="",Les aventures de Tintin - Le Temple du Soleil (YT)
 plugin://plugin.video.youtube/play/?video_id=o_SMWjv9Clc
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1083.jpg" group-title="",Les Condamnés
+https://nl38.seedr.cc/media/video/lq_hls/ce4ef01637b6230de0221ad3d8a0081069269594/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9e3AMR.jpg" group-title="",les daltons (YT)
 plugin://plugin.video.youtube/play/?video_id=e1ow7xszcIY
@@ -1596,6 +1602,9 @@ plugin://plugin.video.youtube/play/?video_id=fQ6UUKC4_Is
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/680.jpg" group-title="",Street Fighter - L'ultime combat
 https://nl24.seedr.cc/media/video/hd_hls/fced010e0cb8fe5e5774a23aa523c041c24ca636/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1052.jpg" group-title="",Suicide Squad
+https://de9.seedr.cc/media/video/hd_hls/a0b6766de216c99872cd0a1a5b629e38c31add96/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/766.jpg" group-title="",Sword Art Online - Ordinal Scale
 https://fr13.seedr.cc/media/video/hd_hls/09c943722186d8d91a0b4f3f327d3dbfbb930404/vid.m3u8
