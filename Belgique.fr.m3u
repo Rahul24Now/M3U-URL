@@ -91,7 +91,8 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/b3c9e514aa3e7
 #https://rtbf.l3.freecaster.net/live/rtbf/geo/open/f252363574bc3708f9d58a351066da362d739a84/laune-audio_1=128000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une (TT)
-plugin://script.module.tt/play/693/play.pvr
+plugin://script.tvtap/play/693/play.pvr
+#plugin://script.module.tt/play/693/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Deux" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Deux
@@ -99,7 +100,8 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/06292f4f61cba
 #https://rtbf.l3.freecaster.net/live/rtbf/geo/open/012547ec984802a41c6cc2b2e4c81efdf8eff450/ladeux-audio_1=128000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Deux" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Deux (TT)
-plugin://script.module.tt/play/694/play.pvr
+plugin://script.tvtap/play/694/play.pvr
+#plugin://script.module.tt/play/694/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois
@@ -107,7 +109,8 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/1a13b4cb28271
 #https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois (TT)
-plugin://script.module.tt/play/695/play.pvr
+plugin://script.tvtap/play/695/play.pvr
+#plugin://script.module.tt/play/695/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi
@@ -115,10 +118,12 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/1a0c55209dd47
 #http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL info 1 (TT)
-plugin://script.module.tt/play/690/play.pvr
+plugin://script.tvtap/play/690/play.pvr
+#plugin://script.module.tt/play/690/play.pvr
 
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL info 2 (TT)
-plugin://script.module.tt/play/692/play.pvr
+plugin://script.tvtap/play/690/play.pvr
+#plugin://script.module.tt/play/692/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Tv Com" tvg-logo="https://www.tvcom.be/files/images/logotvcom.png"group-title="Belgique",TvCom
