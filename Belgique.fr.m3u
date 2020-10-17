@@ -117,13 +117,12 @@ plugin://script.tvtap/play/695/play.pvr
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/1a0c55209dd476b.m3u8|User-Agent=stream
 #http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi (TT)
+plugin://script.tvtap/play/692/play.pvr
+
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL info 1 (TT)
 plugin://script.tvtap/play/690/play.pvr
 #plugin://script.module.tt/play/690/play.pvr
-
-#EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL info 2 (TT)
-plugin://script.tvtap/play/690/play.pvr
-#plugin://script.module.tt/play/692/play.pvr
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Tv Com" tvg-logo="https://www.tvcom.be/files/images/logotvcom.png"group-title="Belgique",TvCom
@@ -241,6 +240,15 @@ http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV4NlTF.png" group-title="",ROB-tv
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqmX3yt.jpg" group-title="",SRF 1 (TT)
+plugin://script.tvtap/play/687/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8BSRxr.png" group-title="",SRF Info (TT)
+plugin://script.tvtap/play/686/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fh5p1DS.png" group-title="",SRF Zwei (TT)
+plugin://script.tvtap/play/688/play.pvr
 
 #EXTINF:-1 tvg-logo="http://sterktv.net/wene/2019/10/cropped-sterk-logo-1-2.png" group-title="",STERK TV
 http://137.74.205.201/live2/sterk-3mbps.m3u8
