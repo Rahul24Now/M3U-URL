@@ -6,7 +6,7 @@ plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
 
 
 # update link : https://www.youtube.com/channel/UCREx8vJx1YosnkGo3fRTG7A #
-#EXTINF:-1 tvg-id="Suisse" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT) (UPD)
+#EXTINF:-1 tvg-id="Suisse" tvg-name="Ajoie TV" tvg-logo="https://www.journal-lajoie.ch/wp-content/uploads/2018/03/logoajoieweb.png" group-title="Suisse",Ajoie TV (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=7acNkk5EB5s
 
 # update link : #
