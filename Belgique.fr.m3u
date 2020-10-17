@@ -4,11 +4,7 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/belge.png?raw=true",★★★★★★★★★★[COLOR orange]Belgique[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
 
-# https://www.equideo.be/ https://www.youtube.com/channel/UC70CoNT5xMbPjkz34PXZ3Fw #
-#EXTINF:-1 tvg-logo="https://www.equideo.be/wp-content/uploads/2019/08/EQUIDEO-logo-white-1.png" group-title="",EQUIDEO 1 (YT)
-plugin://plugin.video.youtube/play/?video_id=6TzAmA_zz3c
-#EXTINF:-1 tvg-logo="https://www.equideo.be/wp-content/uploads/2019/08/EQUIDEO-logo-white-1.png" group-title="",EQUIDEO 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=Lw8ZUfwAO44
+
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Antenne Centre" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="Belgique",Antenne Centre
@@ -247,7 +243,7 @@ http://137.74.205.201/live2/sterk-3mbps.m3u8
 #https://radioplus.be/#/stubru/herbeluister #
 #EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru Audio Only
+#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru (Audio)
 https://live-radio-cf-vrt.akamaized.net/groupc/live/f404f0f3-3917-40fd-80b6-a152761072fe/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.topradio.be/assets/page/img/favicons/favicon-196x196.png" group-title="",TOPradio (TWITCH)
