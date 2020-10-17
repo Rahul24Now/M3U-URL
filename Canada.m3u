@@ -46,7 +46,8 @@ http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 plugin://plugin.video.youtube/play/?video_id=bHsQmsLEmeI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC (TT)
-plugin://script.module.tt/play/613/play.pvr
+plugin://script.tvtap/play/613/play.pvr
+#plugin://script.module.tt/play/613/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="News",CBC New Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
@@ -107,7 +108,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/e4f310b8a02b60
 
 # Update Link https://www.chch.com/live/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD-EXP)
-https://flowcaster1-ch.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w93869673_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTYwMTc0NTMyMiZpaW1hZTBVQzJhaGFzaD1SWlBTZklaclp3SWtpUHMybTkwSERUX0ltMXd4ZjhPQWRrdkgxbkNsUWcwPQ==.m3u8
+https://flowcaster1-ch.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w633310761_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTYwMjk2NDg0NiZpaW1hZTBVQzJhaGFzaD1yaURyeUdnRjBTcHltTXN2X2U2Zm4wWldpWHVOUllPVWttZjBhYW5scV9RPQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/playlist.m3u8
@@ -137,7 +138,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f2cf3cf1e395c5c.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="Canada",CTV (TT)
-plugin://script.module.tt/play/691/play.pvr
+plugin://script.tvtap/play/691/play.pvr
+#plugin://script.module.tt/play/691/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6vremw.png" group-title="",► CTV NEWS
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/8d62a2326c5b765.m3u8|User-Agent=stream
@@ -190,7 +192,8 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/61f14b3bc902da
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/35591ba73e0de21.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H036COy.png" group-title="Canada",Global TV (TT)
-plugin://script.module.tt/play/659/play.pvr
+plugin://script.tvtap/play/659/play.pvr
+#plugin://script.module.tt/play/659/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aqetvxz.png" group-title="News",Global News National 
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
@@ -253,8 +256,8 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d0b7fc043d7f21
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/20ea0094f8b372f.m3u8|User-Agent=stream
 
 # https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (YT)
-plugin://plugin.video.youtube/play/?video_id=VFVM7_ffP3c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=ahcVrCO1scY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
@@ -331,25 +334,28 @@ http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/32992e5f7c5c370.m3u8|User-Age
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/d3756ff3aa66561.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Canada",Sportsnet Ontario (TT)
-plugin://script.module.tt/play/214/play.pvr
+plugin://script.tvtap/play/214/play.pvr
+#plugin://script.module.tt/play/214/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="",Sportsnet One
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/68f72ed2d270199.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="",Sportsnet One (TT)
-plugin://script.module.tt/play/417/play.pvr
+plugin://script.tvtap/play/417/play.pvr
+#plugin://script.module.tt/play/417/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="",Sportsnet World
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/32666e4769cca08.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Canada",Sportsnet World (TT)
-plugin://script.module.tt/play/215/play.pvr
+plugin://script.tvtap/play/215/play.pvr
+#plugin://script.module.tt/play/215/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkAqXSg.png" group-title="Canada",TAG TV
 http://cdn11.live247stream.com/tag/tv/tag/stream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="",The New Classical FM (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=PyAkalHJgd0
+plugin://plugin.video.youtube/play/?video_id=qJXOdq-v1Ok
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -368,31 +374,36 @@ https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/89eba7ccefdffb2.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Canada",TSN 1 (TT)
-plugin://script.module.tt/play/233/play.pvr
+plugin://script.tvtap/play/233/play.pvr
+#plugin://script.module.tt/play/233/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BCnHvzg.png" group-title="Sport",► TSN Sports 2
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/b079541e6eff7ef.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BCnHvzg.png" group-title="Canada",TSN 2 (TT)
-plugin://script.module.tt/play/234/play.pvr
+plugin://script.tvtap/play/234/play.pvr
+#plugin://script.module.tt/play/234/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evGQ8R6.png" group-title="Sport",► TSN Sports 3
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/909ebf71ac792a8.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evGQ8R6.png" group-title="Canada",TSN 3 (TT)
-plugin://script.module.tt/play/235/play.pvr
+plugin://script.tvtap/play/235/play.pvr
+#plugin://script.module.tt/play/235/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Sport",► TSN Sports 4
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/396bbf85c7c79b1.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Canada",TSN 4 (TT)
-plugin://script.module.tt/play/412/play.pvr
+plugin://script.tvtap/play/412/play.pvr
+#plugin://script.module.tt/play/412/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport",► TSN Sports 5
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/11d46f6d455bb2c.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Canada",TSN 5 (TT)
-plugin://script.module.tt/play/413/play.pvr
+plugin://script.tvtap/play/413/play.pvr
+#plugin://script.module.tt/play/413/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
@@ -405,7 +416,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 
 # https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=--1cTe4h2MY
+plugin://plugin.video.youtube/play/?video_id=IDkum5PnPMI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",► TVO KIDS (OPT-2)
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/b06d7d239929527.m3u8|User-Agent=stream
