@@ -168,9 +168,13 @@ https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1
 http://188.35.9.5:10007/stolen/236r/parasite.install
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="",RSI LA 1 (TT)
+plugin://script.tvtap/play/724/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2
 http://188.35.9.5:10007/stolen/237p/parasite.install
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="",RSI LA 2 (TT)
+plugin://script.tvtap/play/725/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dulBdqu.jpg" group-title="",rtvislam
 http://195.154.252.221:8000/play/rtvislamweb/index.m3u8
