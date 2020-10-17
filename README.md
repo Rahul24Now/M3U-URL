@@ -7,4 +7,4 @@ iptv-free addon https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/
 
 might work whit other addon that use m3u list and supoort plugin://plugin .... format in url
 
-you will need youtube , dailymotion , Twitch plugins and TVTAP module https://github.com/Sphinxroot/Kodi-Stuff-that-i-use/raw/master/script.module.tt-1.4.b.zip  in kodi to work for some link
+you will need youtube , dailymotion , Twitch plugins and TVTAP module https://github.com/Sphinxroot/Kodi-Stuff-that-i-use/raw/master/script.tvtap-20.6.1.zip  in kodi to work for some link
