@@ -811,6 +811,10 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6q3QKpO.jpg" group-title="",N31 - La chaine des gamers (DM)
 plugin://plugin.video.dailymotion_com/?url=x6nkjg1&mode=playLiveVideo
 
+# http://www.nancy-webtv.fr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQjqS4F.png" group-title="",Nancy WebTV
+https://edge5.vedge.infomaniak.com/livecast/ik:nancy-webtv/chunklist_w1816442373.m3u8
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ HITS
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w582372968_b981072.m3u8
