@@ -205,7 +205,7 @@ https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
 #EXTINF:-1  tvg-language="French" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" tvg-country="SN" group-title="Music",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-language="Italian" tvg-logo="" tvg-country="IT" group-title="Music",m2o TV
+#EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-language="Italian" tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/m2o-logo-full.png" tvg-country="IT" group-title="Music",m2o TV
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
 # https://www.youtube.com/channel/UCs3cho4vcDuCze0tk3W9iVQ
@@ -215,7 +215,7 @@ plugin://plugin.video.youtube/play/?video_id=dC3-ISvqnJI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eycL5Cz.png" group-title="",Mad Radio 106.2 Live (YT)
 plugin://plugin.video.youtube/play/?video_id=WEsJ0un-AME
 
-#EXTINF:-1 tvg-language="" tvg-logo="http://i.imgur.com/QZQhg6C.png" tvg-country="GR" group-title="Music",Magic TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QZQhg6C.png" tvg-country="GR" group-title="Music",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiC5f67.jpg" group-title="",Marutam Music
@@ -351,9 +351,6 @@ plugin://plugin.video.youtube/play/?video_id=WYetg3AuLE4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30EmHb7.jpg" group-title="",RazNitzanMusic - Vocal Trance Radio (YT)
 plugin://plugin.video.youtube/play/?video_id=C6_ql03n-vQ
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/T2K6xqz.jpg" tvg-country="NL" tvg-url="" group-title="Music",Redlight Radio
-http://cdn-hlm-1.streamnerd.nl/live/redlightradio/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-language="Czech" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Music",Retro Music Television
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -387,7 +384,7 @@ https://5b464b69d264e.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wxPvAkL.jpg" group-title="",The Good Life Radio x Sensual Musique (YT)
 plugin://plugin.video.youtube/play/?video_id=36YnV9STBqc
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/piGhf3m.png" tvg-country="GR" tvg-url="" group-title="Music",Tile Mousiki
+#EXTINF:-1 tvg-language="" tvg-logo="http://i.imgur.com/piGhf3m.png" tvg-country="GR" group-title="Music",Tile Mousiki
 http://wpso.com:1936/hls/music1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFZotkH.png" group-title="",Tierramia
@@ -408,9 +405,6 @@ https://stmv1.srvif.com/admin/admin/chunklist_w2097926938.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" tvg-country="RS" tvg-url="" group-title="Music",TV Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVMChannel" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",TVMChannel
-https://strm.yandex.ru/kal/tvm_supres/tvm_supres0.m3u8
-
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT" group-title="Music",V2BEAT TV
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT" group-title="Music",V2BEAT TV (OPT-2)
@@ -422,21 +416,22 @@ https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" tvg-country="AE" group-title="Music",Wanasah
 https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
 
-#EXTINF:-1 tvg-language="" tvg-logo="http://i.imgur.com/LgQBtTh.jpg" tvg-country="GR" group-title="Music",Xalastra TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LgQBtTh.jpg" tvg-country="GR" group-title="Music",Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 
-#########
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="Music",Óčko
+#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/sTQB8op.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="Music",Óčko
+#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/sTQB8op.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="Music",Óčko Expres
+#EXTINF:-1 tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="Music",Óčko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko Gold
+#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="Music",Óčko STAR
+#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/UzqocFs.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko STAR
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#########
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" tvg-country="CZ" tvg-url="" group-title="Music",Šlágr
 https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
