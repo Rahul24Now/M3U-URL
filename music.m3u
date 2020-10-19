@@ -30,7 +30,7 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/S0GrDsQ.png" tvg-country="BG" tvg-url="" group-title="Music",Balkanika Music TV
 rtsp://stream.teracomm.bg/balkanika
 
-#EXTINF:-1 tvg-language="" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Music",Baraza TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Music",Baraza TV
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Music",Baraza TV Classic Hits
@@ -45,7 +45,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Music",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" tvg-country="IR" tvg-url="" group-title="Music",Caltex TV
+#EXTINF:-1 tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" tvg-country="IR" tvg-url="" group-title="Music",Caltex TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
@@ -65,24 +65,32 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" tvg-country="IN" tvg-url="" group-title="Music",Cine Voice
 https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" tvg-country="BE" tvg-url="" group-title="Music",City Music TV
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="Music",Company TV
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="Music",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" tvg-country="RO" tvg-url="" group-title="Music",Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" tvg-country="RO" tvg-url="" group-title="Music",Credo TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="Music",DBM
+
+#EXTINF:-1 tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="Music",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="Music",Deejay TV
+
+#EXTINF:-1 tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="Music",Deejay TV
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" tvg-country="IN" tvg-url="" group-title="Music",Desi Channel
+
+#EXTINF:-1 tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" tvg-country="IN" tvg-url="" group-title="Music",Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
+
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
 https://ghaasiflu.online/tarab/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Music",Dil Se
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 
