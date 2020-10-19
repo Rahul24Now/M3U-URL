@@ -7,20 +7,20 @@
 plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
 
 # update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (YT) (UPD) (Off LIne)
-plugin://plugin.video.youtube/play/?video_id=91D9phPtMi0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=FftyD90K6Pg
 
 # update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (YT) (UPD) (Off LIne)
-plugin://plugin.video.youtube/play/?video_id=fuRSzerchcU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=up4t2XU2h4k
 
 # update link: https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (YT) (UPD) (Off LIne)
 plugin://plugin.video.youtube/play/?video_id=voPmLEsVIiA
 
 # update link: https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (YT) (UPD) (Off LIne)
-plugin://plugin.video.youtube/play/?video_id=2LzCOxTWoqM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=Osnxi_cLli4
 
 # Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency (YT) (UPD) (Off LIne)
@@ -56,7 +56,7 @@ https://wowzaprod124-i.akamaihd.net/hls/live/508629/4e912ed0/playlist.m3u8
 
 # https://www.youtube.com/channel/UCNZhr7PC5ehkf7Rqom1GfYA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="",Pont Jacques Cartier / La Ronde (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=vh0OcgwxpAk
+plugin://plugin.video.youtube/play/?video_id=cSx206baf5U
 
 # update link: https://www.youtube.com/channel/UCt9lhgKwKl4GHGpgQdGy1AA  NBSL Public Video Streaming #
 #EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",ILE-DES-SOEURS - Camera en direction de Brossard et de A-10 (YT)
@@ -70,11 +70,11 @@ plugin://plugin.video.youtube/play/?video_id=fRxH3IVSCPM
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
-https://mia.rtsp.me/oFKdpEyc7PSzmr2jeLj-eg/1603035542/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/s5Q-VmtVpaZfEGZ5-bceig/1603242129/hls/3yB3SNsr.m3u8
 
 # https://www.vision-environnement.com/livecams/webcam.php?webcam=islet-sur-mer 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="",L´Islet-sur-Mer (UPD)
-https://mia.rtsp.me/mFcQ-Ff9femKjNQAo46R_A/1603035566/hls/7H9hbRNZ.m3u8
+https://mia.rtsp.me/H7iIMGb71RQ-_ZzvmAAHyA/1603242154/hls/7H9hbRNZ.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
@@ -108,13 +108,13 @@ http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="",Cap-Colombier,Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=gzeK0YkAjdw
+plugin://plugin.video.youtube/play/?video_id=T0YdnDEAgHY
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="",rue Augustin-Carrier,Lévis (YT)
-plugin://plugin.video.youtube/play/?video_id=GBlLtZ0OgMk
+plugin://plugin.video.youtube/play/?video_id=2ukPX8uCeYI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="",rue Augustin-Carrier,Lévis 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=P2-11HKH7Lo
+plugin://plugin.video.youtube/play/?video_id=PAGz5XdwZV8
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile,Drummondville
