@@ -36,3 +36,86 @@ https://www.youtube.com/user/ctmq
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" tvg-name="Youtube" group-title="",YT TEST Channel
 https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="",Tampa Bay Weather Live (YT)
+plugin://plugin.video.youtube/play/?video_id=uqvDngD8xWc
+
+#https://www.youtube.com/channel/UCDtp5WqyK_HBbKeT0WR0bxw
+#EXTINF:-1 tvg-logo="" group-title="",Live Earthquakes Volcanoes and Weather (YT)
+plugin://plugin.video.youtube/play/?video_id=X7BTWMsHyHc
+
+#EXTINF:-1 tvg-logo="" group-title="",Texas Weather (YT)
+plugin://plugin.video.youtube/play/?video_id=xqNjNlJTq5I
+
+#EXTINF:-1 tvg-logo="" group-title="",North Central Oklahoma (YT)
+plugin://plugin.video.youtube/play/?video_id=oAHrVspFgfo
+
+#EXTINF:-1 tvg-logo="" group-title="",live weather and Radar for Stillwater, Oklahoma (YT)
+plugin://plugin.video.youtube/play/?video_id=sO0Be9gg_0M
+
+#EXTINF:-1 tvg-logo="" group-title="",地震気象ライブ 第1放送 | Earthquake Weather Live No.1 (YT)
+plugin://plugin.video.youtube/play/?video_id=UIfuer07kGk
+
+#EXTINF:-1 tvg-logo="" group-title="",地震気象ライブ 第2放送 | Earthquake Weather Live No.2 (YT)
+plugin://plugin.video.youtube/play/?video_id=QmxcEJQwBsQ
+
+# https://www.youtube.com/channel/UCF2pPnmYt_qwnlcGSCklnpQ
+#EXTINF:-1 tvg-logo="" group-title=""Live Radar and NWS Forecast for Batavia, Illinois (YT)
+plugin://plugin.video.youtube/play/?video_id=J0_7zH-FrBc
+
+#EXTINF:-1 tvg-logo="" group-title="",Live weather conditions for Madison, Wisconsin (YT)
+plugin://plugin.video.youtube/play/?video_id=QNj8ylhdZ1U
+
+# https://www.youtube.com/channel/UCUBPKhoRJdhrNh5j5J8OFfQ
+#EXTINF:-1 tvg-logo="" group-title="",Weather NOW live stream for central North Dakota (YT)
+plugin://plugin.video.youtube/play/?video_id=7ri_z0xH_R8
+
+# https://www.youtube.com/channel/UCrUk9L249WGtkuQrrJYw9fw
+#EXTINF:-1 tvg-logo="" group-title="",HurricaneFeeds.Com - WatchStorms.Com (YT)
+plugin://plugin.video.youtube/play/?video_id=BS4-KVx417c
+
+# https://www.youtube.com/channel/UCxQh0dkjrSsTQ1bPRiAN7cg
+#EXTINF:-1 tvg-logo="" group-title="",24/7 International Weather and more(YT)
+plugin://plugin.video.youtube/play/?video_id=3lD7AAppSCA
+
+# https://www.youtube.com/channel/UCMCvIpHtR3U369NHLTzaiKw
+#EXTINF:-1 tvg-logo="" group-title="",Weather data from Farsund Lufthavn, Lista (YT)
+plugin://plugin.video.youtube/play/?video_id=7Lb1WF1vVTo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bEzsCqj.jpg" group-title="",Wetter.tv
+http://176.10.117.3:5000/play/a03i
+
+#EXTINF:-1 tvg-logo="" group-title="",Seismic Worldmap Live (YT)
+plugin://plugin.video.youtube/play/?video_id=qC3JAO5BT7Q
+
+# https://www.youtube.com/channel/UCE0_W6t9VenEkA0MRu8D6XA
+#EXTINF:-1 tvg-logo="" group-title="",Earthquake near real-time reporting (YT)
+plugin://plugin.video.youtube/play/?video_id=vJNoaEuG_Jw
+
+#EXTINF:-1 tvg-logo="" group-title="",Volcanoes Live, Worldwide. (YT)
+plugin://plugin.video.youtube/play/?video_id=YeoRx59dZkc
+
+#EXTINF:-1 tvg-logo="" group-title="",North America Radar/Satellite/DirtyIR (YT)
+plugin://plugin.video.youtube/play/?video_id=89_rUb5gKNY
+
+#EXTINF:-1 tvg-logo="" group-title="",Willow Grove Weather Center in Pennsylvania LIVE (YT)
+plugin://plugin.video.youtube/play/?video_id=QRte1rdfzFk
+
+#EXTINF:-1 tvg-logo="" group-title="",TRACKING INVEST 94L LIKELY EPSILON (YT)
+plugin://plugin.video.youtube/play/?video_id=AjLWeqBkbho
+
+#EXTINF:-1 tvg-logo="" group-title="",Earth From Space ISS (YT)
+plugin://plugin.video.youtube/play/?video_id=DDU-rZs-Ic4
+
+#EXTINF:-1 tvg-logo="" group-title="",Weather Nation
+https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",► THE WEATHER NETWORK
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/0d7b5dae172f43a.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",The Weather Network (OPT-2)
+https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
+#https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/index_2000_av-p.m3u8?sd=10&rebase=on
