@@ -411,7 +411,7 @@ https://5b464b69d264e.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wxPvAkL.jpg" group-title="",The Good Life Radio x Sensual Musique (YT)
 plugin://plugin.video.youtube/play/?video_id=36YnV9STBqc
 
-#EXTINF:-1 tvg-language="" tvg-logo="http://i.imgur.com/piGhf3m.png" tvg-country="GR" group-title="Music",Tile Mousiki
+#EXTINF:-1 tvg-logo="http://i.imgur.com/piGhf3m.png" tvg-country="GR" group-title="Music",Tile Mousiki
 http://wpso.com:1936/hls/music1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFZotkH.png" group-title="",Tierramia
