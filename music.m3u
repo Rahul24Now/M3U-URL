@@ -188,6 +188,9 @@ http://cdn.illi.tv/illitv_500/index.m3u8
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" tvg-country="IN"  group-title="Music",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NFzpfz.png" group-title="",JooMusic
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
+
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-country="IN" group-title="Music",Kadak Hits
 https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
@@ -247,6 +250,9 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" tvg-country="TR" group-title="Music",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9vAhG0q.png" group-title="",MH ONE MUSIC
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jMV9iJE.png" group-title="",Mifa
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
