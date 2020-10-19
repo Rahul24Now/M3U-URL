@@ -57,7 +57,7 @@ https://sf1.seedr.cc/media/video/hd_hls/nl24/eacefc8510bb505e9339023980ec1993c4d
 https://fr13.seedr.cc/media/video/hd_hls/a57541119e8be6f5f52b2ae7b3f00e8a9e18f53c/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qyPatOc.jpg" group-title="",1917
-https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+1917_2019_VOSTFR_DVDSCR_x264-Wawacity_top+Online+%E2%80%94+Mystream.mp4
+https://nl27.seedr.cc/media/video/hd_hls/214b82addc55b0d8a149782d782ea00d92dce1b0/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmIMIsr.jpg" group-title="",2040
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020/Watch+2040_2019_FRENCH_720p_WEB_H264-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
@@ -156,7 +156,7 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020
 https://ia601303.us.archive.org/8/items/Antigang2015FRENCHBluRay1080pDTSHDMA5.1X265HDWorkshop.mkv/Antigang 2015 FRENCH BluRay 1080p DTS-HD MA 5.1 x265-HD Workshop.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yP5SuRK.jpg" group-title="",Aquaman
-https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Aquaman+streaming+vf+%E2%80%94+Streamay.mp4
+https://de11.seedr.cc/media/video/hd_hls/31a317dc4548e9ba6f5dce77e1c013d37d6f30eb/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/553.jpg" group-title="",A Good Woman
 https://fr3.seedr.cc/media/video/hd_hls/b25c14f3c6cc8a07b946418f3edacda9ae3e7c22/vid.m3u8
@@ -375,18 +375,23 @@ https://nl30.seedr.cc/media/video/lq_hls/449ce7cd10e3ab40ea6fb77b43ed56199a4a96a
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/180.jpg" group-title="",Catwoman
 https://fr9.seedr.cc/media/video/hd_hls/805501fb6260235450c97453b53c156bca6bd74c/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/836.jpg" group-title="",Cinquante nuances plus claires
-https://fr4.seedr.cc/media/video/hd_hls/8c27ed53dcd003436e7b08b6ccfc47e602b3215b/vid.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/062WXI3.jpg" group-title="",Cinquante nuances plus sombres
-https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Cinquante+Nuances+plus+sombres+streaming+vf+%E2%80%94+Streamay_2.mp4
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/977.jpg" group-title="",Cinquante nuances de Black
-https://de16.seedr.cc/media/video/lq_hls/486edf10ec45b8c9b5b6a71dcc8b293e78bbb96a/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1170.jpg" group-title="",Chair de Poule - Le Film
+https://nl23.seedr.cc/media/video/hd_hls/e6d7bc631082bfa01748b6cb79529783118fbbdc/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1164.jpg" group-title="",Chair de poule 2 : Les Fantômes d'Halloween
+https://de12.seedr.cc/media/video/lq_hls/57067e7bcc60452a414e58f04423d837ce0fcbd9/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1037.jpg" group-title="",Chasseuse de géants
 https://de9.seedr.cc/media/video/hd_hls/9ed5a4dd8519fdd08a187328fc3cca7f8deec2fc/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R1NSai9.jpg" group-title="",Chasseurs de Monstres (YT)
 plugin://plugin.video.youtube/play/?video_id=5Sob77aSr-Y
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/836.jpg" group-title="",Cinquante nuances plus claires
+https://fr4.seedr.cc/media/video/hd_hls/8c27ed53dcd003436e7b08b6ccfc47e602b3215b/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/062WXI3.jpg" group-title="",Cinquante nuances plus sombres
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Cinquante+Nuances+plus+sombres+streaming+vf+%E2%80%94+Streamay_2.mp4
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/977.jpg" group-title="",Cinquante nuances de Black
+https://de16.seedr.cc/media/video/lq_hls/486edf10ec45b8c9b5b6a71dcc8b293e78bbb96a/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DHnvIMY.jpg" group-title="",Clint Eastwood - ET POUR QUELQUES DOLLARS DE PLUS (YT)
 plugin://plugin.video.youtube/play/?video_id=-y5cR7FqUmw
@@ -572,9 +577,9 @@ https://nl25.seedr.cc/media/video/lq_hls/2f84467f08465880a0ffa928c261dccf8a0c322
 https://nl20.seedr.cc/media/video/hd_hls/c1c09588221b3f369b1c76939dfedd573760031d/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxSIcaI.png" group-title="",Ghost Rider
-http://w.sylviethiriez.com/Downloads/films/Ghost%20Rider%202007.avi
+https://fr7.seedr.cc/media/video/lq_hls/0c2ae3c36e54e07d55373b322ad0b70dfebf9b78/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcFa6Rv.jpg" group-title="",Ghost Rider 2
-http://w.sylviethiriez.com/Downloads/films/Ghost%20Rider%202.avi
+https://nl33.seedr.cc/media/video/hd_hls/4e851a3f4b9b6920d4d2400214dcf6278143df1a/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZmxGxs.jpg" group-title="",Ghost Tropic
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020/Watch+Ghost_Tropic_2019_FRENCH_1080p_WEB_x264-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
@@ -612,6 +617,9 @@ https://de13.seedr.cc/media/video/lq_hls/5cdb5c10fea483ae554c7224d77800c08b64dda
 https://de13.seedr.cc/media/video/lq_hls/e56311a558c16620292d2b40bb891fed7f1aeee2/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/97.jpg" group-title="",Harry Potter et les Reliques de la mort - 2ème partie
 https://de13.seedr.cc/media/video/lq_hls/d4b42ce750207f8fdbba0be29dca79f6b5f048de/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1130.jpg" group-title="",Heat
+https://fr1.seedr.cc/media/video/lq_hls/ae3e0caed860f162a81bd8c8210b12b83f0f7c5d/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/823.jpg" group-title="",Hellboy
 https://fr8.seedr.cc/media/video/hd_hls/c417f92e0782f2dbf71468d4d5a26a3ef95cf1f0/vid.m3u8
@@ -685,6 +693,9 @@ https://nl35.seedr.cc/media/video/lq_hls/3ba97e2f868215659998b8ab5799a98e60db6f9
 https://nl37.seedr.cc/media/video/lq_hls/92ff22a094a4015f89fce7ab0da2330c581dc2cb/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/134.jpg" group-title="",Iron Man 3
 https://fr7.seedr.cc/media/video/lq_hls/914692c7ec035770470598b22a6ec7f07e3f9649/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1151.jpg" group-title="",Iron Sky
+https://nl29.seedr.cc/media/video/lq_hls/34ef81866853cf93675fbcb28bb1d943e5d15c83/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/452.jpg" group-title="",I See You
 https://fr3.seedr.cc/media/video/hd_hls/e70789e44f46f83c9fd9e2ff15be03c96732af3d/vid.m3u8
@@ -840,6 +851,9 @@ https://lo1.seedr.cc/media/video/hd_hls/fr8/bb3b7b47c3ba19159374017b8b82e9e25044
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/448.jpg" group-title="",La bataille de l'Atlantique - USS Greyhound
 https://nl28.seedr.cc/media/video/hd_hls/be9328a19e84a1872d1de0c7f3cf6870db6e41e6/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1158.jpg" group-title="",La bataille de Leningrad
+https://nl26.seedr.cc/media/video/hd_hls/ded0ca32dd267ab4614b33988d3e1409f98f2a86/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/39.jpg" group-title="",La Chute du Président
 https://sf1.seedr.cc/media/video/hd_hls/nl21/64fdf91be8b859b58b1d19f96b398bdda7ee3042/vid.m3u8
 
@@ -969,6 +983,9 @@ https://fr7.seedr.cc/media/video/hd_hls/867e8388a684dd2aa48459d1d86ec2a8ec2966fd
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/65.jpg" group-title="",Le monde magique de Salma
 https://sf1.seedr.cc/media/video/hd_hls/fr7/596681a85ed123cb9803868d22842807f2810922/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1154.jpg" group-title="",Le mystère du sceau du dragon
+https://nl28.seedr.cc/media/video/hd_hls/41b9b7de24bfe56b65bee7617bf1016932e0f3dc/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/610.jpg" group-title="",Le Parrain
 https://nl24.seedr.cc/media/video/lq_hls/a42435eb4a484c7916c96232fb055cb13faa700b/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/611.jpg" group-title="",Le Parrain - 2ème partie 
@@ -997,6 +1014,15 @@ plugin://plugin.video.youtube/play/?video_id=kNeQKMNyb_c
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/839.jpg" group-title="",Le Silence de la ville blanche
 https://nl23.seedr.cc/media/video/hd_hls/3b2f3026bc6a8f43bb058b74f7d35088ff7e9e96/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1142.jpg" group-title="",Le Transporteur
+https://de14.seedr.cc/media/video/lq_hls/27c9e52ee64193764163ea683ad7b2b46d4b516f/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1143.jpg" group-title="",Le Transporteur 2
+https://nl19.seedr.cc/media/video/lq_hls/347a3bed60757ab18ee5c9fdf6d0329d156c1f58/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1144.jpg" group-title="",Le Transporteur 3
+https://nl26.seedr.cc/media/video/hd_hls/fd6dcef1f56a74cbd65545b22d1bf85fd8ae6d51/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1145.jpg" group-title="",Le Transporteur : Héritage
+https://de16.seedr.cc/media/video/hd_hls/11f4b3a45d6e50a812d47a448054a83f7b206628/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/557.jpg" group-title="",Le trésor des Walton
 https://fr2.seedr.cc/media/video/lq_hls/acebdc53246d0f71cd0d7ffb3d31fe5371126905/vid.m3u8
@@ -1486,8 +1512,10 @@ https://fr13.seedr.cc/media/video/lq_hls/ec3e38338b94d4f666481822b6fc10b5e0f08b1
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/827.jpg" group-title="",Shaft
 https://fr1.seedr.cc/media/video/hd_hls/703c306081f97735b0411672f14b56888f8814f6/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/405.jpg" group-title="",Shaun le Mouton - le film
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/405.jpg" group-title="",Shaun le Mouton
 https://nl34.seedr.cc/media/video/hd_hls/3c8156620b4ae4d7b6749c190aaab56e9e259403/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1173.jpg" group-title="",Shaun le mouton : La ferme contre-attaque
+https://nl33.seedr.cc/media/video/hd_hls/3660ae1c1c02d1da49f719c77ce94b97f1ec2d74/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/520.jpg" group-title="",Shazam!
 https://de14.seedr.cc/media/video/hd_hls/7ffb5cf4578f8e3b99e03b650afadd2c9a480ddb/vid.m3u8
@@ -1775,6 +1803,15 @@ https://fr8.seedr.cc/media/video/hd_hls/bf13a6b3aa8616db262baaa316b7c42b40e23a45
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0FoYJ1.jpg" group-title="",Tomb Raider
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Tomb.Raider.2018.FRENCH.HDRip.x264-Wawacity.ec.mp4
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1171.jpg" group-title="",Toy Story
+https://de17.seedr.cc/media/video/lq_hls/1603a0b9e6f5f12d0c982af1b708b6157f1abaa5/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1172.jpg" group-title="",Toy Story 2
+https://de13.seedr.cc/media/video/lq_hls/d03d0dc672c45ed2d14bdfb3aaf365e41c49a530/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1168.jpg" group-title="",Toy Story 3
+https://de16.seedr.cc/media/video/lq_hls/3046c00ada620f5ec907baebccbbc8547dacd8e9/vid.m3u8?
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1138.jpg" group-title="",Toy Story 4
+https://de16.seedr.cc/media/video/hd_hls/2fc777444d2f5e935002931f3772c92ccd40a524/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1026.jpg" group-title="",Traffik
 https://de8.seedr.cc/media/video/hd_hls/ee490b3d26be0253caac068e00bfcaddfd914ce8/vid.m3u8
