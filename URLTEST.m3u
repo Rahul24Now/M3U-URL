@@ -1,5 +1,19 @@
 ﻿#EXTM3U
 
+# https://www.youtube.com/channel/UCxhF3EUzP28b_rVhdXFKWzw
+#EXTINF:-1 tvg-logo="" group-title="",TOP100 WORLD POPULATION LIVE (YT)
+plugin://plugin.video.youtube/play/?video_id=BnyBWOR5peI
+
+#EXTINF:-1 tvg-logo="" group-title="",Coronavirus Pandemic - Real Time Counter (YT)
+plugin://plugin.video.youtube/play/?video_id=NMre6IAAAiU
+
+#EXTINF:-1 tvg-logo="" group-title="",World GDP Live (YT)
+plugin://plugin.video.youtube/play/?video_id=O-VvBpHlJbY
+
+#EXTINF:-1 tvg-logo="" group-title="",World Debt Live (YT)
+plugin://plugin.video.youtube/play/?video_id=q_cFlRI6020
+
+###########
 
 #EXTINF:-1 tvg-logo="" group-title="",Tampa Bay Weather Live (YT)
 plugin://plugin.video.youtube/play/?video_id=uqvDngD8xWc
