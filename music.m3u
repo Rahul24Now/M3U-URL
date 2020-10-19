@@ -51,6 +51,9 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u
 #EXTINF:-1 tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" tvg-country="IR" tvg-url="" group-title="Music",Caltex TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZL2kxO.png" group-title="",Canal 3 Trelew
+https://panel.dattalive.com/8034/8034/playlist.m3u8
+
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
 http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
 
@@ -133,8 +136,9 @@ https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Q1UOlkA.png" tvg-country="AL" tvg-url="" group-title="Music",EUROAL
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 
+# http://www.planeta-online.tv/channels/4/live.html
 #EXTINF:-1 tvg-id="freshtv" tvg-name="Fresh TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/Ju3mLgq.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Fresh TV
-https://strm.yandex.ru/kal/fresh/fresh0.m3u8
+http://live.planeta-online.tv:1935/public/smil:channel_4.smil/chunklist_w387715927_b2628000_tkd3RlbmR0aW1lPTE2MDMxNjAwMjQmd3RoYXNoPU96d1FXUjJ1M2ozS2R5LWlyOUp0ZWRfS0ZETGUwWDR3bDc0UUZGTVZFTlE9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" tvg-country="IN" tvg-url="" group-title="Music",Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
