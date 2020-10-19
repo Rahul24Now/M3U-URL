@@ -193,7 +193,7 @@ https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="Kral Pop TR" tvg-name="Kral Pop TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7v8wmsb/7H8WKei.png" tvg-country="TR" group-title="Music",Kral Pop
 https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 
-#EXTINF:-1 tvg-language="" tvg-logo="" tvg-country="AT" group-title="Music",Kronehit HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nC49jUw.jpg" tvg-country="AT" group-title="Music",Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" tvg-country="PT"  group-title="Music",Kuriakos Music
@@ -204,9 +204,6 @@ https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
 
 #EXTINF:-1  tvg-language="French" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" tvg-country="SN" group-title="Music",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
-
-#EXTINF:-1 tvg-language="Macedonian" tvg-logo="" tvg-country="MK"  group-title="Music",LiveTV HD
-rtmp://live.livetvhd.cf/live/livetvhd
 
 #EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-language="Italian" tvg-logo="" tvg-country="IT" group-title="Music",m2o TV
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
@@ -357,7 +354,7 @@ plugin://plugin.video.youtube/play/?video_id=C6_ql03n-vQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/T2K6xqz.jpg" tvg-country="NL" tvg-url="" group-title="Music",Redlight Radio
 http://cdn-hlm-1.streamnerd.nl/live/redlightradio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Music",Retro Music Television
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-language="Czech" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Music",Retro Music Television
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-language="Czech" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Music",Retro Music Television
@@ -366,11 +363,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/0ujfLYr.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 
-#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/0ujfLYr.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",RU.TV
-https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-
-#EXTINF:-1 tvg-id="russian-musicbox" tvg-name="Russian MusicBox" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/russian_musicbox.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Russian Musicbox
-https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WwRw6jc.png" group-title="",Songtv
+https://songtvam.ru/playlist.m3u8
 
 # https://www.youtube.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6UYRng.png" group-title="",Spinnin' (YT)
@@ -379,8 +373,8 @@ plugin://plugin.video.youtube/play/?video_id=BD_guK9b64k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vMjNWqy.png" group-title="",Sunburn TV 
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="Music",Skyline TV Radio &amp; Soul
-https://dcunilive35-lh.akamaihd.net/i/dclive_1@668625/master.m3u8
+#EXTINF:-1 tvg-language="Italian" tvg-logo="https://i.imgur.com/XQuq1v0.png" tvg-country="IT" group-title="Music",Skyline TV Radio
+https://5db313b643fd8.streamlock.net/SkyLineTv/SkyLineTv/playlist.m3u8
 
 # https://www.swarnavahini.lk/
 #EXTINF:-1 tvg-logo="https://www.swarnavahini.lk/assets/front/img/logo.png" group-title="",Swarnavahini
