@@ -262,6 +262,9 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/3c935c9135c290
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0RH0qq.png" group-title="",MCM TV MUSIC 90'S LIVE
 https://v2.catcast.tv/content/38484/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ctwdSl3.jpg" group-title="Ru",Mafi2a Music
+https://hls.myvideocontent.ru/hls2/tv12/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QZQhg6C.png" tvg-country="GR" group-title="Music",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 
@@ -312,7 +315,6 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" group-title="Music",Music TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" tvg-country="HT" group-title="Music",Nago TV
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
@@ -367,15 +369,15 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JX04RpS.png" group-title="",Playloud Live radio DAB+ Lille, France.(TWITCH)
 plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
 
-#EXTINF:-1 tvg-language="Spanish" tvg-logo="" tvg-country="CL" group-title="Music",Portalfoxmix
+#EXTINF:-1 tvg-language="Spanish" tvg-logo=""https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
+#EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
+#EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix (OPT-2)
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-language="Spanish" tvg-logo="" tvg-country="CL" group-title="Music",Portalfoxmix
+#EXTINF:-1 tvg-language="Spanish" tvg-logo=""https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tc42wkF.png" group-title="",PowerTürk TV
@@ -393,6 +395,12 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
 #EXTINF:-1 tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" tvg-country="DE" group-title="Music",Radio 21 TV
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L955hWC.jpg" group-title="NL",RADIO 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SHkETp2.png" group-title="It",Radio Iglesias Visual Radio
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/chunklist.m3u8
 
 #EXTINF:-1 tvg-language="Italian" tvg-logo="https://i.imgur.com/suhDgwl.png" tvg-country="IT" group-title="Music",Radio Italia Vision
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
