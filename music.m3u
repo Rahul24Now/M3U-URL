@@ -167,6 +167,9 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" tvg-country="IR" group-title="Music",EBC1 TV
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wFtttL9.png" group-title="",Eldoradio TV
+https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-language="Albanian" tvg-logo="https://i.imgur.com/Q1UOlkA.png" tvg-country="AL" group-title="Music",EUROAL
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 
@@ -452,11 +455,13 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XbiI1S9.png" group-title="",RETRO PLUS TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1070727905.m3u8
 
-
 #EXTINF:-1 tvg-id="France" tvg-name="RFM TV" tvg-logo="https://i.imgur.com/V3wENl0.png" group-title="France",RFM TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/ac8bbaf89f65d0a.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="France" tvg-name="RFM TV" tvg-logo="https://i.imgur.com/V3wENl0.png" group-title="France",RFM TV (OPT-2)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Mcm_pop_live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png" group-title="Ru",Ritsa TV
+https://a-mobile.camera/cams/RITSA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/0ujfLYr.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
