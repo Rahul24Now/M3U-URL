@@ -351,6 +351,9 @@ https://de4.seedr.cc/media/video/hd_hls/4d3038e1610994aa6bae334dc2e8b13173799450
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/278.jpg" group-title="",Ça - Chapitre 2
 https://fr1.seedr.cc/media/video/hd_hls/9137e4e9a14e68f0e0d88931e995bf8d12481790/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1233.jpg" group-title="",Capone
+https://nl17.seedr.cc/media/video/hd_hls/12eb0561281a145176ebcd936e7240446fbc918e/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/783.jpg" group-title="",Captain America - Le Soldat de l'hiver
 https://fr10.seedr.cc/media/video/hd_hls/48f928128251450de5350b8f844f46603ccaff9b/vid.m3u8
 
@@ -935,6 +938,9 @@ https://nl31.seedr.cc/media/video/hd_hls/73509350f667a6ebfbb0d81c19d2a86e909f398
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1055.jpg" group-title="",Le Dernier jour de ma vie
 https://fr14.seedr.cc/media/video/lq_hls/288ecbdbcbe638cbfbc92ca624dcf9ce71385333/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1234.jpg" group-title="",Le Duelliste
+https://fr10.seedr.cc/media/video/lq_hls/7ab8c3d0e33be7ce23c1a0b3eed0fac3e43e6e9c/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/616.jpg" group-title="",Le Fils de Chucky
 https://nl38.seedr.cc/media/video/lq_hls/15d7bde433213deba468d9630f427d34b2718aae/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3W3bG6C.jpg" group-title="",La Fiancée de Chucky (YT)
@@ -957,6 +963,11 @@ plugin://plugin.video.youtube/play/?video_id=SWnnEHvY9HQ
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/663.jpg" group-title="",Le jour viendra où...
 https://nl24.seedr.cc/media/video/lq_hls/786985a3b9e56bc1dd9200fea26024985af908fd/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1239.jpg" group-title="",Le Labyrinthe
+https://fr7.seedr.cc/media/video/hd_hls/be201826be7ae54d5b16c89d1af741f75d5bce40/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1215.jpg" group-title="",Le Labyrinthe : La Terre brûlée
+https://nl26.seedr.cc/media/video/hd_hls/73b14c36748bd455b039a3a1649be6059e44b2af/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/322.jpg" group-title="",Le Livre d'Eli
 https://nl17.seedr.cc/media/video/hd_hls/819506f9e242a49f07929b1699370e7b2e988894/vid.m3u8
@@ -986,12 +997,21 @@ https://sf1.seedr.cc/media/video/hd_hls/fr7/596681a85ed123cb9803868d22842807f281
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1154.jpg" group-title="",Le mystère du sceau du dragon
 https://nl28.seedr.cc/media/video/hd_hls/41b9b7de24bfe56b65bee7617bf1016932e0f3dc/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1245.jpg" group-title="",Le Nombre 23
+https://fr1.seedr.cc/media/video/lq_hls/3843a831cb2abeac342475e9be47380b159a245f/vid.m3u8?dvr
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/610.jpg" group-title="",Le Parrain
 https://nl24.seedr.cc/media/video/lq_hls/a42435eb4a484c7916c96232fb055cb13faa700b/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/611.jpg" group-title="",Le Parrain - 2ème partie 
 https://nl24.seedr.cc/media/video/lq_hls/fd6372557573ace4e03ccce43ddd3d1029c95ac2/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/612.jpg" group-title="",Le Parrain - 3ème partie
 https://nl24.seedr.cc/media/video/lq_hls/37c308162f1ae9badc5cf56132d89a707510915a/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1222.jpg" group-title="",Le Roi Arthur
+https://fr15.seedr.cc/media/video/lq_hls/fff6febad5b0f6cbe51d9e63b09b0026103bd057/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1217.jpg" group-title="",Le Roi Arthur : La légende d'Excalibur
+https://nl34.seedr.cc/media/video/lq_hls/a05a2baa06fd99cebd2d93a7fa93fbf9aeaac759/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/872.jpg" group-title="",Le Seigneur des anneaux - La Communauté de l'anneau Partie 1
 https://fr7.seedr.cc/media/video/hd_hls/78b1452093ff4ed8dc07095c407d75cdb627b687/vid.m3u8
@@ -1803,6 +1823,9 @@ https://fr8.seedr.cc/media/video/hd_hls/bf13a6b3aa8616db262baaa316b7c42b40e23a45
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0FoYJ1.jpg" group-title="",Tomb Raider
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Tomb.Raider.2018.FRENCH.HDRip.x264-Wawacity.ec.mp4
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1264.jpg" group-title="",Tomiris
+https://nl33.seedr.cc/media/video/lq_hls/255482a6ea927903b0c90d3833a6b7532033407c/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1171.jpg" group-title="",Toy Story
 https://de17.seedr.cc/media/video/lq_hls/1603a0b9e6f5f12d0c982af1b708b6157f1abaa5/vid.m3u8?dvr
