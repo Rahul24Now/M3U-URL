@@ -377,7 +377,7 @@ https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/NCI_PIXPLAY/1500K/chunks.m3u8?ni
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SWhULoc.png" group-title="",Netalkole TV (DM)
-plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x72rpek
+plugin://plugin.video.dailymotion_com/?url=x72rpek&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/GhFuvIU.png" group-title="",NTV cote d'Ivoire
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
