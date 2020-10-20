@@ -259,6 +259,11 @@ plugin://plugin.video.youtube/play/?video_id=dC3-ISvqnJI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eycL5Cz.png" group-title="",Mad Radio 106.2 Live (YT)
 plugin://plugin.video.youtube/play/?video_id=WEsJ0un-AME
 
+#EXTINF:-1 tvg-language="Russian" tvg-logo="https://i.imgur.com/sbQWSTI.png" tvg-country="RU" group-title="Music",Матур ТВ HD
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-language="Russian" tvg-logo="https://i.imgur.com/sbQWSTI.png" tvg-country="RU" group-title="Music",Матур ТВ HD (OPT-2)
+https://mhd.iptv2022.com/p/AKSA-3XXjhXKCvZB11-JZw,1603297259/streaming/matur1/324/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zPRTLzm.png" group-title="",MCM
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/mcm_live/index.m3u8
 
@@ -321,6 +326,9 @@ https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" group-title="Music",Music TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-language="Russian" tvg-logo="https://i.imgur.com/3tDNnUA.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 
 #EXTINF:-1 tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" tvg-country="HT" group-title="Music",Nago TV
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
@@ -549,27 +557,8 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ktrk.kg/images/channels/small/music.png" tvg-country="KG" group-title="Music",КТРК Музыка
 http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Music",Матур ТВ HD
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-
-#EXTINF:-1 tvg-id="muztv" tvg-name="Муз-ТВ" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/muz_tv.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Муз-ТВ
-https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8
-
-#EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",МузСоюз
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Music",Новое
+#EXTINF:-1 tvg-language="Russian" tvg-logo="https://i.imgur.com/iExdEdM.png" tvg-country="RU" group-title="Music",Новое
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="BY" tvg-url="" group-title="Music",Первый Музыкальный BY
-http://rtmp.one.by:1200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="BY" tvg-url="" group-title="Music",Первый Музыкальный BY [FHD]
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="BY" tvg-url="" group-title="Music",Первый Музыкальный RU BY
-http://rtmp.one.by:2200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="BY" tvg-url="" group-title="Music",Первый Музыкальный RU HD BY
-http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-language="Russian" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
