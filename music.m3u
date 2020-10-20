@@ -346,7 +346,7 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
 #EXTINF:-1 tvg-language="Dutch" tvg-logo="https://i.imgur.com/yjuaHY1.jpg" tvg-country="NL" group-title="Music",Operator Radio
-http://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
+https://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
 
 #EXTINF:-1 tvg-id="o-tv" tvg-name="OTV" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wCrNtxp.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",OTV
 http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
