@@ -334,6 +334,17 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zdh9bTw.png" group-title="",NRJ12
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 
+#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/sTQB8op.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/sTQB8op.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/pw5jKaZ.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/UzqocFs.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
 #EXTINF:-1 tvg-language="Dutch" tvg-logo="https://i.imgur.com/yjuaHY1.jpg" tvg-country="NL" group-title="Music",Operator Radio
 http://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
 
@@ -511,16 +522,7 @@ https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/sTQB8op.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/sTQB8op.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="Music",Óčko Expres
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko Gold
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/UzqocFs.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko STAR
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
 
 #########
 
