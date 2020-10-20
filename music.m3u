@@ -80,11 +80,17 @@ plugin://plugin.video.youtube/play/?video_id=57dQymTgeJY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TGC44nR.jpg" group-title="",BN Music
 https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhBT4jB.png" group-title="",BNMTV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7v306o&mode=playLiveVideo
+
 #EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" group-title="Music",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
 #EXTINF:-1 tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" tvg-country="IR" tvg-url="" group-title="Music",Caltex TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2dEXHu.png" group-title="",cdirect.tv
+http://cms-streamaniak.top/Cdirect/CDIRECT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYUQrJ4.png" group-title="",CMC - California
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
@@ -102,6 +108,8 @@ plugin://plugin.video.youtube/play/?video_id=OOAhIinv6pU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KTBmV1D.jpg" group-title="",Car Music Mix 2020 2 (YT)
 plugin://plugin.video.youtube/play/?video_id=Z0lZq7wIltA
 
+#EXTINF:-1 tvg-logo="https://chiconifm.fr/images/img976/a3t.png" group-title="",Chiconi FM-TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x6ebm4d&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
 http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
@@ -154,6 +162,9 @@ https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-language="Italian" tvg-logo="https://i.imgur.com/vPTdZz5.jpg" tvg-country="IT" group-title="Music",Deejay TV
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7VTtSC.png" group-title="",Def Tv (DM)
+plugin://plugin.video.dailymotion_com/?url=x7uw6jc&mode=playLiveVideo
 
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" tvg-country="IN" group-title="Music",Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
@@ -350,6 +361,11 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zdh9bTw.png" group-title="",NRJ12
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/6ywPJDc.png" group-title="",obosso.tv
+https://edge2.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8
+#EXTINF:-1 tvg-id="FR" tvg-logo="https://i.imgur.com/6ywPJDc.png" group-title="",obosso.tv (OPT-2)
+https://edge2.vedge.infomaniak.com/livecast/ik:obossotv_6/chunklist_w464069638.m3u8
+
 #EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/sTQB8op.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/sTQB8op.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko
@@ -487,6 +503,9 @@ https://arenasportslovakia.ddns.net/hls/slager.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WwRw6jc.png" group-title="",Songtv
 https://songtvam.ru/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/7IDfwAC.png" group-title="",Spice FM Nairobi (DM)
+plugin://plugin.video.dailymotion_com/?url=x7eo9oe&mode=playLiveVideo
+
 # https://www.youtube.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6UYRng.png" group-title="",Spinnin' (YT)
 plugin://plugin.video.youtube/play/?video_id=BD_guK9b64k
@@ -503,6 +522,10 @@ https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966f
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aBPSij2.png" tvg-country="CO" tvg-url="" group-title="Music",Telemusica
 https://5b464b69d264e.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8
+
+# https://hbiptv.com/telemix/   https://www.telemix.tv/tv-2/ #
+#EXTINF:-1 tvg-logo="https://www.telemix.tv/newstuff/wp-content/uploads/2019/10/logo-mix-2.png" group-title="",telemix.tv
+https://haititivi.com/haiti/telemix1/tracks-v1a1/mono.m3u8
 
 # https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wxPvAkL.jpg" group-title="",The Good Life Radio x Sensual Musique (YT)
@@ -542,6 +565,12 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-id="viva-tv" tvg-name="VIVA TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/qCLICfC.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",VIVA TV
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4HRIgWk.png" group-title="",VOICE MUSIC
+http://connectiktv.ddns.net:5000/voicetv/voicetv/chunklist_w124571855.m3u8
+
+#EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/HKsOeuP.png" group-title="",Vybez Radio (DM)
+plugin://plugin.video.dailymotion_com/?url=x7eob6j&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" tvg-country="AE" group-title="Music",Wanasah
 https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
