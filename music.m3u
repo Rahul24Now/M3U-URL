@@ -243,6 +243,9 @@ https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
 #EXTINF:-1  tvg-language="French" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" tvg-country="SN" group-title="Music",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="m2-ua" tvg-name="М2" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/fnHVDky.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",М2
+https://live.m2.tv/hls3/stream.m3u8
+
 #EXTINF:-1 tvg-id="France" tvg-name="M6 Music" tvg-logo="https://i.imgur.com/ILg9C6Z.png" group-title="France",M6 MUSIC
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/8e4b146c7a0678b.m3u8|User-Agent=stream
 
@@ -538,26 +541,14 @@ https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LgQBtTh.jpg" tvg-country="GR" group-title="Music",Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 
-
-
-
-#########
-
-
 #EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-language="Russian" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Жар Птица
-https://strm.yandex.ru/kal/firebird/firebird0.m3u8
+#########
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.ktrk.kg/images/channels/small/music.png" tvg-country="KG" tvg-url="" group-title="Music",КТРК Музыка
+#EXTINF:-1 tvg-logo="http://www.ktrk.kg/images/channels/small/music.png" tvg-country="KG" group-title="Music",КТРК Музыка
 http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="" tvg-country="UA" tvg-url="" group-title="Music",М1
-https://live.m2.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="m2-ua" tvg-name="М2" tvg-language="Ukrainian" tvg-logo="http://m2.tv/assets/logo-231ef42a791ac4e9287a94c6dd492ebd740ad3bea40f789cd489683b758ff65d.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",М2
-https://live.m2.tv/hls3/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Music",Матур ТВ HD
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
