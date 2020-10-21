@@ -126,6 +126,9 @@ http://195.154.252.221:8000/play/dritawebtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="",Folx TV
 http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QUMa30w.png" group-title="",GameTV.ch (TWITCH)
+plugin://plugin.video.twitch/?channel_id=276798078&amp;mode=play
+
 # https://www.youtube.com/channel/UC7pVPkfQFqLa3asf8OGUcvA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uw14Ffc.jpg" group-title="",JLM TV (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=aSI5DgbP-dU
@@ -192,6 +195,10 @@ http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVlqFDx.png" group-title="",Sport Szene Fernsehen
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1041670823_b2628000.m3u8
+
+# https://www.youtube.com/channel/UCrzWFws5zrY7f-naFmAXgBg https://www.startv.ch/index.cfm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RKYw2em.png" group-title="",Star Schmuck (YT)
+plugin://plugin.video.youtube/play/?video_id=N-3ynBS-otw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nj4HnDt.png" group-title="",Südostschweiz
 http://176.10.117.3:5000/play/a03t
