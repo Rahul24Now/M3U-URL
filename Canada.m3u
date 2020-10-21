@@ -25,6 +25,9 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/17e2fbf1034845
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJllL8Z.png" group-title="",► BET CAN
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/8f12c6a0ac29b75.m3u8|User-Agent=stream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGnBg0p.jpg" group-title="",Bible Discovery TV (Monday, Wednesday, and Friday for Live Prayer right here at 3:00pm EST)
+https://2-fss-1.streamhoster.com/pl_122/200226-88032-1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jILckhl.png" group-title="",blackflag.tv
 https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist.m3u8
 
