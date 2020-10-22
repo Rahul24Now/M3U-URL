@@ -44,12 +44,16 @@ plugin://plugin.video.youtube/play/?video_id=0mXfTYRMI6k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=2T3jNNYBnGA
 
+# https://www.youtube.com/channel/UCOfTJ2Bx0NANF26D44We_Lg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Mont-Royal (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=LgsrygiCfjw
+
 # https://www.youtube.com/channel/UC4sV5M5L86DfidH0Aeq1YcQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal Aeroport Trudeau (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=iAf4ku9cgCM
 
 # https://www.youtube.com/channel/UCBF_Zr3t_6-vRsQrqe-BTDA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WDBqyXC.jpg" group-title="",Cathédrale Marie-Reine-du-Monde Montréal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDBqyXC.jpg" group-title="",Cathédrale Marie-Reine-du-Monde Montréal (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=zxRq7HF85Zg
 
 # update link: https://jacquescartierchamplain.ca/circulation-travaux/reseau-en-direct/ #
