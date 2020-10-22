@@ -42,7 +42,7 @@ plugin://plugin.video.youtube/play/?video_id=0mXfTYRMI6k
 
 # https://www.youtube.com/channel/UCTa_gibTHUjXqybtEpEH7GQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=2T3jNNYBnGA
+plugin://plugin.video.youtube/play/?video_id=aPyhti-XKIc
 
 # https://www.youtube.com/channel/UCOfTJ2Bx0NANF26D44We_Lg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Mont-Royal (YT) (UPD)
