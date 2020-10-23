@@ -152,15 +152,15 @@ plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Quebec TV",Télé-Mag Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=-krVxNOolno
+plugin://plugin.video.youtube/play/?video_id=-D4f9xD4k-C0
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=-xbNFbXf0sI
+plugin://plugin.video.youtube/play/?video_id=-vO4zDkKna9Q
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
-#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=Z7-dPRWPUbM
+#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=NNb01OfgBoQ
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Quebec TV",TVC9 (YT) (UPD)
@@ -168,11 +168,11 @@ plugin://plugin.video.youtube/play/?video_id=rixVMrXV57E
 
 # update link: https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live #
 #EXTINF:-1 tvg-id="Quebec" tvg-name="TV Témis" tvg-logo="http://temis.tv/resources/images/logo-small-blanc.png"group-title="Quebec TV",TV Témis (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=yUhgWUN_JeE
+plugin://plugin.video.youtube/play/?video_id=OS1kMglMoCA
 
 # https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT)
-plugin://plugin.video.youtube/play/?video_id=EVt-zUmNxXU
+plugin://plugin.video.youtube/play/?video_id=avqJMULh-WQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
@@ -189,7 +189,7 @@ plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
 plugin://plugin.video.twitch/?channel_id=477666625&amp;mode=play
 
 # https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q https://www.funkypanda.net
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="",Funky Way FM MTL (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="",Funky Way FM MTL (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=VlXyZZlsKb4
 
 # update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
