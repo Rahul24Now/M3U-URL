@@ -466,6 +466,13 @@ plugin://plugin.video.youtube/play/?video_id=GPma8eHhwpI
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/231.jpg" group-title="",Dirty Dancing
 https://fr11.seedr.cc/media/video/lq_hls/ee868e2a09f765d2130b42abbe87a6a892b905bb/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1175.jpg" group-title="",Divergente
+https://fr5.seedr.cc/media/video/lq_hls/91e449b4d1d0f591463385d088101d0ece157f56/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="" group-title="https://android.tkfaart.com/uploads/video_thumb/1270.jpg",Divergente 2 - L'Insurrection
+https://fr5.seedr.cc/media/video/lq_hls/91e449b4d1d0f591463385d088101d0ece157f56/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1271.jpg" group-title="",Divergente 3 - Au-delà du mur
+https://nl17.seedr.cc/media/video/hd_hls/0bb01da2851fe61011751132f205e2765b364683/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/613.jpg" group-title="",Django
 https://fr1.seedr.cc/media/video/hd_hls/2ec9ca47f2fe5c05b99fa5bf729e7d8f7e319282/vid.m3u8
 
@@ -1390,6 +1397,9 @@ http://62.210.208.170/Films/Pok%c3%a9mon%20-%20Film%2021/Pok%c3%a9mon%20-%20Film
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snJUTFt.jpg" group-title="",Pokémon Detective Pikachu
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Pokemon.Detective.Pikachu.2019.TRUEFRENCH.BDRip.mkv
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1272.jpg" group-title="",Pompei
+https://nl17.seedr.cc/media/video/hd_hls/3f78d0326a0fd52476011ceccef26dd6ebf52b83/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1.jpg" group-title="",Prince of Persia : Les Sables du temps Partie 1
 https://fr2.seedr.cc/media/video/lq_hls/6fe3a03abd7b7768873c78907f35563359a36022/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1.jpg" group-title="",Prince of Persia : Les Sables du temps Partie 2
@@ -1786,6 +1796,9 @@ https://nl22.seedr.cc/media/video/hd_hls/41ee80ac5946676aa09bfaadd6597b27f45c4c8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/581.jpg" group-title="",The Social Network
 https://nl20.seedr.cc/media/video/lq_hls/ad29ae40d90c59a5d2c70e39f98fe03f45b6031c/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1269.jpg" group-title="",The Spy
+https://fr8.seedr.cc/media/video/hd_hls/0429a18d1da1a808fe992716a051facf75f6f4fe/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hV4xNxu.jpg" group-title="",The Tax Collector
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020/Watch+The_Tax_Collector_2020_FRENCH_720p_WEB_H264-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
