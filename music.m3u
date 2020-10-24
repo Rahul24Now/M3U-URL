@@ -614,6 +614,11 @@ https://link.theplatform.eu/s/PR1GhC/JBaCjjesS1bl?m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L955hWC.jpg" group-title="NL",RADIO 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cvpLHBH.jpg" group-title="",Radio Capital
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cvpLHBH.jpg" group-title="",Radio Capital  (OPT-2)
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SHkETp2.png" group-title="It",Radio Iglesias Visual Radio
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/chunklist.m3u8
 
@@ -667,6 +672,9 @@ plugin://plugin.video.youtube/play/?video_id=WYetg3AuLE4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30EmHb7.jpg" group-title="",RazNitzanMusic - Vocal Trance Radio (YT)
 plugin://plugin.video.youtube/play/?video_id=C6_ql03n-vQ
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LfEBLq5.png" group-title="",Reload Radio Music Power HD
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+
 #EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-language="Czech" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Music",Retro Music Television
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -710,6 +718,9 @@ https://arenasportslovakia.ddns.net/hls/slager.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WwRw6jc.png" group-title="",Songtv
 https://songtvam.ru/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KUpjqFf.jpg" group-title="",Sonus FM
+http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IDfwAC.png" group-title="",Spice FM Nairobi (DM)
 plugin://plugin.video.dailymotion_com/?url=x7eo9oe&mode=playLiveVideo
 
@@ -729,14 +740,17 @@ https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 #EXTINF:-1 tvg-language="Italian" tvg-logo="https://i.imgur.com/XQuq1v0.png" tvg-country="IT" group-title="Music",Skyline TV Radio
 https://5db313b643fd8.streamlock.net/SkyLineTv/SkyLineTv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuw3XhK.jpg" group-title="",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="",STIRR Music
+https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7VSgAQu.png" group-title="USA",Street Music 4U (Opt-1)
 https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7VSgAQu.png" group-title="USA",Street Music 4U (Opt-2)
 https://nrpus.bozztv.com/36bay2/gusa-streetmusic4u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="",STIRR Music
-https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
 
 # https://www.swarnavahini.lk/
 #EXTINF:-1 tvg-logo="https://www.swarnavahini.lk/assets/front/img/logo.png" group-title="",Swarnavahini
