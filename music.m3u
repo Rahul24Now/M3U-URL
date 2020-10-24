@@ -115,7 +115,16 @@ https://panel.dattalive.com/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KTBmV1D.jpg" group-title="",Car Music Mix 2020 (YT)
 plugin://plugin.video.youtube/play/?video_id=OOAhIinv6pU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KTBmV1D.jpg" group-title="",Car Music Mix 2020 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=Z0lZq7wIltA
+plugin://plugin.video.youtube/play/?video_id=PAbWVqzF6qM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KTBmV1D.jpg" group-title="",Car Music Mix 2020 3 (YT)
+plugin://plugin.video.youtube/play/?video_id=xVZRkc5l2iQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KTBmV1D.jpg" group-title="",Car Music Mix 2020 4 (YT)
+plugin://plugin.video.youtube/play/?video_id=YXVq8zTr1tI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KTBmV1D.jpg" group-title="",Car Music Mix 2020 5 (YT)
+plugin://plugin.video.youtube/play/?video_id=1NYgVM3DUXc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1lTijbb.jpg" group-title="",Ch4teen Clip (DM)
+plugin://plugin.video.dailymotion_com/?url=x7v4ezg&amp;mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://chiconifm.fr/images/img976/a3t.png" group-title="",Chiconi FM-TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x6ebm4d&mode=playLiveVideo
@@ -255,6 +264,9 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NFzpfz.png" group-title="",JooMusic
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaiodYN.png" group-title="",K24 Tv (DM)
+plugin://plugin.video.dailymotion_com/?url=x6lvncs&amp;mode=playLiveVideo
+
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-country="IN" group-title="Music",Kadak Hits
 https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
@@ -336,6 +348,9 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" tvg-country="IN" group-title="Music",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.masterfm.fr/img/upload/favicon.png" group-title="",MasterHipHouse (TWITCH)
+plugin://plugin.video.twitch/?channel_id=438032606&amp;mode=play
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" tvg-country="TR" group-title="Music",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
 
@@ -359,6 +374,11 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=L
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-language="Romanian" tvg-logo="https://i.imgur.com/cgJNpv9.png" tvg-country="RO" group-title="Music",MOOZ RO
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="France" tvg-name="Mouv" tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="France",Mouv TV(DM)
+plugin://plugin.video.dailymotion_com/?url=x5ddv09&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="",MOUV' - TA RADIO HIP HOP (DM)
+plugin://plugin.video.dailymotion_com/?url=x590cb7&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UvPQe8G.png" group-title="",MTV Block Party
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
@@ -408,6 +428,15 @@ https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 
 #EXTINF:-1 tvg-language="Persian" tvg-logo="http://www.navahang.com/apple-touch-icon.png" tvg-country="IR" group-title="Music",Navahang TV
 http://163.172.134.85/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3hxWbD.jpg" group-title="",NR1 TV Canlı Yayın (DM)
+plugin://plugin.video.dailymotion_com/?url=x67c77j&amp;mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acQ30tm.jpg" group-title="",NR1 - Aşk TV Canlı Yayın (DM)
+plugin://plugin.video.dailymotion_com/?url=x67ch24&amp;mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGQEkFs.jpg" group-title="",NR1 - Damar TV Canlı Yayın (DM)
+plugin://plugin.video.dailymotion_com/?url=x67ch8g&amp;mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/As7JUZM.jpg" group-title="",NR1 - Türk Tv Canlı Yayın (DM)
+plugin://plugin.video.dailymotion_com/?url=x67cguc&amp;mode=playLiveVideo
 
 #EXTINF:-1  tvg-language="French" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-country="BE" group-title="Music",NRJ Hits TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
@@ -600,6 +629,9 @@ https://5db313b643fd8.streamlock.net/SkyLineTv/SkyLineTv/playlist.m3u8
 # https://www.swarnavahini.lk/
 #EXTINF:-1 tvg-logo="https://www.swarnavahini.lk/assets/front/img/logo.png" group-title="",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJKYHbw.jpg" group-title="",Switch TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7sxle3&amp;mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rK85esD.jpg" group-title="",TCN Country
 https://wowzaprod237-i.akamaihd.net/hls/live/1020281/fbfe5069_1_2500000/chunklist.m3u8
