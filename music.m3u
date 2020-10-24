@@ -306,8 +306,14 @@ http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY
 http://37.59.45.46/stream/Melody/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4enjaS.png" group-title="",La Mega Mundial USA
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K2szi2R.png" group-title="",Latido Music
 https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wQcJgMT.jpg" group-title="",Latinos 1 TV Suiza
+https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
 
 #EXTINF:-1  tvg-language="French" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" tvg-country="SN" group-title="Music",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
@@ -375,6 +381,9 @@ https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 #EXTINF:-1 tvg-id="mm.bg" tvg-name="MM" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fX6Jprk.png" tvg-country="BG" group-title="Music",MM
 http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnIKcYY.png" group-title="",Mola TV España
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
 #EXTINF:-1 tvg-language="Romanian" tvg-logo="https://i.imgur.com/fw2fTCA.jpg" tvg-country="RO" group-title="Music",MOOZ Dance
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-language="Romanian" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" tvg-country="RO" group-title="Music",MOOZ HD
@@ -384,8 +393,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?sta
 #EXTINF:-1 tvg-language="Romanian" tvg-logo="https://i.imgur.com/cgJNpv9.png" tvg-country="RO" group-title="Music",MOOZ RO
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
 
-#EXTINF:-1 tvg-id="France" tvg-name="Mouv" tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="France",Mouv TV(DM)
-plugin://plugin.video.dailymotion_com/?url=x5ddv09&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://www.mouv.fr/favicons/mouv-192-192.png" group-title="",MOUV' - TA RADIO HIP HOP (DM)
 plugin://plugin.video.dailymotion_com/?url=x590cb7&mode=playLiveVideo
 
@@ -493,6 +500,9 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist
 #EXTINF:-1 tvg-language="Czech" tvg-logo="https://i.imgur.com/UzqocFs.jpg" tvg-country="CZ" tvg-url="" group-title="Music",Óčko STAR
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B2jZTMu.png" group-title="",ONFM TV Portugal
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+
 #EXTINF:-1 tvg-language="Dutch" tvg-logo="https://i.imgur.com/yjuaHY1.jpg" tvg-country="NL" group-title="Music",Operator Radio
 https://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
 
@@ -533,6 +543,8 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix (OPT-2)
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tc42wkF.png" group-title="",PowerTürk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
@@ -550,6 +562,9 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" tvg-country="DE" group-title="Music",Radio 21 TV
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UK0ZaAq.png" group-title="",Radio 105 Italia
+https://link.theplatform.eu/s/PR1GhC/JBaCjjesS1bl?m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L955hWC.jpg" group-title="NL",RADIO 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
 
@@ -564,6 +579,9 @@ http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 
 #EXTINF:-1 tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" tvg-country="IR" group-title="Music",Radio Javan TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pEVKu2.jpg" group-title="",Radio Montecarlo Italia
+https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EFs7wqV.jpg" group-title="",Radio Norba TV
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
@@ -622,6 +640,9 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png" group-title="Ru",Ritsa TV
 https://a-mobile.camera/cams/RITSA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/empiBrS.png" group-title="",RTL 102.5 Italia
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 
 # https://www.youtube.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DOquhVh.jpg" group-title="",Rtv Music (YT)
@@ -699,6 +720,9 @@ http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DOjOcV7.jpg" group-title="",TMTV (YT)
 plugin://plugin.video.youtube/play/?video_id=LM5r1WZv64M
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jysm6Zi.png" group-title="",Top Latino TV Perú
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" tvg-country="BR" group-title="Music",TopTV
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 
@@ -719,6 +743,9 @@ https://rtvglasdrine.com/videoStream/433ssdsw/GlasDrineSD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LqiNFL.jpg" group-title="France",tzik
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w100208697.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aX7VKLh.png" group-title="",Urban Revolution
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT" group-title="Music",V2BEAT TV
 https://de1se01.v2beat.live/playlist.m3u8
