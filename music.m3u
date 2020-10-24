@@ -16,6 +16,9 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DkuYQQ.png" group-title="",1muz.com HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSU5tnc.png" group-title="",4FUN TV Polonia
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9C2DID.jpg" group-title="",7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
@@ -183,6 +186,9 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-name="D5Music" tvg-logo="https://i.ibb.co/bRPfRmx/D5Music.png" group-title="France",D5Music
 https://live.creacast.com/d5music/smil:d5music.smil/chunklist_w1720615818_b1928000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/STGPVoG.png" group-title="",DanceStar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 
 #EXTINF:-1 tvg-language="French" tvg-logo="https://i.imgur.com/jpR7RID.png" tvg-country="FR" group-title="Music",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
@@ -418,6 +424,27 @@ https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" group-title="Music",Music TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hcHCDE.png" group-title="",Muzzik TV Serbia
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hcHCDE.png" group-title="",Muzzik Rock&Roll Serbia
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hcHCDE.png" group-title="",Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hcHCDE.png" group-title="",Muzzik Worldwide Serbia
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hcHCDE.png" group-title="",Muzzik Jeka Serbia
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hcHCDE.png" group-title="",Muzzik Mediteraneo Serbia
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hcHCDE.png" group-title="",Muzzik HipHop Serbia
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hcHCDE.png" group-title="",Muzzik Gen Z Serbia
+https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hcHCDE.png" group-title="",Muzzik Vision Serbia
+https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hcHCDE.png" group-title="",Muzzik OKK Serbia
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-language="Russian" tvg-logo="https://i.imgur.com/3tDNnUA.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 
@@ -468,6 +495,9 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
 #EXTINF:-1 tvg-language="Dutch" tvg-logo="https://i.imgur.com/yjuaHY1.jpg" tvg-country="NL" group-title="Music",Operator Radio
 https://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jboMlUu.png" group-title="",Otto FM Italia
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
 
 #EXTINF:-1 tvg-id="o-tv" tvg-name="OTV" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wCrNtxp.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",OTV
 http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
@@ -525,6 +555,9 @@ https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Strea
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SHkETp2.png" group-title="It",Radio Iglesias Visual Radio
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifWafZP.png" group-title="",Radio Italia TV
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 
 #EXTINF:-1 tvg-language="Italian" tvg-logo="https://i.imgur.com/suhDgwl.png" tvg-country="IT" group-title="Music",Radio Italia Vision
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
