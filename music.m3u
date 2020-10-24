@@ -40,6 +40,9 @@ http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/koYxAOH.png" tvg-country="CD" tvg-url="" group-title="Music",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="",AfterPT Jonquière (TWITCH)
+plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
+
 # https://www.youtube.com/channel/UCVE-ybBDg3UHSUylEVdPAsw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0yPeqb.png" group-title="",Anjunabeats Radio (YT)
 plugin://plugin.video.youtube/play/?video_id=IvuwTft-0cM
