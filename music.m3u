@@ -166,6 +166,9 @@ http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1 tvg-language="Romanian" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" tvg-country="RO" group-title="Music",Credo TV (OPT-2)
 http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 
+#EXTINF:-1 tvg-language="Russian" tvg-logo="https://i.imgur.com/iLx7NRL.png" tvg-country="RU" tvg-url="" group-title="Music",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="France" tvg-name="D5Music" tvg-logo="https://i.ibb.co/bRPfRmx/D5Music.png" group-title="France",D5Music
 https://live.creacast.com/d5music/smil:d5music.smil/chunklist_w1720615818_b1928000.m3u8
 
@@ -234,6 +237,9 @@ https://59f9accb04c6e.streamlock.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MonwtO1.png" group-title="",HitMusic Hungary
 http://hitmusic.hu/hitmusic.m3u8
 
+#EXTINF:-1 tvg-language="Russian" tvg-logo="https://i.imgur.com/iExdEdM.png" tvg-country="RU" group-title="Music",Новое
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CaYFrFL.jpg" group-title="",IBC Music
 https://ibcmusic-live.ibctamil.com/transcode/music.m3u8
 
@@ -269,6 +275,9 @@ plugin://plugin.video.youtube/play/?video_id=88tf0H1ycDU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nC49jUw.jpg" tvg-country="AT" group-title="Music",Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ktrk.kg/images/channels/small/music.png" tvg-country="KG" group-title="Music",КТРК Музыка
+http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
 
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q6K4S0N.png" tvg-country="PT"  group-title="Music",Kuriakos Music
 http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
@@ -435,6 +444,11 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
 #EXTINF:-1 tvg-id="o-tv" tvg-name="OTV" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wCrNtxp.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",OTV
 http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist
 
+#EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZIOAfub.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZIOAfub.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
 #EXTINF:-1 tvg-language="Persian" tvg-logo="https://i.imgur.com/uZgjd9S.jpg" tvg-country="IR"  group-title="Music",Persiana 6 MUSIC
 http://163.172.147.113/hls/stream.m3u8
 
@@ -447,7 +461,7 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JX04RpS.png" group-title="",Playloud Live radio DAB+ Lille, France.(TWITCH)
 plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
 
-#EXTINF:-1 tvg-language="Spanish" tvg-logo=""https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
+#EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
@@ -455,7 +469,7 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-language="Spanish" tvg-logo=""https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
+#EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" group-title="Music",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tc42wkF.png" group-title="",PowerTürk TV
@@ -658,6 +672,13 @@ http://connectiktv.ddns.net:5000/voicetv/voicetv/chunklist_w124571855.m3u8
 #EXTINF:-1 tvg-id="Fr" tvg-logo="https://i.imgur.com/HKsOeuP.png" group-title="",Vybez Radio (DM)
 plugin://plugin.video.dailymotion_com/?url=x7eob6j&mode=playLiveVideo
 
+#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-language="Russian" tvg-logo="https://i.imgur.com/xxz53X1.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-language="Russian" tvg-logo="https://i.imgur.com/xxz53X1.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-language="Russian" tvg-logo="https://i.imgur.com/xxz53X1.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Шансон-ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" tvg-country="AE" group-title="Music",Wanasah
 https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
 
@@ -728,33 +749,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #########
 
-#EXTINF:-1 tvg-logo="http://www.ktrk.kg/images/channels/small/music.png" tvg-country="KG" group-title="Music",КТРК Музыка
-http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
-
-#EXTINF:-1 tvg-language="Russian" tvg-logo="https://i.imgur.com/iExdEdM.png" tvg-country="RU" group-title="Music",Новое
-https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-language="Russian" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-
-#EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Music",Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Шансон-ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-language="Russian" tvg-logo="https://www.shanson.tv/image/logo_160120.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Шансон-ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Шансон-ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-language="Russian" tvg-logo="https://www.shanson.tv/image/logo_160120.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Шансон-ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 
 
-#######
+
+
+
+
