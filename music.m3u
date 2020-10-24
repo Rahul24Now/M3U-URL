@@ -667,6 +667,65 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-language="Russian" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 
+######
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/neural-focused/logo_20200909_202826_68.png" group-title="DistroTV",Neural Focused
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/62c2e590-8f80-11ea-a8e4-5538fcf91966/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/only-90s-kids-will-understand/logo_20200909_014229_68.png" group-title="DistroTV",Only 90s Kids Will Understand
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/726a4ea0-8f80-11ea-90a1-cfdcf5eefe2f/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/party/logo_20200909_014026_68.png" group-title="DistroTV",Party
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/c4d007e0-915e-11ea-8683-cbd75b8e5791/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/texas-sized-hits/logo_20200909_045101_68.png" group-title="DistroTV",Texas-Sized Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/02432330-8f80-11ea-99bf-9deff8474433/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/can-you-dig-it/logo_20200909_011051_68.png" group-title="DistroTV",Can You Dig It
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/241491d0-8f80-11ea-bf89-73bc186561a9/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/thats-hot/logo_20200909_010555_68.png" group-title="DistroTV",That's Hot
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/2cd6d640-8f80-11ea-8522-43a1d45bdf67/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/trending/logo_20200909_010442_68.png" group-title="DistroTV",Trending
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/fcd56a70-8f7f-11ea-b124-87880ac93883/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/unwind/logo_20200909_010332_68.png" group-title="DistroTV",Unwind
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/32faea10-8f80-11ea-a587-57598aedf753/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/like-yesterday/logo_20200909_014621_68.png" group-title="DistroTV",Like Yesterday
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/e9f9e270-8f7f-11ea-b153-c7041e7ce6cc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/latin-x-pop/logo_20200909_014745_68.png" group-title="DistroTV",Latin x Pop
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/5900c730-8f80-11ea-b7e4-15642a99606e/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/hottest-of-the-hot/logo_20200909_014917_68.png" group-title="DistroTV",Hottest of the Hot
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/3d601040-8f80-11ea-b09d-b1c59cd27029/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/80s-party/logo_20200909_015838_68.png" group-title="DistroTV",80s Party
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/16c91e90-8f80-11ea-a912-39587b149d8e/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/beast-mode/logo_20200909_015707_68.png" group-title="DistroTV",Beast Mode
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/dfdc3270-8f7f-11ea-bfa8-511f1cc4ea7c/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/bedroom-beats/logo_20200909_015606_68.png" group-title="DistroTV",Bedroom Beats
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/41483840-8f80-11ea-b94b-13f7c5b2493d/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/electro-anthems/logo_20200909_015512_68.png" group-title="DistroTV",Electro Anthems
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/be2d4a30-915f-11ea-b03d-492b1140bf5c/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/friday-feels/logo_20200909_015331_68.png" group-title="DistroTV",Friday Feels
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/6b1e23c0-8f80-11ea-b946-8f82e7a6ab13/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/hip-hop-bangers/logo_20200909_015210_68.png" group-title="DistroTV",Hip-Hop Bangers
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/f2076a90-8f7f-11ea-a522-43e5b60a7a1b/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/hot-r/logo_20200909_015050_68.png" group-title="DistroTV",Hot R&B
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/4cdb9530-8f80-11ea-9060-a75d01ad201f/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/yacht-rock/logo_20200909_010153_68.png" group-title="DistroTV",Yacht Rock
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/53ef1fb0-8f80-11ea-84d2-75f2948c3825/master.m3u8
+
 #########
 
 #EXTINF:-1 tvg-logo="http://www.ktrk.kg/images/channels/small/music.png" tvg-country="KG" group-title="Music",КТРК Музыка
