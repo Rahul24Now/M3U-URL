@@ -262,6 +262,9 @@ http://live.planeta-online.tv:1935/public/smil:channel_4.smil/chunklist_w3877159
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" tvg-country="IN" group-title="Music",Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TmXNfL4.jpg" group-title="",Gangsta Rap Radio (YT)
+plugin://plugin.video.youtube/play/?video_id=CtRmhWnfJvU
+
 #EXTINF:-1 tvg-id="France" tvg-name="Generations TV" tvg-logo="http://generations.fr/favicon-196.png" group-title="France",Generations TV
 https://edge8.vedge.infomaniak.com/livecast/ik:generation-tv/chunklist_w1661378677.m3u8
 
@@ -699,6 +702,9 @@ https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DOquhVh.jpg" group-title="",Rtv Music (YT)
 plugin://plugin.video.youtube/play/?video_id=v9kdCCVPlFA
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0dYKXiY.jpg" group-title="",RU - DEEP Radio (YT)
+plugin://plugin.video.youtube/play/?video_id=j68rTSvFmvQ
+
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/0ujfLYr.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 
@@ -820,6 +826,9 @@ https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT" group-title="Music",V2BEAT TV (OPT-2)
 https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGTwXyU.jpg" group-title="",VaporFunk Station (YT)
+plugin://plugin.video.youtube/play/?video_id=SkMbpwoXsBI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CepJLKS.png" group-title="",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
