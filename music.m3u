@@ -28,9 +28,6 @@ http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/chunks.m3u8
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US"  group-title="Music",30A Music
 https://30a-tv.com/music.m3u8
 
-#EXTINF:-1 tvg-language="Polish" tvg-logo="https://i.imgur.com/c59VWgF.jpg" tvg-country="PL"  group-title="Music",4FUN TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" tvg-country="IN" group-title="Music",7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
