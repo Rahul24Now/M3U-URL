@@ -1033,7 +1033,177 @@ https://a.jsrdn.com/broadcast/2sfki098xx/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7VqYDLb.png" group-title="DistroTV Music",Stingray Rock Alt.
 https://a.jsrdn.com/broadcast/vrd390hvb1/c.m3u8
 
-#######
+####### Uncalassed ######
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kbQEp06.png" group-title="",Deutsches Musik Fernsehen.TV
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IIXPXX5.png" group-title="",Sea Radio TV
+https://server.seatv.it:1443/searadiotv/live/playlist.m3u8
+https://server.seatv.it:1443/searadiotv/live/chunklist_w1190581258.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DtUOqxX.png" group-title="",CroRadio Tv
+http://92.204.53.152:85/croradio/croradio/index.m3u8
+http://92.204.53.152:85/croradio/croradio/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yx8yf2V.png" group-title="",CroTV
+http://92.204.53.152:85/crotv/televizijahrvatskedijaspore/index.m3u8
+http://92.204.53.152:85/crotv/televizijahrvatskedijaspore/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euxrbmI.png" group-title="",Happy Radio Tv
+https://hls.goodgame.ru/manifest/180501_master.m3u8
+https://hlss.goodgame.ru/hls/180501.m3u8
+https://hls.goodgame.ru/hls/180501.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqBpVZ9.png" group-title="",Radio 80 TV Forever Young
+https://585b674743bbb.streamlock.net/9076/9076/playlist.m3u8
+https://585b674743bbb.streamlock.net/9076/9076/chunklist_w1192028348.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFNeUeE.png" group-title="",Radio Birikina Tv
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1522777475.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EpB4Ht.jpg" group-title="",Radio Time Tv
+https://flash2.xdevel.com/radiotimetv/radiotimetv/chunklist_w1454112337.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",RMM - Radio Marche nel Mondo
+http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8
+http://wma02.fluidstream.net/StudioRMM/livestream/chunklist_w2069380851.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUa0vYo.png" group-title="",Radio Mambo TV
+https://5926fc9c7c5b2.streamlock.net/9044/9044/playlist.m3u8	
+https://5926fc9c7c5b2.streamlock.net/9044/9044/chunklist_w2054374152.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32rDv4l.png" group-title="",Love FM TV
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w699998999.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tHm71I.png" group-title="",Radio Arancia Tv
+https://stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8
+https://stream3.xdevel.com/video0s975447-164/stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xbvOmef.jpg" group-title="",Radio Discount TV
+https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+https://585b674743bbb.streamlock.net/9030/9030/chunklist_w341311631.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wxpBiuO.png" group-title="",Radio Number ONE HD TV
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/chunklist_w1087638574.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dw8v0fP.png" group-title="",Radio 51 Tv
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+http://wms.shared.streamshow.it/canale51/canale51/chunklist_w734589079.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dw8v0fP.png" group-title="",PutaRadio TV
+http://master.putaradio.com:8080/play/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcnZPd.png" group-title="",Bella Radio Tv
+https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
+https://server.bellaradio.it:1443/live/bellaradiotv/chunklist_w1121562649.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/engpKZm.jpg" group-title="",RTR 99 TV
+https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
+https://5e73cf528f404.streamlock.net/RTR99TV/livestream/chunklist_w750407554.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bIqaIXp.png" group-title="",Radio PiterPan Tv
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w1436005878.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YLN04Ld.png" group-title="",Radio Delta International Tv
+https://w1.mediastreaming.it/deltainternational/livestream/playlist.m3u8
+https://w1.mediastreaming.it/deltainternational/livestream/chunklist_w1561407728.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H6GY3lI.jpg" group-title="",VUEMME Music Tv
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/chunklist_w186864819.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CDMnsV5.png" group-title="",Radiolina Tv
+https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/chunklist_w1498401445.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOqEBk0.png" group-title="",ZeroUno Tv
+https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/playlist.m3u8
+https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w773161226.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dq3JzDI.png" group-title="",BellaEMonella Tv
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist_w65857620.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WLHPSuw.png" group-title="",FM Italia Tv
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/chunklist_w579052666.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OKX07v.png" group-title="",Hit TV Spain
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LAi01Wl.jpg" group-title="",Stereo 5 Tv
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JANmhKG.png" group-title="",O-TV
+http://212.26.146.148/hls/otv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fv8VYo.png" group-title="",4 Music
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="",Smash Music
+http://s3.smashmalta.com:82/live/smash/smash/8.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fYBo9T.jpg" group-title="",TILEMOUSIKI
+http://wpso.com:1936/hls/music1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ctMHDEu.png" group-title="",TRT Muzik
+https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/36LSjbu.png" group-title="",Radios Hanson
+https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gAJ9Eph.jpg" group-title="",OL3 Radio Tv
+https://5c389faa13be3.streamlock.net:9553/ol3radio/ol3radio/chunklist_w1717825683.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFxKCpU.png" group-title="",Errevuti Tv
+https://flash8.xdevel.com/errevutitv/errevutitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDCq8u2.jpg" group-title="",Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+http://w10.streamgb.com:1935/kool/kool/chunklist_w1708470266.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6BWlIB.jpg" group-title="",Xalastra TV
+https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
+https://live.cast-control.eu/xalastratv/xalastratv/chunklist_w1811683033.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cw5As9e.png" group-title="",Dijlah Tarab
+https://ghaasiflu.online/tarab/index.m3u8
+https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rx5T3Yv.png" group-title="",Radio Wow Tv
+https://5e73cf528f404.streamlock.net/RadioWOW/livestream/playlist.m3u8
+https://5e73cf528f404.streamlock.net/RadioWOW/livestream/chunklist_w1984413465.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3z8mCC.jpg" group-title="",Med Muzik Tv
+http://137.74.205.201/live3/mm-3mbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8oNDqy.jpg" group-title="",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/chunklist_w1141846702.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1yrEQS.png" group-title="",BN Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oYTdqIc.png" group-title="",Star Folk
+https://live.muzickatv.mk/live/StarMusic.m3u8
+
+# https://www.twitch.tv/tmb___tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W0pvm7h.png" group-title="",TMB TV (TWITCH)
+plugin://plugin.video.twitch/?channel_id=248422518&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ACNR0Zi.png" group-title="",Rtc Targato Napoli
+https://5b38ce71f1f00.streamlock.net/8018/rtctargatonapoli/chunklist_w1755760255.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMuHyZp.jpg" group-title="",RJTV - Radio Javan
+https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XmRK5Ds.png" group-title="",CZworka
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XmRK5Ds.png" group-title="",CZworka (OPT-2)
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/chunklist_w93761730.m3u8
 
