@@ -455,6 +455,9 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jMV9iJE.png" group-title="",Mifa
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVNxLsd.jpg" group-title="",Mixey Caribbean Music
+https://mixey.fr/replay/stream/index.m3u8
+
 #EXTINF:-1 tvg-id="mm.bg" tvg-name="MM" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fX6Jprk.png" tvg-country="BG" group-title="Music",MM
 http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
 
