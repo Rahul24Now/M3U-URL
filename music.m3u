@@ -132,6 +132,9 @@ https://mhd.iptv2022.com/p/D9tYft8_Wv23LlAVR9gY-A,1603670248/streaming/br.rushit
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBmwngz.png" group-title="USA",CA Music
 https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNiyeSN.png" group-title="",Cabina de El Heraldo de México Radio (DM)
+plugin://plugin.video.dailymotion_com/?url=x7myiuk&amp;mode=playLiveVideo
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kpVVRK9.png" group-title="",Cadena Elite
 https://5b38ce71f1f00.streamlock.net/8066/8066/playlist.m3u8
 
@@ -867,6 +870,9 @@ https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LqiNFL.jpg" group-title="France",tzik
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w100208697.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9MZPdv.png" group-title="",UAATV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7u0jgi&amp;mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBokzH9.png" group-title="USA",Urban Music 4U
 https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
