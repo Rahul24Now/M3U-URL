@@ -1147,6 +1147,14 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="",Smash Music
 http://s3.smashmalta.com:82/live/smash/smash/8.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Malta",Smash Radio
+http://s3.smashmalta.com:82/live/smash/smash/35.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Malta",Rock Radio
+http://s3.smashmalta.com:82/live/smash/smash/37.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Malta",Retro Radio
+http://s3.smashmalta.com:82/live/smash/smash/36.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Malta",Alternative Radio
+http://s3.smashmalta.com:82/live/smash/smash/38.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5fYBo9T.jpg" group-title="",TILEMOUSIKI
 http://wpso.com:1936/hls/music1.m3u8
