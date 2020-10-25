@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tqU3k2I.png" group-title="",100% Viva
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zjrXmEK.jpg" group-title="",1 HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1  tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO"  group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
@@ -30,6 +32,18 @@ https://30a-tv.com/music.m3u8
 
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" tvg-country="IN" group-title="Music",7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1lrvMo.jpg" group-title="",91 NRJ MUSIC
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1lrvMo.jpg" group-title="",91 NRJ MUSIC (OPT-2)
+http://tv.nrg91.gr:1935/onweb/live/chunklist_w1809164856.m3u8
+
+# https://limehd.tv/pulse
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dJ23REZ.jpg" group-title="",100% Pulse
+https://mhd.iptv2022.com/p/8-WOB93o_yy6RCDd3HAg4A,1603670248/streaming/pulse/324/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqU3k2I.png" group-title="",100% Viva
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 
 #EXTINF:-1 tvg-language="Russian" tvg-logo="https://i.imgur.com/yDYuhKk.jpg" tvg-country="RU" group-title="Music",ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
@@ -79,6 +93,9 @@ https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" group-title="Music",Baraza TV Greek Music Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png" group-title="",Bblack! Africa
+http://connectiktv.ddns.me:8080/bblack/index.m3u8
+
 # https://www.youtube.com/channel/UCL5T6Rhmf7rUcPbULrKk0jw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KTBmV1D.jpg" group-title="",Best Shuffle Dance Music 2020 (YT)
 plugin://plugin.video.youtube/play/?video_id=72gzXj3ca-4
@@ -99,6 +116,18 @@ plugin://plugin.video.dailymotion_com/?url=x7v306o&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" group-title="Music",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zuldKTT.png" group-title="",BRIDGE TV CLASSIC
+https://mhd.iptv2022.com/p/AsDkSVNtp53LZ3v5j2VGQA,1603670248/streaming/br.classic/324/vh1w/playlist.m3u8
+# https://limehd.tv/br.dance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05T812n.png" group-title="",Bridge TV Hits
+https://mhd.iptv2022.com/p/7WgFd_iynDHfZrZ4dcv24g,1603670248/streaming/br.dance/324/vh1w/playlist.m3u8
+# https://limehd.tv/bridgetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OTxPriO.png" group-title="",Bridge TV Hit Mix
+https://mhd.iptv2022.com/p/NuQq7gULGPKNo0Si7ya_EA,1603670248/streaming/bridgetv/324/vh1w/playlist.m3u8
+# https://limehd.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zuldKTT.png" group-title="",Bridge TV Music Roll
+https://mhd.iptv2022.com/p/D9tYft8_Wv23LlAVR9gY-A,1603670248/streaming/br.rushit/324/vh1w/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBmwngz.png" group-title="USA",CA Music
 https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/index.m3u8
@@ -242,6 +271,10 @@ https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 # https://europaplustv.com/online
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yHcs2gE.png" group-title="",Europa Plus TV
 https://ad-hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/playlist.m3u8?md5=-Ti2GMPxQHdiM5J2rAqsVg&e=1604110521&zoid=web
+# https://limehd.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ziRamy0.png" group-title="",Europa Plus TV (OPT-2)
+https://mhd.iptv2022.com/p/VxrFdd0WfPKEtpw1B13jjg,1603670248/streaming/evropaplus/324/vh1w/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FjtQa8D.jpg" group-title="USA",Everybody Is Dancing
 https://bozztv.com/36bay2/gin/giniko_everybodydanc_900kb_36bay2/index.m3u8
@@ -282,6 +315,9 @@ https://59f9accb04c6e.streamlock.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MonwtO1.png" group-title="",HitMusic Hungary
 http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wy9sV7d.png" group-title="",H!t Music Channel Romania
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
 
 #EXTINF:-1 tvg-language="Russian" tvg-logo="https://i.imgur.com/iExdEdM.png" tvg-country="RU" group-title="Music",Новое
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
@@ -594,6 +630,9 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbAOlBi.png" group-title="",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZpijTe5.png" group-title="",Power Hit Radio
+https://baltlive.tv3.lt/studija/smil:studija.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png" tvg-country="IN" tvg-url="" group-title="Music",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 
@@ -779,6 +818,9 @@ https://haititivi.com/haiti/telemix1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wxPvAkL.jpg" group-title="",The Good Life Radio x Sensual Musique (YT)
 plugin://plugin.video.youtube/play/?video_id=36YnV9STBqc
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrEmE1U.jpg" group-title="",Tiankov FOLK
+https://streamer104.neterra.tv/tiankov/tiankov-folk.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/piGhf3m.png" tvg-country="GR" group-title="Music",Tile Mousiki
 http://wpso.com:1936/hls/music1.m3u8
 
@@ -813,6 +855,9 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TWi7KG.jpg" group-title="",TV Glas Drine
 https://rtvglasdrine.com/videoStream/433ssdsw/GlasDrineSD/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",tvmc
+https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LqiNFL.jpg" group-title="France",tzik
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w100208697.m3u8
 
@@ -821,6 +866,10 @@ https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aX7VKLh.png" group-title="",Urban Revolution
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
+
+# https://www.utv.ro/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2StEwyi.png" group-title="",UTV Live
+https://edge214.rcs-rds.ro/V4-2996918-0af3d54c6767b1c1b4c89b1d43f17ae5-1176364662-0-1603580323-411-utv/utv/utvlq.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT" group-title="Music",V2BEAT TV
 https://de1se01.v2beat.live/playlist.m3u8
