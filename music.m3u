@@ -334,6 +334,10 @@ http://cdn.illi.tv/illitv_500/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvPx4tz.png" group-title="",IndiMusic TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x7te8ed&mode=playLiveVideo
 
+# https://www.insomniac.com/livestream/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BACQT3J.png" group-title="",insomniac (TWITCH)
+plugin://plugin.video.twitch/?channel_id=232672264&amp;mode=play
+
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" tvg-country="IN"  group-title="Music",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
