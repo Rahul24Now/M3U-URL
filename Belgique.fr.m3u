@@ -268,6 +268,9 @@ http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xAITEOQ.png" group-title=""TV Oost
 http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/09wT3HJ.png" group-title="",UN Web TV - United Nations TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwxXxEJ.png" group-title="",VIER
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/81c1ad5b0b3a729.m3u8|User-Agent=stream
 
