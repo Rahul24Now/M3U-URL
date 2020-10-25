@@ -328,6 +328,9 @@ https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CaYFrFL.jpg" group-title="",IBC Music
 https://ibcmusic-live.ibctamil.com/transcode/music.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o5OsDk0.png" group-title="",ILLI TV
 http://cdn.illi.tv/illitv_500/index.m3u8
 
