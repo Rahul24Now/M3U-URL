@@ -99,6 +99,9 @@ plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbI8SKM.jpg" group-title="",Barbie Français (YT)
 plugin://plugin.video.youtube/play/?video_id=uegFsq1C-Yo
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png" group-title="",Bblack! Africa
+http://connectiktv.ddns.me:8080/bblack/index.m3u8
+
 #EXTINF:-1 tvg-id="France" tvg-name="Bein Sports 1 FR"  tvg-logo="https://i.imgur.com/bhbMMy7.png" group-title="France",Bein Sports 1 FR (TT)
 plugin://script.tvtap/play/49/play.pvr
 #plugin://script.module.tt/play/49/play.pvr
