@@ -135,6 +135,8 @@ https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Quebec TV",Yoppa 720p
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/f6bbf54a292ea23.m3u8|User-Agent=stream
 
+#########
+
 #EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 
@@ -156,7 +158,7 @@ plugin://plugin.video.youtube/play/?video_id=D4f9xD4k-C0
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=vO4zDkKna9Q
+plugin://plugin.video.youtube/play/?video_id=wu_ru6ttsNk
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
 #EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
@@ -178,9 +180,13 @@ plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
 
 # https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=AHn6KcBLE9s
+plugin://plugin.video.youtube/play/?video_id=ho99ZoSowCk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH)
 plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
+
+# https://www.radiotalbot.tv/ https://www.twitch.tv/radiotalbot
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDHgHJR.png" group-title="",RadioTalbot (TWITCH) (Mardi @ Jeudi . 20h00)
+plugin://plugin.video.twitch/?channel_id=51796296&amp;mode=play
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="",AfterPT Jonquière (TWITCH)
 plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
@@ -189,8 +195,8 @@ plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
 plugin://plugin.video.twitch/?channel_id=477666625&amp;mode=play
 
 # https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q https://www.funkypanda.net
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="",Funky Way FM MTL (YT) (Off Line)
-plugin://plugin.video.youtube/play/?video_id=VlXyZZlsKb4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="",Funky Way FM MTL (YT)
+plugin://plugin.video.youtube/play/?video_id=Ohzd-Bnu0Kc
 
 # update link  https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Culture Urbaine Sport et Hip-hop Montreal Quebec",Kushtard Media (YT) 
@@ -199,13 +205,13 @@ plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA
 plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
 
 # https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ https://kracradio.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=Ht_wyflI6rM
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (TWITCH)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Quebec TV",kracradio (TWITCH) (Off Line)
 plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
 
 # https://ckiafm.org/en-direct https://www.youtube.com/channel/UCiin_6OBCUC-YizybZG85wg #
-#EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://ckiafm.org/images/frontend/CKIA-afrique.png" group-title="",Québec, réveille! (YT) (UPD) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=RsDywUsR438
 
 # update link  https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ #
