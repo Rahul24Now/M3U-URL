@@ -1335,6 +1335,140 @@ https://hls.myvideocontent.ru/hls2/tv12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png" group-title="Rusland",RADIO | Ritsa TV
 https://hls.myvideocontent.ru/hls2/ritsa/index.m3u8
 
+# https://www.radiobonheur.be/bonheurtv-test/  #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Na6uTsW.png" group-title="",Radio BonheurTV (TWITCH)
+plugin://plugin.video.twitch/?channel_id=471368155&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="",Radio Contact 102.2 FM Brussels
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="",Radio Contact (opt-2)
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ramdammusique.be/wp-content/uploads/2019/07/Logo_-long_400_web.png" group-title="",RamdamMusique (TWITCH)
+plugin://plugin.video.twitch/?channel_id=470473334&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wFKoZCw.jpg" group-title="",RFM Charleroi (TWITCH)
+plugin://plugin.video.twitch/?channel_id=506204176&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1Mka04.jpg" group-title="",JOE fm
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MalyLh.jpg" group-title="", MNM
+https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png" group-title="",Q2 TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/7036a975dfd3e5d.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9cYVmP.png" group-title="",QMusic 103.3 FM Bruges
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://radio1.be/s/i/UjyddXBwf_I51Bsj.png" group-title="",Radio1
+https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://radio2.be/modules/vrt/radio2/radio2_core/images/manifest/icon-512.png" group-title="",Radio2
+https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZtWDRB.png" group-title="",Radio PROS 105.8 FM Denderhoutem
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+
+#https://radioplus.be/#/stubru/herbeluister #
+#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://stubru.be/images/ios/touch-icon-ipad-retina.png" group-title="BELGIUM",StuBru (Audio)
+https://live-radio-cf-vrt.akamaized.net/groupc/live/f404f0f3-3917-40fd-80b6-a152761072fe/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.topradio.be/assets/page/img/favicons/favicon-196x196.png" group-title="",TOPradio (TWITCH)
+plugin://plugin.video.twitch/?channel_id=156527835&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="",The New Classical FM (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=qJXOdq-v1Ok
+
+#EXTINF:-1 tvg-id="France" tvg-name="France info" tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-180x180-691416802f.png" group-title="France",franceinfo (direct radio) (DM)
+plugin://plugin.video.dailymotion_com/?url=x26eox4&mode=playLiveVideo
+
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/08/7b/11089/c175.png" group-title="",France Bleu Elsass (DM)
+plugin://plugin.video.dailymotion_com/?url=x72b0ey&mode=playLiveVideo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zPRTLzm.png" group-title="",MCM
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/mcm_live/index.m3u8
+
+#EXTINF:-1 tvg-id="France" tvg-name="MCM TOP" tvg-logo="https://i.imgur.com/CaxcBwZ.png" group-title="France",MCM TOP
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/3c935c9135c2908.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://radiocity-website.weebly.com/uploads/1/2/2/3/122378910/background-images/1278325930.png" group-title="",RCity (TWITCH)
+plugin://plugin.video.twitch/?channel_id=416081226&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://www.rjrradio.fr/sites/all/themes/rjr2015/img/logo2016.png" group-title="",rjrradio (TWITCH)
+plugin://plugin.video.twitch/?channel_id=160670081&amp;mode=play
+
+# update link : https://www.youtube.com/channel/UCszBccoIWK0-0uBMv5eKiHg  #
+#EXTINF:-1 tvg-id="France" tvg-name="radio inter s'cool" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kgQfPT5D6J.png"group-title="France",radio inter s'cool (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=nTvc6sTzBZg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LmYNqd9.jpg" group-title="",Radio Melodie Story (TWITCH)
+plugin://plugin.video.twitch/?channel_id=569416637&amp;mode=play
+
+# https://www.youtube.com/channel/UC6V-tTuTNwnnysyYkiHkZ2Q #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTCXWBZ.png" group-title="",Radio Notre Dame (YT)
+plugin://plugin.video.youtube/play/?video_id=oALPF61JX6k
+
+# https://stylfm.fr/reagir-en-direct/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SG0sPGE.png" group-title="",Stylfm (TWITCH)
+plugin://plugin.video.twitch/?channel_id=190883654&amp;mode=play
+
+# update link : https://www.youtube.com/channel/UCESTwDXpoMgiYBHipMdKTkQ #
+#EXTINF:-1 tvg-id="France" tvg-name="Sud Radio" tvg-logo="https://i.imgur.com/C6ckk6V.png" group-title="France",Sud Radio (DM)
+plugin://plugin.video.dailymotion_com/?url=x75yzts&mode=playLiveVideo
+#EXTINF:-1 tvg-id="France" tvg-name="Sud Radio" tvg-logo="https://i.imgur.com/C6ckk6V.png" group-title="France",Sud Radio (TWITCH)
+plugin://plugin.video.twitch/?channel_id=523696365&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5tUh0q.png" group-title="",Radio Mont Blanc (DM)
+plugin://plugin.video.dailymotion_com/?url=x52iluh&mode=playLiveVideo
+
+# update link : #
+#EXTINF:-1 tvg-id="Suisse" tvg-name="Beatz TV" tvg-logo="https://ch.az-cdn.ch/static/1.131.0/radiopilatus/device-icons/512x512.png" group-title="Suisse",Beatz TV
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+
+# update link :https://www.tikilive.com/channel/ch-music-tv #
+#EXTINF:-1 tvg-id="Suisse" tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music (UPD)
+https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1687245770_b1115112.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPWoyZW5kZXB1dHEyYWZ1MGh0dThzdWh0MGVzJnVJRD0wJnVOYW1lPUd1ZXN0N2UyNGI%3D&id=X9Cpe-Ig5H2MNUhiAqDF
+
+#EXTINF:-1 tvg-logo="http://cosmic-delights.ch/images/logo.png" group-title="",RadioCosmicDelights (TWITCH)
+plugin://plugin.video.twitch/?channel_id=84868969&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",LABEL TV (UDP)
+https://edge1.tikilive.com:8443/html5_tikilive/56544/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTU2NTQ0JmNOYW1lPUxhYmVsJTIwVFYlMjAxJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3Q0OThmNA==&id=eXi2JCAh1wLWJVRcAnsO
+
+#EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",LABEL TV 2 (UDP)
+https://edge2.tikilive.com:8443/html5_tikilive/34778/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM0Nzc4JmNOYW1lPUxhYmVsJTIwVFYlMjAyJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3Q4YmY1Yg==&id=_iGrklyc0YKwHntGAnse
+
+#EXTINF:-1 tvg-logo="https://label-tv.net/vod/uploads/custom-logo.png" group-title="",Rock-Label TV (UDP)
+https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9M25tdm5ybWQxNzA0Z2tob2lxYnRhZWtwZ24mdUlEPTAmdU5hbWU9R3Vlc3Q3MDAzMg==&id=Ol-YcLxPRf0lcKWxAnsj
+
+# http://www.nettv.live/European/Switzerland/3942.html #
+#EXTINF:-1 tvg-logo="https://www.rocklabel.tv/uploads/custom-logo.png" group-title="",Rock-Label TV (UDP)
+https://edge2.tikilive.com:8443/html5_tikilive/36198/amlst:mainstream/chunklist_w966065155_b756038.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk4JmNOYW1lPVJvY2tMYWJlbCUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9ajJlbmRlcHV0cTJhZnUwaHR1OHN1aHQwZXMmdUlEPTAmdU5hbWU9R3Vlc3Q0M2NjYQ%3D%3D&id=-YSCb9ULshH47ZiRAqDP
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="",QS24
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhWg6C4.png" group-title="",QS24 (OPT-2)
+https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zTA54gD.png" group-title="",radio24
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_dfdxqb3w/sd/6000/t/kZTQ2XrFB-AgEa7c690FJw/index-s32.m3u8
+
+#EXTINF:-1 tvg-language="German" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="",Radio 3i
+https://livestream.gruppocdt.ch/hls/radio3i.m3u8
+#EXTINF:-1 tvg-language="German" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="",Radio 3i (OPT-2)
+https://livestream.gruppocdt.ch/hls/radio3i_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NdOdT0d.png" group-title="",Radio Argovia 90.3 FM Aarau
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TinWvGg.png" group-title="",Radio Pilatus TV
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 
 
 
