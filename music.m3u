@@ -154,7 +154,7 @@ https://mhd.iptv2022.com/p/D9tYft8_Wv23LlAVR9gY-A,1603670248/streaming/br.rushit
 https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNiyeSN.png" group-title="",Cabina de El Heraldo de México Radio (DM)
-plugin://plugin.video.dailymotion_com/?url=x7myiuk&amp;mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x7myiuk&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kpVVRK9.png" group-title="",Cadena Elite
 https://5b38ce71f1f00.streamlock.net/8066/8066/playlist.m3u8
@@ -188,7 +188,7 @@ plugin://plugin.video.youtube/play/?video_id=YXVq8zTr1tI
 plugin://plugin.video.youtube/play/?video_id=1NYgVM3DUXc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1lTijbb.jpg" group-title="",Ch4teen Clip (DM)
-plugin://plugin.video.dailymotion_com/?url=x7v4ezg&amp;mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x7v4ezg&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://chiconifm.fr/images/img976/a3t.png" group-title="",Chiconi FM-TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x6ebm4d&mode=playLiveVideo
@@ -414,7 +414,7 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZaiodYN.png" group-title="",K24 Tv (DM)
-plugin://plugin.video.dailymotion_com/?url=x6lvncs&amp;mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x6lvncs&mode=playLiveVideo
 
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-country="IN" group-title="Music",Kadak Hits
 https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
@@ -799,7 +799,7 @@ http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RsD7ZjV.jpg" group-title="",Radio U TV
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YOFckRD.png" group-title="",RadioU (OPT-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YOFckRD.png" group-title="",Radio U (OPT-2)
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 
 #EXTINF:-1 tvg-language="German" tvg-logo="https://i.imgur.com/9pvCYaA.png" tvg-country="DE" group-title="Music",Radio Weser TV Bremen
@@ -946,7 +946,7 @@ https://nrpus.bozztv.com/36bay2/gusa-streetmusic4u/index.m3u8
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJKYHbw.jpg" group-title="",Switch TV (DM)
-plugin://plugin.video.dailymotion_com/?url=x7sxle3&amp;mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x7sxle3&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rK85esD.jpg" group-title="",TCN Country
 https://wowzaprod237-i.akamaihd.net/hls/live/1020281/fbfe5069_1_2500000/chunklist.m3u8
@@ -1019,7 +1019,7 @@ https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/.m3u8
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w100208697.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r9MZPdv.png" group-title="",UAATV (DM)
-plugin://plugin.video.dailymotion_com/?url=x7u0jgi&amp;mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x7u0jgi&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBokzH9.png" group-title="USA",Urban Music 4U
 https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
