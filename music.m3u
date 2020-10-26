@@ -637,13 +637,13 @@ http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 http://163.172.134.85/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3hxWbD.jpg" group-title="",NR1 TV Canlı Yayın (DM)
-plugin://plugin.video.dailymotion_com/?url=x67c77j&amp;mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x67c77j&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/acQ30tm.jpg" group-title="",NR1 - Aşk TV Canlı Yayın (DM)
-plugin://plugin.video.dailymotion_com/?url=x67ch24&amp;mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x67ch24&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGQEkFs.jpg" group-title="",NR1 - Damar TV Canlı Yayın (DM)
-plugin://plugin.video.dailymotion_com/?url=x67ch8g&amp;mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x67ch8g&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/As7JUZM.jpg" group-title="",NR1 - Türk Tv Canlı Yayın (DM)
-plugin://plugin.video.dailymotion_com/?url=x67cguc&amp;mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x67cguc&mode=playLiveVideo
 
 #EXTINF:-1 tvg-language="French" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-country="BE" group-title="Music",NRJ Hits TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
