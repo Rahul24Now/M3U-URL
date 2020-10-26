@@ -1238,16 +1238,16 @@ https://5e73cf528f404.streamlock.net/RadioWOW/livestream/chunklist_w1984413465.m
 
 #############
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VaGEoBo.png" group-title="",AlbMUSIC
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DcR6zEw.jpg" group-title="Cambodja",KH | D Music
 https://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v1a1/mono.m3u8
 
 # https://www.mjunoon.tv/jalwa-tv-live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yaDqHVo.png" group-title="",Jalwa (UPD-EXP)
 https://cdn6.mjunoon.tv:8087/web/JalwaTV-135/live/135M/chunks.m3u8?nimblesessionid=8512448&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCA0OjA3OjI3IEFNJmhhc2hfdmFsdWU9bHVZc0dDdDFPNXB4elljbUZIODhSZz09JnZhbGlkbWludXRlcz0x
+
+# https://radiozu.ro/
+#EXTINF:-1 tvg-logo="https://radiozu.ro/img/hiturile-se-asculta-la-zu.jpg" group-title="",Radio ZU (UPD-EXP-TOKEN)
+https://live8useast.antenaplay.ro/zurtv/zurtv.m3u8?starttime=1603715162&endtime=1603722392&source=web&token=dC5iYd82qgrhb0nIV-cZIVQVRsA=
 
 # https://www.mjunoon.tv/8xm-live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Pakistan",PK | 8X Music (UPD-EXP)
@@ -1296,15 +1296,11 @@ https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0100/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olijpoB.png" group-title="USA",RADIO | Auto Play TV
 https://nrpus.bozztv.com/36bay2/gusa-autoplay/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="Frankrijk",RADIO | RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/86vloE3.jpg" group-title="Duitsland",RADIO | Unserding
 https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-p.m3u8?sd=10&rebase=on
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="Oostenrijk",RADIO | Hitradio Ö3
 http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
@@ -1312,7 +1308,6 @@ http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zYO4KjA.jpg" group-title="Armenië",RADIO | Radio Van 103.0 FM Yerevan
 http://stream.radiovan.fm/stream/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IxJdliP.png" group-title="USA",RADIO | Billy C Boxing
 https://nrpus.bozztv.com/36bay2/gusa-billycboxing/index.m3u8
@@ -1338,16 +1333,10 @@ http://radio3ilivetv.vedge.infomaniak.com/livecast/radio3ilivetv/playlist.m3u8
 https://stream2.xdevel.com/video0s975360-67/stream/playlist.m3u8
 https://stream2.xdevel.com/video0s975360-67/stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w1EsHTU.png" group-title="Letland",RADIO | Latvijas Radio 1 106.1 FM Latgale
-http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4npOpPj.png" group-title="Letland",RADIO | Latvijas Radio 3 Klasika
-http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pRbp0eZ.png" group-title="Italië",RADIO | LA 90 FM
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="Zwitserland",RADIO | Radio Pilatus TV
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFRH8fl.png" group-title="Brazilië",RADIO | 98 Live Belo Horizonte
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
