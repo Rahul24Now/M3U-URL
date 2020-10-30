@@ -47,15 +47,6 @@ plugin://plugin.video.youtube/play/?video_id=q0xFCRcQEvY
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/34.jpg" group-title="",42
 https://sf1.seedr.cc/media/video/hd_hls/fr8/b7e6841dac5f0bdf2794cc30e4fd3a9b39274faa/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/851.jpg" group-title="",3 from Hell
-https://nl21.seedr.cc/media/video/hd_hls/946261a9f1f562e98150201f64dfce961ac8e3ce/vid.m3u8
-
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/36.jpg" group-title="",6 Underground
-https://sf1.seedr.cc/media/video/hd_hls/nl24/eacefc8510bb505e9339023980ec1993c4ddb444/vid.m3u8
-
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/358.jpg" group-title="",365 jours
-https://fr13.seedr.cc/media/video/hd_hls/a57541119e8be6f5f52b2ae7b3f00e8a9e18f53c/vid.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qyPatOc.jpg" group-title="",1917
 https://nl27.seedr.cc/media/video/hd_hls/214b82addc55b0d8a149782d782ea00d92dce1b0/vid.m3u8
 
@@ -64,6 +55,15 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/403.jpg" group-title="",7500
 https://nl20.seedr.cc/media/video/hd_hls/e6a5dc4dcaceb8e8ec25338f6732708dfd5fc837/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/851.jpg" group-title="",3 from Hell
+https://nl21.seedr.cc/media/video/hd_hls/946261a9f1f562e98150201f64dfce961ac8e3ce/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1181.jpg" group-title="",5 ans de réflexion
+https://nl17.seedr.cc/media/video/lq_hls/ef8a02394b0d89cadd161094c0f52f88f1d2b935/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/36.jpg" group-title="",6 Underground
+https://sf1.seedr.cc/media/video/hd_hls/nl24/eacefc8510bb505e9339023980ec1993c4ddb444/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/442.jpg" group-title="",10 jours sans maman
 https://fr15.seedr.cc/media/video/hd_hls/ea22e0c92eab9e63eeee108c88f411441806c426/vid.m3u8
@@ -77,8 +77,23 @@ https://fr4.seedr.cc/media/video/lq_hls/bb0c7e274a0d6c4a5c91e00ca2cb823c7466c5d8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/422.jpg" group-title="",14 jours, 12 nuits
 https://nl21.seedr.cc/media/video/hd_hls/62f796d24aa818140d4ef9f1cfe8c5c307b53e30/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1107.jpg" group-title="",16 ans ou presque
+https://fr6.seedr.cc/media/video/hd_hls/21d51cbf04a7a383fbb9990d32cb8aed246e5840/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1110.jpg" group-title="",17 ans encore
+https://nl37.seedr.cc/media/video/hd_hls/79ac6783a5daae2638d7907ab2b85d33bbaa1e2c/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1106.jpg" group-title="",20 ans d'écart
+https://fr12.seedr.cc/media/video/lq_hls/6a728ff795c4bb5f7fbef60bdd2b652aa306d62f/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1219.jpg" group-title="",40 ans, toujours dans le flow
+https://nl25.seedr.cc/media/video/hd_hls/dc6373141002a0685693e7d7a6c2808a3134d181/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DThkfKU.jpg" group-title="",47 Meters Down: Uncaged
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/47+Meters+Down+streaming+vf+%E2%80%94+Streamay.mp4
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/358.jpg" group-title="",365 jours
+https://fr13.seedr.cc/media/video/hd_hls/a57541119e8be6f5f52b2ae7b3f00e8a9e18f53c/vid.m3u8
 
 ###A###
 
