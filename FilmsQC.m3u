@@ -14,6 +14,14 @@ plugin://plugin.video.youtube/play/?video_id=miq2RiCNKjk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDelEkO.jpg" group-title="",Québec sur ordonnance - Docu (YT)
 plugin://plugin.video.youtube/play/?video_id=XUTf5ARYKeI
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qX6r695.jpg" group-title="",Céline Dion dans l'intimité Docu (YT)
+plugin://plugin.video.youtube/play/?video_id=fkBfWrEjsU4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWnf0it.jpg" group-title="",HISTOIRE DU QUÉBEC 1 (1534-1864) Docu (YT)
+plugin://plugin.video.youtube/play/?video_id=zBUxUdnLoKs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWnf0it.jpg" group-title="",HISTOIRE DU QUÉBEC 2 (1534-1864) Docu (YT)
+plugin://plugin.video.youtube/play/?video_id=0ERetvonggY
+
 ###0###
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C47RzB1.jpg" group-title="",1:54 (NA)
@@ -40,7 +48,7 @@ https://m20.uqload.com/3rfkjaxwerw2q4drdir7hlvna4tngf5b3etbceyhly25frg36i4v5ptsq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0B1qmwD.jpg" group-title="",1991 (NA)
 https://m30.uqload.com/3rfkowfaezw2q4drdi77hlfsb2km4sm7tkdnhrviuo5ansgrpo4fytlwdm6a/v.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PfIvXzf.jpg" group-title="",20h17 Rue Darling
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PfIvXzf.jpg" group-title="",20h17 Rue Darling (YT)
 plugin://plugin.video.youtube/play/?video_id=okEaEosEzUc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FKq7LDU.jpg" group-title="",5150, Rue des Ormes (YT)
@@ -101,6 +109,9 @@ plugin://plugin.video.youtube/play/?video_id=V7AtYfdsyV4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dMDbvXy.jpg" group-title="",COYOTE (YT)
 plugin://plugin.video.youtube/play/?video_id=fMcnvwzfifI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gJ08Clj.jpg" group-title="",Cruising Bar 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=IJJiRSgYDXE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nlm8K1x.jpg" group-title="",Cul-de-$ac (YT)
 plugin://plugin.video.youtube/play/?video_id=phTfTdvUp94
@@ -195,6 +206,9 @@ plugin://plugin.video.youtube/play/?video_id=iHCKWrLw8h4
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2010/11/appat.jpg" group-title="Quebec Film",L'Appât (YT)
 plugin://plugin.video.youtube/play/?video_id=DkXrLruqLsI
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZeNA8Jj.jpg" group-title="",l’odyssée d'alice tremblay (YT)
+plugin://plugin.video.youtube/play/?video_id=g3WiwsqtP5c
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zur3XWe.jpg" group-title="Quebec Film",l’Homme le plus fort du Monde - Louis Cyr (YT)
 plugin://plugin.video.youtube/play/?video_id=R6JOn_fKurQ
 
@@ -224,6 +238,9 @@ plugin://plugin.video.youtube/play/?video_id=h6oKNrOhvIQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OADBDW.jpg" group-title="",La Run (NA)
 https://s0.vudeo.net/2vp3tpdwzavjdohilmkbryegz43dsvzdfflo6k4svrpcz5bo5ovlemidrfnq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2peFxeI.jpg" group-title="",La Sarrasine (YT)
+plugin://plugin.video.youtube/play/?video_id=rRzHL50F0Tw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TfoAxPt.jpg" group-title="",le colis (YT)
 plugin://plugin.video.youtube/play/?video_id=ofjW_OVRdb8
@@ -314,6 +331,9 @@ plugin://plugin.video.youtube/play/?video_id=12hD4IndDSA
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/02/maurice-richard_rocket_CAN.jpg" group-title="Quebec Film",Maurice Rocket Richard (YT)
 plugin://plugin.video.youtube/play/?video_id=kNSIQNRZ4BI
 
+#EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2009/02/maurice-richard_rocket_CAN.jpg" group-title="",The Rocket: Maurice Richard (YT) (OPT-2)
+plugin://plugin.video.youtube/play/?video_id=7BoPqEvNtB8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMkwsCO.jpg" group-title="",Mechant Party (YT)
 plugin://plugin.video.youtube/play/?video_id=OC59PylqTJE
 
@@ -380,6 +400,9 @@ https://fr13.seedr.cc/media/video/hd_hls/a412f058e02361aeadb90f20e80e3992d81eb28
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HU7dVR.jpg" group-title="",Requiem Pour Un Beau Sans Coeur (YT)
 plugin://plugin.video.youtube/play/?video_id=5TaCeHVYIg4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gI53Uws.jpg" group-title="",Rogers Normandin - La chienne de vie de Pierre Larouche (YT)
+plugin://plugin.video.youtube/play/?video_id=fqbsEnRHZLU
 
 ###S###
 
