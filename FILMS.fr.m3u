@@ -106,6 +106,9 @@ https://de13.seedr.cc/media/video/lq_hls/d591b8568fd544245998a94156e257864965723
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OQfEpQU.jpg" group-title="",Adam 
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Adam_2019_720p_TRUEFRENCH_WEB-DL_AC3-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ViO8z7a.jpg" group-title="",Agaguk (YT)
+plugin://plugin.video.youtube/play/?video_id=PeZd5kTA-NY
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/775.jpg" group-title="",Albert
 https://nl27.seedr.cc/media/video/lq_hls/501e354606680f40db75f0f4b7b81978a0b1f3e5/vid.m3u8
 
