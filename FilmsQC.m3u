@@ -375,8 +375,8 @@ plugin://plugin.video.youtube/play/?video_id=vNtMMnCW3Hk
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/redemption_finale.jpg" group-title="Quebec Film",Rédemption (2013) (YT)
 plugin://plugin.video.youtube/play/?video_id=GNS43XBCMoI
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GsVvlIs.jpg" group-title="",Répertoire des villes disparues (NA)
-https://m30.uqload.com/3rfkq7tvcvw2q4drdkzpdmnlacss7tkjbdc7cfe6oow2hrsl3vkghk5agejq/v.mp4
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1285.jpg" group-title="",Répertoire des villes disparues
+https://fr13.seedr.cc/media/video/hd_hls/a412f058e02361aeadb90f20e80e3992d81eb28b/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HU7dVR.jpg" group-title="",Requiem Pour Un Beau Sans Coeur (YT)
 plugin://plugin.video.youtube/play/?video_id=5TaCeHVYIg4
