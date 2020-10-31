@@ -212,8 +212,31 @@ https://stream.radiofrance.fr/fbvaucluse/fbvaucluse.m3u8?quality=midfi&id=radiof
 
 #############
 
+# https://www.fip.fr/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP
 https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - Bordeaux
+http://icecast.radiofrance.fr/fipbordeaux-midfi.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - Strasbourg
+http://icecast.radiofrance.fr/fipstrasbourg-midfi.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - Nantes
+http://icecast.radiofrance.fr/fipnantes-midfi.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - Rock
+https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - Jazz
+https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - Groove
+https://stream.radiofrance.fr/fipgroove/fipgroove_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - POP
+https://stream.radiofrance.fr/fippop/fippop_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - Electro
+https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - Monde
+https://stream.radiofrance.fr/fipworld/fipworld_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - Reggea
+https://stream.radiofrance.fr/fipreggae/fipreggae_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rruVCNJ.png" group-title="",FIP - Nouveaute
+https://stream.radiofrance.fr/fipnouveautes/fipnouveautes_hifi.m3u8?id=radiofrance
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5IFi5Zq.png" group-title="",France Culture
 https://icecast.radiofrance.fr/franceculture-midfi.mp3
@@ -506,6 +529,22 @@ http://str0.creacast.com/topmusic_strasbourg
 
 #############
 
+# https://www.toulouse.fm/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Rp7m2c.png" group-title="",★★★★★★★★★★Toulouse FM★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CpIIwsd.png" group-title="",Toulouse FM
+http://mediam.streamakaci.com/toulousefm.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s4F30fh.png" group-title="",Toulouse FM - kpopstyle
+https://mmradios.ice.infomaniak.ch/kpopstyle.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0KN9ZPn.png" group-title="",Toulouse FM - 80
+https://listen.radioking.com/radio/128983/stream/168805
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U6cM1zN.png" group-title="",Toulouse FM - Clubbing
+http://mmradios.ice.infomaniak.ch/toulousefmclubbing.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AY8IjSK.png" group-title="",Toulouse FM - Latino
+https://mmradios.ice.infomaniak.ch/toulousefmlatino.mp3
+
+#############
+
 # https://www.urbanhit.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wGqwY9J.png" group-title="",★★★★★★★★★★URBAN HIT★★★★★★★★★★
 0.0.0.0
@@ -595,6 +634,11 @@ https://witenfrancais.ice.infomaniak.ch/witenfrancais-128.mp3
 #EXTINF:-1 tvg-logo="nologo.png" group-title="",★★★★★★★★★★Autre Stations★★★★★★★★★★
 0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnSSmPs.png" group-title="",47FM
+http://mediam.streamakaci.com/47fm.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMDWEnn.png" group-title="",47FM 80
+https://listen.radioking.com/radio/128992/stream/168832
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fO6NSDw.png" group-title="",BeurFm
 https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
 
@@ -610,6 +654,17 @@ https://ais-live.cloud-services.paris/europe1.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6GflXG.jpg" group-title="",Fun Radio
 http://streaming.radio.funradio.fr/fun-1-44-128.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38RhUDC.png" group-title="",GoldFM
+http://mediam.streamakaci.com/goldfm.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNgqaD9.png" group-title="",GoldFM
+https://listen.radioking.com/radio/128989/stream/168817
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1PCJNH.png" group-title="",GoneUp Radio
+https://stream.goneupradio.com/radio/8000/radio
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDbmH6A.jpg" group-title="",In2MixxRadio
+https://listen.radioking.com/radio/384/stream/1613
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idu0Brs.png" group-title="",Mixxfm
 https://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
 
@@ -620,6 +675,9 @@ https://niceradio.ice.infomaniak.ch/niceradio.mp3
 http://str0.creacast.com/melodie
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szqNzqB.png" group-title="",Radio Melodie Forbach 102.9
 http://str0.creacast.com/melodie2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CL0SENN.png" group-title="",RBA FM
+https://trendsetter.streamakaci.com/trendsetter.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEDRkrM.jpg" group-title="",Skyrock Radio
 https://www.skyrock.fm/stream.php/frequenceradio_64mp3.mp3
