@@ -676,6 +676,9 @@ https://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZnpV36.png" group-title="",Nice Radio
 https://niceradio.ice.infomaniak.ch/niceradio.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHrF3Un.png" group-title="",Radio - Chansons oubliees ou presque
+https://manager2.creativradio.com:3555/stream
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szqNzqB.png" group-title="",Radio Melodie Sarreguemines 102.7
 http://str0.creacast.com/melodie
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szqNzqB.png" group-title="",Radio Melodie Forbach 102.9
