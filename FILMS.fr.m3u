@@ -42,6 +42,9 @@ plugin://plugin.video.youtube/play/?video_id=H5VQ495B62o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c6UEFUb.jpg" group-title="",Les évangiles cachés de la Bible (YT)
 plugin://plugin.video.youtube/play/?video_id=q0xFCRcQEvY
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NO06O5w.jpg" group-title="",Homme de Paille - La Nature de la Cage (YT)
+plugin://plugin.video.youtube/play/?video_id=nnhlMTzQ0TQ
+
 ###0###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/34.jpg" group-title="",42
