@@ -286,16 +286,6 @@ https://stream.radiofrance.fr/mouvdancehall/mouvdancehall_hifi.m3u8?id=radiofran
 
 #############
 
-# https://www.goldfm.fr/ #
-#EXTINF:-1 tvg-logo="https://www.goldfm.fr/upload/design/5df02bf2569b41.41471458.png" group-title="",★★★★★★★★★★Gold Fm★★★★★★★★★★
-0.0.0.0
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange32.png" group-title="",GOLD FM
-http://mediam.streamakaci.com/goldfm.mp3
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange488.png" group-title="",GOLD FM 80'S
-https://listen.radioking.com/radio/128989/stream/168817
-
-#############
-
 # https://www.latina.fr/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQna5yq.png" group-title="",★★★★★★★★★★Latina Radio★★★★★★★★★★
 0.0.0.0
