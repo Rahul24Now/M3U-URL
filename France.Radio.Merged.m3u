@@ -266,8 +266,23 @@ https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUW4HIO.jpg" group-title="",France Musique - La B.O. Musiques de Films
 https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8?id=radiofrance
 
+# https://www.mouv.fr/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmzEXHi.jpg" group-title="",Le Mouv'
 https://icecast.radiofrance.fr/mouv-midfi.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whBsQVt.jpg" group-title="",Le Mouv’ - Rap Francais
+https://stream.radiofrance.fr/mouvrapfr/mouvrapfr_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3uRT5gv.jpg" group-title="",Le Mouv’ - 100% Mix
+https://stream.radiofrance.fr/mouv100p100mix/mouv100p100mix_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUyqBJe.jpg" group-title="",Le Mouv’ - Classics
+https://stream.radiofrance.fr/mouvclassics/mouvclassics_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvtI6wF.jpg" group-title="",Le Mouv’ - Kids 'n Family
+https://stream.radiofrance.fr/mouvkidsnfamily/mouvkidsnfamily_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ZKLF5x.jpg" group-title="",LE Mouv’ - Rap US
+https://stream.radiofrance.fr/mouvrapus/mouvrapus_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMJFHnQ.jpg" group-title="",LE Mouv’ - RnB & Soul
+https://stream.radiofrance.fr/mouvrnb/mouvrnb_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKvZNRA.jpg" group-title="",Le Mouv’ - DanceHall
+https://stream.radiofrance.fr/mouvdancehall/mouvdancehall_hifi.m3u8?id=radiofrance
 
 #############
 
