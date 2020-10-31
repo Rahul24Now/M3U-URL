@@ -656,7 +656,7 @@ http://streaming.radio.funradio.fr/fun-1-44-128.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/38RhUDC.png" group-title="",GoldFM
 http://mediam.streamakaci.com/goldfm.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rNgqaD9.png" group-title="",GoldFM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNgqaD9.png" group-title="",GoldFM 80
 https://listen.radioking.com/radio/128989/stream/168817
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X1PCJNH.png" group-title="",GoneUp Radio
