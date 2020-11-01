@@ -1436,7 +1436,10 @@ plugin://plugin.video.twitch/?channel_id=519197940&amp;mode=play
 https://yviistreamer.kernel.online/hls/yviitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOqEBk0.png" group-title="",ZeroUno Tv
-https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/playlist.m3u8
+https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/playlist.m3u8	
+https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w589722407.m3u8
+https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w1540589991.m3u8
+https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w656792890.m3u8
 https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w773161226.m3u8
 
 #########################################
