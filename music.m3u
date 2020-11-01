@@ -844,6 +844,10 @@ https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTA54gD.png" group-title="",radio24
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_dfdxqb3w/sd/6000/t/kZTQ2XrFB-AgEa7c690FJw/index-s32.m3u8
 
+# https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFxuXNT.png" group-title="",Radio 24 IT (YT)
+plugin://plugin.video.youtube/play/?video_id=p_MYhnxY6EQ
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkLUjaK.png" group-title="",Radio 51 TV
 https://59d8c0cee6f3d.streamlock.net/canale51/canale51/playlist.m3u8
 https://59d8c0cee6f3d.streamlock.net/canale51/canale51/chunklist_w1979978286.m3u8
