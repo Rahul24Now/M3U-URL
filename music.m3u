@@ -1356,8 +1356,11 @@ https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT" group-title="Music",V2BEAT TV (OPT-2)
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pGTwXyU.jpg" group-title="",VaporFunk Station (YT)
-plugin://plugin.video.youtube/play/?video_id=SkMbpwoXsBI
+# https://www.youtube.com/channel/UCf69z7VtcSTygbNKdFn4ELg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGTwXyU.jpg" group-title="",VaporFunk Station - Vaporwave Radio (YT)
+plugin://plugin.video.youtube/play/?video_id=neVy2pyirKI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGTwXyU.jpg" group-title="",VaporFunk Station - Chiptune Radio (YT)
+plugin://plugin.video.youtube/play/?video_id=adKqGiV7w2E
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CepJLKS.png" group-title="",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
