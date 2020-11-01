@@ -40,8 +40,9 @@ https://uk-gos-edge-01.zetcast.net/ShetlandWebcams/Studio1ABR/ShetlandWebcams/st
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C1lrvMo.jpg" group-title="",91 NRJ MUSIC
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C1lrvMo.jpg" group-title="",91 NRJ MUSIC (OPT-2)
 http://tv.nrg91.gr:1935/onweb/live/chunklist_w1809164856.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1lrvMo.jpg" group-title="",91 NRJ MUSIC (OPT-2)
+https://w1.viastreaming.net/onweb/live/chunklist_w1080573781.m3u8 
 
 # https://limehd.tv/pulse
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dJ23REZ.jpg" group-title="",100% Pulse
@@ -138,6 +139,10 @@ https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XhBT4jB.png" group-title="",BNMTV (DM)
 plugin://plugin.video.dailymotion_com/?url=x7v306o&mode=playLiveVideo
 
+#EXTINF:-1 tvg-logo="http://www.bonaotv.com/images/bonao_logo_pb_500sm.png" group-title="",BONAO TV CANAL 12
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+https://ss5.domint.net:3026/btv_str/bonao/chunklist_w613125677.m3u8
+
 #EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" group-title="Music",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
@@ -152,6 +157,10 @@ https://mhd.iptv2022.com/p/NuQq7gULGPKNo0Si7ya_EA,1603670248/streaming/bridgetv/
 # https://limehd.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuldKTT.png" group-title="",Bridge TV Music Roll
 https://mhd.iptv2022.com/p/D9tYft8_Wv23LlAVR9gY-A,1603670248/streaming/br.rushit/324/vh1w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ep04K0x.jpg" group-title="",BSO Channel
+https://57068da1deb21.streamlock.net/bwr/bwr/playlist.m3u8
+https://57068da1deb21.streamlock.net/bwr/bwr/chunklist_w707566926.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBmwngz.png" group-title="USA",CA Music
 https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/index.m3u8
@@ -172,6 +181,7 @@ http://cms-streamaniak.top/Cdirect/CDIRECT/tracks-v1a1/mono.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKIdwPw.png" group-title="",CMC - Country
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KvhocJi.png" group-title="",CMC - Lounge
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/Mobile/clip_006_9302020.smil/playlist.m3u8
 
@@ -223,11 +233,16 @@ plugin://plugin.video.youtube/play/?video_id=ew5fOuedpJk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUQw6rJ.png" group-title="USA",Christmas Song
 https://bozztv.com/36bay2/gin/giniko_christmassongs_1000kb_36bay2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYDLx9I.png" group-title="",Ciccio Riccio Tv
+http://flash5.xdevel.com/ciccioricciocam/smil:ciccioricciocam.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" tvg-country="IN" group-title="Music",Cine Voice
 https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
 
 #EXTINF:-1 tvg-language="Dutch" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" tvg-country="BE"  group-title="Music",City Music TV
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="",City Music Tv (OPT-2)
+https://highvolume102.streampartner.nl/citytv/citytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bhcWbLW.png" group-title="",CITY TV
 https://tv.city.bg/play/tshls/citytv/3.m3u8
@@ -238,10 +253,14 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pc8oWAI.png" group-title="",CMT Music
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7yGtjg.jpg" group-title="",Colosal Tv HD 
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
 #EXTINF:-1 tvg-language="Italian" tvg-logo="https://i.imgur.com/Ug4AP8u.jpg" tvg-country="IT" group-title="Music",Company TV
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-language="Italian" tvg-logo="https://i.imgur.com/Ug4AP8u.jpg" tvg-country="IT" group-title="Music",Company TV (OPT-2)
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="USA",Country Music 4U (Opt-1)
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
@@ -1344,9 +1363,7 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GrB3ao.png" group-title="België",RADIO | Klara
 http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="België",RADIO | NRJ Hits TV
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="Nederland",RADIO | Omroep Brabant Radio
-http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="Nederland",RADIO | Qmusic Nederland
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OTyX1vp.png" group-title="Nederland",RADIO | Radio Veronica
@@ -1467,11 +1484,7 @@ plugin://plugin.video.dailymotion_com/?url=x26eox4&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/08/7b/11089/c175.png" group-title="",France Bleu Elsass (DM)
 plugin://plugin.video.dailymotion_com/?url=x72b0ey&mode=playLiveVideo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zPRTLzm.png" group-title="",MCM
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/mcm_live/index.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-name="MCM TOP" tvg-logo="https://i.imgur.com/CaxcBwZ.png" group-title="France",MCM TOP
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/3c935c9135c2908.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://radiocity-website.weebly.com/uploads/1/2/2/3/122378910/background-images/1278325930.png" group-title="",RCity (TWITCH)
 plugin://plugin.video.twitch/?channel_id=416081226&amp;mode=play
