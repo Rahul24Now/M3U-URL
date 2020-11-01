@@ -9,6 +9,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1  tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO"  group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VjRQdZ4.png" group-title="",1music.ro
 https://edge126.rcs-rds.ro/digi24edge/smil:musicchannel.smil/index.m3u8
 
@@ -912,6 +913,9 @@ https://585b674743bbb.streamlock.net/9030/9030/chunklist_w341311631.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4k8k9vc.png" group-title="",Radio Flash Radio Tv
 https://stream2.xdevel.com/video0s194-42/stream/playlist.m3u8
 https://stream2.xdevel.com/video0s194-42/stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2joomW.png" group-title="",Flash Radio Tv Rwanda
+http://80.241.215.175:1935/flashtv/flashtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/36LSjbu.png" group-title="",Radios Hanson
 https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
