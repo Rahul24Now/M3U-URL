@@ -361,6 +361,15 @@ plugin://plugin.video.youtube/play/?video_id=CtRmhWnfJvU
 #EXTINF:-1 tvg-id="France" tvg-name="Generations TV" tvg-logo="http://generations.fr/favicon-196.png" group-title="France",Generations TV
 https://edge8.vedge.infomaniak.com/livecast/ik:generation-tv/chunklist_w1661378677.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/24b.png" group-title="GEM Online",Gem 24B
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_az.png" group-title="GEM Online",Gem AZ
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_latino.png" group-title="GEM Online",Gem Latino
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4m8GgI.png" group-title="",Globo Tv Music Honduras 
 https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8
 
