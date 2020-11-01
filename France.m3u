@@ -968,9 +968,9 @@ plugin://plugin.video.youtube/play/?video_id=Bv8U1xOxiOk
 #EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 
-# update link : #
-#EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC (YT) (opt-2) (ND)
-plugin://plugin.video.youtube/play/?video_id=nfRJWSt8HG4
+# update link : # https://www.youtube.com/channel/UCgGb7tN3tIH5_Kk05D1J_bA
+#EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC (YT)
+plugin://plugin.video.youtube/play/?video_id=-9dzrRDRHJ0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVrOYXe.jpg" group-title="",RMC Decouverte
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
