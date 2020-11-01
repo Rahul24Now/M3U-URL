@@ -743,6 +743,32 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAJ9Eph.jpg" group-title="",OL3 Radio Tv
 https://5c389faa13be3.streamlock.net:9553/ol3radio/ol3radio/chunklist_w1717825683.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUVcM9o.jpg" group-title="",---Old World Radio / Boston---
+0.0.0.0
+# https://www.youtube.com/channel/UCihCtNZnFkG62U4na9JsPJQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lZNtP7S.jpg" group-title="",VINTAGE RADIO (YT)
+plugin://plugin.video.youtube/play/?video_id=tb0B3auGbtA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nVIIlFQ.jpg" group-title="",ＡＥＳＴＨＥＴＩＣ　ＦＭ (YT)
+plugin://plugin.video.youtube/play/?video_id=JvJJ5bDdYNk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gyeBY7E.jpg" group-title="",Rockabilly Radio (YT)
+plugin://plugin.video.youtube/play/?video_id=befZad39grg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e63RIem.jpg" group-title="",Fallout Radio (YT)
+plugin://plugin.video.youtube/play/?video_id=tzBGEqkwCoY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3vt6wgs.jpg" group-title="",Fallout 76 Appalachia Radio (YT)
+plugin://plugin.video.youtube/play/?video_id=iZZ-y_z6zLQ
+# https://www.youtube.com/oldworldradioboston
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ik54xEM.jpg" group-title="",Atom Cats Radio (YT)
+plugin://plugin.video.youtube/play/?video_id=oRqHdtdhPcQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ftfgaC.jpg" group-title="",Electro-Swing Radio (YT)
+plugin://plugin.video.youtube/play/?video_id=RsoDPHbSc7Y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIJ7min.jpg" group-title="",Lost Heaven Radio (YT)
+plugin://plugin.video.youtube/play/?video_id=t6TsqgTt0oI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ccwVe3P.jpg" group-title="",Fallout Radio 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=y4VyIc29A6w
+# https://www.twitch.tv/oldworldradio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbkvSLu.png" group-title="",oldworldradio - Cyberpunk 2077 Radio (TWITCH)
+plugin://plugin.video.twitch/?channel_id=186900357&amp;mode=play
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B2jZTMu.png" group-title="",ONFM TV Portugal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 
