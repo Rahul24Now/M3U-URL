@@ -29,7 +29,7 @@ https://edge2.tikilive.com:8443/html5_tikilive/42487/amlst:mainstream/chunklist_
 
 # https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="",7ALimoges (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=337KeUVPIrk
+plugin://plugin.video.youtube/play/?video_id=GxY1Mbf4sws
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="",AB1
 http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
@@ -97,7 +97,7 @@ plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
 
 # https://www.youtube.com/channel/UCgMuh0GiItMVbIA8Qb4WAUA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbI8SKM.jpg" group-title="",Barbie Français (YT)
-plugin://plugin.video.youtube/play/?video_id=uegFsq1C-Yo
+plugin://plugin.video.youtube/play/?video_id=7SxTKHJEP0M
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png" group-title="",Bblack! Africa
 http://connectiktv.ddns.me:8080/bblack/index.m3u8
@@ -430,7 +430,7 @@ plugin://plugin.video.twitch/?channel_id=245747090&amp;mode=play
 # https://www.youtube.com/channel/UCCDz_XYeKWd0OIyjp95dqyQ
 # https://www.youtube.com/user/lefigaro
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (YT)
-plugin://plugin.video.youtube/play/?video_id=oCUHpyEqR6s
+plugin://plugin.video.youtube/play/?video_id=bb7P5reEm2Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96fvomY.jpg" group-title="",Figaro Live (TWITCH)
 plugin://plugin.video.twitch/?channel_id=75965671&amp;mode=play
 
@@ -673,11 +673,7 @@ plugin://plugin.video.youtube/play/?video_id=djz5RcbBDjc
 
 # https://www.youtube.com/channel/UC_CE5uL8tsIPsWCt4D8wc8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXvZsuW.jpg" group-title="",Kids Tv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=l6CdjNmb7fo
-
-# https://www.youtube.com/channel/UC_CE5uL8tsIPsWCt4D8wc8A #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xHEfzMn.jpg" group-title="",Kids Tv Française - chansons de bébé (YT)
-plugin://plugin.video.youtube/play/?video_id=IO1mPOKtS48
+plugin://plugin.video.youtube/play/?video_id=rnmWgC0Kj58
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="KTO FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/db/KTO_logo_2008.png" group-title="France",KTO
@@ -890,7 +886,7 @@ plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
 
 # https://www.youtube.com/channel/UC0pHdbHRCREJJQhGSUDH61g #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="",POCOYO FRANÇAIS (YT)
-plugin://plugin.video.youtube/play/?video_id=YMgL0iL83gk
+plugin://plugin.video.youtube/play/?video_id=754itqc4IBk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV Arabia
 http://51.15.193.127/hls/stream.m3u8
