@@ -564,6 +564,11 @@ https://s3.amazonaws.com/cdn.pivotalelements.com/NACTV.xspf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfiZplk.png" group-title="Canada",Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18lKnsk.png" group-title="",Net TV Toronto
+https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8	
+https://live.streams.ovh/NetvToronto/NetvToronto/chunklist_w125369389.m3u8
+https://live.streams.ovh/NetvToronto/NetvToronto/chunklist_w1642991104.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yhqILus.png" group-title="Canada",NRB TV
 https://us170.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 
