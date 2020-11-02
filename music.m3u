@@ -181,19 +181,11 @@ https://5b38ce71f1f00.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" tvg-country="IR" tvg-url="" group-title="Music",Caltex TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H2dEXHu.png" group-title="",cdirect.tv
-http://cms-streamaniak.top/Cdirect/CDIRECT/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYUQrJ4.png" group-title="",CMC - California
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jKIdwPw.png" group-title="",CMC - Country
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KvhocJi.png" group-title="",CMC - Lounge
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/Mobile/clip_006_9302020.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZL2kxO.png" group-title="",Canal 3 Trelew
 https://panel.dattalive.com/8034/8034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxrBuoE.png" group-title="",CannaliMusic
+https://live.streams.ovh:443/cannali/cannali/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://capitalfm.moscow/img/logo2.png" group-title="",Capital FM Moscow
 https://www.m24.ru/trans/moscowcity/trans.m3u8
@@ -209,6 +201,9 @@ plugin://plugin.video.youtube/play/?video_id=xVZRkc5l2iQ
 plugin://plugin.video.youtube/play/?video_id=YXVq8zTr1tI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KTBmV1D.jpg" group-title="",Car Music Mix 2020 5 (YT)
 plugin://plugin.video.youtube/play/?video_id=1NYgVM3DUXc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2dEXHu.png" group-title="",cdirect.tv
+http://cms-streamaniak.top/Cdirect/CDIRECT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1lTijbb.jpg" group-title="",Ch4teen Clip (DM)
 plugin://plugin.video.dailymotion_com/?url=x7v4ezg&mode=playLiveVideo
@@ -256,6 +251,14 @@ https://tv.city.bg/play/tshls/citytv/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GkTK0wc.png" group-title="",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYUQrJ4.png" group-title="",CMC - California
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jKIdwPw.png" group-title="",CMC - Country
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvhocJi.png" group-title="",CMC - Lounge
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/Mobile/clip_006_9302020.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pc8oWAI.png" group-title="",CMT Music
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
