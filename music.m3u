@@ -518,6 +518,12 @@ https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcBIgtB.png" group-title="UK", Kerrang
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vQSTyDl.png" group-title="UK", Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDCq8u2.jpg" group-title="",Kool London Radio
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 http://w10.streamgb.com:1935/kool/kool/chunklist_w1708470266.m3u8
