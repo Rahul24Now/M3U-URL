@@ -12,7 +12,7 @@ plugin://plugin.video.youtube/play/?video_id=_Ra1dOT1D_w
 
 # update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=0W3raN20ZK8
+plugin://plugin.video.youtube/play/?video_id=IDMBKMBi3Pk
 
 # update link: https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D’Youville (YT) (UPD)
@@ -31,8 +31,8 @@ plugin://plugin.video.youtube/play/?video_id=ax0q7oAWLMM
 plugin://plugin.video.youtube/play/?video_id=VvZFRbo2KIg
 
 # update link: https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (YT)
-plugin://plugin.video.youtube/play/?video_id=n88FInL_PqI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=oNW4e3T67vo
 
 # Update Link: https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT) (UPD)
@@ -41,19 +41,19 @@ plugin://plugin.video.youtube/play/?video_id=qqLwNpI8ok8
 plugin://plugin.video.youtube/play/?video_id=0mXfTYRMI6k
 
 # https://www.youtube.com/channel/UCTa_gibTHUjXqybtEpEH7GQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=aPyhti-XKIc
 
 # https://www.youtube.com/channel/UCOfTJ2Bx0NANF26D44We_Lg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Mont-Royal (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Mont-Royal (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=LgsrygiCfjw
 
 # https://www.youtube.com/channel/UC4sV5M5L86DfidH0Aeq1YcQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal Aeroport Trudeau (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal Aeroport Trudeau (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=KM-DeIjVAow
 
 # https://www.youtube.com/channel/UCBF_Zr3t_6-vRsQrqe-BTDA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WDBqyXC.jpg" group-title="",Cathédrale Marie-Reine-du-Monde Montréal (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDBqyXC.jpg" group-title="",Cathédrale Marie-Reine-du-Monde Montréal (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=PBpGL2x6EqY
 
 # update link: https://jacquescartierchamplain.ca/circulation-travaux/reseau-en-direct/ #
@@ -63,7 +63,7 @@ https://wowzaprod124-i.akamaihd.net/hls/live/508629/d094e21b/playlist.m3u8
 https://wowzaprod124-i.akamaihd.net/hls/live/508629/4e912ed0/playlist.m3u8
 
 # https://www.youtube.com/channel/UCNZhr7PC5ehkf7Rqom1GfYA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="",Pont Jacques Cartier / La Ronde (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="",Pont Jacques Cartier / La Ronde (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=qd6QmN5cQag
 
 # update link: https://www.youtube.com/channel/UCt9lhgKwKl4GHGpgQdGy1AA  NBSL Public Video Streaming #
@@ -78,11 +78,11 @@ plugin://plugin.video.youtube/play/?video_id=5C4Y0mXsBXs
 
 # update link: https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Rivière (UPD)
-https://mia.rtsp.me/JPOnG5su7Q8s9ukL4hY-Ug/1604157102/hls/3yB3SNsr.m3u8
+https://mia.rtsp.me/LMDCBQ6uAvJJwmhwZdKDIQ/1604689099/hls/3yB3SNsr.m3u8
 
 # https://www.vision-environnement.com/livecams/webcam.php?webcam=islet-sur-mer 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="",L´Islet-sur-Mer (UPD)
-https://mia.rtsp.me/3Lfqb2XiCJKuHTslEALAMA/1604157133/hls/7H9hbRNZ.m3u8
+https://mia.rtsp.me/WZ9x7x1RaHFgAWIowNt7Ug/1604689126/hls/7H9hbRNZ.m3u8
 
 # update link: https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
@@ -115,7 +115,7 @@ http://24.37.234.6:8082/mjpg/video.mjpg
 http://24.37.234.6:8083/mjpg/video.mjpg
 
 # update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="",Cap-Colombier,Québec (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="",Cap-Colombier,Québec (YT) (UPD) (OFFLINE)
 plugin://plugin.video.youtube/play/?video_id=T0YdnDEAgHY
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
@@ -146,7 +146,7 @@ plugin://plugin.video.youtube/play/?video_id=ws-VacdWtsU
 
 # https://www.youtube.com/channel/UCURjrBQ-UcxspbA7bEPxIMA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LkqoYa2.jpg" group-title="",Bird Watching Montreal Live Stream (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=6LUioXst3wM
+plugin://plugin.video.youtube/play/?video_id=KK-5MNrOS_A
 
 # https://www.youtube.com/channel/UCWVJdQnJhHT60DF9yfKESjA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal (YT) (UPD)
