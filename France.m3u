@@ -730,6 +730,10 @@ plugin://plugin.video.dailymotion_com/?url=x3x5e37&mode=playLiveVideo
 #EXTINF:-1 tvg-id="France" tvg-name="Lèeekô TV" tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="France",Lèeekô TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist_w1491857041.m3u8
 
+# https://www.youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XCJZVvf.jpg" group-title="",Le Monde.fr (YT)
+plugin://plugin.video.youtube/play/?video_id=PrBN_vCHWJ0
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="La Chaine Normande TV FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="France;Family",La Chaine Normande TV
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
