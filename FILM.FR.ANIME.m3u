@@ -137,6 +137,9 @@ https://fr11.seedr.cc/media/video/lq_hls/37e036673225ce0591596a6ebf5f68a1e6a6ff7
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/151.jpg" group-title="",En avant
 https://fr13.seedr.cc/media/video/hd_hls/e226be4e674a4d9dd35c6b49f0b5cabe9a7a8e13/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/784.jpg" group-title="",Ethel & Ernest
+https://nl30.seedr.cc/media/video/hd_hls/83eb89d03688d5c678274e74bb185bd1826d4779/vid.m3u8
+
 ###F###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/761.jpg" group-title="",Ferdinand
@@ -177,6 +180,9 @@ https://nl29.seedr.cc/media/video/hd_hls/4d5ce541a6e6f8e08766d3d7e963a0fb8ba03ce
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1247.jpg" group-title="",J'ai perdu mon corps
 https://fr7.seedr.cc/media/video/hd_hls/b8f5ae2fbbc8470ef0010e3b889310e124f6c6be/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/744.jpg" group-title="",Je veux manger ton pancréas
+https://nl21.seedr.cc/media/video/hd_hls/d06aab8b62eba04fe15fc7886124faf760a2b078/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/269.jpg" group-title="",Justice League Dark: Apokolips War
 https://nl21.seedr.cc/media/video/hd_hls/991dce54391f3b7d81baff8c862b0e3f78318e9d/vid.m3u8
@@ -455,6 +461,9 @@ https://nl31.seedr.cc/media/video/hd_hls/b4c8a3457520ea3fef81887d3ec74657a7d1b84
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1309.jpg" group-title="",Ralph 2.0
 https://nl34.seedr.cc/media/video/lq_hls/e3174732336436febd2729e4c8f027bcdf03d2c4/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/781.jpg" group-title="",Ratchet & Clank
+https://nl23.seedr.cc/media/video/hd_hls/f00e191e321053c65d235f2c2da3e9f1201847a6/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1211.jpg" group-title="",Rebelle
 https://fr14.seedr.cc/media/video/hd_hls/a12e7a4fe2a6fa37f043f6629b847d8b638c38dc/vid.m3u8
 
@@ -488,6 +497,12 @@ https://nl29.seedr.cc/media/video/lq_hls/6a7ddc3439aa6304c5dda04c09e62f3279ea640
 https://nl34.seedr.cc/media/video/hd_hls/392f56509e7dfd582fcf797787001b94ec04b579/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/703.jpg" group-title="",Shrek 4 - il était une fin
 https://nl31.seedr.cc/media/video/lq_hls/cff835ebe16e844503e2b5113a2e58e436126c59/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/698.jpg" group-title="",Silent Voice
+https://fr9.seedr.cc/media/video/hd_hls/4319a379e5a6967fb3b8f5157a310b5cea16d4a2/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/23.jpg" group-title="",Sinbad, la légende des sept mers
+https://sf1.seedr.cc/media/video/hd_hls/fr9/b0781c50063644d2d781ab86cc49b23faea7b146/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gosahFH.jpg" group-title="",Spark (YT)
 plugin://plugin.video.youtube/play/?video_id=-1a9yEPM11M
