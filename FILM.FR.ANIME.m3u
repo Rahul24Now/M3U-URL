@@ -51,6 +51,9 @@ plugin://plugin.video.youtube/play/?video_id=cpkMsoU0Cd4
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/224.jpg" group-title="",Baby Boss
 https://lo1.seedr.cc/media/video/hd_hls/nl23/f231707eb70574130a3d19b17987077736190578/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/biC4oT1.jpg" group-title="",Barbie Fairytopia: Mermaidia (YT)
+plugin://plugin.video.youtube/play/?video_id=zXIHWfuSII4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/707.jpg" group-title="",Batman: Gotham Knight
 https://fr9.seedr.cc/media/video/hd_hls/c27b6c136ad77da940e916e7b707d17ccd510b78/vid.m3u8
 
@@ -135,6 +138,9 @@ https://fr13.seedr.cc/media/video/hd_hls/e226be4e674a4d9dd35c6b49f0b5cabe9a7a8e1
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/761.jpg" group-title="",Ferdinand
 https://de7.seedr.cc/media/video/hd_hls/52031ebee364f5807dcc7ffb1d3a004b65f1baa5/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fj98EkR.jpg" group-title="",Felix & Cie (YT)
+plugin://plugin.video.youtube/play/?video_id=hABT1M321_c
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1209.jpg" group-title="",Festin de requin 2 : Le récif se rebelle
 https://nl38.seedr.cc/media/video/lq_hls/2001fb1fa3747f71e6214aebee39e683635de613/vid.m3u8?dvr
@@ -238,6 +244,9 @@ https://fr15.seedr.cc/media/video/hd_hls/2e0befd537f14ef5c80d23386da463b17fc6a8a
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/6.jpg" group-title="",La Reine des neiges II
 https://sf1.seedr.cc/media/video/hd_hls/fr1/9944dc7e6dbd57e0bbaaefb1db69b6e338a39ceb/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DWtl6Cs.jpg" group-title="",LE CORSAIRE NOIR (YT)
+plugin://plugin.video.youtube/play/?video_id=__9PGxsjnTQ
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/737.jpg" group-title="",Le cristal magique
 https://nl31.seedr.cc/media/video/hd_hls/73509350f667a6ebfbb0d81c19d2a86e909f398e/vid.m3u8
 
@@ -273,6 +282,9 @@ plugin://plugin.video.youtube/play/?video_id=MBqz88sNMq8
 plugin://plugin.video.youtube/play/?video_id=yyckYGdJ_e0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdzxRBX.jpg" group-title="",Les aventures de Tintin - Le Temple du Soleil (YT)
 plugin://plugin.video.youtube/play/?video_id=o_SMWjv9Clc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkCEUfC.jpg" group-title="",LES CROODS 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=BzYuyDjAZfQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O3dMoRQ.jpg" group-title="",Les Défenseurs de l'espace (1987)
 https://ia801009.us.archive.org/3/items/lesdnfenseursdelespacernalisateursidneycharleston/Les_Dn_fenseurs_De_L_Espace__Rn_alisateur___Sidney_Charleston_.mp4
@@ -390,8 +402,14 @@ https://fr11.seedr.cc/media/video/hd_hls/981440549fcebba2eabc54d2d163b14704327b2
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/414.jpg" group-title="",One Piece Stampede
 https://fr9.seedr.cc/media/video/hd_hls/b1297b54af9662975359f5f9ec8c62e94f114e83/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QsTpkHN.jpg" group-title="",Oups j’ai raté l’arche ! (YT)
+plugin://plugin.video.youtube/play/?video_id=6hV1tM1gtX4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1367.jpg" group-title="",Oscar et le monde des chats 
 https://nl34.seedr.cc/media/video/lq_hls/034a8aba85265daf76be79fc4d667b9c594b5f84/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S7yUGHB.jpg" group-title="",OVERWATCH (YT)
+plugin://plugin.video.youtube/play/?video_id=cXWLIC4R1YE
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/750.jpg" group-title="",Ozzy, la Grande Évasion
 https://fr6.seedr.cc/media/video/hd_hls/59226a8d1b142f0d4e91cb804117fad31ceca9c5/vid.m3u8
@@ -448,6 +466,9 @@ https://nl24.seedr.cc/media/video/lq_hls/ed93a9e776450252616f250cf3a8ecc24085041
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/740.jpg" group-title="",Scooby-Doo ! Retour sur l'île aux zombies
 https://nl20.seedr.cc/media/video/hd_hls/acee52c10dff2219b7f437d144dee70f1742b51d/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5MOm5v.jpg" group-title="",Sgt. Stubby: An American Hero (YT)
+plugin://plugin.video.youtube/play/?video_id=xvXDi5OEzz4
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/405.jpg" group-title="",Shaun le Mouton
 https://nl34.seedr.cc/media/video/hd_hls/3c8156620b4ae4d7b6749c190aaab56e9e259403/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1173.jpg" group-title="",Shaun le mouton : La ferme contre-attaque
@@ -464,6 +485,9 @@ https://nl29.seedr.cc/media/video/lq_hls/6a7ddc3439aa6304c5dda04c09e62f3279ea640
 https://nl34.seedr.cc/media/video/hd_hls/392f56509e7dfd582fcf797787001b94ec04b579/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/703.jpg" group-title="",Shrek 4 - il était une fin
 https://nl31.seedr.cc/media/video/lq_hls/cff835ebe16e844503e2b5113a2e58e436126c59/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gosahFH.jpg" group-title="",Spark (YT)
+plugin://plugin.video.youtube/play/?video_id=-1a9yEPM11M
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/677.jpg" group-title="",Superman : L'Homme de demain
 https://fr1.seedr.cc/media/video/hd_hls/d43ccb9778bafa120d30ac8112ad7aaf3afb09b1/vid.m3u8
@@ -506,6 +530,12 @@ https://nl21.seedr.cc/media/video/hd_hls/17fdeca40f23fd39ebabbc0fd1a680b1026059b
 https://nl37.seedr.cc/media/video/lq_hls/bbcea7f1baa7f6f756d4eb84e01b4083d0c1f041/vid.m3u8
 
 ###W###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txaWh6z.jpg" group-title="",Wheely (YT)
+plugin://plugin.video.youtube/play/?video_id=d7uvGMS6Qgg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJXtzr.jpg" group-title="",Wonderland le royaume sans pluie (YT)
+plugin://plugin.video.youtube/play/?video_id=d9_6VolDqzg
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/83.jpg" group-title="",Wonder Woman - Bloodlines 
 https://sf1.seedr.cc/media/video/hd_hls/nl23/d4a51249d2295e9f17d2a6743b62500a3bf1343d/vid.m3u8
