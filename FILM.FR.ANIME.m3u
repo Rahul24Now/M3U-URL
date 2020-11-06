@@ -54,6 +54,8 @@ plugin://plugin.video.youtube/play/?video_id=cpkMsoU0Cd4
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/224.jpg" group-title="",Baby Boss
 https://lo1.seedr.cc/media/video/hd_hls/nl23/f231707eb70574130a3d19b17987077736190578/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDKIOqG.jpg" group-title="",Barbie et la Magie de Noel (YT)
+plugin://plugin.video.youtube/play/?video_id=PzMZjsWb_Tw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/biC4oT1.jpg" group-title="",Barbie Fairytopia: Mermaidia (YT)
 plugin://plugin.video.youtube/play/?video_id=zXIHWfuSII4
 
@@ -89,6 +91,9 @@ https://lo1.seedr.cc/media/video/hd_hls/nl38/0adb0ee4c93a572c23a25f61372096c59d8
 
 ###C###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSthysv.jpg" group-title="",Caillou (YT)
+plugin://plugin.video.youtube/play/?video_id=wdCXnYL8f64
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/192.jpg" group-title="",Cars - Quatre roues
 https://nl38.seedr.cc/media/video/lq_hls/9abc546d6f11338e3be79f12ca6c639b6caf6e72/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/191.jpg" group-title="",Cars 2
@@ -98,6 +103,9 @@ https://lo1.seedr.cc/media/video/hd_hls/nl26/7c21919d5a050c73d7547148c7c9e1b0b4c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yfQDPO.jpg" group-title="",Casper - Le nouveau défi (YT)
 plugin://plugin.video.youtube/play/?video_id=zZyPILkuQT8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c9Hxn2.jpg" group-title="",Charlotte aux Fraises (YT)
+plugin://plugin.video.youtube/play/?video_id=8DRS09wxY1M
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1273.jpg" group-title="",Chico et Rita
 https://nl38.seedr.cc/media/video/lq_hls/44c1b71b31329f66c6b2402da7ae006330ad85c2/vid.m3u8?dvr
@@ -167,12 +175,18 @@ https://nl30.seedr.cc/media/video/hd_hls/9b9494a7623e6a77edd88b17678595763d8248c
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/777.jpg" group-title="",Hell & Back
 https://nl24.seedr.cc/media/video/hd_hls/d39839b44be083f9a461cdbff148d76a8343a76f/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCae20H.jpg" group-title="",Horseland (YT)
+plugin://plugin.video.youtube/play/?video_id=nQjBrH4S3vI
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/163.jpg" group-title="",Hôtel Transylvanie
 https://nl23.seedr.cc/media/video/lq_hls/60499163b379c648c92aac9623491e42c00175d0/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/164.jpg" group-title="",Hôtel Transylvanie 2
 https://de11.seedr.cc/media/video/hd_hls/050ecb5098e29f259d1f9998463b202426082468/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/165.jpg" group-title="",Hôtel Transylvanie 3 - Des vacances monstrueuses
 https://nl29.seedr.cc/media/video/hd_hls/4d5ce541a6e6f8e08766d3d7e963a0fb8ba03cec/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1gZ5Ge.jpg" group-title="",HUA MULAN (YT)
+plugin://plugin.video.youtube/play/?video_id=_AIp56oFnLs
 
 ###I###
 
@@ -259,6 +273,9 @@ plugin://plugin.video.youtube/play/?video_id=__9PGxsjnTQ
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/737.jpg" group-title="",Le cristal magique
 https://nl31.seedr.cc/media/video/hd_hls/73509350f667a6ebfbb0d81c19d2a86e909f398e/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCae20H.jpg" group-title="",LE GÂTEAU MAGIQUE (YT)
+plugin://plugin.video.youtube/play/?video_id=efmt6iyx-5E
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/771.jpg" group-title="",Le Monde de Dory
 https://de9.seedr.cc/media/video/lq_hls/638feff168dc51332a20e962c1c6278b4fe84e2b/vid.m3u8
 
@@ -268,8 +285,14 @@ https://sf1.seedr.cc/media/video/hd_hls/fr7/596681a85ed123cb9803868d22842807f281
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1238.jpg" group-title="",Le mystère des pingouins
 https://fr12.seedr.cc/media/video/lq_hls/5076ea47e14c89bf76f2960cb09d571fb8533468/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xohtL34.jpg" group-title="",Le petit Chaperon Rouge (YT)
+plugin://plugin.video.youtube/play/?video_id=nebRn25V1WU
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1330.jpg" group-title="",Le Rythme de la Jungle
 https://nl30.seedr.cc/media/video/hd_hls/fb8e022b1179a2e2cb4994438f5dc88b80cdb333/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iErkN8d.jpg" group-title="",Le Roi Singe le Retour du Héros (YT)
+plugin://plugin.video.youtube/play/?video_id=Yw1ROwP3GuQ
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1060.jpg" group-title="",Le vilain petit canard et moi
 https://nl17.seedr.cc/media/video/lq_hls/c11d5e020927608c1787a7ab0aa9264053fa657e/vid.m3u8?dvr
@@ -303,6 +326,9 @@ https://nl37.seedr.cc/media/video/hd_hls/6afbf84318d4e3bb6ac08641ca67177126774d7
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/541.jpg" group-title="",Les Mondes parallèles
 https://nl24.seedr.cc/media/video/hd_hls/e8c46733fc07a83eedaacb0643ddfe992deb0432/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nkVKrW0.jpg" group-title="",Les necromates (YT)
+plugin://plugin.video.youtube/play/?video_id=P62OLChmqFk
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1188.jpg" group-title="",Les Noces funèbres
 https://fr1.seedr.cc/media/video/lq_hls/e08495d0b35c291931a6e9a58c9c78e95e924718/vid.m3u8?dvr
@@ -428,6 +454,9 @@ https://fr6.seedr.cc/media/video/hd_hls/59226a8d1b142f0d4e91cb804117fad31ceca9c5
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/762.jpg" group-title="",Parvana
 https://nl30.seedr.cc/media/video/hd_hls/1fbb61ede5136c309fea128c467dc82002c15b74/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWlE80x.jpg" group-title="",Peppa Pig (YT)
+plugin://plugin.video.youtube/play/?video_id=w8bLSOuKoe0
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/753.jpg" group-title="",Pets United - L'union fait la force
 https://nl25.seedr.cc/media/video/hd_hls/5a7cd2f0915582f36620a71d834dfe60fda5e7ad/vid.m3u8
 
@@ -447,6 +476,12 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Poke
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VvdDKVn.jpg" group-title="",Psycho Pass : Sinners of the System Case 1 – Crime et Châtiment
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Psycho-Pass_Sinners_of_the_System_03_FANSUB_VOSTFR_BRRip_x264-Wawacity_cc+Online+%E2%80%94+Mystream.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VAJj0CH.jpg" group-title="",Pyjamasque 1 (YT)
+plugin://plugin.video.youtube/play/?video_id=--ufAue8bIo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VAJj0CH.jpg" group-title="",Pyjamasque 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=B4ECCsnY0tA
 
 ###Q###
 
@@ -500,6 +535,9 @@ https://nl31.seedr.cc/media/video/lq_hls/cff835ebe16e844503e2b5113a2e58e436126c5
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/698.jpg" group-title="",Silent Voice
 https://fr9.seedr.cc/media/video/hd_hls/4319a379e5a6967fb3b8f5157a310b5cea16d4a2/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqm6T7Y.png" group-title="",Simsala Grimm (YT)
+plugin://plugin.video.youtube/play/?video_id=23fNr4MqYPk
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/23.jpg" group-title="",Sinbad, la légende des sept mers
 https://sf1.seedr.cc/media/video/hd_hls/fr9/b0781c50063644d2d781ab86cc49b23faea7b146/vid.m3u8
@@ -569,6 +607,9 @@ https://de6.seedr.cc/media/video/hd_hls/01aa64ef8b995aea01f8c4241575748a257db303
 https://nl30.seedr.cc/media/video/hd_hls/20a06152e2e88d51ece8f51e503f3c5ebb0642d1/vid.m3u8
 
 ###Z###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMgbSiK.jpg" group-title="",Zelda : Breath of the wild (YT)
+plugin://plugin.video.youtube/play/?video_id=OjP9lZe-Ynw
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/780.jpg" group-title="",Zombillénium
 https://fr11.seedr.cc/media/video/hd_hls/44dca36a303dee65c53e70605ca2d92f90301a3b/vid.m3u8
