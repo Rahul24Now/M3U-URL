@@ -45,6 +45,9 @@ plugin://plugin.video.youtube/play/?video_id=cpkMsoU0Cd4
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/224.jpg" group-title="",Baby Boss
 https://lo1.seedr.cc/media/video/hd_hls/nl23/f231707eb70574130a3d19b17987077736190578/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/707.jpg" group-title="",Batman: Gotham Knight
+https://fr9.seedr.cc/media/video/hd_hls/c27b6c136ad77da940e916e7b707d17ccd510b78/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/756.jpg" group-title="",Batman Ninja
 https://de12.seedr.cc/media/video/hd_hls/f7d2be3f1ad027313b672e40dfe4ec09f711addd/vid.m3u8
 
@@ -152,6 +155,13 @@ https://nl29.seedr.cc/media/video/hd_hls/4d5ce541a6e6f8e08766d3d7e963a0fb8ba03ce
 https://fr7.seedr.cc/media/video/hd_hls/b8f5ae2fbbc8470ef0010e3b889310e124f6c6be/vid.m3u8
 
 ###K###
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/4.jpg" group-title="",Kirikou et la sorcière
+https://pr1.seedr.cc/media/video/hd_hls/fr7/ee63719f3da49b12a9e0ab4489c455e15d2eec09/vid.m3u8
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/3.jpg" group-title="",Kirikou et les bêtes sauvages
+https://nl35.seedr.cc/media/video/lq_hls/926702a2087d4d346f3adaeabe299141c1a86df8/vid.m3u8?dvr
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/2.jpg" group-title="",Kirikou et les hommes et les femmes
+https://nl29.seedr.cc/media/video/lq_hls/21ff4397807623ff6cfbab0e1b6bd8917b2063ae/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/776.jpg" group-title="",Kubo et l'armure magique
 https://fr4.seedr.cc/media/video/lq_hls/1386cdaea65c8299206617eda4da7c0a8b8926d7/vid.m3u8
