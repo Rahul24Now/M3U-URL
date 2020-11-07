@@ -165,4 +165,70 @@ https://ff025cd3f4b44af9915c7303489f823c.mediatailor.us-east-1.amazonaws.com/v1/
 https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8
 https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e88458ad7801fa2cfc2e/3502ec93-d451-4df9-9cc9-e5f822faf4a6/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Civilized
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",EN
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",High Times TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Indie Artist Music TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25e3932c8368bdbfd87f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Slimo
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Gameplay
+https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",External Ottera
+https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
+
 #############
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",----OFFLINE Channel----
+0.0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Delicious TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9529aa932c837b493972cb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Fueled TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95334c932c837b493972fb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",GT Channel
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf220bbd5eeee0f5a409419/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",That Dude in Blue
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220c4932c8304fc4533a2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Autos & Vehicles
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220c4932c8304fc4533a2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Activity Kid
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225d2d5eeee0f5a4094bf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Kidsongs
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22401932c8304fc4533df/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Parry Gripp
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225bcd5eeee0f5a4094be/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Waggle
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225eb932c8304fc453413/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",We Are the Davises
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2253cd5eeee0f5a4094b9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Homemade TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c952677932c837b493972a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Knekt
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2268e932c8304fc453419/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Popular Photography
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf226b4932c8304fc45341b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0" group-title="bumblebee.tv",Education
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5f10f6c04a9f7c7c27570dd3/playlist.m3u8
