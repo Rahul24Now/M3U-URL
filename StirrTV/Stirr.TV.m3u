@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxSfHfD.png" group-title="",★★★★★★★★★★[COLOR yellow]Stirr[/COLOR]★★★★★★★★★★
-
+0.0.0.0
 #EXTINF:-1 tvg-id="dco" tvg-chno="1" tvg-logo="https://i.mjh.nz/Stirr/.images/dco.png",STIRR | National
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-05-25-2020-174756630-05-25-2020" tvg-chno="7" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-05-25-2020-174756630-05-25-2020.png",The First
