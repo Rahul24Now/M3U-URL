@@ -27,6 +27,9 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Bloomberg
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Bon Appetit
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | CBC News
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
@@ -38,6 +41,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8?p=r
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | CineLife
 https://magnolia-redbox.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Classic Rock
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Comedy
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
@@ -96,11 +102,20 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Global Got Talent
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Glory Kickboxing
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Go Traveler
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | GQ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Greatest Hits
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Hard Knocks
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
@@ -108,11 +123,17 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Hi-Yah
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Hit List
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Hot Country
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Hungry
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Johnny Carson TV
-https://johnnycarson-redbox.amagi.tv/playlist.m3u8
+https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Journy
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
@@ -144,8 +165,14 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Outside TV+
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | PAC 12
+https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8?deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | People are Awesome
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | pocketwatch
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | real nosey
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
@@ -161,6 +188,12 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsamuelgoldwyn/CDN/playlist.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Shout! Factory TV
 https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Soul Storm
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | So Yummy!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Spotlight
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
@@ -191,6 +224,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | USA today
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Vanity Fair
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Vevo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Voyager Docs
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
