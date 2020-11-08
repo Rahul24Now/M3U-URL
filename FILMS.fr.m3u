@@ -912,6 +912,9 @@ https://nl25.seedr.cc/media/video/hd_hls/aa27f273528c8b3b35d7102f3940dbcc88ddc6b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTQTPfG.jpg" group-title="",La vengeance aux deux visages 1961 (YT)
 plugin://plugin.video.youtube/play/?video_id=4niqEzhn76o
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6MIqmO.jpg" group-title="",La Vengeance est un Plat qui se Mange Froid (YT)
+plugin://plugin.video.youtube/play/?video_id=1jCvyUcUTxE
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uIQcZCq.jpg" group-title="",La Vraie Vie des profs (YT)
 plugin://plugin.video.youtube/play/?video_id=8Nn314A7m5U
 
