@@ -273,6 +273,9 @@ plugin://plugin.video.youtube/play/?video_id=__9PGxsjnTQ
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/737.jpg" group-title="",Le cristal magique
 https://nl31.seedr.cc/media/video/hd_hls/73509350f667a6ebfbb0d81c19d2a86e909f398e/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nRA77lH.jpg" group-title="",LE DERNIER DES MOHICANS (YT)
+plugin://plugin.video.youtube/play/?video_id=btO6oMKiHGk
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCae20H.jpg" group-title="",LE GÂTEAU MAGIQUE (YT)
 plugin://plugin.video.youtube/play/?video_id=efmt6iyx-5E
 
@@ -353,6 +356,9 @@ plugin://plugin.video.youtube/play/?video_id=i7xtNIpUYhA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gMURdAv.jpg" group-title="",Les Simpson le film (YT)
 plugin://plugin.video.youtube/play/?video_id=E92yBi7L-ow
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B00VFY7.jpg" group-title="",Les Teletubbies (YT)
+plugin://plugin.video.youtube/play/?video_id=29YzknJ9lO8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/415.jpg" group-title="",Les Trolls 2 : Tournée mondiale
 https://nl25.seedr.cc/media/video/hd_hls/a8493ea900767021075f07985861aa64d3bd291c/vid.m3u8
