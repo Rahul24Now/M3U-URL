@@ -870,6 +870,9 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watc
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/893.jpg" group-title="",La couleur tombée du ciel
 https://nl21.seedr.cc/media/video/hd_hls/5261e35c8d84ee34245f21c2dbd08240369a64a2/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NfXaTEu.jpg" group-title="",La Dernière Caravane (YT)
+plugin://plugin.video.youtube/play/?video_id=OzEISFxyZj8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/641.jpg" group-title="",La Dernière folie de Claire Darling
 https://nl32.seedr.cc/media/video/hd_hls/2346fb009da08bfd8c19fc79a2fe81e8c0c62333/vid.m3u8
 
@@ -924,6 +927,15 @@ plugin://plugin.video.youtube/play/?video_id=em-wKwXB1CU
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1051.jpg" group-title="",Le coup du siècle
 https://de17.seedr.cc/media/video/lq_hls/bba54b107bd5b67f3aea8e196586f3c947257a05/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mL4c1R4.jpg" group-title="",Le Dernier Cheyenne (YT)
+plugin://plugin.video.youtube/play/?video_id=_f1xPfBIPCA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jhL5fUM.jpg" group-title="",le dernier des comanches (YT)
+plugin://plugin.video.youtube/play/?video_id=x6c57Kiubfk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6t9bKv.jpg" group-title="",Le dernier des guerriers  (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5mh9uk
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1055.jpg" group-title="",Le Dernier jour de ma vie
 https://fr14.seedr.cc/media/video/lq_hls/288ecbdbcbe638cbfbc92ca624dcf9ce71385333/vid.m3u8
 
@@ -935,6 +947,9 @@ https://fr3.seedr.cc/media/video/lq_hls/c33290faa06a3bc8288d6f7bddfed3d7cf3e1d54
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1358.jpg" group-title="",Le Dernier rite
 https://nl28.seedr.cc/media/video/lq_hls/f131cec4fd2dce1df834212da8f4bc38128723ef/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81Jf9on.jpg" group-title="",Le dernier trappeur (YT)
+plugin://plugin.video.youtube/play/?video_id=iI9DWXtRsxY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LjewwYm.jpg" group-title="",Le Duelliste
 https://fr10.seedr.cc/media/video/lq_hls/7ab8c3d0e33be7ce23c1a0b3eed0fac3e43e6e9c/vid.m3u8
@@ -1073,6 +1088,9 @@ http://w.sylviethiriez.com/Downloads/films/Les.Municipaux%202019.mkv
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/678.jpg" group-title="",Les Phénomènes
 https://fr7.seedr.cc/media/video/hd_hls/71e416ae29da67405463d94641b42d0c419c7ac0/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HBOFuzQ.jpg" group-title="",Les Seigneurs de l'ombre (YT)
+plugin://plugin.video.youtube/play/?video_id=tSHs4Yjk_uc
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1310.jpg" group-title="",Les Sept de Chicago
 https://nl27.seedr.cc/media/video/hd_hls/eb6da21af5925fa1479481f7a0722495f02af857/vid.m3u8
 
@@ -1093,6 +1111,9 @@ https://nl32.seedr.cc/media/video/lq_hls/cf0f3b37270ea6d665b7a3d70c6b75339beaf3f
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1288.jpg" group-title="",Lassie
 https://nl38.seedr.cc/media/video/lq_hls/c09376f8836463a9ec934f75ae74bdaddf2239e1/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhWGViq.jpg" group-title="",Legions Les Guerriers De Rome (YT)
+plugin://plugin.video.youtube/play/?video_id=d7p3hrxScEE
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/441.jpg" group-title="",Leprechaun Returns
 https://nl33.seedr.cc/media/video/hd_hls/45db87b1c3cc1422267463cd10bce648463ed679/vid.m3u8
@@ -1260,6 +1281,9 @@ https://nl31.seedr.cc/media/video/hd_hls/7c6d78fb40dc64123226ed2039cb08ae4b3b4b2
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1076.jpg" group-title="",Parasomnie
 https://nl37.seedr.cc/media/video/lq_hls/0d425b83785edbbdf70cd72889e9182a8f6be4fb/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGPxyi8.jpg" group-title="",Parker (YT)
+plugin://plugin.video.youtube/play/?video_id=01qAgo_hl-I
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/666.jpg" group-title="",Peninsula
 https://nl22.seedr.cc/media/video/hd_hls/f4505f89d140dc593b41c3fa5870c51d4a9cf8ff/vid.m3u8
@@ -1708,6 +1732,9 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Tomb
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1264.jpg" group-title="",Tomiris
 https://nl33.seedr.cc/media/video/lq_hls/255482a6ea927903b0c90d3833a6b7532033407c/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOD8nt5.jpg" group-title="",Tommy's Honour (YT)
+plugin://plugin.video.youtube/play/?video_id=oyYa4HTOV8o
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1026.jpg" group-title="",Traffik
 https://de8.seedr.cc/media/video/hd_hls/ee490b3d26be0253caac068e00bfcaddfd914ce8/vid.m3u8
 
@@ -1842,6 +1869,9 @@ https://fr5.seedr.cc/media/video/hd_hls/a9d403baa7a8689d0f6a420790b8ec864d780bda
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/188.jpg" group-title="",Will Hunting
 https://fr12.seedr.cc/media/video/hd_hls/307630746fc050abbf16d249c57ad10779800c74/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yYFCe7P.jpg" group-title="",Wing Chun (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6xhz39
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8tOttDH.jpg" group-title="",Wonder Woman
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Wonder+Woman+streaming+vf+%E2%80%94+Streamay.mp4
