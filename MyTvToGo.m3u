@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2017/05/Logo_Header_1x_MyTVToGo.png" group-title="",MyTvToGo
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Action_Sports_4U.jpg" group-title="Movie Networks",Action Sports 4U	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Action_Sports_4U.jpg" group-title="Movie Networks",Action Sports 4U
 https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/actionsportstv/chunks.m3u8
 
@@ -12,7 +12,7 @@ https://nimble.dashstreams.net/onestudio/actionsportstv/chunks.m3u8
 https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
 https://live-hls-apps-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/AppleSauce_Network_1280x720.jpg" group-title="Movie Networks",Apple Sauce TV	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/AppleSauce_Network_1280x720.jpg" group-title="Movie Networks",Apple Sauce TV
 https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/applesaucetv/chunks.m3u8
 
@@ -20,7 +20,7 @@ https://nimble.dashstreams.net/onestudio/applesaucetv/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg" group-title="Movie Networks",American Horrors	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg" group-title="Movie Networks",American Horrors
 https://nimble.dashstreams.net/onestudio/americanhorrors/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/americanhorrors/chunks.m3u8
 
@@ -40,11 +40,11 @@ https://nimble.dashstreams.net/onestudio/aweencore/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/blackmedia/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/blackmedia/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_BeachCoastTV_1280x720.jpg" group-title="Lifestyle TV Networks",Beach Coast TV	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_BeachCoastTV_1280x720.jpg" group-title="Lifestyle TV Networks",Beach Coast TV
 https://nimble.dashstreams.net/onestudio/beachtveastcoast/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/beachtveastcoast/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_BlackMusicArtist.jpg" group-title="Urban TV Networks",Black Music Artist TV	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_BlackMusicArtist.jpg" group-title="Urban TV Networks",Black Music Artist TV
 https://nimble.dashstreams.net/onestudio/blackmusicartist/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/blackmusicartist/chunks.m3u8
 
@@ -56,7 +56,7 @@ https://nimble.dashstreams.net/onestudio/blackwidowtv/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_BlushRomanceTV_1280x720.jpg" group-title="Movie Networks",Blush Romance TV	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_BlushRomanceTV_1280x720.jpg" group-title="Movie Networks",Blush Romance TV
 https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
 
@@ -84,7 +84,7 @@ https://nimble.dashstreams.net/onestudio/camerasmile/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/cartoons_4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/cartoons_4u/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/Network_CBN_News.jpg" group-title="News & Weather Networks",CBN News	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/Network_CBN_News.jpg" group-title="News & Weather Networks",CBN News
 https://nimble.dashstreams.net/onestudio/cbnnews/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/cbnnews/chunks.m3u8
 
@@ -119,7 +119,7 @@ https://nimble.dashstreams.net/onestudio/countrymusic4u/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/daystar/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/daystar/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Documentaries_4U.jpg" group-title="Movie Networks",Documentaries 4U	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Documentaries_4U.jpg" group-title="Movie Networks",Documentaries 4U
 https://nimble.dashstreams.net/onestudio/documentaries4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/documentaries4u/chunks.m3u8
 
@@ -159,7 +159,7 @@ https://nimble.dashstreams.net/onestudio/fightplustv/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/godslearningchannel/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/godslearningchannel/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_GoingToWar.jpg" group-title="Movie Networks",Going To War	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_GoingToWar.jpg" group-title="Movie Networks",Going To War
 https://nimble.dashstreams.net/onestudio/going_to_war/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/going_to_war/chunks.m3u8
 
@@ -179,7 +179,7 @@ https://nimble.dashstreams.net/onestudio/hunting/chunks.m3u8
 https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
 https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/GospelMusic4U_1280x720.jpg" group-title="Music TV Networks",Gospel Music 4U	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/GospelMusic4U_1280x720.jpg" group-title="Music TV Networks",Gospel Music 4U
 https://nimble.dashstreams.net/onestudio/gospel_4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/gospel_4u/chunks.m3u8
 
@@ -191,11 +191,11 @@ https://nimble.dashstreams.net/onestudio/hdfashionlifestyle/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/hispraisetv/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/hispraisetv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_HorrifiedTV-1.jpg" group-title="Movie Networks",Horrified TV	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_HorrifiedTV-1.jpg" group-title="Movie Networks",Horrified TV
 https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8	
 https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_HouseOfRefuge-1.jpg" group-title="Faith Based TV Networks",House Of Refuge	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_HouseOfRefuge-1.jpg" group-title="Faith Based TV Networks",House Of Refuge
 https://nimble.dashstreams.net/onestudio/blessing/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/blessing/chunks.m3u8
 
@@ -219,7 +219,7 @@ https://nimble.dashstreams.net/onestudio/jerrymiller/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/letsbuildtv/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/letsbuildtv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/04/Network_LetsGoToTheMovies_1280x769.jpg" group-title="Movie Networks",Let’s Go To The Movies	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/04/Network_LetsGoToTheMovies_1280x769.jpg" group-title="Movie Networks",Let’s Go To The Movies
 https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
 
@@ -243,7 +243,7 @@ https://nimble.dashstreams.net/onestudio/modelsinc/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/molaughter/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/molaughter/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Movee4U-e1543430006694.jpg" group-title="Movie Networks",Movee 4U	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Movee4U-e1543430006694.jpg" group-title="Movie Networks",Movee 4U
 https://nimble.dashstreams.net/onestudio/movee4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8
 
@@ -251,7 +251,7 @@ https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/latinmusic4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/latinmusic4u/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_MyHolyfield_TV.jpg" group-title="Movie Networks",MyHolyfield TV	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_MyHolyfield_TV.jpg" group-title="Movie Networks",MyHolyfield TV
 https://nimble.dashstreams.net/onestudio/holyfield/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/holyfield/chunks.m3u8
 
@@ -275,7 +275,7 @@ https://nimble.dashstreams.net/onestudio/lifetv/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/mymusicchannel30a/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/mymusicchannel30a/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_MyPitchNewsNetwork_1280x720.jpg" group-title="Lifestyle TV Networks",My Pitch News	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_MyPitchNewsNetwork_1280x720.jpg" group-title="Lifestyle TV Networks",My Pitch News
 https://nimble.dashstreams.net/onestudio/pitchnews30a/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/pitchnews30a/chunks.m3u8
 
@@ -359,7 +359,7 @@ https://nimble.dashstreams.net/onestudio/safetv/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/setfreetv/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/setfreetv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_SheTV.jpg" group-title="Movie Networks",She TV	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_SheTV.jpg" group-title="Movie Networks",She TV
 https://nimble.dashstreams.net/onestudio/She_Tv_Network/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/She_Tv_Network/chunks.m3u8
 
@@ -367,7 +367,7 @@ https://nimble.dashstreams.net/onestudio/She_Tv_Network/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/shopping_4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/shopping_4u/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_SciFi4U.jpg" group-title="Movie Networks",Sci-Fi 4U	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_SciFi4U.jpg" group-title="Movie Networks",Sci-Fi 4U
 https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/SciFiTV/chunks.m3u8
 
@@ -399,7 +399,7 @@ https://nimble.dashstreams.net/onestudio/UrbanMusic4U/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/weather4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/weather4u/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Westerns_4U.jpg" group-title="Movie Networks",Westerns 4U	
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Westerns_4U.jpg" group-title="Movie Networks",Westerns 4U
 https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/western4u/chunks.m3u8
 
