@@ -65,6 +65,9 @@ https://nl21.seedr.cc/media/video/hd_hls/946261a9f1f562e98150201f64dfce961ac8e3c
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1181.jpg" group-title="",5 ans de réflexion
 https://nl17.seedr.cc/media/video/lq_hls/ef8a02394b0d89cadd161094c0f52f88f1d2b935/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CT8IiEA.jpg" group-title="",6 Guns (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5mrcog
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/36.jpg" group-title="",6 Underground
 https://sf1.seedr.cc/media/video/hd_hls/nl24/eacefc8510bb505e9339023980ec1993c4ddb444/vid.m3u8
 
@@ -223,6 +226,9 @@ https://nl32.seedr.cc/media/video/hd_hls/2b369b67e034c06f799ada05a244f6b2b328364
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/401.jpg" group-title="",Balle perdue
 https://fr1.seedr.cc/media/video/hd_hls/184e537dfc1382a21c5fd45cb5af94f0acea3db7/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/km6cFVI.jpg" group-title="",Battlestar Rebellion (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5mhorh
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1370.jpg" group-title="",Belle et Sébastien
 https://nl30.seedr.cc/media/video/lq_hls/f2706f55a32f27c75200bf2551b461d12a2fbbac/vid.m3u8?
@@ -911,6 +917,9 @@ https://nl24.seedr.cc/media/video/hd_hls/923f3d38395dd3063633534ba90e3584ef6dd61
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1015.jpg" group-title="",La Rage au ventre
 https://nl35.seedr.cc/media/video/lq_hls/1d4677d7988c6caeb2123a08af25e40da3f2ec19/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/76jnkrD.jpg" group-title="",La Remplaçante (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5s69c2
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/942.jpg" group-title="",La Souffleuse de verre
 https://nl19.seedr.cc/media/video/hd_hls/82ee1f463f55f9175cd2c0508e1e349133cbec28/vid.m3u8
 
@@ -1310,6 +1319,9 @@ https://nl30.seedr.cc/media/video/hd_hls/17c72639456dd205f6df89134bf4eba1ae71111
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/291.jpg" group-title="",Pinocchio
 https://fr7.seedr.cc/media/video/hd_hls/82f6c68c2583b6fa21042ba9c3c1109b31ebd778/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0czew1.jpg" group-title="",Pirates de Langkasuka (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5mh9uj
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/451.jpg" group-title="",Plus rien à f***
 https://nl38.seedr.cc/media/video/hd_hls/c54795476e41ed1809e5ab7a815494f40874c8bb/vid.m3u8
@@ -1897,6 +1909,10 @@ https://de13.seedr.cc/media/video/hd_hls/85364d493363581d9363cbdd5a1a99838f5bc46
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZoI0dke.jpg" group-title="",X-Men - Les Nouveaux mutants
 https://fr5.seedr.cc/media/video/lq_hls/a1e378d75722e960a90f04f5fe498bb2750a5ee9/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uvwXasQ.jpg" group-title="",xXx (YT)
+plugin://plugin.video.youtube/play/?video_id=fgrwfWcxFlg
+
 ###Y###
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txQTUAL.jpg" group-title="",Yakuza Apocalypse
