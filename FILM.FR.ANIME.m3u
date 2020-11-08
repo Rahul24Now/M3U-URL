@@ -77,6 +77,9 @@ https://fr12.seedr.cc/media/video/lq_hls/bf10c540a17d52f169336fa43670d793cf47d92
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1344.jpg" group-title="",Big Fish & Begonia
 https://fr11.seedr.cc/media/video/lq_hls/8b04e8cfbd5893971508718609f219b3c61e7e85/vid.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/goAPqPU.jpg" group-title="",Bigfoot Family
+https://nl24.seedr.cc/media/video/lq_hls/1b435020e0dbba9c4e010fede955f9a96b34c591/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yb0HMZ8.jpg" group-title="",BOATS (YT)
 plugin://plugin.video.youtube/play/?video_id=FSypzysMWU0
 
