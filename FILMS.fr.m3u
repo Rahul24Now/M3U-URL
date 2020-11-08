@@ -109,6 +109,11 @@ https://de13.seedr.cc/media/video/lq_hls/d591b8568fd544245998a94156e257864965723
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OQfEpQU.jpg" group-title="",Adam 
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Adam_2019_720p_TRUEFRENCH_WEB-DL_AC3-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/199.jpg" group-title="",After : Chapitre 1
+https://nl25.seedr.cc/media/video/hd_hls/b3d01c7b50df2301d64f80d649e40070e5b7fc18/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VUup4iR.jpg" group-title="",After : Chapitre 2
+https://fr8.seedr.cc/media/video/hd_hls/106909c34751abec233883856d7ae4624e984ca5/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ViO8z7a.jpg" group-title="",Agaguk (YT)
 plugin://plugin.video.youtube/play/?video_id=PeZd5kTA-NY
 
