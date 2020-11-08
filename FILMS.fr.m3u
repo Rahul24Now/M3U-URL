@@ -528,11 +528,14 @@ plugin://plugin.video.youtube/play/?video_id=Xs-EFU15Z4I
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/375.jpg" group-title="",Eli
 https://fr5.seedr.cc/media/video/hd_hls/bb1417102c9d5271530a8f910c7ad1dbe3660907/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/946.jpg" group-title="",EP-Executive Protection
-https://fr5.seedr.cc/media/video/hd_hls/23463c6694b562d78fa3d3b0e74ac43aa98070a5/vid.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vAP5XN7.jpg" group-title="",Enola Holme
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020/Watch+Enola_Holmes_2020_FRENCH_720p_WEB_H264-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYJOPIR.jpg" group-title="",Enragé
+https://nl21.seedr.cc/media/video/lq_hls/195c4c2dd1631c2a7467b3863360990c44bd06ab/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/946.jpg" group-title="",EP-Executive Protection
+https://fr5.seedr.cc/media/video/hd_hls/23463c6694b562d78fa3d3b0e74ac43aa98070a5/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1377.jpg" group-title="",Erin Brockovich : Seule contre tous
 https://fr2.seedr.cc/media/play_hls/9c80e8edb70cb700f99e902f670e1cfae6d9cca6.m3u8?
