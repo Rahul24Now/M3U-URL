@@ -562,6 +562,7 @@ https://haititivi.com/haiti/telemix1/tracks-v1a1/mono.m3u8
 https://watch.haitilive.net/gethb/caramel/tracks-v1a1/mono.m3u8?token=da0799eb671d40beed880c7f5b1b5025f0f391e0-4c73b937b14d9f054b37907bd6304de9-1600054651-1600043851
 
 #EXTINF:-1 tvg-logo="https://tvfamille.org/favicon-192.png" group-title="",TV Famille
+http://streamer1.streamhost.org:1935/salive/GMItvfh/playlist.m3u8
 https://streamer1.streamhost.org/salive/GMItvfh/chunklist_w1659412580.m3u8
 
 # https://www.youtube.com/channel/UCSfyqWBuaC6SK6X28vDhLOA #
