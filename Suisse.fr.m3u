@@ -159,8 +159,8 @@ http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
 https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
 
 # https://www.musig24.tv/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24
-http://api.new.livestream.com/accounts/16598383/events/8687407/broadcasts/213087586.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24 (UPD)
+http://api.new.livestream.com/accounts/16598383/events/8687407/broadcasts/213103555.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTA54gD.png" group-title="",radio24
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_dfdxqb3w/sd/6000/t/kZTQ2XrFB-AgEa7c690FJw/index-s32.m3u8
