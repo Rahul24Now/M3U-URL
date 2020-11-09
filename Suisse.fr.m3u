@@ -158,6 +158,10 @@ http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhWg6C4.png" group-title="",QS24 (OPT-2)
 https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
 
+# https://www.musig24.tv/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24
+http://api.new.livestream.com/accounts/16598383/events/8687407/broadcasts/213087586.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTA54gD.png" group-title="",radio24
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_dfdxqb3w/sd/6000/t/kZTQ2XrFB-AgEa7c690FJw/index-s32.m3u8
 
@@ -249,11 +253,9 @@ http://176.10.117.3:5000/play/a03i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Zwitserland",CH | Sportal HD
 http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
 
-# https://www.musig24.tv/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24
-https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Music",Musig24
-https://tna5.bozztv.com/musig/index.m3u8
+
+
+
 
 
 
