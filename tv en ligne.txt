@@ -21,7 +21,8 @@ http://teledunet.com/?username=tdn&password=tdn&server=teledunet.com&port=25461
 
 https://nowontv.info/
 
-https://live.airy.tv/Live_Streams/501_Celebrity_Scene_TV
+https://live.airy.tv/Live_Streams/
+https://webapp.airy.tv/TV_Shows/
 
 https://www.streamaway.net/
 
