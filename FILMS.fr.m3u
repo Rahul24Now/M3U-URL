@@ -1,10 +1,42 @@
 ﻿#EXTM3U
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rozA2zY.png",★★★★★★★★★★[COLOR red]Films[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKkFN1u.png" group-title="",★★★★★★★★★★[COLOR red]Film De Noel[/COLOR]★★★★★★★★★★
 0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9IdEwDM.jpg" group-title="",Un Noël tombé du ciel
+https://nl30.seedr.cc/media/video/lq_hls/e5bcdcbfe27456be6c72862d0db9d70d23ebae3b/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7LsNtG.jpg" group-title="",Les anges gardiens de Noël
+https://fr9.seedr.cc/media/video/lq_hls/e2b7b8ccc155e3a1e90241560cafa3a87b247fe4/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MAUlrL9.jpg" group-title="",Jingle Jangle: Un Noël enchanté
+https://nl38.seedr.cc/media/video/hd_hls/b9b6bed761c54c76e65678dcaf9f515b35eb3cbe/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B96T9w9.jpg" group-title="",Destination Noël
+https://nl34.seedr.cc/media/video/hd_hls/9c3f31456a596904a138a25933e9c44f65cb72b4/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/etKi9Z6.jpg" group-title="",Un mariage pour Noël
+https://nl37.seedr.cc/media/video/lq_hls/ffbd1fbbe4645e923aef2a5aeebc6ada22a88fb9/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsvMwP0.jpg" group-title="",La fille du Père Noël
+https://nl37.seedr.cc/media/video/hd_hls/ffbd1fbbe4645e923aef2a5aeebc6ada22a88fb9/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJdRRno.jpg" group-title="",Les Chroniques de Noël
+https://nl29.seedr.cc/media/video/lq_hls/080473c5e2c7a0b0b31b3e2e48fc1efe553b746d/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yfDFr0.jpg" group-title="",La Sorcière de Noël
+https://sf1.seedr.cc/media/video/hd_hls/fr9/e706173004b0f4a084f1483eb1cf5cbfd15f8464/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYsR5jK.jpg" group-title="",Noelle
+https://nl30.seedr.cc/media/video/hd_hls/ab5045903f24787727b20a13ef347ae0ea62ad2e/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YDF6blg.jpg" group-title="",Coup de foudre sur un air de Noël
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Coup+de+foudre+sur+un+air+de+No%C3%ABl+streaming+vf+%E2%80%94+Streamay.mp4
+
+#######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rozA2zY.png",★★★★★★★★★★[COLOR red]Documentaire[/COLOR]★★★★★★★★★★
+0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzkf69w.jpg" group-title="",La révélation des Pyramides (YT)
 plugin://plugin.video.youtube/play/?video_id=HFpHDXUgcqw
@@ -44,6 +76,12 @@ plugin://plugin.video.youtube/play/?video_id=q0xFCRcQEvY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NO06O5w.jpg" group-title="",Homme de Paille - La Nature de la Cage (YT)
 plugin://plugin.video.youtube/play/?video_id=nnhlMTzQ0TQ
+
+
+#########
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rozA2zY.png",★★★★★★★★★★[COLOR red]Films[/COLOR]★★★★★★★★★★
+0.0.0.0
 
 ###0###
 
