@@ -357,6 +357,9 @@ plugin://plugin.video.youtube/play/?video_id=qnynAiO1pJQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BdsNMUR.jpg" group-title="",Les Schtroumpfs  - Les Betises (YT)
 plugin://plugin.video.youtube/play/?video_id=i7xtNIpUYhA
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cUqyeYt.jpg" group-title="",Les Sept Cités d'Or (YT)
+plugin://plugin.video.youtube/play/?video_id=bJzV8zgFPoc
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gMURdAv.jpg" group-title="",Les Simpson le film (YT)
 plugin://plugin.video.youtube/play/?video_id=E92yBi7L-ow
 
