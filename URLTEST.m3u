@@ -13,6 +13,27 @@ plugin://plugin.video.youtube/play/?video_id=O-VvBpHlJbY
 #EXTINF:-1 tvg-logo="" group-title="",World Debt Live (YT)
 plugin://plugin.video.youtube/play/?video_id=q_cFlRI6020
 
+#EXTINF:-1 tvg-logo="" group-title="",Bloomberg Global Financial News (YT)
+plugin://plugin.video.youtube/play/?video_id=dp8PhLsUcFE
+
+#EXTINF:-1 tvg-logo="" group-title="",Live Forex Signals Forecast EURUSD & USD JPY & GBPUSD H1 & M5 (YT)
+plugin://plugin.video.youtube/play/?video_id=l1vzkhaSbKc
+
+#EXTINF:-1 tvg-logo="" group-title="",Stock Market Today - Data & News (YT)
+plugin://plugin.video.youtube/play/?video_id=eJp1quqE2R8
+
+#EXTINF:-1 tvg-logo="" group-title="",CNBC Awaaz Live | Aaj Ka Taja Khabar | Business News Live | Stock Marke (YT)
+plugin://plugin.video.youtube/play/?video_id=xfrSdASpaXc
+
+#EXTINF:-1 tvg-logo="" group-title="",LIVE CURRENCY STRENGTH METER (YT)
+plugin://plugin.video.youtube/play/?video_id=HESy1_zVNkA
+
+#EXTINF:-1 tvg-logo="" group-title="",Dow Jones stock prices NYSE, LIVE (YT)
+plugin://plugin.video.youtube/play/?video_id=cbqYgHgbbSU
+
+#EXTINF:-1 tvg-logo="" group-title="",Live Price Ladder Trading SP500 ES_F NQ DJIA How To Scalp Nasdaq DJIA Future M82-2 (YT)
+plugin://plugin.video.youtube/play/?video_id=wX1e_de-2jM
+
 #EXTINF:-1 tvg-logo="" group-title="", 2020 US Election Stream (YT)
 plugin://plugin.video.youtube/play/?video_id=qhfFgKlDM8E
 
