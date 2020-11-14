@@ -132,6 +132,8 @@ plugin://plugin.video.youtube/play/?video_id=q0xFCRcQEvY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NO06O5w.jpg" group-title="",Homme de Paille - La Nature de la Cage (YT)
 plugin://plugin.video.youtube/play/?video_id=nnhlMTzQ0TQ
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39Bsl7E.jpg" group-title="",Holdup Le documentaire – Retour sur un Chaos! (YT)
+plugin://plugin.video.youtube/play/?video_id=FNzqj8j1Fg4
 
 #########
 
