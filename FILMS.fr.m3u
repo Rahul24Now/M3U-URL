@@ -552,6 +552,9 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Film
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1033.jpg" group-title="",Escobar
 https://de9.seedr.cc/media/video/lq_hls/b1f3fb054e417dc6f97e3e719138e2386c028460/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nItUcU9.jpg" group-title="",Été 85
+https://nl20.seedr.cc/media/video/lq_hls/c28aa001bfae46c5a912290a28ed4bc81f75aa61/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1321.jpg" group-title="",Evil Boy
 https://nl30.seedr.cc/media/video/hd_hls/e76984048e202ec697a59ab409349db063f39fa9/vid.m3u8
 
@@ -1604,6 +1607,8 @@ https://s0.vudeo.net/2vp3vf7dzyvjdohilngrrn4wsx2txpbmgtiesmenxsmt7glohagzd5f4zrw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxNxBDH.jpg" group-title="",Ted 2 (NA)
 https://s0.vudeo.net/2vp3slr4zyvjdohilnarrkodyygr4cpskojdt3pnfxxke4jpgan4fliqmqga/v.mp4
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lg9kDux.jpg" group-title="",Terence Hill - Renegade (YT)
 plugin://plugin.video.youtube/play/?video_id=xl29_gNtI14
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w0oQjH.jpg" group-title="",Terence Hill - Tas le bonjour de Trinita (YT)
@@ -1656,11 +1661,11 @@ plugin://plugin.video.youtube/play/?video_id=M4kjCtESxAM
 https://de9.seedr.cc/media/video/hd_hls/84b7662ab919c8a2b4d97f88809be6e373d349a6/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4GB2UxM.jpg" group-title="",The Expendables
-http://w.sylviethiriez.com/Downloads/films/The.Expendables.avi
+https://fr11.seedr.cc/media/video/lq_hls/92f27415de73eb8b82f4163513db919430677d28/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6l6EWNv.jpg" group-title="",The Expendables 2
-http://w.sylviethiriez.com/Downloads/films/The.Expendables.2.avi
+https://fr3.seedr.cc/media/video/lq_hls/fea3a33ebc3f91b54881dce4e5820f5fe6bc5e24/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p9m3rlY.jpg" group-title="",The Expendables 3
-http://w.sylviethiriez.com/Downloads/films/The.Expendables.3.avi
+https://de17.seedr.cc/media/video/lq_hls/8e50d29813246c9cea8658a12f4ef570aa2b6f4f/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1025.jpg" group-title="",The Fortress
 https://de9.seedr.cc/media/video/lq_hls/af7457c46d484a2dd55b86d5439aae6d2ee166bd/vid.m3u8
@@ -1775,6 +1780,9 @@ https://nl24.seedr.cc/media/video/lq_hls/19d486111fb7d17f36132830ae82dee6a60c28f
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/313.jpg" group-title="",Trauma Center
 https://nl32.seedr.cc/media/video/hd_hls/0eb9b5c727c9cf4165e27cd196605791f7e9c540/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1210.jpg" group-title="",Tremors : Shrieker Island
+https://fr2.seedr.cc/media/video/hd_hls/b8cbeb31b39b5855ae835608ca784e6a07704005/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/712.jpg" group-title="",Trop d'amour à donner
 https://nl38.seedr.cc/media/video/lq_hls/93537d28a4aa62e41f75224d672d72bf36f24fcb/vid.m3u8
