@@ -13,6 +13,18 @@ plugin://plugin.video.youtube/play/?video_id=O-VvBpHlJbY
 #EXTINF:-1 tvg-logo="" group-title="",World Debt Live (YT)
 plugin://plugin.video.youtube/play/?video_id=q_cFlRI6020
 
+#EXTINF:-1 tvg-logo="" group-title="", 2020 US Election Stream (YT)
+plugin://plugin.video.youtube/play/?video_id=qhfFgKlDM8E
+
+#EXTINF:-1 tvg-logo="" group-title="",TOP 50 YOUTUBE FRANCAIS (YT)
+plugin://plugin.video.youtube/play/?video_id=w_3DfBaN89s
+
+#EXTINF:-1 tvg-logo="" group-title="",Top 50 YouTube Live Sub Count  (YT)
+plugin://plugin.video.youtube/play/?video_id=ftMnmPC82qM
+
+#EXTINF:-1 tvg-logo="" group-title="",Top 100 YouTube Live Sub Count (YT)
+plugin://plugin.video.youtube/play/?video_id=SoaZwnGOmvM
+
 ###########
 
 #EXTINF:-1 tvg-logo="" group-title="",Earth From Space ISS (YT)
