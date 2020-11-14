@@ -2721,3 +2721,167 @@ https://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
+
+###########
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKzfpAh.png" group-title="simultv",SimulTV
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAigJJA.png" group-title="simultv",American Music Channel
+https://simultv.s.llnwi.net/n4s4/DTV/AM/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXoq8ZQ.png" group-title="simultv"Batterypop
+https://simultv.s.llnwi.net/n4s4/Batterypop/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXoq8ZQ.png" group-title="simultv"Batterypop
+https://simultv.s.llnwi.net/n4s4/DTV/BP/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PqRaY7D.png" group-title="simultv",C3
+https://simultv.s.llnwi.net/n4s4/C3/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PqRaY7D.png" group-title="simultv",C3
+https://simultv.s.llnwi.net/n4s4/DTV/C3/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7dMrlfz.png" group-title="simultv",Comfy TV
+https://simultv.s.llnwi.net/n4s4/ComfyTV/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7dMrlfz.png" group-title="simultv",Comfy TV
+https://simultv.s.llnwi.net/n4s4/DTV/CT/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OTlvog.png" group-title="simultv",Cowboy Theater
+https://simultv.s.llnwi.net/n4s4/CowboyTheater/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OTlvog.png" group-title="simultv",Cowboy Theater
+https://simultv.s.llnwi.net/n4s4/DTV/CowT/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ia9QNCZ.png" group-title="simultv",Cut Up Cook
+https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtR3lQk.png" group-title="simultv",Dimensions
+https://simultv.s.llnwi.net/n4s4/Dimensions/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtR3lQk.png" group-title="simultv",Dimensions
+https://simultv.s.llnwi.net/n4s4/DTV/Dime/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcOQvir.png" group-title="simultv",FunnyBone
+https://simultv.s.llnwi.net/n4s4/funnybone/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcOQvir.png" group-title="simultv",FunnyBone
+https://simultv.s.llnwi.net/n4s4/DTV/FB/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8gIwsn.png" group-title="simultv",iShe TV
+https://simultv.s.llnwi.net/n4s4/iSheTV/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8gIwsn.png" group-title="simultv",iShe TV
+https://simultv.s.llnwi.net/n4s4/DTV/iSTV/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KPJcYqX.png" group-title="simultv",iTown TV
+https://simultv.s.llnwi.net/n4s4/iTownTV/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zJyREPp.png" group-title="simultv",Kartoon Circus
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zJyREPp.png" group-title="simultv",Kartoon Circus
+https://simultv.s.llnwi.net/n4s4/DTV/KartC/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGoO5LC.png" group-title="simultv",Kid Central
+https://simultv.s.llnwi.net/n4s4/KidCentral/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGoO5LC.png" group-title="simultv",Kid Central
+https://simultv.s.llnwi.net/n4s4/DTV/KC/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wn9iwj6.png" group-title="simultv",Lifestyle
+https://simultv.s.llnwi.net/n4s4/Lifestyle/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wn9iwj6.png" group-title="simultv",Lifestyle
+https://simultv.s.llnwi.net/n4s4/DTV/LS/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAfiv6H.png" group-title="simultv",Men and Motors
+https://simultv.s.llnwi.net/n4s4/MenandMotors/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAfiv6H.png" group-title="simultv",Men and Motors
+https://simultv.s.llnwi.net/n4s4/DTV/MaM/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbiTdbA.png" group-title="simultv",My Holyfield
+https://simultv.s.llnwi.net/n4s4/iHolyfield/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbiTdbA.png" group-title="simultv",My Holyfield
+https://simultv.s.llnwi.net/n4s4/DTV/iH/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9OI7tJ.png" group-title="simultv",Mythos
+https://simultv.s.llnwi.net/n4s4/Mythos/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9OI7tJ.png" group-title="simultv",Mythos
+https://simultv.s.llnwi.net/n4s4/DTV/Myth/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/friD1Zj.png" group-title="simultv",Outdoor Lifestyle
+https://simultv.s.llnwi.net/n4s4/OutdoorLifestyle/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/friD1Zj.png" group-title="simultv",Outdoor Lifestyle
+https://simultv.s.llnwi.net/n4s4/DTV/OL/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kbvMIsV.png" group-title="simultv",Power Of One
+https://simultv.s.llnwi.net/n4s4/PowerofoneNetwork/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NkCBD13.png" group-title="simultv",Prime Time Drama
+https://simultv.s.llnwi.net/n4s4/PrimeTimeDrama/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NkCBD13.png" group-title="simultv",Prime Time Drama
+https://simultv.s.llnwi.net/n4s4/DTV/PTD/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0XkDaT.png" group-title="simultv",Ready Set Action
+https://simultv.s.llnwi.net/n4s4/ReadySetAction/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0XkDaT.png" group-title="simultv",Ready Set Action
+https://simultv.s.llnwi.net/n4s4/DTV/RSA/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Ni5FqL.png" group-title="simultv",Real Family TV
+https://simultv.s.llnwi.net/n4s4/RealFamilyTV/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXaiJuM.png" group-title="simultv",Simsi TV
+https://simultv.s.llnwi.net/n4s4/DTV/SSTV/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXaiJuM.png" group-title="simultv",Simsi TV
+https://simultv.s.llnwi.net/n4s4/SimSiTV/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDMc248.png" group-title="simultv",SlapTech
+https://simultv.s.llnwi.net/n4s4/SlapTech/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDMc248.png" group-title="simultv",SlapTech
+https://simultv.s.llnwi.net/n4s4/DTV/ST/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhwWMqC.png" group-title="simultv",Sound Emerge
+https://simultv.s.llnwi.net/n4s4/DTV/SE/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhwWMqC.png" group-title="simultv",Sound Emerge
+https://simultv.s.llnwi.net/n4s4/SoundEmerge/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdwJxfw.png" group-title="simultv",Spydar TV
+https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdwJxfw.png" group-title="simultv",Spydar TV
+https://simultv.s.llnwi.net/n4s4/DTV/Spy/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxFkMRq.png" group-title="simultv",Switch
+https://simultv.s.llnwi.net/n4s4/Switch/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxFkMRq.png" group-title="simultv",Switch
+https://simultv.s.llnwi.net/n4s4/DTV/Swit/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p9SwtAs.png" group-title="simultv",The Real Family TV
+https://simultv.s.llnwi.net/n4s4/RealFamilyTV/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p9SwtAs.png" group-title="simultv",The Real Family TV
+https://simultv.s.llnwi.net/n4s4/DTV/RFTV/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ha4rqj4.png" group-title="simultv",The Syndicate
+https://simultv.s.llnwi.net/n4s4/DTV/TS/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ha4rqj4.png" group-title="simultv",The Syndicate
+https://simultv.s.llnwi.net/n4s4/TheSyndicate/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sfvEMXQ.png" group-title="simultv",Thrillerz
+https://simultv.s.llnwi.net/n4s4/Thrillerz/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sfvEMXQ.png" group-title="simultv",Thrillerz
+https://simultv.s.llnwi.net/n4s4/DTV/Thrill/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFJJOoA.png" group-title="simultv",UTS TV
+https://simultv.s.llnwi.net/n4s4/UTSTelevision/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9jNH0pq.png" group-title="simultv",Veteran Success
+https://simultv.s.llnwi.net/n4s4/DTV/VS/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9jNH0pq.png" group-title="simultv",Veteran Success
+https://simultv.s.llnwi.net/n4s4/VeteranSuccess/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g93UL2k.jpg" group-title="simultv",XCorps
+https://simultv.s.llnwi.net/n4s4/XCorps/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFWONCB.png" group-title="simultv",The X Zone
+https://simultv.s.llnwi.net/n4s4/xzone/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFWONCB.png" group-title="simultv",The X Zone
+https://simultv.s.llnwi.net/n4s4/DTV/XZ/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMpjqME.png" group-title="simultv",Youth Sucess
+https://simultv.s.llnwi.net/n4s4/YouthSuccess/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMpjqME.png" group-title="simultv",Youth Sucess
+https://simultv.s.llnwi.net/n4s4/DTV/YS/interlink.m3u8
+
+##########
