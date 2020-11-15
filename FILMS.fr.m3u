@@ -691,6 +691,9 @@ https://nl28.seedr.cc/media/video/hd_hls/bdfa5a203d661c7465c48e745c55ad9e9bad7e1
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1320.jpg" group-title="",Frontier
 https://nl29.seedr.cc/media/video/hd_hls/74df51554b96cba1616b2bd6caa73dc8fcad4d48/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6UZ9bG.jpg" group-title="",Full Metal Jacket
+https://load.hdfilme.ws/playlist/f4e7ee669f2a137374f861e86b07caec/f4e7ee669f2a137374f861e86b07caec.m3u8|Referer=https://fcine.tv/full-metal-jacket-14948-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1072.jpg" group-title="",Fury
 https://de12.seedr.cc/media/video/hd_hls/cdb9dc60c5d05810b2d2c666427924cec2fed417/vid.m3u8
 
@@ -784,8 +787,14 @@ https://fr13.seedr.cc/media/video/hd_hls/95a92c4fd5f7e7719c09a998dd8d5c3fd81c5b1
 
 ###I###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jvh8ib1.jpg" group-title="",Il faut sauver le soldat Ryan
+https://load.hdfilme.ws/playlist/e496d36865fcf19fdb72e4266fcc3082/e496d36865fcf19fdb72e4266fcc3082.m3u8|Referer=https://fcine.tv/il-faut-sauver-le-soldat-ryan-4152-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/380.jpg" group-title="",Inception
 https://nl20.seedr.cc/media/video/lq_hls/19a96e8a2d2f0dad4ee85178cea37b4439cbd521/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jCSMDQr.jpg" group-title="",Inglourious Basterds
+https://load.hdfilme.ws/playlist/53b1eb985061db6e7bb7c1f04bd186cc/53b1eb985061db6e7bb7c1f04bd186cc.m3u8|Referer=https://fcine.tv/inglourious-basterds-883-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/372.jpg" group-title="",Interstellar
 https://nl36.seedr.cc/media/video/hd_hls/07b5d4c410c19a62accf1b205c3bde13a922f6c7/vid.m3u8
@@ -1286,12 +1295,13 @@ https://sf1.seedr.cc/media/video/hd_hls/fr3/c2bfddaefb15427ff8f9ada6f93076f45152
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/595.jpg" group-title="",Matrix
 https://de8.seedr.cc/media/video/lq_hls/760c4f4467cba37feb189ccfd07dc589d7cf56e9/vid.m3u8
-
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/596.jpg" group-title="",Matrix Revolutions
 https://nl27.seedr.cc/media/video/hd_hls/5b3a4efc5489c5e9f133b30fbf8f1abcead55027/vid.m3u8
-
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/597.jpg" group-title="",Matrix Reloaded
 https://nl26.seedr.cc/media/video/lq_hls/59c85538a566c5daa444daa522f357c919fbda8b/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnDn3Yt.jpg" group-title="",Memories of War
+https://load.hdfilme.ws/playlist/2d1291e2be5fbfd1a0589910601081d0/2d1291e2be5fbfd1a0589910601081d0.m3u8|Referer=https://fcine.tv/memories-of-war-12225-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2LAaIR.jpg" group-title="",Mercenaires (YT) 
 plugin://plugin.video.youtube/play/?video_id=kwb7KneK2E8
@@ -1532,6 +1542,11 @@ https://nl22.seedr.cc/media/video/hd_hls/3cb3e9ba9b2cd028116b501876b913de3db93eb
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IYj3LDa.jpg" group-title="",SABATA (YT)
 plugin://plugin.video.youtube/play/?video_id=-6GhWp-gOBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dkcCFvS.jpg" group-title="",Saints and Soldiers: L’honneur des Paras
+https://load.hdfilme.ws/playlist/e054aaa810e6ca2d1d2fa6e7d7927d5a/e054aaa810e6ca2d1d2fa6e7d7927d5a.m3u8|Referer=https://fcine.tv/saints-and-soldiers-lhonneur-des-paras-17425-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j55eqPv.jpg" group-title="",Saints & Soldiers: Le Sacrifice des Blindés
+https://load.hdfilme.ws/playlist/a3b5c240e6eadc6028da0d9d61044e46/a3b5c240e6eadc6028da0d9d61044e46.m3u8|Referer=https://fcine.tv/saints-soldiers-le-sacrifice-des-blindes-17427-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/818.jpg" group-title="",Sang froid
 https://de14.seedr.cc/media/video/hd_hls/812a962dc50fc496047b74cbf38be667ea8d48bb/vid.m3u8
