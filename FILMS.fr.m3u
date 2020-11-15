@@ -87,6 +87,11 @@ plugin://plugin.video.youtube/play/?video_id=QBrB9sZd0as
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ThWn8aT.jpg" group-title="",Un Pere Noel Pas Comme Les Autres (YT)
 plugin://plugin.video.youtube/play/?video_id=aW-zVb_JE1M
 
+#EXTINF:-1  tvg-logo="https://cdn.fcine.tv/img/fcine.tv-la-course-au-jouet-poster-14438417261598263108_thumb.jpg" group-title="",La course au jouet
+https://load.hdfilme.ws/playlist/a993ddea254561b309b06d1dad295df1/a993ddea254561b309b06d1dad295df1.m3u8|Referer=https://fcine.tv/la-course-au-jouet-16105-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMIA3O1.jpg" group-title="",La Course au jouet 2
+https://load.hdfilme.ws/playlist/7b7150b2b604af49557c76f165cbcd93/7b7150b2b604af49557c76f165cbcd93.m3u8|Referer=https://fcine.tv/la-course-au-jouet-2-16107-streaming/vf
+
 
 #######
 
