@@ -116,8 +116,10 @@ https://nl38.seedr.cc/media/video/lq_hls/44c1b71b31329f66c6b2402da7ae006330ad85c
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/166.jpg" group-title="",Coco
 https://nl34.seedr.cc/media/video/hd_hls/5a08370f916eeded4db2e830e6592f8684eecab3/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PixB33i.jpg" group-title="",Comme des bêtes 2
-https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Comme+des+b%C3%AAtes+2+(The+Secret+Life+of+Pets+2)+en+Streaming+VF+GRATUIT+Complet+HD+2019+en+Fran%C3%A7ais..mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqH3zd0.jpg" group-title="",Comme des bêtes
+https://load.hdfilme.ws/playlist/2dfd9ef09acd7438e9a5bea74b0ca7fc/2dfd9ef09acd7438e9a5bea74b0ca7fc.m3u8|Referer=https://fcine.tv/comme-des-betes-503-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Mzj3Hs.jpg" group-title="",Comme des bêtes 2
+https://load.hdfilme.ws/playlist/501e238541f843d7dc03f56640ef5903/501e238541f843d7dc03f56640ef5903.m3u8|Referer=https://fcine.tv/comme-des-betes-2-504-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/747.jpg" group-title="",Cro Man
 https://fr15.seedr.cc/media/video/hd_hls/e6d491ab59753765adc918cc837799b2a95371a0/vid.m3u8
@@ -225,8 +227,16 @@ https://de9.seedr.cc/media/video/hd_hls/3fc0867e563219cae55b6884e71e8c35e4955d6e
 
 ###L###
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/773.jpg" group-title="",L'Âge de glace : Les Lois de l'Univers
-https://nl22.seedr.cc/media/video/hd_hls/052a989f301f54cf388365377890459409dd13e7/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qBFfiW8.jpg" group-title="",L'Âge de glace
+https://load.hdfilme.ws/playlist/03d0cdf5afa6e837fcd7ad3ca0307570/03d0cdf5afa6e837fcd7ad3ca0307570.m3u8|Referer=https://fcine.tv/lage-de-glace-13736-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qk3G5Lj.jpg" group-title="",L'Âge de glace 2
+https://load.hdfilme.ws/playlist/e02ac27b72c001f4c7e93ecc2cb3b53b/e02ac27b72c001f4c7e93ecc2cb3b53b.m3u8|Referer=https://fcine.tv/lage-de-glace-2-12586-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmLRcCu.jpg" group-title="",L'Âge de glace 3 - Le Temps des dinosaures
+https://load.hdfilme.ws/playlist/1df80e20902f87274bc25b20023752d8/1df80e20902f87274bc25b20023752d8.m3u8|Referer=https://fcine.tv/lage-de-glace-3-le-temps-des-dinosaures-11370-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4u7pDXK.jpg" group-title="",L'Âge de glace : La dérive des continents
+https://load.hdfilme.ws/playlist/3d4e489fb600f2e305f547c41bc72742/3d4e489fb600f2e305f547c41bc72742.m3u8|Referer=https://fcine.tv/lage-de-glace-la-derive-des-continents-10090-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJmptyk.jpg" group-title="",L'Âge de Glace : les Lois de l'Univers
+https://load.hdfilme.ws/playlist/e78b63bbc47a2cac087b0463e8e6b3de/e78b63bbc47a2cac087b0463e8e6b3de.m3u8|Referer=https://fcine.tv/lage-de-glace-les-lois-de-lunivers-5624-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1311.jpg" group-title="",L'étrange pouvoir de Norman
 https://fr9.seedr.cc/media/video/hd_hls/de7239911079620f9ce2320e9608bfcfb85f5357/vid.m3u8
@@ -252,6 +262,12 @@ https://fr12.seedr.cc/media/video/lq_hls/8e19def0d9e911c8a23120ffe87d198d74e97f6
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1207.jpg" group-title="",La ferme se rebelle
 https://nl38.seedr.cc/media/video/lq_hls/0a675a3021154f279d2dbbaa03ef1400ad722570/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYtmGjw.jpg" group-title="",La grande course au fromage
+https://load.hdfilme.ws/playlist/57d0e0a52cf88289c9ede1a579731c80/57d0e0a52cf88289c9ede1a579731c80.m3u8|Referer=https://fcine.tv/la-grande-course-au-fromage-17808-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIDMndj.jpg" group-title="",Là-haut
+https://load.hdfilme.ws/playlist/dcae4f14007f7a1118c4ea1b2077dc0c/dcae4f14007f7a1118c4ea1b2077dc0c.m3u8|Referer=https://fcine.tv/la-haut-9256-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/778.jpg" group-title="",La jeune fille sans mains
 https://fr8.seedr.cc/media/video/lq_hls/86c3fe61a103700b5e6e96431c75369f5e9c43fd/vid.m3u8
 
@@ -264,11 +280,16 @@ https://nl33.seedr.cc/media/video/lq_hls/0113ae2b1ee1b8ebfd26370f60b887cda98a441
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1241.jpg" group-title="",La Mort et le Retour de Superman
 https://nl23.seedr.cc/media/video/hd_hls/b7c3866f505853a90dbe41f89348dce912b16e20/vid.m3u8
 
-EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/748.jpg" group-title="",La Princesse des Glaces
-https://fr15.seedr.cc/media/video/hd_hls/2e0befd537f14ef5c80d23386da463b17fc6a8a7/vid.m3u8
-
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/6.jpg" group-title="",La Reine des neiges II
-https://sf1.seedr.cc/media/video/hd_hls/fr1/9944dc7e6dbd57e0bbaaefb1db69b6e338a39ceb/vid.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFMbH7Z.jpg" group-title="",La Reine des Neiges
+https://load.hdfilme.ws/playlist/db23fa9477f00c5dedbd9fecc876ba94/db23fa9477f00c5dedbd9fecc876ba94.m3u8|Referer=https://fcine.tv/the-snow-queen-la-reine-des-neiges-17029-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1BAhzdU.jpg" group-title="",La Reine des Neiges 2 : Le Miroir Sacré
+https://load.hdfilme.ws/playlist/c69c59f39968305f80a2e3a982fbcf3a/c69c59f39968305f80a2e3a982fbcf3a.m3u8|Referer=https://fcine.tv/the-snow-queen-2-la-reine-des-neiges-le-miroir-sacre-15433-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UeW4wMo.jpg" group-title="",La Reine des Neiges 3 : La princesse des glaces 1
+https://load.hdfilme.ws/playlist/1b51f0592581de81ed4ca4b3047039e6/1b51f0592581de81ed4ca4b3047039e6.m3u8|Referer=https://fcine.tv/la-princesse-des-glaces-1010-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SRwvckq.jpg" group-title="",La Reine des Neiges 4 : La princesse des glaces 2
+https://load.hdfilme.ws/playlist/5cba92d33418a1a885f857e47bfe836a/5cba92d33418a1a885f857e47bfe836a.m3u8|Referer=https://fcine.tv/la-princesse-des-glaces-le-monde-des-miroirs-magiques-1073-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lto0Ior.jpg" group-title="",La Reine des Neiges - Une Fête Givrée
+https://load.hdfilme.ws/playlist/78573fce8d9b08ba6eaa416256ee357e/78573fce8d9b08ba6eaa416256ee357e.m3u8|Referer=https://fcine.tv/la-reine-des-neiges-une-fete-givree-15192-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DWtl6Cs.jpg" group-title="",LE CORSAIRE NOIR (YT)
 plugin://plugin.video.youtube/play/?video_id=__9PGxsjnTQ
@@ -514,6 +535,11 @@ https://nl23.seedr.cc/media/video/hd_hls/f00e191e321053c65d235f2c2da3e9f1201847a
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1211.jpg" group-title="",Rebelle
 https://fr14.seedr.cc/media/video/hd_hls/a12e7a4fe2a6fa37f043f6629b847d8b638c38dc/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJaMxZV.jpg" group-title="",Rio
+https://load.hdfilme.ws/playlist/9b8f425ad6ff35069a41649bd87f0b7e/9b8f425ad6ff35069a41649bd87f0b7e.m3u8|Referer=https://fcine.tv/rio-17052-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQqpWdP.jpg" group-title="",Rio 2
+https://load.hdfilme.ws/playlist/4c04343bd2d029123ee105f9f9f15c59/4c04343bd2d029123ee105f9f9f15c59.m3u8|Referer=https://fcine.tv/rio-2-17051-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/768.jpg" group-title="",Robinson Crusoe
 https://de9.seedr.cc/media/video/hd_hls/29dc8a61dca605bf924d6728e03fe3ab16557bc5/vid.m3u8
 
@@ -521,6 +547,9 @@ https://de9.seedr.cc/media/video/hd_hls/29dc8a61dca605bf924d6728e03fe3ab16557bc5
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/772.jpg" group-title="",Sausage Party
 https://nl24.seedr.cc/media/video/lq_hls/ed93a9e776450252616f250cf3a8ecc24085041e/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OltcCAo.jpg" group-title="",Scooby
+https://load.hdfilme.ws/playlist/ee20e599a232f419bdf89e11083f8713/ee20e599a232f419bdf89e11083f8713.m3u8|Referer=https://fcine.tv/scooby-15293-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/740.jpg" group-title="",Scooby-Doo ! Retour sur l'île aux zombies
 https://nl20.seedr.cc/media/video/hd_hls/acee52c10dff2219b7f437d144dee70f1742b51d/vid.m3u8
@@ -588,7 +617,8 @@ https://de13.seedr.cc/media/video/lq_hls/d03d0dc672c45ed2d14bdfb3aaf365e41c49a53
 https://de16.seedr.cc/media/video/lq_hls/3046c00ada620f5ec907baebccbbc8547dacd8e9/vid.m3u8?
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1138.jpg" group-title="",Toy Story 4
 https://de16.seedr.cc/media/video/hd_hls/2fc777444d2f5e935002931f3772c92ccd40a524/vid.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KkAu4d6.jpg" group-title="",Toy Story : Angoisse au motel
+https://load.hdfilme.ws/playlist/8a14ccac6aeaee93c79e29f7222242df/8a14ccac6aeaee93c79e29f7222242df.m3u8|Referer=https://fcine.tv/toy-story-angoisse-au-motel-15683-streaming/vf
 
 ###U###
 
