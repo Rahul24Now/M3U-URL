@@ -568,8 +568,11 @@ https://nl31.seedr.cc/media/video/hd_hls/084a8f8c6c9b16424df8cb7453461b9ddfb52c0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NS7ZOh.jpg" group-title="",De Sang Froid (YT)
 plugin://plugin.video.youtube/play/?video_id=zSA1Gtx4yL4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c0Tfwyi.jpg" group-title="",Deadpool 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=f4qUPFkPc8o
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dU4UTx5.png" group-title="",Deadpool
+https://load.hdfilme.ws/playlist/a7832c740941a2fcbf86c16d0c915286/a7832c740941a2fcbf86c16d0c915286.m3u8|Referer=https://fcine.tv/deadpool-1221-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c0Tfwyi.jpg" group-title="",Deadpool 2
+https://load.hdfilme.ws/playlist/859333a50da8870127c7e5cc165ee8df/859333a50da8870127c7e5cc165ee8df.m3u8|Referer=https://fcine.tv/deadpool-2-1222-streaming/vf
+#plugin://plugin.video.youtube/play/?video_id=f4qUPFkPc8o
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1372.jpg" group-title="",Delirium
 https://fr15.seedr.cc/media/video/lq_hls/3d297d876a237a6f4f028a9a78f7c1b5ba565213/vid.m3u8?
@@ -603,7 +606,7 @@ https://fr1.seedr.cc/media/video/hd_hls/2ec9ca47f2fe5c05b99fa5bf729e7d8f7e319282
 https://nl34.seedr.cc/media/video/hd_hls/ba10517a91bc6b3db734495f6fdf10632882cdd5/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nqRgvJP.jpg" group-title="",Doctor Strange
-https://torrent.unix-kingdom.fr/Doctor%20Strange%20%282016%29%20MULTi%20VFF%20%5B1080p%5D%20BluRay%20x264%20AC3-DTS-PopHD.mkv
+https://load.hdfilme.ws/playlist/9afd0b1e097dd9994761c4f86856503c/9afd0b1e097dd9994761c4f86856503c.m3u8|Referer=https://fcine.tv/doctor-strange-1428-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/852.jpg" group-title="",Dolomites 1915
 https://nl22.seedr.cc/media/video/lq_hls/91d20200058be48d87e220b776c0c7d4aa638497/vid.m3u8
@@ -1017,8 +1020,8 @@ https://fr13.seedr.cc/media/video/hd_hls/e74069ada98904dea592eed426714eb59b0a5e0
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1368.jpg" group-title="",La Malédiction de la belle au bois dormant
 https://de15.seedr.cc/media/video/lq_hls/35b43cf2faa6bec0483473601e9bbb459582924b/vid.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jMlLqYy.png" group-title="",La Mule (NA)
-https://8x218w7rq8.mstreamcdn.com/v/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTkxNTM0NTEsImRhdGEiOlsiNzAuMjkuMjMwLjExOCIsIndkMmw2bDRkaXc2ciIsIm4iLDJdfQ.M0ROpYsB1yGAgK7yVgK24XYMV-3dPmYZQcYfgApicM8.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jMlLqYy.png" group-title="",La Mule
+https://load.hdfilme.ws/playlist/0ae479ab44857951092954ca0a073584/0ae479ab44857951092954ca0a073584.m3u8|Referer=https://fcine.tv/la-mule-9246-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KwDKF6c.jpg" group-title="",La neuvième porte (YT)
 plugin://plugin.video.youtube/play/?video_id=CysDLKw7hlk
@@ -1100,8 +1103,9 @@ plugin://plugin.video.youtube/play/?video_id=SnocEmWa1Ac
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/670.jpg" group-title="",Le Garçon qui dompta le vent
 https://fr13.seedr.cc/media/video/hd_hls/1ba0553e132cbc231544ffd0ea0de71d7da42eb9/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FJAINyb.jpg" group-title="",Le Grand Stan (YT)
-plugin://plugin.video.youtube/play/?video_id=9-6fkcrMP4Y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FJAINyb.jpg" group-title="",Le Grand Stan
+https://load.hdfilme.ws/playlist/16205ba29af2eaaec3b307f3e27c0449/16205ba29af2eaaec3b307f3e27c0449.m3u8|Referer=https://fcine.tv/le-grand-stan-17695-streaming/vf
+#plugin://plugin.video.youtube/play/?video_id=9-6fkcrMP4Y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RooMzw4.jpg" group-title="",Le Jour de la haine (YT)
 plugin://plugin.video.youtube/play/?video_id=uf91x0r88y0
@@ -1217,8 +1221,11 @@ https://sf1.seedr.cc/media/video/hd_hls/fr7/0a3b5c20c48507598b1dc5041eef0fdbb0a1
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/74.jpg" group-title="",Les Enfants maudits - Les secrets du manoir 
 https://sf1.seedr.cc/media/video/hd_hls/nl22/89ecbad16d65e09d2b429dea2790afe223bcbbdc/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mjR4NAO.jpg" group-title="",Les Municipaux
-http://w.sylviethiriez.com/Downloads/films/Les.Municipaux%202019.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mjR4NAO.jpg" group-title="",Les Municipaux - ces héros
+https://load.hdfilme.ws/playlist/4606ebf64fdd0d4d3d305be299ec93bd/4606ebf64fdd0d4d3d305be299ec93bd.m3u8|Referer=https://fcine.tv/les-municipaux-ces-heros-10809-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G6W9F6L.jpg" group-title="",Les Municipaux - trop c'est trop !
+https://load.hdfilme.ws/playlist/d9b66c842fb7230819d581cc877908ce/d9b66c842fb7230819d581cc877908ce.m3u8|Referer=https://fcine.tv/les-municipaux-trop-cest-trop-10812-streaming/vf
+
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/678.jpg" group-title="",Les Phénomènes
 https://fr7.seedr.cc/media/video/hd_hls/71e416ae29da67405463d94641b42d0c419c7ac0/vid.m3u8
@@ -1233,7 +1240,7 @@ https://nl27.seedr.cc/media/video/hd_hls/eb6da21af5925fa1479481f7a0722495f02af85
 https://fr8.seedr.cc/media/video/hd_hls/6bbc570d09ef340f48702b7237e7b7120f4a6499/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rTDYYZH.jpg" group-title="",les tontons flingueurs
-https://torrent.unix-kingdom.fr/les%20tontons%20flingueurs.mkv
+https://load.hdfilme.ws/playlist/df5e550c01e181a660576b85b51efbe7/df5e550c01e181a660576b85b51efbe7.m3u8|Referer=https://fcine.tv/les-tontons-flingueurs-16986-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ORusWFk.jpg" group-title="",LES YEUX DU MAL (1979)	
 https://ia800903.us.archive.org/9/items/LESYEUXDUMALFilmDhorreurCompletEnFranaisLow480x360Mp4/LES%20YEUX%20DU%20MAL%20-%20Film%20dhorreur%20Complet%20en%20Fran%C3%A7ais%5BLow%2C480x360%2C%20Mp4%5D.mp4
@@ -1515,13 +1522,13 @@ https://fr15.seedr.cc/media/video/hd_hls/f6f26152bfdc5e9a194943b292843d5fa4cc054
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020/Watch+Robo_2019_TRUEFRENCH_720p_BluRay_AC3-Wawacity_vip+Online+%E2%80%94+Mystream.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/618.jpg" group-title="",Rocky
-http://w.sylviethiriez.com/Downloads/films/Rocky%20I.mkv
+https://load.hdfilme.ws/playlist/ef347ad62a78c0a732fc0c1be7faf50e/ef347ad62a78c0a732fc0c1be7faf50e.m3u8|Referer=https://fcine.tv/rocky-15789-streaming/vf
 #https://nl31.seedr.cc/media/video/lq_hls/06f75009dff2629d94988f0d006e9fba6c775b14/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/619.jpg" group-title="",Rocky II - La Revanche 
-http://w.sylviethiriez.com/Downloads/films/Rocky%20II.mkv
+https://load.hdfilme.ws/playlist/d705b47f620f0f9ddaf96824ceac41a2/d705b47f620f0f9ddaf96824ceac41a2.m3u8|Referer=https://fcine.tv/rocky-ii-15603-streaming/vf
 #https://nl31.seedr.cc/media/video/hd_hls/15de1bafb4ed92fbc14ce502792be5e64fb8cac2/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/620.jpg" group-title="",Rocky III - L'Œil du Tigre 
-http://w.sylviethiriez.com/Downloads/films/Rocky%20III.mkv
+https://load.hdfilme.ws/playlist/9854bf2a64a998ee5929730498506fb1/9854bf2a64a998ee5929730498506fb1.m3u8|Referer=https://fcine.tv/rocky-iii-15348-streaming/vf
 #https://nl31.seedr.cc/media/video/hd_hls/15de1bafb4ed92fbc14ce502792be5e64fb8cac2/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/621.jpg" group-title="",Rocky IV
 http://w.sylviethiriez.com/Downloads/films/Rocky%20IV.mkv
@@ -1649,13 +1656,16 @@ http://w.sylviethiriez.com/Downloads/films/Trilogie%20originale%20(1977-1983)/St
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWcWHz3.jpg" group-title="",Star Wars épisode VI - Le Retour du Jedi
 http://w.sylviethiriez.com/Downloads/films/Trilogie%20originale%20(1977-1983)/Star%20Wars,%20%c3%a9pisode%20VI%20:%20Le%20Retour%20du%20Jedi%20.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rh9yx9a.jpg" group-title="",Star Wars - L'Ascension de Skywalker
-http://144.217.176.177/private/Star.Wars.Episode.IX.The.Rise.of.Skywalker.2020.FRENCH.HDRip.x264.mkv
+https://load.hdfilme.ws/playlist/31e684206c0addda69222384a457f496/31e684206c0addda69222384a457f496.m3u8|Referer=https://fcine.tv/star-wars-lascension-de-skywalker-6827-streaming/vf
+#http://144.217.176.177/private/Star.Wars.Episode.IX.The.Rise.of.Skywalker.2020.FRENCH.HDRip.x264.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Njatcp.jpg" group-title="",Star Wars Le Réveil de la Force
-http://w.sylviethiriez.com/Downloads/films/Star%20Wars%20Trilogie/Star%20Wars,%20%c3%a9pisode%20VII%20:%20Le%20R%c3%a9veil%20de%20la%20Force.mkv
+https://load.hdfilme.ws/playlist/edd6e1fbf883d2dd7976f9156a0454c4/edd6e1fbf883d2dd7976f9156a0454c4.m3u8|Referer=https://fcine.tv/star-wars-le-reveil-de-la-force-7045-streaming/vf
+#http://w.sylviethiriez.com/Downloads/films/Star%20Wars%20Trilogie/Star%20Wars,%20%c3%a9pisode%20VII%20:%20Le%20R%c3%a9veil%20de%20la%20Force.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5jzZzx2.jpg" group-title="",Star Wars : Les Derniers Jedi
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Star+Wars+-+Les+Derniers+Jedi+streaming+vf+%E2%80%94+Streamay.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXEHGrG.jpg" group-title="",Star Wars Story - Solo
-http://144.217.176.177/private/Solo.A.Star.Wars.Story.2018.FRENCH.720p.HDLight.x264.AC3.mkv
+https://load.hdfilme.ws/playlist/b0d1e47f9b8f5d214b4be1ce9ebc8fc2/b0d1e47f9b8f5d214b4be1ce9ebc8fc2.m3u8|Referer=https://fcine.tv/solo-a-star-wars-story-9373-streaming/vf
+#http://144.217.176.177/private/Solo.A.Star.Wars.Story.2018.FRENCH.720p.HDLight.x264.AC3.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bqapx8m.jpg" group-title="",Star Wars - Les Ewoks : La caravane du courage (DM) 
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x3ikhgy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJfXdCP.jpg" group-title="",Star Wars - L'aventure des Ewoks - La Bataille Pour Endor (DM)
@@ -1720,12 +1730,10 @@ https://fr6.seedr.cc/media/video/lq_hls/05608f0d8618b219a184d9ecac5eb82d1f60ea1d
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1038.jpg" group-title="",Taxi 5
 https://nl20.seedr.cc/media/video/lq_hls/6733d8fc958b6b1c812647b4dd18a5333665737a/vid.m3u8?dvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8G1HXUS.jpg" group-title="",Ted (NA)
-https://s0.vudeo.net/2vp3vf7dzyvjdohilngrrn4wsx2txpbmgtiesmenxsmt7glohagzd5f4zrwq/v.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jxNxBDH.jpg" group-title="",Ted 2 (NA)
-https://s0.vudeo.net/2vp3slr4zyvjdohilnarrkodyygr4cpskojdt3pnfxxke4jpgan4fliqmqga/v.mp4
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8G1HXUS.jpg" group-title="",Ted
+https://load.hdfilme.ws/playlist/02bd550704dd90950d87706d92be322b/02bd550704dd90950d87706d92be322b.m3u8|Referer=https://fcine.tv/ted-16661-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxNxBDH.jpg" group-title="",Ted 2 
+https://load.hdfilme.ws/playlist/e59bb41fb56fff7ad63c92f591e51e0d/e59bb41fb56fff7ad63c92f591e51e0d.m3u8|Referer=https://fcine.tv/ted-2-16662-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lg9kDux.jpg" group-title="",Terence Hill - Renegade (YT)
 plugin://plugin.video.youtube/play/?video_id=xl29_gNtI14
@@ -1861,7 +1869,7 @@ https://de15.seedr.cc/media/video/hd_hls/cac90a70df3a805bb29c2c3c0ceac426a764f5f
 https://nl25.seedr.cc/media/video/hd_hls/f6a65e23fde225ff687a05625001301dd6684be5/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rXqqRVU.jpg" group-title="",Time Trap (NA)
-https://sravyajibo.mstreamcdn.com/c/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTkxNTM2OTIsImRhdGEiOlsiNzAuMjkuMjMwLjExOCIsIjNyeWIwZXNpcHB1dSIsIm4iLDJdfQ.zGUiP_t5G6A_SWmkDVFOr5CZAFdP_i798e0ycPgEAtU.mp4
+https://load.hdfilme.ws/playlist/42b818bd4306c4ce84647ec43cb01a73/42b818bd4306c4ce84647ec43cb01a73.m3u8|Referer=https://fcine.tv/time-trap-15617-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1371.jpg" group-title="",Timmy Failure : Des erreurs ont été commises
 https://fr3.seedr.cc/media/video/lq_hls/5ad6b5859b6fcb9d117f24c5a83679cd31d9fe53/vid.m3u8
