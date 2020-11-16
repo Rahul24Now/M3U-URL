@@ -24,8 +24,8 @@ plugin://plugin.video.youtube/play/?video_id=0ERetvonggY
 
 ###0###
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C47RzB1.jpg" group-title="",1:54 (NA)
-https://s0.vudeo.net/2vp33wqbzyvjdohilndrriwht2jfilcwlbaj6j5pjoruft7b3wxkpchp7x2a/v.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C47RzB1.jpg" group-title="",1:54
+https://load.hdfilme.ws/playlist/fb4107c6afe2a5ecb35c3fea3953e8d3/fb4107c6afe2a5ecb35c3fea3953e8d3.m3u8|Referer=https://fcine.tv/154-4376-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HgWgwQX.jpg" group-title="",1er amour (YT)
 plugin://plugin.video.youtube/play/?video_id=F-Vqw_bQXbg
@@ -42,8 +42,8 @@ https://nl21.seedr.cc/media/video/hd_hls/62f796d24aa818140d4ef9f1cfe8c5c307b53e3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xMYWv7J.jpg" group-title="Quebec Film",15 février 1839 (YT)
 plugin://plugin.video.youtube/play/?video_id=mY3Iqd3J5g4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IDwG4TC.jpg" group-title="",1987 (NA)
-https://m20.uqload.com/3rfkjaxwerw2q4drdir7hlvna4tngf5b3etbceyhly25frg36i4v5ptsq2ja/v.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDwG4TC.jpg" group-title="",1987
+https://load.hdfilme.ws/playlist/2a4b7a73a2b4d003f303104121a77c60/2a4b7a73a2b4d003f303104121a77c60.m3u8|Referer=https://fcine.tv/1987-8832-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0B1qmwD.jpg" group-title="",1991 (NA)
 https://m30.uqload.com/3rfkowfaezw2q4drdi77hlfsb2km4sm7tkdnhrviuo5ansgrpo4fytlwdm6a/v.mp4
@@ -411,6 +411,9 @@ plugin://plugin.video.youtube/play/?video_id=K1PvB_Bsm4k
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7aUoZ8M.jpg" group-title="",Slap shot (NA)
 https://m10.uqload.com/3rfk3s5zhrw2q4drdi67hif2d5othevfsp6o3fco6yowcbrbyyr5sbrtwmrq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NV6x8xU.jpg" group-title="",Starbuck
+https://load.hdfilme.ws/playlist/955da935890405103a0c7491cd78c96d/955da935890405103a0c7491cd78c96d.m3u8|Referer=https://fcine.tv/starbuck-10979-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JbElsee.jpg" group-title="",Sur la trace d'Igor Rizzi (YT)
 plugin://plugin.video.youtube/play/?video_id=RQ9SJNixljA
