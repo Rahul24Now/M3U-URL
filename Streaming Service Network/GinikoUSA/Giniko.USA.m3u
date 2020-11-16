@@ -33,6 +33,10 @@ https://nrpus.bozztv.com/36bay2/gusa-alright/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-americanmusic/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-americanmusic/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",Angel TV
+https://bozztv.com/36bay2/gin/giniko_angeltv_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_angeltv_900kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O60LGgH.jpg" group-title="USA",Animal Here
 https://bozztv.com/36bay2/gin/giniko_animalhere_900kb_36bay2/index.m3u8
 
@@ -157,6 +161,10 @@ https://nrpus.bozztv.com/36bay2/gusa-darcizzle/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZVNbkR.jpg" group-title="",Daystar
 https://bozztv.com/36bay2/gin/giniko_daystar_900kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_daystar_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CI4Hew2.jpg" group-title="",Deutsche Welle News
+https://bozztv.com/36bay2/gin/giniko_deutschewelle-en_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_deutschewelle-en_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/dimensions.png" group-title="Giniko USA",Dimensions	
 https://nrpus.bozztv.com/36bay2/gusa-dimensions/index.m3u8
@@ -407,6 +415,10 @@ https://nrpus.bozztv.com/36bay2/gusa-shopping4u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/sidewalks.jpg" group-title="Giniko USA",Sidewalks
 https://nrpus.bozztv.com/36bay2/gusa-sidewalks/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-sidewalks/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vY3lCiT.jpg" group-title="",Silk Universal
+https://bozztv.com/36bay2/gin/giniko_silk_universalt_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_silk_universalt_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/sim-si-tv.png" group-title="Giniko USA",Sim Si TV
 https://nrpus.bozztv.com/36bay2/gusa-simsitv/index.m3u8
