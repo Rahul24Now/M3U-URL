@@ -251,15 +251,15 @@ plugin://plugin.video.youtube/play/?video_id=f925jVhQBw0
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/279.jpg" group-title="",Annabelle
 https://fr12.seedr.cc/media/video/lq_hls/f118904577263376820231834c8df53222cf2d2d/vid.m3u8?dvr
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/281.jpg" group-title="",annabelle 2 - la création du mal (NA)
-https://ns1.skmovies.live/piki2/1/4/regarder-396422.avi.mp4
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/281.jpg" group-title="",annabelle 2 - la création du mal
+https://load.hdfilme.ws/playlist/5b5d8b08c8f5e1b5b6e705e6bf3cb5ee/5b5d8b08c8f5e1b5b6e705e6bf3cb5ee.m3u8|Referer=https://fcine.tv/annabelle-2-la-creation-du-mal-1202-streaming/vf
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/280.jpg" group-title="",Annabelle 3 - La maison du Mal
 https://de13.seedr.cc/media/video/lq_hls/5651ce3ea13523eb0873ce4d5f931235c520f61a/vid.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogyQj4u.jpg" group-title="",Ant Man
-https://torrent.unix-kingdom.fr/Ant-Man.2015.MULTi.1080.DTSHD-MA-HRA.AAC-ntplhx.mkv
+https://load.hdfilme.ws/playlist/a8ed746c9f9e85d4bdfdd2a0244680f8/a8ed746c9f9e85d4bdfdd2a0244680f8.m3u8|Referer=https://fcine.tv/ant-man-292-streaming/vf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vu9Rbh5.jpg" group-title="",Ant Man and The Wasp
-http://144.217.176.177/private/Ant.Man.and.the.Wasp.2018.FRENCH.HDRip.x264.mkv
+https://load.hdfilme.ws/playlist/2709a5c55f5b1a24c14489672ec0276c/2709a5c55f5b1a24c14489672ec0276c.m3u8|Referer=https://fcine.tv/ant-man-et-la-guepe-294-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1327.jpg" group-title="",Antebellum 
 https://nl17.seedr.cc/media/video/lq_hls/f3d48b07c7f5d53059e9ab208e05eb71c0256543/vid.m3u8
@@ -817,9 +817,12 @@ https://fr7.seedr.cc/media/video/hd_hls/daebde502c0ae86cb104c844d5270e41590ddc9a
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/178.jpg" group-title="",Ip Man 3
 https://fr7.seedr.cc/media/video/hd_hls/f3586f72f0e6821e5a565f8caf0edeabc2467944/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/149.jpg" group-title="",Ip Man 4
-https://nl38.seedr.cc/media/video/lq_hls/ca368980468dfbe9d5752703141958349efdc294/vid.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euhS5XV.jpg" group-title="",Ip man the final Fight (YT)
-plugin://plugin.video.youtube/play/?video_id=lBObMdA-loo
+https://load.hdfilme.ws/playlist/ffc8a4ed8b03418975233008f8786232/ffc8a4ed8b03418975233008f8786232.m3u8|Referer=https://fcine.tv/ip-man-4-le-dernier-combat-15202-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euhS5XV.jpg" group-title="",Ip man the final Fight
+https://load.hdfilme.ws/playlist/fc15b026a0d2dbab17ddf6b12cfcdf4b/fc15b026a0d2dbab17ddf6b12cfcdf4b.m3u8|Referer=https://fcine.tv/ip-man-le-combat-final-7492-streaming/vf
+#plugin://plugin.video.youtube/play/?video_id=lBObMdA-loo
+#EXTINF:-1 tvg-logo="" group-title="",IP Man Legacy: Master Z
+https://load.hdfilme.ws/playlist/e7a5ecde1a470ac736bccb86671affb3/e7a5ecde1a470ac736bccb86671affb3.m3u8|Referer=https://fcine.tv/ip-man-legacy-master-z-2644-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/685.jpg" group-title="",Irresistible
 https://nl21.seedr.cc/media/video/hd_hls/959a10eb9482f093f651f43fbf89774b11088de2/vid.m3u8
