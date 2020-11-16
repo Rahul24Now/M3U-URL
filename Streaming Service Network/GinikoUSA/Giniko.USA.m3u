@@ -134,6 +134,10 @@ https://bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqdyBEQ.jpg" group-title="USA",CMC TV
 https://bozztv.com/36bay2/giniko_cmctv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qrd9y5w.png" group-title="",CNC World
+https://bozztv.com/36bay2/gin/giniko_cncworldeng_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_cncworldeng_900kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/comedy-classics.jpg" group-title="Giniko USA",Comedy Classics
 https://nrpus.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-comedyclassics/tracks-v1a1/mono.m3u8
@@ -301,6 +305,10 @@ https://nrpus.bozztv.com/36bay2/gusa-menandmotors/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gq7VwvM.png" group-title="USA",Miami TV
 https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DxkyFiL.jpg" group-title="",Mighty Car Mods
+https://bozztv.com/36bay2/gin/giniko_mcm_1000kb_36bay2/index.m3u8	
+https://bozztv.com/36bay2/gin/giniko_mcm_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHVP9rU.jpg" group-title="USA",Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
@@ -404,6 +412,10 @@ https://bozztv.com/36bay2/gin/giniko_roofing_900kb_36bay2/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-rope2rope/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZlntPz1.png" group-title="",Russia Today
+https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/sci-fi-4u-tv.jpeg" group-title="Giniko USA",Sci-Fi 4U TV
 https://nrpus.bozztv.com/36bay2/gusa-scifi4u/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-scifi4u/tracks-v1a1/mono.m3u8
@@ -453,6 +465,10 @@ https://nrpus.bozztv.com/36bay2/gusa-stgn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/street-music-4u.jpg" group-title="Giniko USA",Street Music 4U
 https://nrpus.bozztv.com/36bay2/gusa-streetmusic4u/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-streetmusic4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUNgn8l.jpg" group-title="",Supercar Blondie
+https://bozztv.com/36bay2/gin/giniko_supercarblondie_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_supercarblondie_1000kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/switch.png" group-title="Giniko USA",Switch
 https://nrpus.bozztv.com/36bay2/gusa-switch/index.m3u8
