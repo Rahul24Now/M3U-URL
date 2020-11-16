@@ -174,6 +174,9 @@ https://nrpus.bozztv.com/36bay2/gusa-dimensions/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-documentaries4u/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-documentaries4u/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgaWAn3.jpg" group-title="",Euro News
+https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FjtQa8D.jpg" group-title="USA",Everybody Is Dancing
 https://bozztv.com/36bay2/gin/giniko_everybodydanc_900kb_36bay2/index.m3u8
 
