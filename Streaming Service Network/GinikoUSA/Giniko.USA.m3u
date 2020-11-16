@@ -14,7 +14,8 @@ https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnDD0xH.jpg" group-title="USA",4kchannel
-https://bozztv.com/36bay2/gin/giniko_4kchannel_8000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_4kchann_8000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_4kchann_8000kb_36bay2/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/30a-tv.jpg" group-title="Giniko USA",30A TV
 https://nrpus.bozztv.com/36bay2/gusa-30atv/index.m3u8
@@ -153,6 +154,10 @@ https://bozztv.com/36bay2/gusa-d2dtv/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-darcizzle/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZVNbkR.jpg" group-title="",Daystar
+https://bozztv.com/36bay2/gin/giniko_daystar_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_daystar_900kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/dimensions.png" group-title="Giniko USA",Dimensions	
 https://nrpus.bozztv.com/36bay2/gusa-dimensions/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-dimensions/tracks-v1a1/mono.m3u8
@@ -168,7 +173,11 @@ https://bozztv.com/36bay2/gin/giniko_everybodydanc_900kb_36bay2/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-exercise4u/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-exercise4u/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPWnq28.jpg" group-title="",Fashion Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJOohkr.jpg" group-title="",EWTN Catholic TV
+https://bozztv.com/36bay2/giniko_ewtn/index.m3u8
+https://bozztv.com/36bay2/giniko_ewtn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPWnq28.jpg" group-title="",Fashiong1
 https://bozztv.com/36bay2/gin/giniko_fashiong_2000kb_36bay2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/keiKmVO.png" group-title="",Fashion HD
@@ -322,6 +331,10 @@ https://36bay2.tulix.tv/gusa-npowered/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-nrbtv/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-nrbtv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VbqjwIf.jpg" group-title="",Old Russian Movies
+https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/ok-tv.jpg" group-title="Giniko USA",OK TV
 https://nrpus.bozztv.com/36bay2/gusa-oktv/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-oktv/tracks-v1a1/mono.m3u8
@@ -441,6 +454,10 @@ https://nrpus.bozztv.com/36bay2/gusa-thegrid/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-thesyndicate/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-thesyndicate/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTJhRTH.png" group-title="",The Word Network
+https://bozztv.com/36bay2/gin/giniko_wordnet_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_wordnet_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/thrillerz.png" group-title="Giniko USA",Thrillerz
 https://nrpus.bozztv.com/36bay2/gusa-thrillerz/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-thrillerz/tracks-v1a1/mono.m3u8
@@ -477,6 +494,10 @@ https://nrpus.bozztv.com/36bay2/gusa-veteransuccess/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/wlpc.jpg" group-title="Giniko USA",WLPC
 https://nrpus.bozztv.com/36bay2/gusa-wlpc/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-wlpc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3mTcwnO.jpg" group-title="",Women exercises
+https://bozztv.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/xcorps.png" group-title="Giniko USA",xCorps
 https://nrpus.bozztv.com/36bay2/gusa-xcorps/index.m3u8
