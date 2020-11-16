@@ -49,12 +49,14 @@ https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22789/chivetv/logo_20200227_235931.png" group-title="DistroTV",Chive TV
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22848/choppertown/logo_20201104_205157_68.png" group-title="DistroTV",ChopperTown (UPD)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/3f92bc63-2cfc-4845-9e2e-80fd075fa9bb/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22886/cjc-television-network/logo_20200819_003239_68.png" group-title="DistroTV",CJC Television Network
 https://edge2.tikilive.com:8443/unrestricted_tikilive/56434/amlst:keY3DogwDbXV/chunklist_w1668228739_b4855826.m3u8?i=YXBwTmFtZT1VbnJlc3RyaWN0ZWQmY0lEPTU2NDM0JmNOYW1lPUNKQytOZXR3b3JrJm9JRD04NDA4MDYmb05hbWU9Y2ozMw%3D%3D
 
-
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/cooking-panda/logo_20201006_170137_68.png" group-title="DistroTV",Cooking Panda (UPD)
-https://stream.ads.ottera.tv/cl/ead94b9c-b74a-4e73-a510-c499de838f37/1280x720_2768373_6.m3u8
+https://stream.ads.ottera.tv/cl/5533e888-0373-4632-9fd5-6e11672bea07/1024x576_1639734_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/contv/logo_20191126_224818.png" group-title="DistroTV",CONtv HD
 https://a.jsrdn.com/broadcast/44hgsuu7/c.m3u8
@@ -66,7 +68,7 @@ https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/drinktv/logo_20200930_061821_68.png" group-title="DistroTV",DrinkTV (UPD)
-https://stream.ads.ottera.tv/cl/1cf14997-5e00-4095-885b-917f7147f8bf/1024x576_1616734_5.m3u8
+https://stream.ads.ottera.tv/cl/2663bd25-440d-4c4b-8127-c261a70877bb/1024x576_1565449_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCwsArY.png" group-title="DistroTV",Dry Bar Comedy
 https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
@@ -109,6 +111,9 @@ https://a.jsrdn.com/broadcast/ebf95254ca/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22905/hollywire/logo_20200917_063637_70.png" group-title="DistroTV",Hollywire
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/broadcast/3bdaa1c3-f401-432b-9850-49d8fb8419c0/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22914/homme/logo_20201106_205657_68.png" group-title="DistroTV",Homme (UPD)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/46c2445d-a5fe-48cd-bd43-b93952982fa8/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22720/honor-tv/logo_20191213_193346.png" group-title="DistroTV",Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/c.m3u8
@@ -186,7 +191,7 @@ https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20200930_055234_70.png" group-title="DistroTV",SQAD (UPD)
-https://stream.ads.ottera.tv/cl/6ae7d431-527e-4fb3-84e2-58276122737e/1024x576_1550100_5.m3u8
+https://stream.ads.ottera.tv/cl/dcc2af3a-7e73-4fd0-b66a-e298c58b1f0d/1280x720_2772133_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22735/bobs-your-uncle-linear/logo_20191212_233001.png" group-title="DistroTV",Studio C
 https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
@@ -215,8 +220,11 @@ https://stream.ads.ottera.tv/cl/d428626a-98ad-4d1e-98c4-f197256cd411/1024x576_17
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png" group-title="DistroTV",The Titanic Channel
 https://a.jsrdn.com/broadcast/22719/+0000/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22912/trontv/logo_20201016_172929_68.png" group-title="DistroTV",TronTV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/3034f3de-efb1-4521-b0f8-ceeb74e4ea76/1.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/trailer-channel/logo_20201103_010919_68.png" group-title="DistroTV",Trailer Channel (UPD)
+https://d56df2242ea24505817ed81fff0e7281.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trailer_channel_distrotv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22912/trontv/logo_20201016_172929_68.png" group-title="DistroTV",TronTV (UPD)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/e2852350-8177-489d-ab6f-0bc9bcb6ad68/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22829/unidentified/logo_20200408_024027.png" group-title="DistroTV",Unidentified
 https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
@@ -370,6 +378,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AScpUFP.png" group-title="",★★★★★★★★★★[COLOR green]DistroTV Moods[/COLOR]★★★★★★★★★★
 0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/drone-channel/logo_20201103_010328_68.png" group-title="DistroTV",Drone Channel
+https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/53db7265-f772-45a9-a239-63d7f3f8ab50/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/fireplace-lounge/logo_20200229_000016.png" group-title="DistroTV",Fireplace Lounge
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
