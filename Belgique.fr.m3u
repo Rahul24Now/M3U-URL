@@ -295,6 +295,9 @@ http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1901
 #EXTINF:-1 tvg-logo="https://i.imgur.com/esIVk4V.png" group-title="",VTM TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Belgium/c392203a92813bc.m3u8|User-Agent=stream
 
+#EXTINF:-1 tvg-language="Dutch" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Belgique",XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+
 ###########
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/Images/Logo%20Pays/belge.png?raw=true",★★★★★★★★★★[COLOR orange]Update needed[/COLOR]★★★★★★★★★★
@@ -352,8 +355,5 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" group-title="",Sporza
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Music",XITE
-https://5904f330f0587.streamlock.net/vleugels_hd4/livestream/chunklist_w2128418475_tkdG9rZW5fZW5kdGltZT0xNTg5NzUwNDQ1JnRva2VuX3N0YXJ0dGltZT0wJnRva2VuX2hhc2g9d25CVUV1dnFkaVZnZzFSZE1vOE16Wkg5bWtEeDVUaTdCYjRjcXM2VGp0ND0=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Belgique",XITE
-https://xite2065.cloudycdn.services/tlive/_definst_/xite_xite_1_tbc_42077_default_45_hls.smil/chunklist_b2472608_t64NzIwcA==.m3u8
+
 
