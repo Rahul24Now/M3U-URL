@@ -1587,6 +1587,9 @@ https://live.cast-control.eu/xalastratv/xalastratv/chunklist_w1811683033.m3u8
 #EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-language="Russian" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 
+#EXTINF:-1 tvg-language="Dutch" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Belgique",XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+
 # https://www.twitch.tv/19747
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eaMttTu.png" group-title="",YoungTV (TWITCH)
 plugin://plugin.video.twitch/?channel_id=519197940&amp;mode=play
