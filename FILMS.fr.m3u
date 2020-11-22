@@ -807,6 +807,13 @@ https://load.hdfilme.ws/playlist/e496d36865fcf19fdb72e4266fcc3082/e496d36865fcf1
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/380.jpg" group-title="",Inception
 https://nl20.seedr.cc/media/video/lq_hls/19a96e8a2d2f0dad4ee85178cea37b4439cbd521/vid.m3u8?dvr
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ni4KAr.jpg" group-title="",Indiana Jone - Les Aventuriers de l'Arche perdue
+https://load.hdfilme.ws/playlist/7dcd9ff248fddc3ba4a85e7821afd4fc/7dcd9ff248fddc3ba4a85e7821afd4fc.m3u8|Referer=https://fcine.tv/les-aventuriers-de-larche-perdue-15368-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dBUMekL.jpg" group-title="",Indiana Jones et le Temple maudit
+https://load.hdfilme.ws/playlist/55900ddee06f6c20397ef7e9cd858de7/55900ddee06f6c20397ef7e9cd858de7.m3u8|Referer=https://fcine.tv/indiana-jones-et-le-temple-maudit-15098-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmqLzVK.jpg" group-title="",Indiana Jones et la Dernière Croisade
+https://load.hdfilme.ws/playlist/5cd727ad383093aca725b4a300bfdad5/5cd727ad383093aca725b4a300bfdad5.m3u8|Referer=https://fcine.tv/indiana-jones-et-la-derniere-croisade-14877-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCSMDQr.jpg" group-title="",Inglourious Basterds
 https://load.hdfilme.ws/playlist/53b1eb985061db6e7bb7c1f04bd186cc/53b1eb985061db6e7bb7c1f04bd186cc.m3u8|Referer=https://fcine.tv/inglourious-basterds-883-streaming/vf
 
@@ -1241,6 +1248,15 @@ https://nl38.seedr.cc/media/video/lq_hls/ce4ef01637b6230de0221ad3d8a008106926959
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9e3AMR.jpg" group-title="",les daltons (YT)
 plugin://plugin.video.youtube/play/?video_id=e1ow7xszcIY
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TCqdZk5.jpg" group-title="",Les Dents de la Mer
+https://load.hdfilme.ws/playlist/ccbfa4417dfb929ccfb81c69b7377c75/ccbfa4417dfb929ccfb81c69b7377c75.m3u8|Referer=https://fcine.tv/les-dents-de-la-mer-15774-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IkALheT.jpg" group-title="",Les Dents de la mer 2
+https://load.hdfilme.ws/playlist/0ced9941a1bb68c4d2262aec8a61a283/0ced9941a1bb68c4d2262aec8a61a283.m3u8|Referer=https://fcine.tv/les-dents-de-la-mer-2-15659-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlxAylh.jpg" group-title="",Les Dents de la mer 3
+https://load.hdfilme.ws/playlist/951e1068b7307f9ee15bc1fdecf450f3/951e1068b7307f9ee15bc1fdecf450f3.m3u8|Referer=https://fcine.tv/les-dents-de-la-mer-3-15225-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YoMke3L.jpg" group-title="",Les Dents de la mer 4 : La Revanche
+https://load.hdfilme.ws/playlist/1621f423fdb7e8aa38b71faee17fd184/1621f423fdb7e8aa38b71faee17fd184.m3u8|Referer=https://fcine.tv/les-dents-de-la-mer-4-la-revanche-14949-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upHtwUS.jpg" group-title="",Les Derniers jours sur Mars
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+The_Last_Days_On_Mars_2013_TRUEFRENCH_DVDRiP_AC3-Wawacity_best+Online+%E2%80%94+Mystream_2.mp4
 
@@ -1255,7 +1271,6 @@ https://sf1.seedr.cc/media/video/hd_hls/nl22/89ecbad16d65e09d2b429dea2790afe223b
 https://load.hdfilme.ws/playlist/4606ebf64fdd0d4d3d305be299ec93bd/4606ebf64fdd0d4d3d305be299ec93bd.m3u8|Referer=https://fcine.tv/les-municipaux-ces-heros-10809-streaming/vf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G6W9F6L.jpg" group-title="",Les Municipaux - trop c'est trop !
 https://load.hdfilme.ws/playlist/d9b66c842fb7230819d581cc877908ce/d9b66c842fb7230819d581cc877908ce.m3u8|Referer=https://fcine.tv/les-municipaux-trop-cest-trop-10812-streaming/vf
-
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/678.jpg" group-title="",Les Phénomènes
 https://fr7.seedr.cc/media/video/hd_hls/71e416ae29da67405463d94641b42d0c419c7ac0/vid.m3u8
@@ -1658,6 +1673,13 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/303.jpg" group-title="",Sonic, le film
 https://nl17.seedr.cc/media/video/hd_hls/189a649a0a5d080257214f404630f57d9bc8418d/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63X744W.jpg" group-title="",S.O.S. Fantômes
+https://load.hdfilme.ws/playlist/63bb7b4c3610a148086bf570c2e14888/63bb7b4c3610a148086bf570c2e14888.m3u8|Referer=https://fcine.tv/sos-fantomes-9294-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7e6oNFQ.jpg" group-title="",S.O.S Fantômes 2
+https://load.hdfilme.ws/playlist/9e56773fffeaf70d4ffa5d093e90c2ac/9e56773fffeaf70d4ffa5d093e90c2ac.m3u8|Referer=https://fcine.tv/sos-fantomes-2-9291-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7p48DZ.jpg" group-title="",S.O.S. Fantômes 2016
+https://load.hdfilme.ws/playlist/749640bf0b6188eab457583b3edd2941/749640bf0b6188eab457583b3edd2941.m3u8|Referer=https://fcine.tv/sos-fantomes-9289-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IBIZ2x8.jpg" group-title="",SpaceBalls (YT)
 plugin://plugin.video.youtube/play/?video_id=ijN4FjeS148
 
@@ -1737,6 +1759,15 @@ https://nl37.seedr.cc/media/video/hd_hls/0be6fa72468f88e247ef7827045df69fa3c8693
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/680.jpg" group-title="",Street Fighter - L'ultime combat
 https://nl24.seedr.cc/media/video/hd_hls/fced010e0cb8fe5e5774a23aa523c041c24ca636/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jetu9oP.jpg" group-title="",Superman
+https://load.hdfilme.ws/playlist/a0cce5ef1fa2f738823093970102376e/a0cce5ef1fa2f738823093970102376e.m3u8|Referer=https://fcine.tv/superman-15674-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avQTlvp.jpg" group-title="",Superman II
+https://load.hdfilme.ws/playlist/14402b8cb8c8743fda65ca3276c5663d/14402b8cb8c8743fda65ca3276c5663d.m3u8|Referer=https://fcine.tv/superman-ii-15534-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYVrmWC.jpg" group-title="",Superman III
+https://load.hdfilme.ws/playlist/439cde6d0e42e95b1841526cd67ae1e4/439cde6d0e42e95b1841526cd67ae1e4.m3u8|Referer=https://fcine.tv/superman-iii-15242-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzi1eRQ.jpg" group-title="",Superman IV
+https://load.hdfilme.ws/playlist/10312fa8f75d937447205f263b55306a/10312fa8f75d937447205f263b55306a.m3u8|Referer=https://fcine.tv/superman-iv-14956-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1052.jpg" group-title="",Suicide Squad
 https://de9.seedr.cc/media/video/hd_hls/a0b6766de216c99872cd0a1a5b629e38c31add96/vid.m3u8
