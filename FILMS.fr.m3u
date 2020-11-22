@@ -585,6 +585,9 @@ https://load.hdfilme.ws/playlist/859333a50da8870127c7e5cc165ee8df/859333a50da887
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1372.jpg" group-title="",Delirium
 https://fr15.seedr.cc/media/video/lq_hls/3d297d876a237a6f4f028a9a78f7c1b5ba565213/vid.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRaLTQL.jpg" group-title="",Demolition Man
+https://load.hdfilme.ws/playlist/f0d4350153cbc9f04e8775b3d254deb0/f0d4350153cbc9f04e8775b3d254deb0.m3u8|Referer=https://fcine.tv/demolition-man-4782-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1373.jpg" group-title="",Dernier train pour Busan
 https://nl29.seedr.cc/media/video/lq_hls/b97d59669e80a4837196e1a21bba60ceb13a43b0/vid.m3u8?
 
@@ -980,6 +983,15 @@ https://nl32.seedr.cc/media/video/lq_hls/87c8f1430a73331a8733764ae43d31ff2545c6a
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/305.jpg" group-title="",L'appel de la forêt
 https://nl24.seedr.cc/media/video/hd_hls/b667fe13f8ed128be60841db8b35b28e81190a75/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PKH9ZJs.jpg" group-title="",L'Arme fatale
+https://load.hdfilme.ws/playlist/5fdbea9da18b4d623443f12445dad30a/5fdbea9da18b4d623443f12445dad30a.m3u8|Referer=https://fcine.tv/larme-fatale-14951-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XaJpgr6.jpg" group-title="",L'Arme fatale 2
+https://load.hdfilme.ws/playlist/94142b4d69f9f8a18f85d6756ed8a73d/94142b4d69f9f8a18f85d6756ed8a73d.m3u8|Referer=https://fcine.tv/larme-fatale-2-14882-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVNLbyZ.jpg" group-title="",L'Arme fatale 3
+https://load.hdfilme.ws/playlist/0f1c953c34d729b14176ec88e51e0cfa/0f1c953c34d729b14176ec88e51e0cfa.m3u8|Referer=https://fcine.tv/larme-fatale-3-14662-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FIoESEp.jpg" group-title="",L'Arme fatale 4
+https://load.hdfilme.ws/playlist/ce0e270c623aed45bceefbe6cb4580c8/ce0e270c623aed45bceefbe6cb4580c8.m3u8|Referer=https://fcine.tv/larme-fatale-4-14189-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1294.jpg" group-title="",L'art de tomber amoureux
 https://nl37.seedr.cc/media/video/hd_hls/470c0c53a88fb5986c070031c55cc698455c2879/vid.m3u8
@@ -1497,6 +1509,21 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5mh9uj
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/451.jpg" group-title="",Plus rien à f***
 https://nl38.seedr.cc/media/video/hd_hls/c54795476e41ed1809e5ab7a815494f40874c8bb/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4cihhpb.jpg" group-title="",Police Academy
+https://load.hdfilme.ws/playlist/38996bb17a52448354c774f83003cadc/38996bb17a52448354c774f83003cadc.m3u8|Referer=https://fcine.tv/police-academy-15077-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uaRGQQe.jpg" group-title="",Police Academy 2 : Au boulot !
+https://load.hdfilme.ws/playlist/d2e41774a569f124b1b7ef6bc8df8f8d/d2e41774a569f124b1b7ef6bc8df8f8d.m3u8|Referer=https://fcine.tv/police-academy-2-au-boulot-17414-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M5auqCg.jpg" group-title="",Police Academy 3: Instructeurs de choc
+https://load.hdfilme.ws/playlist/d0388dd683b0e4ad933368bde7c33427/d0388dd683b0e4ad933368bde7c33427.m3u8|Referer=https://fcine.tv/police-academy-3-instructeurs-de-choc-14983-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9Rltvc.jpg" group-title="",Police Academy 4: Aux armes Citoyens
+https://load.hdfilme.ws/playlist/3f9dbaa077d65a2aad1b78a500c7a500/3f9dbaa077d65a2aad1b78a500c7a500.m3u8|Referer=https://fcine.tv/police-academy-4-aux-armes-citoyens-17416-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Shpk4lr.jpg" group-title="",Police Academy 5 : Débarquement à Miami Beach
+https://load.hdfilme.ws/playlist/4718b508ed80f200c54f297d1cee6701/4718b508ed80f200c54f297d1cee6701.m3u8|Referer=https://fcine.tv/police-academy-5-debarquement-a-miami-beach-17418-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj6L5nS.jpg" group-title="",Police Academy 6 : S.O.S. Ville en état de choc
+https://load.hdfilme.ws/playlist/ab8c6afba4de10f2d49d061385da56f3/ab8c6afba4de10f2d49d061385da56f3.m3u8|Referer=https://fcine.tv/police-academy-6-sos-ville-en-etat-de-choc-17420-streaming/vf
+#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/m0SScyJ.jpg",Police Academy 7 : Mission à Moscou
+https://load.hdfilme.ws/playlist/b0651c6f2cbef6ceb2cf97e0066c0be0/b0651c6f2cbef6ceb2cf97e0066c0be0.m3u8|Referer=https://fcine.tv/police-academy-7-mission-a-moscou-17422-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1272.jpg" group-title="",Pompei
 https://nl17.seedr.cc/media/video/hd_hls/3f78d0326a0fd52476011ceccef26dd6ebf52b83/vid.m3u8
 
@@ -1545,17 +1572,24 @@ https://nl24.seedr.cc/media/video/hd_hls/42a049f2bb024a1c124f21d1b598c6bb8c0ca36
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/8.jpg" group-title="",Rambo - Last Blood
 https://sf1.seedr.cc/media/video/hd_hls/fr9/03f947386580a92bdc30bd7ee378f737bd005c32/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/560.jpg" group-title="",Red Storm
-https://fr9.seedr.cc/media/video/hd_hls/3ac90033a476306361f5ce940ffd03f7ecb71fe5/vid.m3u8
-
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1039.jpg" group-title="",Ready Player One 
 https://de10.seedr.cc/media/video/hd_hls/5dee59ee0e9fa5f82534bfe62cdad9a645fc70cf/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/560.jpg" group-title="",Red Storm
+https://fr9.seedr.cc/media/video/hd_hls/3ac90033a476306361f5ce940ffd03f7ecb71fe5/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/682.jpg" group-title="",Rememory
 https://nl37.seedr.cc/media/video/hd_hls/50679ed1001691457287a9c9640577bceccf9dd8/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/813.jpg" group-title="",Rémi sans famille
 https://fr3.seedr.cc/media/video/hd_hls/be16c9a82e85bac18c68845e214d9e4e718ead92/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eSc6HkM.jpg" group-title="",Retour vers le futur
+https://load.hdfilme.ws/playlist/6f1e104709528831f18a91674c30c245/6f1e104709528831f18a91674c30c245.m3u8|Referer=https://fcine.tv/retour-vers-le-futur-15066-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oo9FTti.jpg" group-title="",Retour vers le futur II
+https://load.hdfilme.ws/playlist/02ec90798f6f683d1839548f3330f087/02ec90798f6f683d1839548f3330f087.m3u8|Referer=https://fcine.tv/retour-vers-le-futur-ii-14829-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRMTEvq.jpg" group-title="",Retour vers le futur III
+https://load.hdfilme.ws/playlist/60104a0484b5844ada6e6096de0f195a/60104a0484b5844ada6e6096de0f195a.m3u8|Referer=https://fcine.tv/retour-vers-le-futur-iii-14830-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/thhc2el.jpg" group-title="",Riddick
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Riddick_TrueFrench_BDRIP-Wawacity_ec+Online+%E2%80%94+Mystream.mp4
@@ -1960,6 +1994,9 @@ https://nl33.seedr.cc/media/video/lq_hls/255482a6ea927903b0c90d3833a6b7532033407
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOD8nt5.jpg" group-title="",Tommy's Honour (YT)
 plugin://plugin.video.youtube/play/?video_id=oyYa4HTOV8o
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqK8MsG.jpg" group-title="",Top Gun
+https://load.hdfilme.ws/playlist/1d127abe0eba8fb515081437e9bcff47/1d127abe0eba8fb515081437e9bcff47.m3u8|Referer=https://fcine.tv/top-gun-14999-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1026.jpg" group-title="",Traffik
 https://de8.seedr.cc/media/video/hd_hls/ee490b3d26be0253caac068e00bfcaddfd914ce8/vid.m3u8
 
@@ -2122,12 +2159,18 @@ plugin://plugin.video.youtube/play/?video_id=fgrwfWcxFlg
 
 ###Y###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fmjnla.jpg" group-title="",Y a-t-il un flic pour sauver la reine ?
+https://load.hdfilme.ws/playlist/fda63bb604592583e7978cff460b5508/fda63bb604592583e7978cff460b5508.m3u8|Referer=https://fcine.tv/y-a-t-il-un-flic-pour-sauver-la-reine-14932-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I8hZx5W.jpg" group-title="",Y a-t-il un flic pour sauver le président ?
+https://load.hdfilme.ws/playlist/2c90041a313c62911a7ceb05ff286baf/2c90041a313c62911a7ceb05ff286baf.m3u8|Referer=https://fcine.tv/y-a-t-il-un-flic-pour-sauver-le-president-14725-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc4DEeZ.jpg" group-title="",Y a-t-il un flic pour sauver Hollywood ?
+https://load.hdfilme.ws/playlist/9633146c896d57dc68c3b316c949333a/9633146c896d57dc68c3b316c949333a.m3u8|Referer=https://fcine.tv/y-a-t-il-un-flic-pour-sauver-hollywood-14555-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txQTUAL.jpg" group-title="",Yakuza Apocalypse
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Yakuza+Apocalypse+streaming+vf+%E2%80%94+Streamay.mp4
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/394.jpg" group-title="",Yardie
 https://nl23.seedr.cc/media/video/hd_hls/d29724a032ddd053ad40441eba2ad68237538d5e/vid.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1277.jpg" group-title="",You Should Have Left
 https://fr4.seedr.cc/media/video/hd_hls/512de0c6fac3e0456a3d472479fdcfda43e102f6/vid.m3u8
