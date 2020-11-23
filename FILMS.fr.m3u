@@ -1409,6 +1409,9 @@ https://nl27.seedr.cc/media/video/hd_hls/f19a639efb189e8983e3008e61e4210ae4b068d
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/551.jpg" group-title="",Logan
 https://fr6.seedr.cc/media/video/hd_hls/d3389f39f098a23dd579d68a7f4422e0bde3f77f/vid.m3u8
+#https://load.hdfilme.ws/playlist/98c618eceb05f021e9830464b5cbde1a/98c618eceb05f021e9830464b5cbde1a.m3u8|Referer=https://fcine.tv/logan-1353-streaming/vf
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/551.jpg" group-title="",Logan (Noir & Blanc)
+https://load.hdfilme.ws/playlist/269af4e8b0fc4b84460b875e4e736c29/269af4e8b0fc4b84460b875e4e736c29.m3u8|Referer=https://fcine.tv/logan-noir-blanc-12434-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/742.jpg" group-title="",Loin de moi - près de toi
 https://nl23.seedr.cc/media/video/hd_hls/34900f3a91f6ea1f762b853cb6a6cbc3bb3669f8/vid.m3u8
@@ -2266,6 +2269,9 @@ https://fr12.seedr.cc/media/video/hd_hls/307630746fc050abbf16d249c57ad10779800c7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yYFCe7P.jpg" group-title="",Wing Chun (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6xhz39
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq6w47J.jpg" group-title="",Wolverine : le combat de l'immortel
+https://load.hdfilme.ws/playlist/57a25ee3dbb208dd37be13aaf7d29a94/57a25ee3dbb208dd37be13aaf7d29a94.m3u8|Referer=https://fcine.tv/wolverine-le-combat-de-limmortel-1351-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8tOttDH.jpg" group-title="",Wonder Woman
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Wonder+Woman+streaming+vf+%E2%80%94+Streamay.mp4
 
@@ -2274,9 +2280,23 @@ https://fr10.seedr.cc/media/video/hd_hls/4fd315a68501ac3275be58ab193c334a2b768cf
 
 ###X###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nclzMM.jpg" group-title="",X-Men
+https://load.hdfilme.ws/playlist/ac12fa13b2d041dd52679537f2dc0d7a/ac12fa13b2d041dd52679537f2dc0d7a.m3u8|Referer=https://fcine.tv/x-men-1243-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VQCNAIR.jpg" group-title="",X-Men 2
+https://load.hdfilme.ws/playlist/ec0af840feda25f870961dafd793b5c4/ec0af840feda25f870961dafd793b5c4.m3u8|Referer=https://fcine.tv/x-men-2-1244-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NHIS9Pf.jpg" group-title="",X-Men l'affrontement final
+https://load.hdfilme.ws/playlist/6df48faaa4877972836f3c6e05134a31/6df48faaa4877972836f3c6e05134a31.m3u8|Referer=https://fcine.tv/x-men-laffrontement-final-1247-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0EYpio.jpg" group-title="",X-Men Origins: Wolverine
+https://load.hdfilme.ws/playlist/1a06f4cd81848d1a639f754003d01a27/1a06f4cd81848d1a639f754003d01a27.m3u8|Referer=https://fcine.tv/x-men-origins-wolverine-1258-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWwZYCL.jpg" group-title="",X-Men: Le Commencement
+https://load.hdfilme.ws/playlist/ad1716b201d227a84b821f1d6f576ba2/ad1716b201d227a84b821f1d6f576ba2.m3u8|Referer=https://fcine.tv/x-men-le-commencement-1248-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t8SLDxz.jpg" group-title="",X-Men: Days of Future Past
+https://load.hdfilme.ws/playlist/fb4e8578f594b9c150c8c9baca90b876/fb4e8578f594b9c150c8c9baca90b876.m3u8|Referer=https://fcine.tv/x-men-days-of-future-past-1250-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQchbDb.jpg" group-title="",X-Men: Apocalypse
+https://load.hdfilme.ws/playlist/ac1f9b257432ad9ef45d3fa4d7b4d98d/ac1f9b257432ad9ef45d3fa4d7b4d98d.m3u8|Referer=https://fcine.tv/x-men-apocalypse-1252-streaming/vf
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/803.jpg" group-title="",X-Men - Dark Phoenix
 https://de13.seedr.cc/media/video/hd_hls/85364d493363581d9363cbdd5a1a99838f5bc46c/vid.m3u8
-
+#https://load.hdfilme.ws/playlist/328debd38ea695eae92bd2db61f81d90/328debd38ea695eae92bd2db61f81d90.m3u8|Referer=https://fcine.tv/x-men-dark-phoenix-1255-streaming/vf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZoI0dke.jpg" group-title="",X-Men - Les Nouveaux mutants
 https://fr5.seedr.cc/media/video/lq_hls/a1e378d75722e960a90f04f5fe498bb2750a5ee9/vid.m3u8
 
