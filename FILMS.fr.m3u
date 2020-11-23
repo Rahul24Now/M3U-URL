@@ -200,6 +200,8 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/47+M
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ps50Q9C.jpg" group-title="",300
 https://load.hdfilme.ws/playlist/1941548425b0a22cebed3815736df5d3/1941548425b0a22cebed3815736df5d3.m3u8|Referer=https://fcine.tv/300-16529-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TuL3WPX.jpg" group-title="",300 : La naissance d'un Empire
+https://load.hdfilme.ws/playlist/df9a9421771995077159f9b1ed31dcc0/df9a9421771995077159f9b1ed31dcc0.m3u8|Referer=https://fcine.tv/300-la-naissance-dun-empire-16527-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/358.jpg" group-title="",365 jours
 https://fr13.seedr.cc/media/video/hd_hls/a57541119e8be6f5f52b2ae7b3f00e8a9e18f53c/vid.m3u8
@@ -381,6 +383,13 @@ https://cloudfront.tubi.video/dc2db6b6-c216-4e4d-9b02-8e3377aa52f6/qps7pa4q/stre
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/628.jpg" group-title="",Black Panther
 https://de9.seedr.cc/media/video/hd_hls/a45b534e99844d64b65976ac20ad9ff61071cea8/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/moZtvme.jpg" group-title="",Blade
+https://load.hdfilme.ws/playlist/f2745e5544eda8f03f1a2ec7ac8379fb/f2745e5544eda8f03f1a2ec7ac8379fb.m3u8|Referer=https://fcine.tv/blade-14169-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2ISslh.jpg" group-title="",Blade 2
+https://load.hdfilme.ws/playlist/f37990fcafbbc627e444c68c37e4c955/f37990fcafbbc627e444c68c37e4c955.m3u8|Referer=https://fcine.tv/blade-2-13723-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USEnpp0.jpg" group-title="",Blade: Trinity
+https://load.hdfilme.ws/playlist/8c488b3eebf218eed6b6801ab0ed08aa/8c488b3eebf218eed6b6801ab0ed08aa.m3u8|Referer=https://fcine.tv/blade-trinity-12921-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1042.jpg" group-title="",Blair Witch
 https://fr15.seedr.cc/media/video/hd_hls/16639d4bd9469751ff1a0ed2403d8e68f6622464/vid.m3u8
@@ -841,6 +850,15 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Film
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/376.jpg" group-title="",How It Ends
 https://fr8.seedr.cc/media/video/hd_hls/02018a1fd0e2f5a98c6956d127741f9e7738795d/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ckyKfdx.jpg" group-title="",Hunger Games
+https://load.hdfilme.ws/playlist/195e1c9c78be5ae921e7a58e3e6b1a1d/195e1c9c78be5ae921e7a58e3e6b1a1d.m3u8|Referer=https://fcine.tv/hunger-games-10175-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RrNRpDw.jpg" group-title="",Hunger Games - L'embrasement
+https://load.hdfilme.ws/playlist/e5b348119803ac1d673407abae0d8313/e5b348119803ac1d673407abae0d8313.m3u8|Referer=https://fcine.tv/hunger-games-lembrasement-9240-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3m3Gkl.jpg" group-title="",Hunger Games: La Révolte - Partie 1
+https://load.hdfilme.ws/playlist/9f0f8fb97f39a341bc717534f802e8f8/9f0f8fb97f39a341bc717534f802e8f8.m3u8|Referer=https://fcine.tv/hunger-games-la-revolte-partie-1-8678-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwsJ9qb.jpg" group-title="",Hunger Games: La Révolte - Partie 2
+https://load.hdfilme.ws/playlist/047fe5c508f731af2e26d025110fc15d/047fe5c508f731af2e26d025110fc15d.m3u8|Referer=https://fcine.tv/hunger-games-la-revolte-partie-2-17127-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/914.jpg" group-title="",Hulk
 https://fr9.seedr.cc/media/video/lq_hls/2efcade9c75910265788d63075650acb347990fa/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/912.jpg" group-title="",L'Incroyable Hulk
@@ -1227,6 +1245,13 @@ https://fr13.seedr.cc/media/video/hd_hls/1ba0553e132cbc231544ffd0ea0de71d7da42eb
 https://load.hdfilme.ws/playlist/16205ba29af2eaaec3b307f3e27c0449/16205ba29af2eaaec3b307f3e27c0449.m3u8|Referer=https://fcine.tv/le-grand-stan-17695-streaming/vf
 #plugin://plugin.video.youtube/play/?video_id=9-6fkcrMP4Y
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vYrykxU.jpg" group-title="",Le Hobbit : un voyage inattendu
+https://load.hdfilme.ws/playlist/691bcbdd1f8f77bb299a7d6d5feab3b2/691bcbdd1f8f77bb299a7d6d5feab3b2.m3u8|Referer=https://fcine.tv/le-hobbit-un-voyage-inattendu-49-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ekspOZ4.jpg" group-title="",Le Hobbit : la Désolation de Smaug
+https://load.hdfilme.ws/playlist/087224ce015f5f92f191ea117ab4e0ec/087224ce015f5f92f191ea117ab4e0ec.m3u8|Referer=https://fcine.tv/le-hobbit-la-desolation-de-smaug-97-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ie0vZn3.jpg" group-title="",Le Hobbit : la Bataille des Cinq Armées
+https://load.hdfilme.ws/playlist/8f8638a285ebdddee2805426129b98d2/8f8638a285ebdddee2805426129b98d2.m3u8|Referer=https://fcine.tv/le-hobbit-la-bataille-des-cinq-armees-99-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RooMzw4.jpg" group-title="",Le Jour de la haine (YT)
 plugin://plugin.video.youtube/play/?video_id=uf91x0r88y0
 
@@ -1521,6 +1546,11 @@ https://nl24.seedr.cc/media/video/hd_hls/9a6c0bdbeba774b1233d3228f96786731f27476
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/683.jpg" group-title="",Mulan
 https://fr2.seedr.cc/media/video/hd_hls/3aec133c0e57f1b7bdba6b8943eefa280b55ec4d/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xdUNR2V.jpg" group-title="",Mythica: La Nécromancienne
+https://load.hdfilme.ws/playlist/1e910fb9728d06fe20cb9fcb126e001f/1e910fb9728d06fe20cb9fcb126e001f.m3u8|Referer=https://fcine.tv/mythica-la-necromancienne-12480-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ujFkmkQ.jpg" group-title="",Mythica: La Couronne de Fer
+https://load.hdfilme.ws/playlist/3c54aaf67cad6436110af6d516c80ec8/3c54aaf67cad6436110af6d516c80ec8.m3u8|Referer=https://fcine.tv/mythica-la-couronne-de-fer-12482-streaming/vf
+
 ###N###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/568.jpg" group-title="",Naked
@@ -1556,6 +1586,9 @@ https://load.hdfilme.ws/playlist/08f53140d47b7ea07e041b6d22abff12/08f53140d47b7e
 https://fr7.seedr.cc/media/video/lq_hls/430a467e25e14d096ae3ab083cbddfe221d142e2/vid.m3u8?dvr
 
 ###O###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fbFWv2k.jpg" group-title="",Oblivion
+https://load.hdfilme.ws/playlist/b0fa7fca70d130e9292826c3b1bb03f8/b0fa7fca70d130e9292826c3b1bb03f8.m3u8|Referer=https://fcine.tv/oblivion-17682-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1004.jpg" group-title="",Òlòtūré
 https://fr8.seedr.cc/media/video/hd_hls/006a01f5672287f5d3a99f5da80ad97f5640e51d/vid.m3u8
@@ -1594,6 +1627,19 @@ https://nl28.seedr.cc/media/video/hd_hls/8979fb85fa0ee741f4762158ceed34fb2f214b3
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1275.jpg" group-title="",Paradise Hills
 https://nl31.seedr.cc/media/video/hd_hls/7c6d78fb40dc64123226ed2039cb08ae4b3b4b2b/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfTZE0h.jpg" group-title="",Paranormal Activity
+https://load.hdfilme.ws/playlist/8d623dbe436e66fe4ed8d4c1a4e7bbc3/8d623dbe436e66fe4ed8d4c1a4e7bbc3.m3u8|Referer=https://fcine.tv/paranormal-activity-12522-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRVvULo.jpg" group-title="",Paranormal Activity 2
+https://load.hdfilme.ws/playlist/ff1af5088d86f58a16327400145f7a65/ff1af5088d86f58a16327400145f7a65.m3u8|Referer=https://fcine.tv/paranormal-activity-2-12524-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AmmQ0X8.jpg" group-title="",Paranormal Activity 3
+https://load.hdfilme.ws/playlist/5d406e4ef0467ff3dcc21c6ea3873ee5/5d406e4ef0467ff3dcc21c6ea3873ee5.m3u8|Referer=https://fcine.tv/paranormal-activity-3-12526-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZ7JyUl.jpg" group-title="",Paranormal Activity 4
+https://load.hdfilme.ws/playlist/2f75721902092fccb2328295f4e2adcf/2f75721902092fccb2328295f4e2adcf.m3u8|Referer=https://fcine.tv/paranormal-activity-4-12529-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TVcNHEf.jpg" group-title="",Paranormal Activity: The Marked Ones
+https://load.hdfilme.ws/playlist/0b2ce20efbba63d0b25b527fa7b5dd08/0b2ce20efbba63d0b25b527fa7b5dd08.m3u8|Referer=https://fcine.tv/paranormal-activity-the-marked-ones-12530-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9PZ473t.jpg" group-title="",Paranormal Activity 5: Ghost Dimension
+https://load.hdfilme.ws/playlist/cff7f91a1562efe63527d5c5c2320914/cff7f91a1562efe63527d5c5c2320914.m3u8|Referer=https://fcine.tv/paranormal-activity-5-ghost-dimension-12531-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1076.jpg" group-title="",Parasomnie
 https://nl37.seedr.cc/media/video/lq_hls/0d425b83785edbbdf70cd72889e9182a8f6be4fb/vid.m3u8
@@ -1879,6 +1925,19 @@ https://nl23.seedr.cc/media/video/hd_hls/2d87267dd53ff061a31ebcd64166962c0cff990
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/635.jpg" group-title="",Stalker in the Attic
 https://nl32.seedr.cc/media/video/hd_hls/4e657b668682dabd0d7cd967c0e6a0841f4e9a8c/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2Z7axb.jpg" group-title="",Star Trek : Le Film
+https://load.hdfilme.ws/playlist/fd6cf823846af20e9b3c21778c4bcb5a/fd6cf823846af20e9b3c21778c4bcb5a.m3u8|Referer=https://fcine.tv/star-trek-le-film-15607-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72hguoI.jpg" group-title="",Star Trek II : La Colère de Khan
+https://load.hdfilme.ws/playlist/f8e0cefb572be4c27824f167eb50bca4/f8e0cefb572be4c27824f167eb50bca4.m3u8|Referer=https://fcine.tv/star-trek-ii-la-colere-de-khan-15349-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xMeo5MX.jpg" group-title="",Star Trek III : A la recherche de Spock
+https://load.hdfilme.ws/playlist/af39f4ed47cc325980c8bf980e56f621/af39f4ed47cc325980c8bf980e56f621.m3u8|Referer=https://fcine.tv/star-trek-iii-a-la-recherche-de-spock-15109-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29pT3Vj.jpg" group-title="",Star Trek IV : Retour sur Terre
+https://load.hdfilme.ws/playlist/e4d233d1c61c71791256f43c9ec34b1f/e4d233d1c61c71791256f43c9ec34b1f.m3u8|Referer=https://fcine.tv/star-trek-iv-retour-sur-terre-14987-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3LZXObi.jpg" group-title="",Star Trek V : L'Ultime frontière
+https://load.hdfilme.ws/playlist/93811998f0a2946d9363230f47ec734e/93811998f0a2946d9363230f47ec734e.m3u8|Referer=https://fcine.tv/star-trek-v-lultime-frontiere-14890-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIKt0DK.jpg" group-title="",Star Trek VI : Terre inconnue
+https://load.hdfilme.ws/playlist/25c4b9d186417d61554bc74a45a5cabb/25c4b9d186417d61554bc74a45a5cabb.m3u8|Referer=https://fcine.tv/star-trek-vi-terre-inconnue-14715-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IwWPjst.jpg" group-title="",Star Wars épisode I - La Menace fantôme
 http://w.sylviethiriez.com/Downloads/films/Star%20Wars%20Pr%c3%a9logie/Star%20Wars,%20%c3%a9pisode%20I%20:%20La%20Menace%20fant%c3%b4me%20.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xoNGL1j.jpg" group-title="",Star Wars épisode II - L'Attaque des clones
@@ -2052,6 +2111,9 @@ https://de9.seedr.cc/media/video/lq_hls/af7457c46d484a2dd55b86d5439aae6d2ee166bd
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1016.jpg" group-title="",The Giver - Le Passeur
 https://nl35.seedr.cc/media/video/lq_hls/0ad4b802087833f1014c9094750779a8312fec11/vid.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I99OXDh.jpg" group-title="",The Grandmaster
+https://load.hdfilme.ws/playlist/c83677ad536f83eb738808bdb4e64ed8/c83677ad536f83eb738808bdb4e64ed8.m3u8|Referer=https://fcine.tv/the-grandmaster-16517-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/420.jpg" group-title="",The Hero
 https://fr7.seedr.cc/media/video/hd_hls/f55f1a0a4da14468b44b7e27309b786cdec68b3c/vid.m3u8
@@ -2355,6 +2417,10 @@ https://fr5.seedr.cc/media/video/lq_hls/a1e378d75722e960a90f04f5fe498bb2750a5ee9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uvwXasQ.jpg" group-title="",xXx (YT)
 plugin://plugin.video.youtube/play/?video_id=fgrwfWcxFlg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t8NLdsQ.jpg" group-title="",xXx²: The Next Level
+https://load.hdfilme.ws/playlist/c2222e975a1242ee701fde4604b5d021/c2222e975a1242ee701fde4604b5d021.m3u8|Referer=https://fcine.tv/xxx-the-next-level-18338-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvNiY00.jpg" group-title="",xXx : Reactivated
+https://load.hdfilme.ws/playlist/619238f38f4ce0c7ce7a34ef7303f6c8/619238f38f4ce0c7ce7a34ef7303f6c8.m3u8|Referer=https://fcine.tv/xxx-reactivated-7673-streaming/vf
 
 ###Y###
 
