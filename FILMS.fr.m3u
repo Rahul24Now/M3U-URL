@@ -700,6 +700,11 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Film
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1033.jpg" group-title="",Escobar
 https://de9.seedr.cc/media/video/lq_hls/b1f3fb054e417dc6f97e3e719138e2386c028460/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgrNZWg.jpg" group-title="",Espen - Le Gardien de la prophétie
+https://load.hdfilme.ws/playlist/b52f49ccf63b60e10f905875d3c412b0/b52f49ccf63b60e10f905875d3c412b0.m3u8|Referer=https://fcine.tv/espen-le-gardien-de-la-prophetie-4696-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cbu7nvk.jpg" group-title="",Espen 2
+https://load.hdfilme.ws/playlist/81014cd5709c23812cdf270437aaabb5/81014cd5709c23812cdf270437aaabb5.m3u8|Referer=https://fcine.tv/espen-2-15753-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nItUcU9.jpg" group-title="",Été 85
 https://nl20.seedr.cc/media/video/lq_hls/c28aa001bfae46c5a912290a28ed4bc81f75aa61/vid.m3u8
 
@@ -912,6 +917,14 @@ https://nl29.seedr.cc/media/video/lq_hls/34ef81866853cf93675fbcb28bb1d943e5d15c8
 https://fr3.seedr.cc/media/video/hd_hls/e70789e44f46f83c9fd9e2ff15be03c96732af3d/vid.m3u8
 
 ###J###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bSe62py.jpg" group-title="",Jack le Chasseur de Géants
+https://load.hdfilme.ws/playlist/156f55a00c5f666bb3f921febabe651a/156f55a00c5f666bb3f921febabe651a.m3u8|Referer=https://fcine.tv/jack-le-chasseur-de-geants-17535-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzPKs1J.jpg" group-title="",Jack Reacher
+https://load.hdfilme.ws/playlist/4c7953c2fd5dab10e82ebe0056efb811/4c7953c2fd5dab10e82ebe0056efb811.m3u8|Referer=https://fcine.tv/jack-reacher-18030-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6i9DT6.jpg" group-title="",Jack Reacher : Never Go Back
+https://load.hdfilme.ws/playlist/8fdc4a0b97da83140f62e05660c36187/8fdc4a0b97da83140f62e05660c36187.m3u8|Referer=https://fcine.tv/jack-reacher-never-go-back-4526-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/884.jpg" group-title="",Jackie Chan - New Police Story
 https://fr9.seedr.cc/media/video/hd_hls/82afaa6dc4d8f0eb501ddd8998f13a76673079f4/vid.m3u8
@@ -1329,6 +1342,13 @@ https://nl21.seedr.cc/media/video/hd_hls/2302973f991cbc3e0b64d3710e24be3a6ca0945
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/544.jpg" group-title="",Le voyage du Dr Dolittle
 https://nl27.seedr.cc/media/video/hd_hls/75726f95c5d7631c2596b2eb4fab7c7b64be9220/vid.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRUJl1c.jpg" group-title="",Les 4 Fantastiques
+https://load.hdfilme.ws/playlist/ee2f0faa92b268e2e9667b1dba8202c8/ee2f0faa92b268e2e9667b1dba8202c8.m3u8|Referer=https://fcine.tv/les-4-fantastiques-12760-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HbhDW7D.jpg" group-title="",Les 4 Fantastiques et le Surfer d'Argent
+https://load.hdfilme.ws/playlist/9c25026f681b37f8e7622b06bcb0f433/9c25026f681b37f8e7622b06bcb0f433.m3u8|Referer=https://fcine.tv/les-4-fantastiques-et-le-surfer-dargent-12005-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9N1lij.jpg" group-title="",Les 4 Fantastiques
+https://load.hdfilme.ws/playlist/23aae9cce72f25fb6d65d8856198431b/23aae9cce72f25fb6d65d8856198431b.m3u8|Referer=https://fcine.tv/les-4-fantastiques-13519-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9Vi2Lk.jpg" group-title="",Les aventures de Tintin - le Mystère de la Toison d'or
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Watch+Tintin_Et_Le_Mystere_De_La_Toison_D_Or_1961_TRUEFRENCH_DVDRIP_Wawacity_vip+Online+%E2%80%94+Mystream.mp4
 
@@ -1605,6 +1625,17 @@ https://fr7.seedr.cc/media/video/hd_hls/82f6c68c2583b6fa21042ba9c3c1109b31ebd778
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0czew1.jpg" group-title="",Pirates de Langkasuka (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5mh9uj
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lwl93op.jpg" group-title="",Pirates des Caraïbes : la Malédiction du Black Pearl
+https://load.hdfilme.ws/playlist/f349c04e0bbbf80e58ab2ce12eed645e/f349c04e0bbbf80e58ab2ce12eed645e.m3u8|Referer=https://fcine.tv/pirates-des-caraibes-la-malediction-du-black-pearl-13170-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qWbRyc1.jpg" group-title="",Pirates des Caraïbes : le Secret du Coffre Maudit
+https://load.hdfilme.ws/playlist/23a8a4672ab65ad174a4373b6fc059af/23a8a4672ab65ad174a4373b6fc059af.m3u8|Referer=https://fcine.tv/pirates-des-caraibes-le-secret-du-coffre-maudit-12367-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h487JRC.jpg" group-title="",Pirates des Caraïbes : Jusqu'au Bout du Monde
+https://load.hdfilme.ws/playlist/e347943adef392c6f5f61e6064e310f4/e347943adef392c6f5f61e6064e310f4.m3u8|Referer=https://fcine.tv/pirates-des-caraibes-jusquau-bout-du-monde-11948-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpy5Xfs.jpg" group-title="",Pirates des Caraïbes : la Fontaine de Jouvence
+https://load.hdfilme.ws/playlist/edb944ea89e13115468cae2d4b67d359/edb944ea89e13115468cae2d4b67d359.m3u8|Referer=https://fcine.tv/pirates-des-caraibes-la-fontaine-de-jouvence-10716-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLDlqEN.jpg" group-title="",Pirates des Caraïbes : la Vengeance de Salazar
+https://load.hdfilme.ws/playlist/07c4990eb51062d8253193516e27b63e/07c4990eb51062d8253193516e27b63e.m3u8|Referer=https://fcine.tv/pirates-des-caraibes-la-vengeance-de-salazar-6207-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/451.jpg" group-title="",Plus rien à f***
 https://nl38.seedr.cc/media/video/hd_hls/c54795476e41ed1809e5ab7a815494f40874c8bb/vid.m3u8
@@ -1918,6 +1949,12 @@ https://de9.seedr.cc/media/video/hd_hls/a0b6766de216c99872cd0a1a5b629e38c31add96
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1318.jpg" group-title="",S.W.A.T. : Firefight
 https://nl34.seedr.cc/media/video/lq_hls/864a580dc68001078f3662984bbcddfd3f01ffd9/vid.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W1FKlsq.jpg" group-title="",Sword of Blood
+https://load.hdfilme.ws/playlist/a90488e833989356e787ac78f14febac/a90488e833989356e787ac78f14febac.m3u8|Referer=https://fcine.tv/sword-of-blood-15553-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MbHQn8U.jpg" group-title="",Sword of Vengeance
+https://load.hdfilme.ws/playlist/be60ccff0b3369dbcb460ae1d64ad2ae/be60ccff0b3369dbcb460ae1d64ad2ae.m3u8|Referer=https://fcine.tv/sword-of-vengeance-12691-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WkDLYDG.jpg" group-title="",swordsman(Wuxia) (YT)
 plugin://plugin.video.youtube/play/?video_id=Eux250tCj4k
 
@@ -2188,6 +2225,15 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Film
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/304.jpg" group-title="",Underwater
 https://fr12.seedr.cc/media/video/hd_hls/cdba91e3570b55d28b122941146d914b94c5e15d/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UzuGumR.jpg" group-title="",Underworld
+https://load.hdfilme.ws/playlist/6dbad39d84b27b812938d7eaece7c484/6dbad39d84b27b812938d7eaece7c484.m3u8|Referer=https://fcine.tv/underworld-13187-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a05xV5M.jpg" group-title="",Underworld 2 - Evolution
+https://load.hdfilme.ws/playlist/6c6da8483abb066256958ab382ff8565/6c6da8483abb066256958ab382ff8565.m3u8|Referer=https://fcine.tv/underworld-2-evolution-12613-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ao4Lh3.jpg" group-title="",Underworld 3 : le soulèvement des Lycans
+https://load.hdfilme.ws/playlist/251dccc188a9659c95e904c0bc1aee21/251dccc188a9659c95e904c0bc1aee21.m3u8|Referer=https://fcine.tv/underworld-3-le-soulevement-des-lycans-11633-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L1g5n7.jpg" group-title="",Underworld - Blood Wars
+https://load.hdfilme.ws/playlist/9bffeaf0250cfb00f22cb9b86045b7a9/9bffeaf0250cfb00f22cb9b86045b7a9.m3u8|Referer=https://fcine.tv/underworld-blood-wars-13500-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1041.jpg" group-title="",Under The Shadow
 https://fr15.seedr.cc/media/video/hd_hls/28745fe282b92ad3dec47c5250097ad011186f98/vid.m3u8
 
@@ -2220,6 +2266,14 @@ https://sf1.seedr.cc/media/video/hd_hls/nl34/e59c317dc94111b8c2eed12bd249e7b985b
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1333.jpg" group-title="",Volontaire
 https://de11.seedr.cc/media/video/hd_hls/636ad9cf0972d97a94b3c6e3acede8f95de8abc8/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XP2Vea9.jpg" group-title="",Vous êtes jeunes, vous êtes beaux
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/film+Vous+%C3%AAtes+jeunes%2C+vous+%C3%AAtes+beaux+streaming+vf.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvgkboN.jpg" group-title="",Voyage au centre de la Terre
+https://load.hdfilme.ws/playlist/c5b76eccb936dc5ec6b30343f0131747/c5b76eccb936dc5ec6b30343f0131747.m3u8|Referer=https://fcine.tv/voyage-au-centre-de-la-terre-18490-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A02oEfS.jpg" group-title="",Voyage au centre de la Terre 2 : L'île mystérieuse
+https://load.hdfilme.ws/playlist/2c9f3105aea388c668a29b4af33f08d1/2c9f3105aea388c668a29b4af33f08d1.m3u8|Referer=https://fcine.tv/voyage-au-centre-de-la-terre-2-lile-mysterieuse-18489-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/908.jpg" group-title="",Venom
 https://fr12.seedr.cc/media/video/hd_hls/a28b0e73f8dc31055880f3e570c31c6376b73c29/vid.m3u8
 
@@ -2229,8 +2283,7 @@ https://fr12.seedr.cc/media/video/hd_hls/8ebee6e18f157da871c81af64f3d61cd19aa5de
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/371.jpg" group-title="",V pour Vendetta
 https://nl38.seedr.cc/media/video/lq_hls/e6d8951f1453dea68922846c474681acb3232814/vid.m3u8?dvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XP2Vea9.jpg" group-title="",Vous êtes jeunes, vous êtes beaux
-https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/film+Vous+%C3%AAtes+jeunes%2C+vous+%C3%AAtes+beaux+streaming+vf.mp4
+
 
 ###W###
 
