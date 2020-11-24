@@ -244,7 +244,9 @@ https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="USA",Country Music 4U (Opt-1)
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 
-
+# https://www.youtube.com/channel/UC6dB-iYVw8Lcs5_uFWUZCOQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjkSluT.jpg" group-title="",Create and Craft USA Live (YT)
+plugin://plugin.video.youtube/play/?video_id=yNZ8LOFhvNI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
