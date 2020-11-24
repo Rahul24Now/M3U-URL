@@ -2,7 +2,7 @@
 
 #### Made By Sphinxr00t QC ####
 
-## note : u need dailymotion  youtube Twitch and tvtap addon in kodi #
+
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
@@ -10,6 +10,9 @@ plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]stream temporaire / Evenement[/COLOR]★★★★★★★★★★
 0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qbY1WbE.jpg" group-title="",Dette Publique Française et Mondiale EN DIRECT (YT)
+plugin://plugin.video.youtube/play/?video_id=TKC-PZEl3rU
 
 #######
 
