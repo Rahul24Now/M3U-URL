@@ -373,6 +373,15 @@ plugin://plugin.video.youtube/play/?video_id=_PJMK3XYwFE
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1084.jpg" group-title="",Les Pingouins de Madagascar - Opération : Antarctique
 https://nl32.seedr.cc/media/video/hd_hls/53321d579daf000637d234ba6bfb2d262a4a4b1e/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bfaca95.jpg" group-title="",Les Rebelles de la forêt
+https://load.hdfilme.ws/playlist/59636dd89cb891704812bf79982a9365/59636dd89cb891704812bf79982a9365.m3u8|Referer=https://fcine.tv/les-rebelles-de-la-foret-18488-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5SOKVRF.jpg" group-title="",Les Rebelles de la forêt 2
+https://load.hdfilme.ws/playlist/3ade4a10016841713e659d1e8bb9c0a1/3ade4a10016841713e659d1e8bb9c0a1.m3u8|Referer=https://fcine.tv/les-rebelles-de-la-foret-2-18487-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVCglxw.jpg" group-title="",Les Rebelles de la forêt 3
+https://load.hdfilme.ws/playlist/5970f8e8befec9c120706b475c44a484/5970f8e8befec9c120706b475c44a484.m3u8|Referer=https://fcine.tv/les-rebelles-de-la-foret-3-18485-streaming/vf
+#EXTINF:-1 tvg-logo="" group-title="",Les rebelles de la forêt 4
+https://load.hdfilme.ws/playlist/020da63fc035651ede8e1a9675d90a47/020da63fc035651ede8e1a9675d90a47.m3u8|Referer=https://fcine.tv/les-rebelles-de-la-foret-4-13116-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xTr10e.jpg" group-title="",Les Schtroumpfs - La Sorcellerie (YT)
 plugin://plugin.video.youtube/play/?video_id=qnynAiO1pJQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BdsNMUR.jpg" group-title="",Les Schtroumpfs  - Les Betises (YT)
@@ -467,8 +476,16 @@ https://fr11.seedr.cc/media/video/hd_hls/981440549fcebba2eabc54d2d163b14704327b2
 
 ###O###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrPYxDD.jpg" group-title="",Oggy et les cafards
+https://load.hdfilme.ws/playlist/1975baafca14af2cc1f48ddcd752f56a/1975baafca14af2cc1f48ddcd752f56a.m3u8|Referer=https://fcine.tv/oggy-et-les-cafards-17091-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/414.jpg" group-title="",One Piece Stampede
 https://fr9.seedr.cc/media/video/hd_hls/b1297b54af9662975359f5f9ec8c62e94f114e83/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fzuDh4A.jpg" group-title="",Opération Casse-noisette
+https://load.hdfilme.ws/playlist/64b959f4da546035356bf0db51c1768e/64b959f4da546035356bf0db51c1768e.m3u8|Referer=https://fcine.tv/operation-casse-noisette-17031-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWZCjqm.jpg" group-title="",Opération casse-noisette 2
+https://load.hdfilme.ws/playlist/c758ff0435f915ca0024ecaec5e2cff9/c758ff0435f915ca0024ecaec5e2cff9.m3u8|Referer=https://fcine.tv/operation-casse-noisette-2-5426-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsTpkHN.jpg" group-title="",Oups j’ai raté l’arche ! (YT)
 plugin://plugin.video.youtube/play/?video_id=6hV1tM1gtX4
@@ -608,6 +625,13 @@ https://nl23.seedr.cc/media/video/lq_hls/32929aa615bc9f54f6b80ee95ce992e924aa5d6
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/82.jpg" group-title="",Teen Titans Go! vs. Teen Titans
 https://sf1.seedr.cc/media/video/hd_hls/nl21/caffe5c2d79af87d209211c753a7e0a919628067/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DgPtAXI.jpg" group-title="",Tom et Jerry: Le Film
+https://load.hdfilme.ws/playlist/571a059537bb1bbf368041385ffdd105/571a059537bb1bbf368041385ffdd105.m3u8|Referer=https://fcine.tv/tom-et-jerry-le-film-18977-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BLiGA0B.jpg" group-title="",Tom et Jerry - L'histoire de Robin des Bois
+https://load.hdfilme.ws/playlist/9b0a8db865054e7fcd5be930da7856ca/9b0a8db865054e7fcd5be930da7856ca.m3u8|Referer=https://fcine.tv/tom-et-jerry-lhistoire-de-robin-des-bois-17597-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/apkX72v.jpg" group-title="",Tom et Jerry - Le haricot géant
+https://load.hdfilme.ws/playlist/c5e676e3b569ac564687f5c7b593227a/c5e676e3b569ac564687f5c7b593227a.m3u8|Referer=https://fcine.tv/tom-et-jerry-le-haricot-geant-17595-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/android/uploads/video_thumb/1171.jpg" group-title="",Toy Story
 https://de17.seedr.cc/media/video/lq_hls/1603a0b9e6f5f12d0c982af1b708b6157f1abaa5/vid.m3u8?dvr
