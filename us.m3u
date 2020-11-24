@@ -76,7 +76,9 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://gma2.blab.email/acc.m3u8
 
 
-
+# https://www.twitch.tv/acmeclassics
+#EXTINF:-1 tvg-logo="https://acmeclassics.com/images/logo_site.png" group-title="",Acme Classics (TWITCH)
+plugin://plugin.video.twitch/?channel_id=595801070&amp;mode=play
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV Family
