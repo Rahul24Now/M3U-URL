@@ -841,6 +841,11 @@ https://nl33.seedr.cc/media/video/hd_hls/8ed13c637c1eee7d2ec2a6e6314e9ffb8fed062
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1034.jpg" group-title="",Higher Power
 https://de9.seedr.cc/media/video/hd_hls/fc0d44cea07bbc672ab3aaa226d7d1d581449865/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wkauSh2.jpg" group-title="",Highlander
+https://load.hdfilme.ws/playlist/199ca33f0be1e0f7399cf86a3f7b05e9/199ca33f0be1e0f7399cf86a3f7b05e9.m3u8|Referer=https://fcine.tv/highlander-7485-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf4FU8t.jpg" group-title="",Highlander - Le retour
+https://load.hdfilme.ws/playlist/ce91b868a88a6581e74282071374c01d/ce91b868a88a6581e74282071374c01d.m3u8|Referer=https://fcine.tv/highlander-le-retour-14804-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/822.jpg" group-title="",Homefront
 https://nl33.seedr.cc/media/video/lq_hls/da24ce209e51a9fd9f806cd9c5b1dc1702ee7add/vid.m3u8?dvr
 
