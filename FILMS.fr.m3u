@@ -140,6 +140,17 @@ plugin://plugin.video.youtube/play/?video_id=nnhlMTzQ0TQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39Bsl7E.jpg" group-title="",Holdup Le documentaire – Retour sur un Chaos! (YT)
 plugin://plugin.video.youtube/play/?video_id=FNzqj8j1Fg4
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zzVznMH.jpg" group-title="",Les Secrets de la tombe de Saqqara
+https://load.hdfilme.ws/playlist/05305c888baf092dfbbd15b3db8c9491/05305c888baf092dfbbd15b3db8c9491.m3u8|Referer=https://fcine.tv/les-secrets-de-la-tombe-de-saqqarah-18919-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mYBESF2.jpg" group-title="",Thomas Pesquet, l'étoffe d'un héros
+https://load.hdfilme.ws/playlist/88a44472c9013b0fa4f41c7cd9282f46/88a44472c9013b0fa4f41c7cd9282f46.m3u8|Referer=https://fcine.tv/thomas-pesquet-letoffe-dun-heros-18156-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MJLkm8.jpg" group-title="",Derrière nos écrans de fumée
+https://load.hdfilme.ws/playlist/607e097fc8f77a7cfc63718c603457e3/607e097fc8f77a7cfc63718c603457e3.m3u8|Referer=https://fcine.tv/derriere-nos-ecrans-de-fumee-17604-streaming/vf
+
+
 #########
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rozA2zY.png",★★★★★★★★★★[COLOR red]Films[/COLOR]★★★★★★★★★★
