@@ -214,6 +214,9 @@ https://load.hdfilme.ws/playlist/71ae6b59fe76f3f32394bc9dbc4a47f2/71ae6b59fe76f3
 
 ###A###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6AlicO.jpg" group-title="",À la poursuite du diamant vert
+https://load.hdfilme.ws/playlist/6af24f1ee39ff5b9ace716aa9e84129d/6af24f1ee39ff5b9ace716aa9e84129d.m3u8|Referer=https://fcine.tv/a-la-poursuite-du-diamant-vert-15108-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2MDyMtO.jpg" group-title="",Abyss
 https://load.hdfilme.ws/playlist/594f64242eb49ab925bb0782b0679666/594f64242eb49ab925bb0782b0679666.m3u8|Referer=https://fcine.tv/abyss-14867-streaming/vf
 
@@ -234,6 +237,9 @@ https://fr8.seedr.cc/media/video/hd_hls/106909c34751abec233883856d7ae4624e984ca5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ViO8z7a.jpg" group-title="",Agaguk (YT)
 plugin://plugin.video.youtube/play/?video_id=PeZd5kTA-NY
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6r4inpI.jpg" group-title="",Aigle de fer
+https://load.hdfilme.ws/playlist/21bf95c2a9c020e216ac085b12ece101/21bf95c2a9c020e216ac085b12ece101.m3u8|Referer=https://fcine.tv/aigle-de-fer-18028-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p8vupC9.jpg" group-title="",Air Force One
 https://load.hdfilme.ws/playlist/0f0c6f741e92feb6512890f2d1ec8fab/0f0c6f741e92feb6512890f2d1ec8fab.m3u8|Referer=https://fcine.tv/air-force-one-14312-streaming/vf
 
@@ -248,6 +254,17 @@ https://fr9.seedr.cc/media/video/lq_hls/e35beb940c010e718ab20bcea7791917da8ab27b
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5r0zVW6.jpg" group-title="",Alexandre
 https://load.hdfilme.ws/playlist/a1ef60705eb962de64f13c9f30b44ecc/a1ef60705eb962de64f13c9f30b44ecc.m3u8|Referer=https://fcine.tv/alexandre-12914-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4JSWfR.jpg" group-title="",Alien, le huitième passager
+https://load.hdfilme.ws/playlist/650c51d259f45873208fbb0555a5c3e3/650c51d259f45873208fbb0555a5c3e3.m3u8|Referer=https://fcine.tv/alien-le-huitieme-passager-15589-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZdSrLw.jpg" group-title="",Aliens le retour
+https://load.hdfilme.ws/playlist/ba7d5e8d8dd9d969eef21e7c6651de5b/ba7d5e8d8dd9d969eef21e7c6651de5b.m3u8|Referer=https://fcine.tv/aliens-le-retour-14961-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AfZgzew.jpg" group-title="",Alien 3
+https://load.hdfilme.ws/playlist/f3e49912ebeb5de4684a2a13352ba178/f3e49912ebeb5de4684a2a13352ba178.m3u8|Referer=https://fcine.tv/alien-14684-streaming/vf
+#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/HgE4Yke.png",Alien, la résurrection
+https://load.hdfilme.ws/playlist/48f382aff2a51ad197df28bf4b7c7fdd/48f382aff2a51ad197df28bf4b7c7fdd.m3u8|Referer=https://fcine.tv/alien-la-resurrection-14245-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZC1fqfo.jpg" group-title="",Alien: Covenant
+https://load.hdfilme.ws/playlist/13628da3ed4796fd944affb59c438df8/13628da3ed4796fd944affb59c438df8.m3u8|Referer=https://fcine.tv/alien-covenant-6646-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/634.jpg" group-title="",All Together Now
 https://fr10.seedr.cc/media/video/hd_hls/a24eba7f3c46215e44da8ae8029857f25df44f67/vid.m3u8
@@ -583,6 +600,13 @@ plugin://plugin.video.youtube/play/?video_id=XFd_Ht9Mepo
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/637.jpg" group-title="",Comme des phénix - L'esprit paralympique
 https://nl38.seedr.cc/media/video/hd_hls/f51db527e479b9d7cad85e56c4ea7f9f99f57abe/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RaPoOU9.jpg" group-title="",Conan le barbare
+https://load.hdfilme.ws/playlist/08ab1b9fbe1e49630f56a0885ca52418/08ab1b9fbe1e49630f56a0885ca52418.m3u8|Referer=https://fcine.tv/conan-le-barbare-15326-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPk9AnF.jpg" group-title="",Conan le destructeur
+https://load.hdfilme.ws/playlist/e4993b56bc63378c03313a9fb737a6ea/e4993b56bc63378c03313a9fb737a6ea.m3u8|Referer=https://fcine.tv/conan-le-destructeur-15095-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRUn6ng.jpg" group-title="",Conan
+https://load.hdfilme.ws/playlist/b34025226473864d1d37efd494b187e8/b34025226473864d1d37efd494b187e8.m3u8|Referer=https://fcine.tv/conan-10388-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/825.jpg" group-title="",Constantine
 https://nl31.seedr.cc/media/video/lq_hls/1779d85d4643c6a0b85e140db00d19ae8d80fdfb/vid.m3u8?dvr
 
@@ -635,6 +659,17 @@ https://nl23.seedr.cc/media/video/hd_hls/89bb78700408f05c8c4423b0c53179eb01230dd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYCIOiw.jpg" group-title="",Deux Frères Appelés Trinita (YT)
 plugin://plugin.video.youtube/play/?video_id=GPma8eHhwpI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTgK6WC.jpg" group-title="",Die Hard 1 - Piège de cristal
+https://load.hdfilme.ws/playlist/473153d4cc87c3a21897c96499793ce6/473153d4cc87c3a21897c96499793ce6.m3u8|Referer=https://fcine.tv/piege-de-cristal-14915-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/irLkx8z.jpg" group-title="",Die Hard 2 - 58 minutes pour vivre
+https://load.hdfilme.ws/playlist/4d21547de366985dda18ca11a9486b5c/4d21547de366985dda18ca11a9486b5c.m3u8|Referer=https://fcine.tv/58-minutes-pour-vivre-14835-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rh8lbAf.jpg" group-title="",Die Hard 3 - Une journée en enfer
+https://load.hdfilme.ws/playlist/5038c53e65f0b2ecfaaf7a876ec53206/5038c53e65f0b2ecfaaf7a876ec53206.m3u8|Referer=https://fcine.tv/une-journee-en-enfer-8173-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdX8oxm.jpg" group-title="",Die Hard 4 - retour en enfer
+https://load.hdfilme.ws/playlist/94ec4a167018f60a3fc68e3f0eea5b55/94ec4a167018f60a3fc68e3f0eea5b55.m3u8|Referer=https://fcine.tv/die-hard-4-retour-en-enfer-11941-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H3vbUIB.jpg" group-title="",Die Hard - belle journée pour mourir
+https://load.hdfilme.ws/playlist/d64b86f17cafb88cd57ac5728541e59a/d64b86f17cafb88cd57ac5728541e59a.m3u8|Referer=https://fcine.tv/die-hard-belle-journee-pour-mourir-8175-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1265.jpg" group-title="",Dino Dana: Le Film
 https://nl27.seedr.cc/media/video/hd_hls/c2999f4170b6b5a20ba82ed120c0d9be32f11130/vid.m3u8
@@ -786,6 +821,9 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/2020
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5CNMIez.jpg" group-title="",Ghosts of War (VOSF) (NA)
 https://wvw.dwfull.com/gkgxwclv2zyb2c72qtsbroh3x67nim6cwpsrbi3pdeuvknk2wdsqp46566cq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLdfkin.jpg" group-title="",Golden child,l'enfant sacré du Tibet
+https://load.hdfilme.ws/playlist/c513665daffebf56657bc1b1fdacf8bc/c513665daffebf56657bc1b1fdacf8bc.m3u8|Referer=https://fcine.tv/golden-child-lenfant-sacre-du-tibet-14973-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbN0nbn.jpg" group-title="",Grease
 https://load.hdfilme.ws/playlist/d899ed533feb6d0c80e4daa73c2fb284/d899ed533feb6d0c80e4daa73c2fb284.m3u8|Referer=https://fcine.tv/grease-15657-streaming/vf
@@ -1102,6 +1140,9 @@ https://nl30.seedr.cc/media/video/hd_hls/82864852ce361619845104959978ba0dd630db8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/674.jpg" group-title="",L'ombre d'un fils
 https://nl29.seedr.cc/media/video/lq_hls/9d5f4974ac24903ac952608131d76cbcf3960da4/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bN1IKuW.jpg" group-title="",La 317ème section
+https://load.hdfilme.ws/playlist/8f22c7ef1251bff86785e2f02e9bd414/8f22c7ef1251bff86785e2f02e9bd414.m3u8|Referer=https://fcine.tv/la-317eme-section-9271-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/194.jpg" group-title="",La Belle et la Bête
 https://lo1.seedr.cc/media/video/hd_hls/fr8/bb3b7b47c3ba19159374017b8b82e9e250446a64/vid.m3u8
 
@@ -1202,6 +1243,9 @@ https://load.hdfilme.ws/playlist/4ede968962fa48a2a6aeec5d43627fd4/4ede968962fa48
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rvKIJSi.jpg" group-title="",Le Cinquième élément
 https://load.hdfilme.ws/playlist/adcf60d5b6c1bc90076a99ae9e4f4843/adcf60d5b6c1bc90076a99ae9e4f4843.m3u8|Referer=https://fcine.tv/le-cinquieme-element-14345-streaming/vf
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eolg9E9.jpg" group-title="",Le Contrat
+https://load.hdfilme.ws/playlist/5f6a059542c70cc8496ba20aa7d8f28d/5f6a059542c70cc8496ba20aa7d8f28d.m3u8|Referer=https://fcine.tv/le-contrat-17954-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qU7WWej.jpg" group-title="",Le Couloir de la mort (1978) (YT)
 plugin://plugin.video.youtube/play/?video_id=em-wKwXB1CU
 
@@ -1239,6 +1283,13 @@ https://fr10.seedr.cc/media/video/lq_hls/7ab8c3d0e33be7ce23c1a0b3eed0fac3e43e6e9
 https://nl38.seedr.cc/media/video/lq_hls/15d7bde433213deba468d9630f427d34b2718aae/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3W3bG6C.jpg" group-title="",La Fiancée de Chucky (YT)
 plugin://plugin.video.youtube/play/?video_id=clQk9hRBEAs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69k4Njy.jpg" group-title="",Le flic de Beverly Hills
+https://load.hdfilme.ws/playlist/eac4c107bd6254187a2047d7a694f127/eac4c107bd6254187a2047d7a694f127.m3u8|Referer=https://fcine.tv/le-flic-de-beverly-hills-13582-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbKd1WU.jpg" group-title="",Le flic de Beverly Hills 2
+https://load.hdfilme.ws/playlist/aaae5f1ed2f3e6babad5db82d43caf3f/aaae5f1ed2f3e6babad5db82d43caf3f.m3u8|Referer=https://fcine.tv/le-flic-de-beverly-hills-2-13579-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdJ2kcw.jpg" group-title="",Le flic de Beverly Hills 3
+https://load.hdfilme.ws/playlist/0a65cea5ce48b3bdf50394f719d49b53/0a65cea5ce48b3bdf50394f719d49b53.m3u8|Referer=https://fcine.tv/le-flic-de-beverly-hills-3-13576-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dgOQ7Dc.jpg" group-title="",Le fort de la dernière chance 1957 (YT)
 plugin://plugin.video.youtube/play/?video_id=SnocEmWa1Ac
@@ -1406,6 +1457,9 @@ https://sf1.seedr.cc/media/video/hd_hls/nl22/0c162b4bf0adbbfdb0405fee46acfa22d53
 https://sf1.seedr.cc/media/video/hd_hls/fr7/0a3b5c20c48507598b1dc5041eef0fdbb0a17bf3/vid.m3u8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/74.jpg" group-title="",Les Enfants maudits - Les secrets du manoir 
 https://sf1.seedr.cc/media/video/hd_hls/nl22/89ecbad16d65e09d2b429dea2790afe223bcbbdc/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gp664oV.jpg" group-title="",Les Goonies
+https://load.hdfilme.ws/playlist/7a567783b52a158dc5d7defcede862ec/7a567783b52a158dc5d7defcede862ec.m3u8|Referer=https://fcine.tv/les-goonies-17624-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V44tR5P.jpg" group-title="",Les Incorruptibles
 https://load.hdfilme.ws/playlist/cae262b3c56566200913ae4c21823d12/cae262b3c56566200913ae4c21823d12.m3u8|Referer=https://fcine.tv/les-incorruptibles-14959-streaming/vf
@@ -2276,6 +2330,7 @@ plugin://plugin.video.youtube/play/?video_id=aRLhvuhSuV8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/566.jpg" group-title="",Un prince à New York
 https://nl28.seedr.cc/media/video/hd_hls/acd7afbcbdbebcf755bc856b4b5445ae3e00c574/vid.m3u8
+#https://load.hdfilme.ws/playlist/10f991edb89e86a4af82e3bdcb939282/10f991edb89e86a4af82e3bdcb939282.m3u8|Referer=https://fcine.tv/un-prince-a-new-york-14933-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1276.jpg" group-title="",Un simple baiser
 https://nl30.seedr.cc/media/video/hd_hls/bd42c586fdc525532a882268f7ce38713d3e4527/vid.m3u8
