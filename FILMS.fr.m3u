@@ -337,7 +337,7 @@ https://load.hdfilme.ws/playlist/650c51d259f45873208fbb0555a5c3e3/650c51d259f458
 https://load.hdfilme.ws/playlist/ba7d5e8d8dd9d969eef21e7c6651de5b/ba7d5e8d8dd9d969eef21e7c6651de5b.m3u8|Referer=https://fcine.tv/aliens-le-retour-14961-streaming/vf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfZgzew.jpg" group-title="",Alien 3
 https://load.hdfilme.ws/playlist/f3e49912ebeb5de4684a2a13352ba178/f3e49912ebeb5de4684a2a13352ba178.m3u8|Referer=https://fcine.tv/alien-14684-streaming/vf
-#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/HgE4Yke.png",Alien, la résurrection
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HgE4Yke.png" group-title="",Alien, la résurrection
 https://load.hdfilme.ws/playlist/48f382aff2a51ad197df28bf4b7c7fdd/48f382aff2a51ad197df28bf4b7c7fdd.m3u8|Referer=https://fcine.tv/alien-la-resurrection-14245-streaming/vf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZC1fqfo.jpg" group-title="",Alien: Covenant
 https://load.hdfilme.ws/playlist/13628da3ed4796fd944affb59c438df8/13628da3ed4796fd944affb59c438df8.m3u8|Referer=https://fcine.tv/alien-covenant-6646-streaming/vf
@@ -1799,7 +1799,7 @@ https://nl31.seedr.cc/media/video/hd_hls/e2cfb560a1f13caebff9274fb4b534fccf5a3db
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95jEbVN.jpg" group-title="",Peur bleue
 https://load.hdfilme.ws/playlist/d7f6288860d2a3a84a65faf58c48efa5/d7f6288860d2a3a84a65faf58c48efa5.m3u8|Referer=https://fcine.tv/peur-bleue-14086-streaming/vf
-#EXTINF:-1 tvg-logo="" group-title="",Peur Bleue 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndresbe.jpg" group-title="",Peur Bleue 2
 https://load.hdfilme.ws/playlist/5e2ef62b999e6411921933bef65629b7/5e2ef62b999e6411921933bef65629b7.m3u8|Referer=https://fcine.tv/peur-bleue-2-5234-streaming/vf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bGedWcI.jpg" group-title="",Peur Bleue 3
 https://load.hdfilme.ws/playlist/3ccb42fe8d65bad63270308d056954e4/3ccb42fe8d65bad63270308d056954e4.m3u8|Referer=https://fcine.tv/deep-blue-sea-3-15188-streaming/vf
@@ -1842,7 +1842,7 @@ https://load.hdfilme.ws/playlist/3f9dbaa077d65a2aad1b78a500c7a500/3f9dbaa077d65a
 https://load.hdfilme.ws/playlist/4718b508ed80f200c54f297d1cee6701/4718b508ed80f200c54f297d1cee6701.m3u8|Referer=https://fcine.tv/police-academy-5-debarquement-a-miami-beach-17418-streaming/vf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj6L5nS.jpg" group-title="",Police Academy 6 : S.O.S. Ville en état de choc
 https://load.hdfilme.ws/playlist/ab8c6afba4de10f2d49d061385da56f3/ab8c6afba4de10f2d49d061385da56f3.m3u8|Referer=https://fcine.tv/police-academy-6-sos-ville-en-etat-de-choc-17420-streaming/vf
-#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/m0SScyJ.jpg",Police Academy 7 : Mission à Moscou
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0SScyJ.jpg" group-title="",Police Academy 7 : Mission à Moscou
 https://load.hdfilme.ws/playlist/b0651c6f2cbef6ceb2cf97e0066c0be0/b0651c6f2cbef6ceb2cf97e0066c0be0.m3u8|Referer=https://fcine.tv/police-academy-7-mission-a-moscou-17422-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBJECAU.jpg" group-title="",Poltergeist
