@@ -30,8 +30,9 @@ https://load.hdfilme.ws/playlist/fb4107c6afe2a5ecb35c3fea3953e8d3/fb4107c6afe2a5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HgWgwQX.jpg" group-title="",1er amour (YT)
 plugin://plugin.video.youtube/play/?video_id=F-Vqw_bQXbg
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFNIvY6.jpg" group-title="",2 Frogs Dans L Ouest (YT)
-plugin://plugin.video.youtube/play/?video_id=vxEKF89OXn8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9m53VHe.jpg" group-title="",2 Frogs dans l'ouest
+https://load.hdfilme.ws/playlist/0aea14fc7aa2183369c0e0d74f9b67ed/0aea14fc7aa2183369c0e0d74f9b67ed.m3u8|Referer=https://fcine.tv/2-frogs-dans-louest-11045-streaming/vf
+#plugin://plugin.video.youtube/play/?video_id=vxEKF89OXn8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQE9pWh.jpg" group-title="",2 secondes (YT)
 plugin://plugin.video.youtube/play/?video_id=Cuzc2RxhAwk
@@ -115,6 +116,9 @@ plugin://plugin.video.youtube/play/?video_id=IJJiRSgYDXE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nlm8K1x.jpg" group-title="",Cul-de-$ac (YT)
 plugin://plugin.video.youtube/play/?video_id=phTfTdvUp94
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pZQzOjJ.jpg" group-title="",curling
+https://load.hdfilme.ws/playlist/e1e4176120ea45808934093c8a8e7341/e1e4176120ea45808934093c8a8e7341.m3u8|Referer=https://fcine.tv/curling-4779-streaming/vf
 
 ###D###
 
@@ -233,6 +237,9 @@ plugin://plugin.video.youtube/play/?video_id=FWcASsriE08
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xb8wMOW.jpg" group-title="Quebec Film",La guerre des tuques (YT)
 plugin://plugin.video.youtube/play/?video_id=goVs9eTkm38
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QI9d79q.jpg" group-title="",La Femme De Mon Frère
+https://load.hdfilme.ws/playlist/0fc95b829c95b8e94a2fc50b9b504260/0fc95b829c95b8e94a2fc50b9b504260.m3u8|Referer=https://fcine.tv/la-femme-de-mon-frere-7201-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEAYOoT.jpg" group-title="Quebec Film",LA PETITE AURORE, L'ENFANT MARTYRE 1952 (YT)
 plugin://plugin.video.youtube/play/?video_id=h6oKNrOhvIQ
 
@@ -244,6 +251,11 @@ plugin://plugin.video.youtube/play/?video_id=rRzHL50F0Tw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TfoAxPt.jpg" group-title="",le colis (YT)
 plugin://plugin.video.youtube/play/?video_id=ofjW_OVRdb8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxFPDqi.jpg" group-title="",Le Déclin de l'empire américain
+https://load.hdfilme.ws/playlist/388e19664954a3b067e7f57e91eeb0dc/388e19664954a3b067e7f57e91eeb0dc.m3u8|Referer=https://fcine.tv/le-declin-de-lempire-americain-5338-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ua0Od47.jpg" group-title="",Les Invasions barbares
+https://load.hdfilme.ws/playlist/44f995e8293b9e71cf0849ac1c54491a/44f995e8293b9e71cf0849ac1c54491a.m3u8|Referer=https://fcine.tv/les-invasions-barbares-4835-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QG3xagW.jpg" group-title="",LE GARAGISTE (YT)
 plugin://plugin.video.youtube/play/?video_id=JF05eU9OmUo
@@ -310,6 +322,9 @@ plugin://plugin.video.youtube/play/?video_id=4dlGOb366EY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qlqNXrt.jpg" group-title="",Les Pee-Wee 3D (NA)
 https://mega99.uqload.com/3rfktvwvezw2q4drdi5ph5xtchm7gxtsaizk5f4rk3oxa23kc7ok5nam3eeq/v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vQMsYN.jpg" group-title="",Les Rois Mongols
+https://load.hdfilme.ws/playlist/197b9ecb96393b232c408c1246dee9d1/197b9ecb96393b232c408c1246dee9d1.m3u8|Referer=https://fcine.tv/les-rois-mongols-6807-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgwYWYwYTktYjNjMi00ZmRhLTg0MzYtMTJhOWU0ZjFiNjc2XkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_.jpg" group-title="Quebec Film",les voisins 1987 (YT)
 plugin://plugin.video.youtube/play/?video_id=-RpYi_Vuviw
@@ -384,6 +399,9 @@ plugin://plugin.video.youtube/play/?video_id=afZ6DA4M1LQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vA7SCAB.jpg" group-title="",Partis pour la gloire (YT)
 plugin://plugin.video.youtube/play/?video_id=acvLG_IzeX0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fmxjjST.jpg" group-title="",Pauvre Georges !
+https://load.hdfilme.ws/playlist/2a241c2e6f463765f2a77a75a663491a/2a241c2e6f463765f2a77a75a663491a.m3u8|Referer=https://fcine.tv/pauvre-georges-10871-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b2O2QJT.jpg" group-title="",Piché Entre Ciel & Terre (YT)
 plugin://plugin.video.youtube/play/?video_id=pPI1fJ3UunY
 
@@ -436,6 +454,9 @@ plugin://plugin.video.youtube/play/?video_id=_-ywldXImLM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nO70aR0.jpg" group-title="",Ti-Mine, Bernie pis la gang... (YT)
 plugin://plugin.video.youtube/play/?video_id=srfC6cmS4D0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zaCLDci.jpg" group-title="",Tu dors Nicole
+https://load.hdfilme.ws/playlist/6b11c76e8972cb00aeb84e69722ab0ab/6b11c76e8972cb00aeb84e69722ab0ab.m3u8|Referer=https://fcine.tv/tu-dors-nicole-8055-streaming/vf
 
 ###U###
 
