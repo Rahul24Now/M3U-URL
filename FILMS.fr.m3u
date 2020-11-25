@@ -721,6 +721,9 @@ https://load.hdfilme.ws/playlist/a7832c740941a2fcbf86c16d0c915286/a7832c740941a2
 https://load.hdfilme.ws/playlist/859333a50da8870127c7e5cc165ee8df/859333a50da8870127c7e5cc165ee8df.m3u8|Referer=https://fcine.tv/deadpool-2-1222-streaming/vf
 #plugin://plugin.video.youtube/play/?video_id=f4qUPFkPc8o
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IkMDw1i.jpg" group-title="",Deepwater Horizon
+https://load.hdfilme.ws/playlist/1697fecf708740b42c01ef9e89680167/1697fecf708740b42c01ef9e89680167.m3u8|Referer=https://fcine.tv/deepwater-4757-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1372.jpg" group-title="",Delirium
 https://fr15.seedr.cc/media/video/lq_hls/3d297d876a237a6f4f028a9a78f7c1b5ba565213/vid.m3u8?
 
@@ -913,6 +916,9 @@ https://nl33.seedr.cc/media/video/lq_hls/40261a20360fc9028b51db6e0de54db207fbbdc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hx3tOw6.jpg" group-title="",Hacker
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Hacker.2019.FRENCH.720p.BluRay.x264.AC3-Wawacity.best.mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V0UWIQX.jpg" group-title="",Hacksaw Ridge
+https://load.hdfilme.ws/playlist/148714bfdf6e413c394f6b3b35162213/148714bfdf6e413c394f6b3b35162213.m3u8|Referer=https://fcine.tv/tu-ne-tueras-point-12385-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/254.jpg" group-title="",Hancock
 https://nl32.seedr.cc/media/video/lq_hls/f75acf0125bf94dceda4f6ed17ab206abd5a38b3/vid.m3u8?dvr
@@ -1691,6 +1697,9 @@ https://load.hdfilme.ws/playlist/3c54aaf67cad6436110af6d516c80ec8/3c54aaf67cad64
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/568.jpg" group-title="",Naked
 https://nl19.seedr.cc/media/video/hd_hls/fb92512eccf68077576cb651f7f15a1b19de72b4/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ajhYA4.jpg" group-title="",Need for Speed
+https://load.hdfilme.ws/playlist/5f5c68081cebcaba6d44b1c347e8a7ab/5f5c68081cebcaba6d44b1c347e8a7ab.m3u8|Referer=https://fcine.tv/need-for-speed-9195-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1020.jpg" group-title="",Never Grow Old
 https://nl35.seedr.cc/media/video/hd_hls/7d8330fd6e2788291afb8c404eaba15e455c295b/vid.m3u8
 
@@ -1984,6 +1993,9 @@ https://nl24.seedr.cc/media/video/hd_hls/0e88231c4e0baf3fe254a841529e9b38365217d
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1345.jpg" group-title="",Seul contre tous
 https://nl17.seedr.cc/media/play_hls/a620dcda4f156847202c55c423e1b5f8f88d1da2.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNj4SE0.jpg" group-title="",Seul sur Mars
+https://load.hdfilme.ws/playlist/846713ded06a4960eb21b4d3438649dc/846713ded06a4960eb21b4d3438649dc.m3u8|Referer=https://fcine.tv/seul-sur-mars-1124-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1086.jpg" group-title="",Sexy Dance
 https://nl22.seedr.cc/media/video/lq_hls/e417846269081a991d83f2c4c45620d1c69de19c/vid.m3u8?dvr
