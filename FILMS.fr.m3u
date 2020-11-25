@@ -712,6 +712,14 @@ plugin://plugin.video.youtube/play/?video_id=oBI1OE0ZZM8
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/554.jpg" group-title="",Cruel Peter
 https://fr2.seedr.cc/media/video/hd_hls/04614220456e885a51ee14a506432e1d6791870c/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAyG8vP.jpg" group-title="",Cube
+https://load.hdfilme.ws/playlist/4bac77b9dca030f8e9543f3da38181f6/4bac77b9dca030f8e9543f3da38181f6.m3u8|Referer=https://fcine.tv/cube-14323-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qgcLdw.jpg" group-title="",Cube 2 - Hypercube
+https://load.hdfilme.ws/playlist/35839425c254f22d7f43ef5ac1af2a86/35839425c254f22d7f43ef5ac1af2a86.m3u8|Referer=https://fcine.tv/cube-hypercube-13731-streaming/vf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HW25ViK.jpg" group-title="",Cube Zero
+https://load.hdfilme.ws/playlist/60629f5317f87033c96c8631c371e7af/60629f5317f87033c96c8631c371e7af.m3u8|Referer=https://fcine.tv/cube-zero-12924-streaming/vf
+
+
 ###D###
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/559.jpg" group-title="",De Gaulle
@@ -2075,6 +2083,9 @@ https://nl32.seedr.cc/media/video/lq_hls/7a866dad584848a9ea4371deea880394883d1ab
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/410.jpg" group-title="",Shock Wave
 https://nl22.seedr.cc/media/video/hd_hls/c0b7a5a73a91906ddb69570f163bf7ce5587b951/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wX37VNp.jpg" group-title="",Shooter tireur d'élite
+https://load.hdfilme.ws/playlist/1fd0f6a405f6f1ace294a76cba9c97e3/1fd0f6a405f6f1ace294a76cba9c97e3.m3u8|Referer=https://fcine.tv/shooter-tireur-delite-11957-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/734.jpg" group-title="",Siberia
 https://fr7.seedr.cc/media/video/hd_hls/c159f0fe9ed528166609ea8b8922a12c78d217a8/vid.m3u8
