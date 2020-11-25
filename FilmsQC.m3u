@@ -254,8 +254,6 @@ plugin://plugin.video.youtube/play/?video_id=ofjW_OVRdb8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxFPDqi.jpg" group-title="",Le Déclin de l'empire américain
 https://load.hdfilme.ws/playlist/388e19664954a3b067e7f57e91eeb0dc/388e19664954a3b067e7f57e91eeb0dc.m3u8|Referer=https://fcine.tv/le-declin-de-lempire-americain-5338-streaming/vf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ua0Od47.jpg" group-title="",Les Invasions barbares
-https://load.hdfilme.ws/playlist/44f995e8293b9e71cf0849ac1c54491a/44f995e8293b9e71cf0849ac1c54491a.m3u8|Referer=https://fcine.tv/les-invasions-barbares-4835-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QG3xagW.jpg" group-title="",LE GARAGISTE (YT)
 plugin://plugin.video.youtube/play/?video_id=JF05eU9OmUo
@@ -304,8 +302,9 @@ https://mega01.uqload.com/3rfkpeschvw2q4drdlvpfpnfamjghfe4ojy44oxrh2h64a77yvjs3a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oLKmMSz.jpg" group-title="Quebec Film",Les Dangereux (YT)
 plugin://plugin.video.youtube/play/?video_id=8wHjZTkFTqY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s0eHwSm.jpg" group-title="",les invasions barbares (YT)
-plugin://plugin.video.youtube/play/?video_id=eHLNKxQOiRY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ua0Od47.jpg" group-title="",Les Invasions barbares
+https://load.hdfilme.ws/playlist/44f995e8293b9e71cf0849ac1c54491a/44f995e8293b9e71cf0849ac1c54491a.m3u8|Referer=https://fcine.tv/les-invasions-barbares-4835-streaming/vf
+#plugin://plugin.video.youtube/play/?video_id=eHLNKxQOiRY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNXXQ0t.jpg" group-title="",Les jumelles Dionne (YT)
 plugin://plugin.video.youtube/play/?video_id=GC7r9XGnXfo
