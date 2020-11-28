@@ -208,11 +208,17 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azOTXMy.png" group-title="USA",Channel 7
 http://radio.7chan.org:8000/CH7
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ggGoHoZ.png" group-title="",Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nWjAjzy.png" group-title="USA",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar Business
-https://live.chdrstatic.com/cheddar/primary/1.m3u8?fluxustv.m3u8
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWVT3Dg.png" group-title="USA",Cheddar News
-https://live.chdrstatic.com/cbn/primary/1.m3u8?fluxustv.m3u8
+https://live.chdrstatic.com/cbn/primary/1.m3u8
 
 
 
@@ -223,23 +229,19 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC-USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?fluxustv.m3u8
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="USA",CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/FluxusTV.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPDwAHF.png" group-title="USA",CONtv (Opt-2)
 http://contv.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SxRzFO8.png" group-title="USA",Cooking 4U
-https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="USA",Country Music 4U (Opt-1)
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
@@ -249,7 +251,7 @@ https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 plugin://plugin.video.youtube/play/?video_id=yNZ8LOFhvNI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VscD1s5.png" group-title="USA",Cozi TV
 https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
@@ -460,7 +462,14 @@ https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6Xlt0T.png" group-title="USA",InfoWars
 https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/InfoWars-269x151.png" group-title="",InfoWars - The Alex Jones Show
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/InfoWars-269x151.png" group-title="",InfoWars - War Room With Owen Shroyer
+https://freespeech.akamaized.net/hls/live/2016873/live4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/InfoWars-269x151.png" group-title="",InfoWars - The David Knight Show
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1HJraea.png" group-title="USA",Jewelry Television
@@ -557,7 +566,11 @@ https://central.dashstreams.net/onestudio/holyfield/playlist.m3u8?fluxustv.m3u8
 https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8?fluxustv.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" group-title="",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" group-title="",NASA TV 2
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="USA",NASA TV (Opt-1)
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
@@ -567,6 +580,8 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="USA",NASA TV Media
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2UmRbE.png" group-title="USA",NBA TV
 http://45.92.69.76:8000/play/a05v
@@ -706,6 +721,9 @@ https://edge1.dashmedia.tv/onestudio/shopping_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZ8JzlZ.png" group-title="USA",Sign Me TV
 https://vcnswee.teleosmedia.com/stream/swee/signmetv/seglist_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAkAN8j.png" group-title="",Ski TV
+https://content-ausw1.uplynk.com/channel/cf30c9fc75cd42a6892e696818b0d19a.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a1sM8ny.png" group-title="USA",Smithsonian Channel
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
 
@@ -731,16 +749,21 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x4
 #EXTINF:-1 tvg-logo="https://tastytradepublicmedia.s3.amazonaws.com/assets/logos/tt-logo-original-05e5dd25021223dff0203915ecdc9375.png" group-title="USA",TastyTrade
 https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YeSygn7.png" group-title="USA",TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="USA",Tennis Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YeSygn7.png" group-title="",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TDAmeritradeNetwork
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhd6zx6.png" group-title="",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="USA",Tennis Channel Plus
+# https://tennisnow.live/categories/tennis-channel/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhd6zx6.png" group-title="",Tennis Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/hhd6zx6.png",Tennis Channel Plus 2 
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cIZXVQB.png" group-title="USA",The Country Network
@@ -778,6 +801,15 @@ http://cdnak8.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFyJviy.png" group-title="USA",Travel 4U
 https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8?fluxustv.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.tvw.org/wp-content/themes/tvw/img/footer_tvw_logo@2x.png" group-title="",US | TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.tvw.org/wp-content/themes/tvw/img/footer_tvw_logo@2x.png" group-title="",US | TVW-2 (offline until the legislature is in session)
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvw.org/wp-content/themes/tvw/img/footer_tvw_logo@2x.png" group-title="",US | TVW - The House Of Representatives Channel (offline until the legislature is in session)
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvw.org/wp-content/themes/tvw/img/footer_tvw_logo@2x.png" group-title="",US | TVW - The WA State Senate Channel (offline until the legislature is in session)
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:SenateChannel_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qg0QrUp.png" group-title="USA",TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
