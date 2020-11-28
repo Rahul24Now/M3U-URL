@@ -20,6 +20,13 @@ plugin://plugin.video.youtube/play/?video_id=38_SGVEHmzA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAZ58xj.jpg" group-title="",Action Coordination (YT)
 plugin://plugin.video.youtube/play/?video_id=5NFbprpOQ-M
 
+# https://www.youtube.com/channel/UCaTl6qRlv3LpC8jDlrpM4sQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (YT)
+plugin://plugin.video.youtube/play/?video_id=d2DEpzrOhdc
+
+# https://www.youtube.com/channel/UCctt0Z9jZmroUDCjaq4YZ1Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3oduj1.jpg" group-title="",Ovni Quebec Astronomie (YT)
+plugin://plugin.video.youtube/play/?video_id=mjbAK-Au4uI
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Debrouillage.PNG?raw=true",★★★★★[COLOR black]Debrouillage [/COLOR]★★★★★
