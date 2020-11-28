@@ -8,7 +8,7 @@ plugin://plugin.video.youtube/play/?video_id=JLJGvIRRWkw
 
 # update link: https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hôtel du Parlement du Québec (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=J7wX-6JyNxo
+plugin://plugin.video.youtube/play/?video_id=OyPHx7ojCmE
 
 # update link: https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Château Frontenac (YT) (UPD)
@@ -20,7 +20,7 @@ plugin://plugin.video.youtube/play/?video_id=pgZgLZTY01A
 
 # update link: https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Vidéotron (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=M-FuS9dIEZ4
+plugin://plugin.video.youtube/play/?video_id=zXHzvdyaAWQ
 
 # Update Link: https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency (YT) (UPD)
@@ -128,7 +128,7 @@ plugin://plugin.video.youtube/play/?video_id=9retVhLOwGk
 
 # https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis (YT)
-plugin://plugin.video.youtube/play/?video_id=TO3moErcBuQ
+plugin://plugin.video.youtube/play/?video_id=-YCSBKB4oZ8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Lévis 2 (YT) (Off Line)
 plugin://plugin.video.youtube/play/?video_id=PAGz5XdwZV8
 
