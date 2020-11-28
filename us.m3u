@@ -5,21 +5,6 @@
 plugin://plugin.video.youtube/play/?video_id=wb8lhNWRxDM
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UkcgDgO.jpg" group-title="",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dNwp4df.png" group-title="",&Prive
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vkZ0wNX.jpg" group-title="",Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M8nbAJy.png" group-title="",Wixlar TV
-http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 0.0.0.0
 
@@ -332,6 +317,13 @@ https://cdn.stream.bitwave.tv/hls/doomtube/index.m3u8
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UkcgDgO.jpg" group-title="",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNwp4df.png" group-title="",&Prive
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://estv.viewerlink.tv/images/nt-ESTW.png" group-title="USA",Entertainment Studios
 http://161.0.157.38/PLTV/88888888/224/3221225713/index.m3u8
@@ -959,6 +951,9 @@ https://live.cdn.wham.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.whomag.net/wp-content/uploads/2014/09/whomagtv-banner.png" group-title="USA",Who?Mag TV
 https://vcndmtv.teleosmedia.com/stream/dmtv/whomagmultimedia/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8nbAJy.png" group-title="",Wixlar TV
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhRYx98.png" group-title="USA",WMCN 44 Philadelphia
 https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
