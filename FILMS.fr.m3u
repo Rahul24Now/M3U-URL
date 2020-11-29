@@ -290,6 +290,9 @@ https://load.hdfilme.ws/playlist/71ae6b59fe76f3f32394bc9dbc4a47f2/71ae6b59fe76f3
 
 ###A###
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0i53SJz.jpg" group-title="",À la dérive (en pleine tempête)
+https://load.hdfilme.ws/playlist/247f8502371f53f6d395f6dde3e81ea9/247f8502371f53f6d395f6dde3e81ea9.m3u8|Referer=https://fcine.tv/a-la-derive-4157-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6AlicO.jpg" group-title="",À la poursuite du diamant vert
 https://load.hdfilme.ws/playlist/6af24f1ee39ff5b9ace716aa9e84129d/6af24f1ee39ff5b9ace716aa9e84129d.m3u8|Referer=https://fcine.tv/a-la-poursuite-du-diamant-vert-15108-streaming/vf
 
