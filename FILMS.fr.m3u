@@ -218,6 +218,8 @@ plugin://plugin.video.youtube/play/?video_id=p5We_3cxCV8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39Bsl7E.jpg" group-title="",Holdup Le documentaire – Retour sur un Chaos! (YT)
 plugin://plugin.video.youtube/play/?video_id=FNzqj8j1Fg4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvAbCF3.jpg" group-title="",COVIDENCES 2020 (YT)
+plugin://plugin.video.youtube/play/?video_id=oZ1cEF9ng_A
 
 #########
 
