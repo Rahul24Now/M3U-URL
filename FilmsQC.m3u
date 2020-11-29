@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Films Quebec[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Docu Quebec[/COLOR]★★★★★★★★★★
 0.0.0.0
 
 
@@ -9,18 +9,71 @@
 plugin://plugin.video.youtube/play/?video_id=4xs00VbJ4ds
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nb8L8aP.jpg" group-title="",L'épopée des Nordiques - Docu (YT)
 plugin://plugin.video.youtube/play/?video_id=u8My3qp7Bbo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vN8Ol2h.jpg" group-title="",Les Tresors Caches Du Quebec Souterrain - Docu (YT)
-plugin://plugin.video.youtube/play/?video_id=miq2RiCNKjk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDelEkO.jpg" group-title="",Québec sur ordonnance - Docu (YT)
-plugin://plugin.video.youtube/play/?video_id=XUTf5ARYKeI
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qX6r695.jpg" group-title="",Céline Dion dans l'intimité Docu (YT)
-plugin://plugin.video.youtube/play/?video_id=fkBfWrEjsU4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P4MQYmt.jpg" group-title="",La Coupe Stanley à Montréal en 1993 (YT)
+plugin://plugin.video.youtube/play/?video_id=gsP0SjB4tYY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kWnf0it.jpg" group-title="",HISTOIRE DU QUÉBEC 1 (1534-1864) Docu (YT)
 plugin://plugin.video.youtube/play/?video_id=zBUxUdnLoKs
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kWnf0it.jpg" group-title="",HISTOIRE DU QUÉBEC 2 (1534-1864) Docu (YT)
 plugin://plugin.video.youtube/play/?video_id=0ERetvonggY
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mdnRXCT.jpg" group-title="",Verglas 1998 - La tempête du siècle (YT)
+plugin://plugin.video.youtube/play/?video_id=jPJTkCZm7YA
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxQV2Ta.jpg" group-title="",Québec - Echappées belles (YT)
+plugin://plugin.video.youtube/play/?video_id=2juYlrx2diU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxQV2Ta.jpg" group-title="",Un été à Montréal - Échappées belles (YT)
+plugin://plugin.video.youtube/play/?video_id=jPSiHdDhavI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxQV2Ta.jpg" group-title="",Le Québec sous la neige - Échappées belles (YT)
+plugin://plugin.video.youtube/play/?video_id=lJ_GJXViV2k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxQV2Ta.jpg" group-title="",Québec, le chant de la nature - Echappées belles (YT)
+plugin://plugin.video.youtube/play/?video_id=AHTxVdCdK50
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxQV2Ta.jpg" group-title="",Québec, au fil du Saint Laurent - Échappées belles (YT)
+plugin://plugin.video.youtube/play/?video_id=9Fzds0vaR1A
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fdeuau6.jpg" group-title="",Projet N (Anthrax) - Reportage Complet (YT)
+plugin://plugin.video.youtube/play/?video_id=jDxIfiW8v8A
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yju302P.jpg" group-title="",En Pays Pittoresque Un documentaire sur la Gaspésie 1938 (YT)
+plugin://plugin.video.youtube/play/?video_id=L7xDrM5wbSU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vN8Ol2h.jpg" group-title="",Les Tresors Caches Du Quebec Souterrain - Docu (YT)
+plugin://plugin.video.youtube/play/?video_id=miq2RiCNKjk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yju302P.jpg" group-title="",Chez nous, c'est chez nous (YT)
+plugin://plugin.video.youtube/play/?video_id=BN1fWJlHq0Y
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCT7wSO.jpg" group-title="",Québec : à la croisée des chemins (YT)
+plugin://plugin.video.youtube/play/?video_id=wQdqrsp7o_w
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDelEkO.jpg" group-title="",Québec sur ordonnance - Docu (YT)
+plugin://plugin.video.youtube/play/?video_id=XUTf5ARYKeI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxA8In7.jpg" group-title="",Documentaire L'histoire du nationalisme au Québec (YT)
+plugin://plugin.video.youtube/play/?video_id=UcK7TLq_fFI
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qX6r695.jpg" group-title="",Céline Dion dans l'intimité Docu (YT)
+plugin://plugin.video.youtube/play/?video_id=fkBfWrEjsU4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LeCub2n.jpg" group-title="",Musique Traditionnelle Québécoise vol.1 (YT)
+plugin://plugin.video.youtube/play/?video_id=OLE5vRQC2LE
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Films Quebec[/COLOR]★★★★★★★★★★
+0.0.0.0
 
 ###0###
 
