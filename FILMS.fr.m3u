@@ -1,6 +1,9 @@
 ﻿#EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eqCOLO9.jpg" group-title="",WWE Survivor Series 2020
+https://nl34.seedr.cc/media/video/hd_hls/24e2d2f829ed148499d9633ebb61d37dc2b07af2/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FKkFN1u.png" group-title="",★★★★★★★★★★[COLOR red]Film De Noel[/COLOR]★★★★★★★★★★
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9IdEwDM.jpg" group-title="",Un Noël tombé du ciel
@@ -1634,6 +1637,9 @@ https://load.hdfilme.ws/playlist/269af4e8b0fc4b84460b875e4e736c29/269af4e8b0fc4b
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/742.jpg" group-title="",Loin de moi - près de toi
 https://nl23.seedr.cc/media/video/hd_hls/34900f3a91f6ea1f762b853cb6a6cbc3bb3669f8/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YwiqWMW.jpg" group-title="",Lord of War
+https://nl21.seedr.cc/media/video/lq_hls/7bd98590c594dfd6105c396a0fbd064e1fff7b49/vid.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSZ1qcU.jpg" group-title="",Louis de Funès - La Soupe aux choux
 https://load.hdfilme.ws/playlist/23e2b30b29ca19cc49be60a7b5c6c045/23e2b30b29ca19cc49be60a7b5c6c045.m3u8|Referer=https://fcine.tv/la-soupe-aux-choux-15428-streaming/vf
