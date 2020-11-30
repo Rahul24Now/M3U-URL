@@ -527,6 +527,9 @@ https://bozztv.com/36bay2/gin/giniko_supercarblondie_1000kb_36bay2/tracks-v1a1/m
 https://nrpus.bozztv.com/36bay2/gusa-switch/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-switch/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/301.png" group-title="Giniko USA",TBN TV
+http://nimlive6.giniko.com/tbntv/tbntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAyOjE3OjM0IEFNJmhhc2hfdmFsdWU9MldwcWRsWHJCUW1Gd01xTWdkU3p5Zz09JnZhbGlkbWludXRlcz0xNDQw
+
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/the-beach-show.jpg" group-title="Giniko USA",The Beach Show
 https://nrpus.bozztv.com/36bay2/gusa-beachshow/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-beachshow/tracks-v1a1/mono.m3u8
