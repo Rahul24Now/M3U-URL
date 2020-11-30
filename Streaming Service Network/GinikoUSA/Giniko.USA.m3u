@@ -730,7 +730,7 @@ https://bozztv.com/36bay2/gin/giniko_tv-first_800kb_36bay2/tracks-v1a1/mono.m3u8
 https://bozztv.com/36bay2/gin/giniko_superrtl_1200kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_superrtl_1200kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Giniko USA",GR | Greece 34100 TV
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1147.png" group-title="Giniko USA",GR | Greece 34100 TV
 https://bozztv.com/36bay2/giniko_greece34100tv/index.m3u8
 https://bozztv.com/36bay2/giniko_greece34100tv/tracks-v1a1/mono.m3u8
 
@@ -843,10 +843,10 @@ https://bozztv.com/36bay2/gin/giniko_jordan_900kb_36bay2/tracks-v1a1/mono.m3u8
 https://bozztv.com/36bay2/gin/giniko_kazakh_900kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_kazakh_900kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Giniko USA",IR Kurd | Sterk TV
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/412.png" group-title="Giniko USA",IR Kurd | Sterk TV
 http://nimlive3.giniko.com/sterk/sterk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMCAxMTo0NzoyNyBQTSZoYXNoX3ZhbHVlPVo0LzIzVm1qdzVBMzhaR3kyQjZITWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA==
 
-#EXTINF:-1 tvg-logo="" group-title="Giniko USA",KW | Kuwait TV 1
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/604.png" group-title="Giniko USA",KW | Kuwait TV 1
 https://bozztv.com/36bay2/gin/giniko_kuwait1_900kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_kuwait1_900kb_36bay2/tracks-v1a1/mono.m3u8
 
