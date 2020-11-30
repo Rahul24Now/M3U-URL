@@ -600,7 +600,7 @@ https://nrpus.bozztv.com/36bay2/gusa-youthsuccess/tracks-v1a1/mono.m3u8
 ###############
 
 # http://www.giniko.com/watch-by-country.php
-#EXTINF:-1 tvg-logo="http://www.giniko.com/images/logo.png" group-title="Giniko USA",★★★★★★★★★★[COLOR red]G[/COLOR][COLOR white]iniko[/COLOR]World TV★★★★★★★★★★
+#EXTINF:-1 tvg-logo="http://www.giniko.com/images/logo.png" group-title="Giniko USA",★★★★★★★★★★[COLOR red]G[/COLOR][COLOR white]iniko[/COLOR] World TV★★★★★★★★★★
 0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/654.png" group-title="Giniko USA",AF | AMC TV
@@ -760,7 +760,7 @@ https://nrpus.bozztv.com/36bay2/gin/giniko_iranint_900kb_36bay2/tracks-v1a1/mono
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/263.png" group-title="Giniko USA",IR | Iran TV Network
 http://nimlive6.giniko.com/irantv/irantv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMCAxMDo0NTo1NCBQTSZoYXNoX3ZhbHVlPVAvZGRPbFZiMS8wa25qMnhtZ3pLVnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA==
 
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/372.png" group-title="Giniko USA", IR| IRIB TV1
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/372.png" group-title="Giniko USA",IR | IRIB TV1
 https://nrpus.bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 
@@ -984,7 +984,7 @@ http://nimlive4.giniko.com/mavikaradeniz/mavikaradeniz/playlist.m3u8?wmsAuthSign
 http://bozztv.com/36bay2/gin/giniko_supertv_1200kb_36bay2/index.m3u8
 http://bozztv.com/36bay2/gin/giniko_supertv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/945.jpg" group-title="Giniko USA", | Power Turk HD
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/945.jpg" group-title="Giniko USA",TR | Power Turk HD
 http://nimlive4.giniko.com/powerturk/powerturk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMCA1OjM2OjIzIFBNJmhhc2hfdmFsdWU9bkdvZXBBZEZTMUxEOWdMOGRxUi8rQT09JnZhbGlkbWludXRlcz0xNDQw
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/693.jpg" group-title="Giniko USA",TR | Sky 360
