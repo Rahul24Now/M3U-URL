@@ -815,6 +815,9 @@ http://nimlive5.giniko.com/persianstar1/persianstar1/playlist.m3u8?wmsAuthSign=c
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/102.jpg" group-title="Giniko USA",IR | Press TV
 http://nimlive6.giniko.com/presstv/presstv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMCA1OjM2OjIzIFBNJmhhc2hfdmFsdWU9bkdvZXBBZEZTMUxEOWdMOGRxUi8rQT09JnZhbGlkbWludXRlcz0xNDQw
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1010.png" group-title="Giniko USA",IR | Sahar Urdu
+https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1040.jfif" group-title="Giniko USA",IR | TIN TV
 https://bozztv.com/36bay2/gin/giniko_tintv_1000kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_tintv_1000kb_36bay2/tracks-v1a1/mono.m3u8
@@ -1015,8 +1018,50 @@ http://nimlive3.giniko.com/trtworld/trtworld/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/200.png" group-title="Giniko USA",TR | Ulke TV
 http://nimlive6.giniko.com/ulketv/ulketv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMCA1OjM2OjIzIFBNJmhhc2hfdmFsdWU9bkdvZXBBZEZTMUxEOWdMOGRxUi8rQT09JnZhbGlkbWludXRlcz0xNDQw
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/999.jpg" group-title="Giniko USA",UA | K1 TV
+https://bozztv.com/36bay2/giniko_k1tv/index.m3u8
+https://bozztv.com/36bay2/giniko_k1tv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/997.jpg" group-title="Giniko USA",UA | Karavan TV
+https://bozztv.com/36bay2/gin/giniko_karavan_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_karavan_900kb_36bay2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1086.png" group-title="Giniko USA",UA | Nash
+https://bozztv.com/36bay2/gin/giniko_nash_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_nash_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/204.png" group-title="Giniko USA",UA | News One Giniko Ukraine
+https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1143.jpg" group-title="Giniko USA",UA | ONT TV
+https://bozztv.com/36bay2/giniko_oshestvennoe/index.m3u8	
+https://bozztv.com/36bay2/giniko_oshestvennoe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1033.jpg" group-title="Giniko USA",UA | UA TV
+https://bozztv.com/36bay2/gin/giniko_uatv_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_uatv_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/269.png" group-title="Giniko USA",AE | Abu Dhabi Sport 1
+http://nimlive6.giniko.com/adsport1/adsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCA2OjE3OjI4IEFNJmhhc2hfdmFsdWU9dGxVT1I5VFBOKzBOb0dib3NKb3QrZz09JnZhbGlkbWludXRlcz0xNDQw
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1075.png" group-title="Giniko USA",AE | Abu Dhabi TV
+https://nrpus.bozztv.com/36bay2/gin/giniko_abudhabitv_1000kb_36bay2/index.m3u8
+https://nrpus.bozztv.com/36bay2/gin/giniko_abudhabitv_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1029.png" group-title="Giniko USA",AE | Komala TV
+https://bozztv.com/36bay2/gin/giniko_komalatv_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_komalatv_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/992.png" group-title="Giniko USA",AE | MAXX
+http://nimlive3.giniko.com/mifamusic/mifamusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCA2OjIwOjE4IEFNJmhhc2hfdmFsdWU9SGNMODJSRUlKeFVoZ1djWHJmSXpyZz09JnZhbGlkbWludXRlcz0xNDQw
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/183.jpg" group-title="Giniko USA",AE | Sharjah TV
+https://bozztv.com/36bay2/gin/giniko_sharjahtv_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_sharjahtv_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1026.png" group-title="Giniko USA",UK | BBC Arabic
+http://nimlive6.giniko.com/bbcarabic/bbcarabic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMCA1OjM2OjIzIFBNJmhhc2hfdmFsdWU9bkdvZXBBZEZTMUxEOWdMOGRxUi8rQT09JnZhbGlkbWludXRlcz0xNDQw
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/233.png" group-title="Giniko USA",US | Ahlulbayt TV
 http://nimlive5.giniko.com/ahlulbayt/ahlulbayt/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMCA1OjM2OjIzIFBNJmhhc2hfdmFsdWU9bkdvZXBBZEZTMUxEOWdMOGRxUi8rQT09JnZhbGlkbWludXRlcz0xNDQw
@@ -1024,7 +1069,16 @@ http://nimlive5.giniko.com/ahlulbayt/ahlulbayt/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/306.png" group-title="Giniko USA",US | Alkarma TV North America
 http://nimlive6.giniko.com/alkarmatv/alkarmatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAyOjAyOjAxIEFNJmhhc2hfdmFsdWU9MFNMRjI2ZHNlNm9iMVJZV0FyVWxWUT09JnZhbGlkbWludXRlcz0xNDQw
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/197.png" group-title="Giniko USA",Vn | Vietnam Net Giniko
+https://bozztv.com/36bay2/gin/giniko_netviet_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_netviet_800kb_36bay2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/5.png" group-title="Giniko USA",YE | Yemen TV
+https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+
+#########
 
 
 
