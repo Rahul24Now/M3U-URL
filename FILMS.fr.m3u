@@ -454,6 +454,12 @@ https://nl32.seedr.cc/media/video/hd_hls/2b369b67e034c06f799ada05a244f6b2b328364
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/401.jpg" group-title="",Balle perdue
 https://fr1.seedr.cc/media/video/hd_hls/184e537dfc1382a21c5fd45cb5af94f0acea3db7/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mY7r3hy.jpg" group-title="",Battleship
+https://load.hdfilme.ws/playlist/6e0d51d1817c4af49942d9b13bc1ba53/6e0d51d1817c4af49942d9b13bc1ba53.m3u8|Referer=https://fcine.tv/battleship-10127-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KTF8Vhc.jpg" group-title="",Battleship Island
+https://load.hdfilme.ws/playlist/e20107fb0ae5547565af43557620bac1/e20107fb0ae5547565af43557620bac1.m3u8|Referer=https://fcine.tv/battleship-island-4839-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/km6cFVI.jpg" group-title="",Battlestar Rebellion (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5mhorh
 
@@ -2540,6 +2546,9 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Upgr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtJojCn.jpg" group-title="",U.S. Marshals
 https://load.hdfilme.ws/playlist/cd6c8476354f1f9dbec5941fd5e664f1/cd6c8476354f1f9dbec5941fd5e664f1.m3u8|Referer=https://fcine.tv/us-marshals-14281-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77TOVp1.jpg" group-title="",U.S.S. Iowa : La dernière mission
+https://load.hdfilme.ws/playlist/b8020d1564b30e1a169206bfdda03f2e/b8020d1564b30e1a169206bfdda03f2e.m3u8|Referer=https://fcine.tv/uss-iowa-la-derniere-mission-15988-streaming/vf
 
 ###V###
 
