@@ -879,7 +879,7 @@ https://bozztv.com/36bay2/giniko_100procnews/index.m3u8
 https://nrpus.bozztv.com/36bay2/gin/giniko_1muscom_900kb_36bay2/index.m3u8
 https://nrpus.bozztv.com/36bay2/gin/giniko_1muscom_900kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Giniko USA",RU | CNL
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/44.jpeg" group-title="Giniko USA",RU | CNL
 https://bozztv.com/36bay2/gin/giniko_cnltv_1000kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_cnltv_1000kb_36bay2/tracks-v1a1/mono.m3u8
 
