@@ -29,6 +29,12 @@ https://nrpus.bozztv.com/36bay2/gusa-30atv/tracks-v1a1/mono.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-actionsports4u/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-actionsports4u/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/233.png" group-title="Giniko USA",Ahlulbayt TV
+http://nimlive5.giniko.com/ahlulbayt/ahlulbayt/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMCA1OjM2OjIzIFBNJmhhc2hfdmFsdWU9bkdvZXBBZEZTMUxEOWdMOGRxUi8rQT09JnZhbGlkbWludXRlcz0xNDQw
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/306.png" group-title="Giniko USA",Alkarma TV North America
+http://nimlive6.giniko.com/alkarmatv/alkarmatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAyOjAyOjAxIEFNJmhhc2hfdmFsdWU9MFNMRjI2ZHNlNm9iMVJZV0FyVWxWUT09JnZhbGlkbWludXRlcz0xNDQw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lthj6WJ.jpg" group-title="Giniko USA",Alright TV
 https://nrpus.bozztv.com/36bay2/gusa-alright/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-alright/tracks-v1a1/mono.m3u8
