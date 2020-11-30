@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-logo="https://ginikousa.com/images/logo-dark.png" group-title="Giniko USA",★★★★★★★★★★[COLOR red]G[/COLOR][COLOR white]iniko[/COLOR]★★★★★★★★★★
 0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/1043.jpg" group-title="Giniko USA",1MUS COM
-https://nrpus.bozztv.com/36bay2/gin/giniko_1muscom_900kb_36bay2/index.m3u8
-https://nrpus.bozztv.com/36bay2/gin/giniko_1muscom_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRzfyQ2.jpg" group-title="Giniko USA",5m Kitchen Hacks
 https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
