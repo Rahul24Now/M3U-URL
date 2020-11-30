@@ -2432,6 +2432,9 @@ https://fr3.seedr.cc/media/video/lq_hls/5ad6b5859b6fcb9d117f24c5a83679cd31d9fe53
 https://sf1.seedr.cc/media/video/hd_hls/nl25/31dfd2c8a9dbb4bbd0457258a3d765e8f1c0fa22/vid.m3u8
 #https://load.hdfilme.ws/playlist/b9721427f9e9ca87bd59995bc9911a21/b9721427f9e9ca87bd59995bc9911a21.m3u8|Referer=https://fcine.tv/titanic-14278-streaming/vf
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KOpb2Lm.jpg" group-title="",Togo
+https://load.hdfilme.ws/playlist/7676c037ec219002a3cbcddaa0304c91/7676c037ec219002a3cbcddaa0304c91.m3u8|Referer=https://fcine.tv/togo-657-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/306.jpg" group-title="",Tolérance Zéro
 https://fr8.seedr.cc/media/video/hd_hls/bf13a6b3aa8616db262baaa316b7c42b40e23a45/vid.m3u8
 
