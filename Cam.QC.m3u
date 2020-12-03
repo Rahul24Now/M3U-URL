@@ -160,6 +160,10 @@ plugin://plugin.video.youtube/play/?video_id=dSy2S1mqqP4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=wT8B5rYzYH8
 
+# https://www.youtube.com/channel/UCUioB5e7rgqjAOjJUtwme1Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/usG2vgO.jpg" group-title="",Fermette Douce Sérénité (Drummondville) (YT)
+plugin://plugin.video.youtube/play/?video_id=g10G5jOx3mk
+
 # https://roulezelectrique.com/webcam/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aon4gD9.png" group-title="Cam",Roulez Electrique 1 (Trois-Rivieres)
 https://stream-ue1-delta.dropcam.com/nexus_aac/3be32e8fae8549af94cb0b529620e20f/playlist.m3u8?public=R3STi1PWyD
