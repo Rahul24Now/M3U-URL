@@ -8,25 +8,7 @@ plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/QC.png?raw=true",★★★★★★★★★★[COLOR mediumblue]Temporaire[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 
-# https://www.youtube.com/channel/UC4GvJl8GrRbb8YCI72oLVag
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WlUYMQ.jpg" group-title="",Stevia on en parle? (YT)
-plugin://plugin.video.youtube/play/?video_id=FxZnGW0XthA
 
-# https://www.youtube.com/channel/UChb298sZlCxkN0BbyPdWYTg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62pxYnU.jpg" group-title="",La chaîne Actualité Politique du Québec (YT)
-plugin://plugin.video.youtube/play/?video_id=38_SGVEHmzA
-
-# https://www.youtube.com/channel/UCWsHa6jitKzbw2f-3cTL6Dw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uAZ58xj.jpg" group-title="",Action Coordination (YT)
-plugin://plugin.video.youtube/play/?video_id=5NFbprpOQ-M
-
-# https://www.youtube.com/channel/UCaTl6qRlv3LpC8jDlrpM4sQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (YT)
-plugin://plugin.video.youtube/play/?video_id=d2DEpzrOhdc
-
-# https://www.youtube.com/channel/UCctt0Z9jZmroUDCjaq4YZ1Q
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3oduj1.jpg" group-title="",Ovni Quebec Astronomie (YT)
-plugin://plugin.video.youtube/play/?video_id=mjbAK-Au4uI
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Debrouillage.PNG?raw=true",★★★★★[COLOR black]Debrouillage [/COLOR]★★★★★
@@ -193,10 +175,10 @@ plugin://plugin.video.youtube/play/?video_id=Qr5SV2AteNk
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT) (UPD)
-plugin://plugin.video.youtube/play/?video_id=4GryRixDZdo
+plugin://plugin.video.youtube/play/?video_id=l8ZV7mlBfug
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
-#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
+#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD) (OffLine)
 plugin://plugin.video.youtube/play/?video_id=y_D4KVV-xnI
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
@@ -275,3 +257,24 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Quebec TV",Zes
 https://chaine_tva_uls-lh.akamaihd.net/i/zeste01_1@853162/master.m3u8
 
 ##end##
+
+
+# https://www.youtube.com/channel/UC4GvJl8GrRbb8YCI72oLVag
+EXTINF:-1 tvg-logo="https://i.imgur.com/2WlUYMQ.jpg" group-title="",Stevia on en parle? (YT)
+plugin://plugin.video.youtube/play/?video_id=FxZnGW0XthA
+
+# https://www.youtube.com/channel/UChb298sZlCxkN0BbyPdWYTg
+EXTINF:-1 tvg-logo="https://i.imgur.com/62pxYnU.jpg" group-title="",La chaîne Actualité Politique du Québec (YT)
+plugin://plugin.video.youtube/play/?video_id=38_SGVEHmzA
+
+# https://www.youtube.com/channel/UCWsHa6jitKzbw2f-3cTL6Dw
+EXTINF:-1 tvg-logo="https://i.imgur.com/uAZ58xj.jpg" group-title="",Action Coordination (YT)
+plugin://plugin.video.youtube/play/?video_id=5NFbprpOQ-M
+
+# https://www.youtube.com/channel/UCaTl6qRlv3LpC8jDlrpM4sQ
+EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (YT)
+plugin://plugin.video.youtube/play/?video_id=d2DEpzrOhdc
+
+# https://www.youtube.com/channel/UCctt0Z9jZmroUDCjaq4YZ1Q
+EXTINF:-1 tvg-logo="https://i.imgur.com/t3oduj1.jpg" group-title="",Ovni Quebec Astronomie (YT)
+plugin://plugin.video.youtube/play/?video_id=mjbAK-Au4uI
