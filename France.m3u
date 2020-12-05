@@ -902,7 +902,7 @@ plugin://plugin.video.twitch/?channel_id=255463883&amp;mode=play
 
 # https://www.youtube.com/channel/UC0pHdbHRCREJJQhGSUDH61g #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0kUR9nD.jpg" group-title="",POCOYO FRANÇAIS (YT)
-plugin://plugin.video.youtube/play/?video_id=Cwl0zQdODmo
+plugin://plugin.video.youtube/play/?video_id=HPCr98dlS-E
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="",Poker TV Arabia
 http://51.15.193.127/hls/stream.m3u8
