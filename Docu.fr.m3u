@@ -126,6 +126,48 @@ plugin://plugin.video.youtube/play/?video_id=FNzqj8j1Fg4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvAbCF3.jpg" group-title="",COVIDENCES 2020 (YT)
 plugin://plugin.video.youtube/play/?video_id=oZ1cEF9ng_A
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ai2If8.jpg" group-title="",Ces Financiers qui Dirigent le Monde - BlackRock- Arte (YT)
+plugin://plugin.video.youtube/play/?video_id=voSty1nfU-Q
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H31yxNg.jpg" group-title="",L'illusion de l'énergie verte | La face cachée des énergies vertes | ARTE (YT)
+plugin://plugin.video.youtube/play/?video_id=rpUmfZb4XBI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H31yxNg.jpg" group-title="",OMS CHINE VS USA, un duel dangereux (YT)
+plugin://plugin.video.youtube/play/?video_id=F3D86ust064
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H31yxNg.jpg" group-title="",UN MONDE SANS FEMME (YT)
+plugin://plugin.video.youtube/play/?video_id=r3TftNQHe7M
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/509e8ck.jpg" group-title="",le mystere poutine (YT)
+plugin://plugin.video.youtube/play/?video_id=r92PESowN70
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H31yxNg.jpg" group-title="",La face cachée du pétrole (YT)
+plugin://plugin.video.youtube/play/?video_id=N95m3_Keqkc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltxP4Vf.jpg" group-title="",OGM : Mensonges et vérités (YT)
+plugin://plugin.video.youtube/play/?video_id=gg7NH5HZxNI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltxP4Vf.jpg" group-title="",L’OMS : dans les griffes des lobbyistes ? (YT)
+plugin://plugin.video.youtube/play/?video_id=BV8fPQcdmM8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltxP4Vf.jpg" group-title="",L'irrésistible ascension d'Amazon ARTE (YT)
+plugin://plugin.video.youtube/play/?video_id=n8ZN1SWxDFo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltxP4Vf.jpg" group-title="",Sécurité nucléaire : le grand mensonge  (YT)
+plugin://plugin.video.youtube/play/?video_id=STjGOGkMz4k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltxP4Vf.jpg" group-title="",Meeting Edward Snowden | ARTE (YT)
+plugin://plugin.video.youtube/play/?video_id=Q2yb6dyrsh0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltxP4Vf.jpg" group-title="",Tous surveillés, 7 milliards de suspects -2020- ARTE (YT)
+plugin://plugin.video.youtube/play/?video_id=iApm0UBt-4k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25yKWjw.jpg" group-title="",LES RÉVÉLATIONS D'UN AGENT SECRET QUI EN SAIT BEAUCOUP TROP (YT)
+plugin://plugin.video.youtube/play/?video_id=iLMs_EqUICs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvzAnA0.jpg" group-title="",LE GROUPE BILDELBERG ET SON INFLUENCE DANS LE MONDE (YT)
+plugin://plugin.video.youtube/play/?video_id=XDEQOt-WRGQ
+
 #########
 
 
@@ -149,6 +191,12 @@ plugin://plugin.video.youtube/play/?video_id=QKTKzYQucdk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoZDR73.jpg" group-title="",Les dernières armes d'Hitler : V1, V2, chasseurs à réaction (YT)
 plugin://plugin.video.youtube/play/?video_id=QCKaPQBzhiY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltxP4Vf.jpg" group-title="",Le pacte Hitler-Staline | ARTE (YT)
+plugin://plugin.video.youtube/play/?video_id=qCKJUW2NCJA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltxP4Vf.jpg" group-title="",LES DERNIERS JOURS DE AUSCHWITZ (YT)
+plugin://plugin.video.youtube/play/?video_id=mkzpeszN6cY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoZDR73.jpg" group-title="",La Wehrmacht, Le IIIème Reich en Guerre (YT)
 plugin://plugin.video.youtube/play/?video_id=HO2UAnaVyWg
