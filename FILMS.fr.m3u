@@ -408,7 +408,7 @@ plugin://plugin.video.youtube/play/?video_id=f925jVhQBw0
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/279.jpg" group-title="",Annabelle
 https://fr12.seedr.cc/media/video/lq_hls/f118904577263376820231834c8df53222cf2d2d/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/281.jpg" group-title="",annabelle 2 - la création du mal
-https://load.hdfilme.ws/playlist/5b5d8b08c8f5e1b5b6e705e6bf3cb5ee/5b5d8b08c8f5e1b5b6e705e6bf3cb5ee.m3u8|Referer=https://fcine.tv/annabelle-2-la-creation-du-mal-1202-streaming/vf
+https://de13.seedr.cc/media/video/lq_hls/5651ce3ea13523eb0873ce4d5f931235c520f61a/vid.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/280.jpg" group-title="",Annabelle 3 - La maison du Mal
 https://de13.seedr.cc/media/video/lq_hls/5651ce3ea13523eb0873ce4d5f931235c520f61a/vid.m3u8?dvr
 
@@ -530,6 +530,9 @@ https://load.hdfilme.ws/playlist/164e9186cb6899151a59bcd79a0f9182/164e9186cb6899
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OjmjCIR.jpg" group-title="",Birds of Prey et la fantabuleuse histoire de Harley Quinn
 https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Birds+of+Prey+%C2%BB+Film+Streaming+Gratuit+-+Zone+Films.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUlwwX.jpg" group-title="",Black Beauty
+https://load.hdfilme.ws/playlist/93d512432bda4142e4e3d85894bb724d/93d512432bda4142e4e3d85894bb724d.m3u8|Referer=https://fcine.tv/black-beauty-19173-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/464.jpg" group-title="",Black Mountain Side
 https://cloudfront.tubi.video/dc2db6b6-c216-4e4d-9b02-8e3377aa52f6/qps7pa4q/stream.m3u8
@@ -897,6 +900,9 @@ https://fr5.seedr.cc/media/video/hd_hls/23463c6694b562d78fa3d3b0e74ac43aa98070a5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f3vFf4C.jpg" group-title="",Equilibrium
 https://load.hdfilme.ws/playlist/4ce39fdcf9cb1800a51c36bf7171ebdc/4ce39fdcf9cb1800a51c36bf7171ebdc.m3u8|Referer=https://fcine.tv/equilibrium-13596-streaming/vf
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjIMtNR.jpg" group-title="",Eragon
+https://load.hdfilme.ws/playlist/f61b8fb1c7cb2683e9b248727e627da7/f61b8fb1c7cb2683e9b248727e627da7.m3u8|Referer=https://fcine.tv/eragon-12060-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1377.jpg" group-title="",Erin Brockovich : Seule contre tous
 https://fr2.seedr.cc/media/play_hls/9c80e8edb70cb700f99e902f670e1cfae6d9cca6.m3u8?
 
@@ -1158,7 +1164,7 @@ https://load.hdfilme.ws/playlist/156f55a00c5f666bb3f921febabe651a/156f55a00c5f66
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzPKs1J.jpg" group-title="",Jack Reacher
 https://load.hdfilme.ws/playlist/4c7953c2fd5dab10e82ebe0056efb811/4c7953c2fd5dab10e82ebe0056efb811.m3u8|Referer=https://fcine.tv/jack-reacher-18030-streaming/vf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6i9DT6.jpg" group-title="",Jack Reacher : Never Go Back
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6i9DT6.jpg" group-title="",Jack Reacher : Never Go Back (NA)
 https://load.hdfilme.ws/playlist/8fdc4a0b97da83140f62e05660c36187/8fdc4a0b97da83140f62e05660c36187.m3u8|Referer=https://fcine.tv/jack-reacher-never-go-back-4526-streaming/vf
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/884.jpg" group-title="",Jackie Chan - New Police Story
@@ -1256,11 +1262,14 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Just
 
 ###K###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/922.jpg" group-title="",K Contraire
+https://nl26.seedr.cc/media/video/lq_hls/53751e828724f33ee2bc02665712c826cecbc942/vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1293.jpg" group-title="",Kadaver
 https://fr3.seedr.cc/media/video/lq_hls/c2e981df30d7c5692445c4f17f4ef11f75582054/vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OtSdsxw.jpg" group-title="", Keoma (YT)
-plugin://plugin.video.youtube/play/?video_id=tcj9bcnthII
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OtSdsxw.jpg" group-title="", Keoma VOSF (YT)
+plugin://plugin.video.youtube/play/?video_id=WERAftDBmac
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/174.jpg" group-title="",Kick-Ass
 https://fr7.seedr.cc/media/video/lq_hls/56c3ca5ae26086e8eedb7899de9ff40d32c97d9e/vid.m3u8?dvr
@@ -2360,6 +2369,9 @@ https://load.hdfilme.ws/playlist/02bd550704dd90950d87706d92be322b/02bd550704dd90
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxNxBDH.jpg" group-title="",Ted 2 
 https://load.hdfilme.ws/playlist/e59bb41fb56fff7ad63c92f591e51e0d/e59bb41fb56fff7ad63c92f591e51e0d.m3u8|Referer=https://fcine.tv/ted-2-16662-streaming/vf
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GnEVLNO.jpg" group-title="",Tenet
+https://load.hdfilme.ws/playlist/3bff27ca232ea42c801adb979b36195b/3bff27ca232ea42c801adb979b36195b.m3u8|Referer=https://fcine.tv/tenet-16506-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lg9kDux.jpg" group-title="",Terence Hill - Renegade (YT)
 plugin://plugin.video.youtube/play/?video_id=xl29_gNtI14
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w0oQjH.jpg" group-title="",Terence Hill - Tas le bonjour de Trinita (YT)
@@ -2635,11 +2647,20 @@ https://load.hdfilme.ws/playlist/b8020d1564b30e1a169206bfdda03f2e/b8020d1564b30e
 
 ###V###
 
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/371.jpg" group-title="",V pour Vendetta
+https://nl38.seedr.cc/media/video/lq_hls/e6d8951f1453dea68922846c474681acb3232814/vid.m3u8?dvr
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/412.jpg" group-title="",Valhalla
 https://fr13.seedr.cc/media/video/hd_hls/b9493ff3b26e62c5efd5234f7da430e8b8d71e6d/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0q47CH.jpg" group-title="",Van Helsing
 https://load.hdfilme.ws/playlist/e0270f68941e65e93a3ed8da871ce0a7/e0270f68941e65e93a3ed8da871ce0a7.m3u8|Referer=https://fcine.tv/van-helsing-13079-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/908.jpg" group-title="",Venom
+https://fr12.seedr.cc/media/video/hd_hls/a28b0e73f8dc31055880f3e570c31c6376b73c29/vid.m3u8
+
+#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/369.jpg" group-title="",Verónica
+https://fr12.seedr.cc/media/video/hd_hls/8ebee6e18f157da871c81af64f3d61cd19aa5de9/vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/78.jpg" group-title="",Vigilante Diaries
 https://sf1.seedr.cc/media/video/hd_hls/de11/78cf935e65f466c9a4d17c7bad6c9bf2bad4ed0c/vid.m3u8
@@ -2656,6 +2677,9 @@ https://fr4.seedr.cc/media/video/hd_hls/e694202b866520419477fad415447e647b17a987
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/19.jpg" group-title="",Vivre deux fois
 https://sf1.seedr.cc/media/video/hd_hls/nl34/e59c317dc94111b8c2eed12bd249e7b985baf57a/vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iIevIpC.jpg" group-title="",Voces
+https://load.hdfilme.ws/playlist/dd9c188b98193e9398da1671d92bd300/dd9c188b98193e9398da1671d92bd300.m3u8|Referer=https://fcine.tv/necoute-pas-19106-streaming/vf
+
 #EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/1333.jpg" group-title="",Volontaire
 https://de11.seedr.cc/media/video/hd_hls/636ad9cf0972d97a94b3c6e3acede8f95de8abc8/vid.m3u8
 
@@ -2666,16 +2690,6 @@ https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/film
 https://load.hdfilme.ws/playlist/c5b76eccb936dc5ec6b30343f0131747/c5b76eccb936dc5ec6b30343f0131747.m3u8|Referer=https://fcine.tv/voyage-au-centre-de-la-terre-18490-streaming/vf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A02oEfS.jpg" group-title="",Voyage au centre de la Terre 2 : L'île mystérieuse
 https://load.hdfilme.ws/playlist/2c9f3105aea388c668a29b4af33f08d1/2c9f3105aea388c668a29b4af33f08d1.m3u8|Referer=https://fcine.tv/voyage-au-centre-de-la-terre-2-lile-mysterieuse-18489-streaming/vf
-
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/908.jpg" group-title="",Venom
-https://fr12.seedr.cc/media/video/hd_hls/a28b0e73f8dc31055880f3e570c31c6376b73c29/vid.m3u8
-
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/369.jpg" group-title="",Verónica
-https://fr12.seedr.cc/media/video/hd_hls/8ebee6e18f157da871c81af64f3d61cd19aa5de9/vid.m3u8
-
-#EXTINF:-1 tvg-logo="https://android.tkfaart.com/uploads/video_thumb/371.jpg" group-title="",V pour Vendetta
-https://nl38.seedr.cc/media/video/lq_hls/e6d8951f1453dea68922846c474681acb3232814/vid.m3u8?dvr
-
 
 
 ###W###
