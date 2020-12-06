@@ -153,7 +153,7 @@ plugin://plugin.video.youtube/play/?video_id=QCKaPQBzhiY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoZDR73.jpg" group-title="",La Wehrmacht, Le IIIème Reich en Guerre (YT)
 plugin://plugin.video.youtube/play/?video_id=HO2UAnaVyWg
 
-#EXTINF:-1 tvg-logo="" group-title="",La Bataille de France, la plus grande défaite militaire française (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NoZDR73.jpg" group-title="",La Bataille de France, la plus grande défaite militaire française (YT)
 plugin://plugin.video.youtube/play/?video_id=rFgEFGKHy4o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoZDR73.jpg" group-title="",La bataille des Ardennes (YT)
@@ -162,7 +162,7 @@ plugin://plugin.video.youtube/play/?video_id=Yc1WXfizOEg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoZDR73.jpg" group-title="",La bataille de Midway et de la mer de Corail (YT)
 plugin://plugin.video.youtube/play/?video_id=iexQznp_gLg
 
-#EXTINF:-1 tvg-logo="" group-title="",Afrika Korps, une unité d'élite légendaire (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NoZDR73.jpg" group-title="",Afrika Korps, une unité d'élite légendaire (YT)
 plugin://plugin.video.youtube/play/?video_id=HCCP_cWlB2g
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoZDR73.jpg" group-title="",Les grandes batailles navales (YT)
