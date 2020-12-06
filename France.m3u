@@ -880,8 +880,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Parispremiere_live/index.m3u
 plugin://plugin.video.youtube/play/?video_id=4RVZ1N-ykXA
 
 # https://www.youtube.com/channel/UCXptamDYEVcU4JCio30hYTw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lhYlwRW.jpg" group-title="",Peppa Pig (YT) (OFFLINE)
-plugin://plugin.video.youtube/play/?video_id=YW4I5fIwHnQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lhYlwRW.jpg" group-title="",Peppa Pig (YT)
+plugin://plugin.video.youtube/play/?video_id=Uq5MCXgw3_Y
 
 #EXTINF:-1 tvg-logo="http://www.boulistenaute.com/logo.png" group-title="",Pétanque avec Boulistenaute (DM)
 plugin://plugin.video.dailymotion_com/?url=x7n019d&mode=playLiveVideo
