@@ -1,0 +1,132 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rozA2zY.png",★★★★★★★★★★[COLOR red]Documentaire[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzkf69w.jpg" group-title="",La révélation des Pyramides (YT)
+plugin://plugin.video.youtube/play/?video_id=HFpHDXUgcqw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHqAekR.jpg" group-title="",La nouvelle révélation des pyramides (YT)
+plugin://plugin.video.youtube/play/?video_id=PhxUDQA1QPQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mt8a8XY.jpg" group-title="",L'épopée de Gilgmesh - Le plus vieux récit du monde (YT)
+plugin://plugin.video.youtube/play/?video_id=wbHg4OCZ-pw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V09oKtE.jpg" group-title="",Le livre d'hénoch audio (YT)
+plugin://plugin.video.youtube/play/?video_id=BQhIwCuMvzs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/meZwx8V.jpg" group-title="",Secrets d'Histoire - Un homme nommé Jésus (YT)
+plugin://plugin.video.youtube/play/?video_id=9_EWtbtxiac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6cYav5.jpg" group-title="",Révélations sur les manuscrits de la mer Morte (YT)
+plugin://plugin.video.youtube/play/?video_id=eQpmZeOX6cs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yKqvtV4.jpg" group-title="",Documentaire Secrets perdus des civilisations,Archéologie interdite (YT)
+plugin://plugin.video.youtube/play/?video_id=eciROOEuSYc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PQYS35X.jpg" group-title="",Le Message des Pyramides (YT)
+plugin://plugin.video.youtube/play/?video_id=P9gN8ln-4Mg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7gtQy2v.jpg" group-title="",L'histoire secréte des sumeriens et des babyloniens (YT)
+plugin://plugin.video.youtube/play/?video_id=KcA3BltV_70
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zzVznMH.jpg" group-title="",Les Secrets de la tombe de Saqqara
+https://load.hdfilme.ws/playlist/05305c888baf092dfbbd15b3db8c9491/05305c888baf092dfbbd15b3db8c9491.m3u8|Referer=https://fcine.tv/les-secrets-de-la-tombe-de-saqqarah-18919-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6cYav5.jpg" group-title="",L'histoire de l'Empire Inca (YT)
+plugin://plugin.video.youtube/play/?video_id=Kn2FzdyoSdc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6IYpnLw.jpg" group-title="",Les Origines du Coran (YT)
+plugin://plugin.video.youtube/play/?video_id=mP2x4vnZYkM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtESUg8.jpg" group-title="",Les graines de l'Univers (YT)
+plugin://plugin.video.youtube/play/?video_id=D917a_2Qfbg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtESUg8.jpg" group-title="",L'histoire des religions (YT)
+plugin://plugin.video.youtube/play/?video_id=-rnKuTV3Y3w
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtESUg8.jpg" group-title="",Le Destin - Le seigneur du Futur (YT)
+plugin://plugin.video.youtube/play/?video_id=VQ4BClhC0aI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtESUg8.jpg" group-title="",Le secret des Sumériens (YT)
+plugin://plugin.video.youtube/play/?video_id=VruMeWjhhdw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtESUg8.jpg" group-title="",Il y avait des géants sur terre (YT)
+plugin://plugin.video.youtube/play/?video_id=pnzGJvZjhqk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr3V0t5.jpg" group-title="",QUAND L' ARCHÉOLOGIE CONTREDIT LA BIBLE (YT)
+plugin://plugin.video.youtube/play/?video_id=H5VQ495B62o
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c6UEFUb.jpg" group-title="",Les évangiles cachés de la Bible (YT)
+plugin://plugin.video.youtube/play/?video_id=q0xFCRcQEvY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBsrvwy.jpg" group-title="",L’archéologie à l’heure du high tech (YT)
+plugin://plugin.video.youtube/play/?video_id=xbQgbANEimM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UNxZNSN.jpg" group-title="",La découverte de la plus grande cité Maya technologie Lidar (YT)
+plugin://plugin.video.youtube/play/?video_id=67qAFwrbbxA
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrjvCIc.jpg" group-title="",Voyage au bout de l'univers (YT)
+plugin://plugin.video.youtube/play/?video_id=r5rVrVUoUN8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztsVRaf.jpg" group-title="",Les preuves d’existence d'un monde parallèle (YT)
+plugin://plugin.video.youtube/play/?video_id=qym4sdYS_5I
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mYBESF2.jpg" group-title="",Thomas Pesquet, l'étoffe d'un héros
+https://load.hdfilme.ws/playlist/88a44472c9013b0fa4f41c7cd9282f46/88a44472c9013b0fa4f41c7cd9282f46.m3u8|Referer=https://fcine.tv/thomas-pesquet-letoffe-dun-heros-18156-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GBJPaHg.jpg" group-title="",Le Bruit Et La Fureur (YT)
+plugin://plugin.video.youtube/play/?video_id=3obuy9P1AZU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrjvCIc.jpg" group-title="",Les armes secrètes d'Hitler (YT)
+plugin://plugin.video.youtube/play/?video_id=SI-B02z6JDU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cBD9xJE.jpg" group-title="",Le grand mystère des mathématiques (YT)
+plugin://plugin.video.youtube/play/?video_id=YIeuCCQoUWc
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MJLkm8.jpg" group-title="",Derrière nos écrans de fumée
+https://load.hdfilme.ws/playlist/607e097fc8f77a7cfc63718c603457e3/607e097fc8f77a7cfc63718c603457e3.m3u8|Referer=https://fcine.tv/derriere-nos-ecrans-de-fumee-17604-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBsrvwy.jpg" group-title="",Un oeil sur vous, citoyens sous surveillance (YT)
+plugin://plugin.video.youtube/play/?video_id=pigLcmGkFOs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztsVRaf.jpg" group-title="",Votre vie entière est traçable sur Internet (YT)
+plugin://plugin.video.youtube/play/?video_id=D3uBaWM6Shg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TYK6y9O.jpg" group-title="",Les Horribles Mystères Du Dark Web Deep Web (YT)
+plugin://plugin.video.youtube/play/?video_id=XrXnNQJcfTI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GByTRoq.jpg" group-title="",L'Internet | Une contre histoire de la Toile (YT)
+plugin://plugin.video.youtube/play/?video_id=NxRqH-y0V4U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBsrvwy.jpg" group-title="",L’armée de métal : les robots de guerre (YT)
+plugin://plugin.video.youtube/play/?video_id=vV2ulFoWsr0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kyl5hLH.jpg" group-title="",La Conspiration d'Orion (YT)
+plugin://plugin.video.youtube/play/?video_id=P27LW2wUZYA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBsrvwy.jpg" group-title="",GLOBAL DÉPOPULATION (YT)
+plugin://plugin.video.youtube/play/?video_id=55xb3-uW1Rk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NO06O5w.jpg" group-title="",Homme de Paille - La Nature de la Cage (YT)
+plugin://plugin.video.youtube/play/?video_id=nnhlMTzQ0TQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GByTRoq.jpg" group-title="",Les Financiers qui Dirigent le Monde (YT)
+plugin://plugin.video.youtube/play/?video_id=nLW5Qb_91BM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GByTRoq.jpg" group-title="",Planches à billets | Qui crée l'Argent ? (YT)
+plugin://plugin.video.youtube/play/?video_id=p5We_3cxCV8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39Bsl7E.jpg" group-title="",Holdup Le documentaire – Retour sur un Chaos! (YT)
+plugin://plugin.video.youtube/play/?video_id=FNzqj8j1Fg4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvAbCF3.jpg" group-title="",COVIDENCES 2020 (YT)
+plugin://plugin.video.youtube/play/?video_id=oZ1cEF9ng_A
+
+#########
