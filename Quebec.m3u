@@ -178,7 +178,7 @@ plugin://plugin.video.youtube/play/?video_id=Qr5SV2AteNk
 plugin://plugin.video.youtube/play/?video_id=l8ZV7mlBfug
 
 # update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ #
-#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD) (OffLine)
+#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Quebec TV",TQ5 (YT) (UPD)
 plugin://plugin.video.youtube/play/?video_id=y_D4KVV-xnI
 
 # update link https://www.youtube.com/user/CablevisionTVC9 #
