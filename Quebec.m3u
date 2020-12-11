@@ -37,15 +37,8 @@ https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
 
 # update link: https://zonevideo.telequebec.tv/endirect/ #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Quebec TV",Tele-Quebec 720
-https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Quebec TV",Tele-Quebec 720 (OPT-2)
-https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Quebec TV",Tele-Quebec 540
-https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Quebec TV",Tele-Quebec 360
-https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TeleQuebecCA.png?raw=true" group-title="Quebec TV",Tele-Quebec 270
-https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_3/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+
 
 # update link: #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/Images/Logo%20Station%20QC/NOOVO.png?raw=true" group-title="Quebec TV",Noovo (V-Tele)
